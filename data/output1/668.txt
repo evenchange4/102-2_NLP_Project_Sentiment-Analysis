@@ -1,0 +1,2 @@
+　總體(N)　來(ADV)　說(Vt)　很(ADV)　不錯(Vi)　.(PERIODCATEGORY)　就(ADV)　是(Vt)　地理(N)　位置(N)　並(ADV)　不(ADV)　是(Vt)　想像(Vt)　中(POST)　的(T)　好(Vi)　.(PERIODCATEGORY)　雖然(C)　也(ADV)　被(P)　列入(Vt)　陸家嘴(N)　附近(N)　.(PERIODCATEGORY)　雖然(C)　服務(Nv)　人員(N)　說(Vt)　離(P)　正大(Vi)　廣場(N)　很(ADV)　近(Vi)　.(PERIODCATEGORY)　可是(C)　還是(ADV)　相差(Vt)　很(ADV)　大(Vi)　的(T)　.(PERIODCATEGORY)　總體(N)　還是(ADV)　很(ADV)　不錯(Vi)　的(T)　,(COMMACATEGORY)
+　相對(Vi)　於(P)　其他(DET)　住(Vt)　酒店(N)　的(T)　經歷(Nv)　.(PERIODCATEGORY)

@@ -1,0 +1,6 @@
+　酒店(N)　環境(N)　一流(Vi)　，(COMMACATEGORY)
+　房間(N)　也(ADV)　很(ADV)　令(Vt)　人(N)　滿意(Vt)　，(COMMACATEGORY)
+　舒適(Vi)　、(PAUSECATEGORY)　乾淨(Vi)　、(PAUSECATEGORY)　衛生(N)　，(COMMACATEGORY)
+　只(ADV)　是(Vt)　樓下(N)　的(T)　中(N)　餐廳(N)　收費(Vt)　比較(ADV)　高(Vi)　，(COMMACATEGORY)
+　在(P)　房間(N)　打電話(Vi)　去(Vt)　旁邊(N)　的(T)　夜總會(N)　還要(ADV)　收(Vt)　電話費(N)　，(COMMACATEGORY)
+　有點(ADV)　那(DET)　個(M)　...(ETCCATEGORY)　不過(C)　總體(N)　感覺(N)　還是(ADV)　對(Vi)　得(T)　上(DET)　五(DET)　星(N)　標準(N)　。(PERIODCATEGORY)

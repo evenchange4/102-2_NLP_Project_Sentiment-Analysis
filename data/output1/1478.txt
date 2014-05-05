@@ -1,0 +1,6 @@
+　總的來說(ADV)　還(ADV)　是(Vt)　不錯(Vi)　的(T)　，(COMMACATEGORY)
+　除了(P)　床(N)　小(Vi)　點(ADV)　，(COMMACATEGORY)
+　改換(Vt)　大(Vi)　的(T)　，(COMMACATEGORY)
+　其他(DET)　還(ADV)　是(Vt)　不錯(Vi)　的(T)　，(COMMACATEGORY)
+　新(Vi)　裝修(Nv)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　不錯(Vi)　！(EXCLAMATIONCATEGORY)

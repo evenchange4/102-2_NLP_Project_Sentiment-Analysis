@@ -1,0 +1,6 @@
+　住(Vt)　在(P)　這裡(N)　感覺(N)　很(ADV)　舒服(Vi)　心情(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　有(Vt)　什麼(DET)　問題(N)　都(ADV)　能(ADV)　得到(Vt)　及時(ADV)　地(T)　解決(Nv)　，(COMMACATEGORY)
+　不管(C)　是(Vt)　大堂(N)　副理(N)　還是(C)　服務員(N)　都(ADV)　是(Vt)　很(ADV)　專業(Vi)　的(T)　，(COMMACATEGORY)
+　服務(Nv)　水準(N)　一流(Vi)　。(PERIODCATEGORY)
+　早餐(N)　很(ADV)　豐富(Vt)　，(COMMACATEGORY)
+　旋轉(Vt)　餐廳(N)　能(ADV)　看到(Vt)　玄武湖(N)　。(PERIODCATEGORY)

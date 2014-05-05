@@ -1,0 +1,7 @@
+　十一(DET)　的(T)　時候(N)　去(Vt)　的(T)　洛陽(N)　,(COMMACATEGORY)
+　就(ADV)　住(Vt)　在(P)　這(DET)　家(M)　酒店(N)　,(COMMACATEGORY)
+　總(A)　的(T)　感覺(N)　呢(T)　,(COMMACATEGORY)
+　地理(N)　位置(N)　不錯(Vi)　門口(N)　就(ADV)　有(Vt)　去(Vt)　龍門(N)　石窟(N)　的(T)　公交車(N)　1(DET)　元(M)　一(DET)　位(M)　很(ADV)　方便(Vi)　((PARENTHESISCATEGORY)　我(N)　打(Vt)　車(N)　去(Vt)　的(T)　也(ADV)　只(ADV)　花(Vt)　了(ASP)　30(DET)　元(M)　)(PARENTHESISCATEGORY)　前台(N)　接待(Vt)　很(ADV)　熱情(Vi)　,(COMMACATEGORY)
+　但(C)　缺點(N)　是(Vt)　房間(N)　實在(ADV)　是(Vt)　小(Vi)　,(COMMACATEGORY)
+　四星級(N)　這麼(ADV)　小(Vi)　的(T)　房間(N)　有點(ADV)　說不過去(Vi)　,(COMMACATEGORY)
+　但(C)　房間(N)　裡(N)　有(Vt)　電腦(N)　這(DET)　點(M)　還(ADV)　不錯(Vi)　.(PERIODCATEGORY)

@@ -1,0 +1,4 @@
+　標準(N)　間(N)　面積(N)　大(Vi)　，(COMMACATEGORY)
+　但(C)　房間(N)　陳舊(Vi)　，(COMMACATEGORY)
+　有(Vt)　些(M)　味道(N)　。(PERIODCATEGORY)
+　早餐(N)　人(N)　多(DET)　時(M)　很(ADV)　混亂(Vi)　。(PERIODCATEGORY)

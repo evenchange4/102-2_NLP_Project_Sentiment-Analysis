@@ -1,0 +1,5 @@
+　總體(N)　來(ADV)　說(Vt)　還(ADV)　可以(ADV)　，(COMMACATEGORY)
+　門口(N)　的(T)　車(N)　不(ADV)　是(Vt)　很多(DET)　，(COMMACATEGORY)
+　但是(C)　金門路(N)　上車(Vi)　很多(DET)　，(COMMACATEGORY)
+　游(N)　5(DET)　等(POST)　都(ADV)　可以(ADV)　直接(Vi)　到(Vt)　火車站(N)　，(COMMACATEGORY)
+　離(P)　寒山寺(N)　留園(N)　虎丘(N)　定園(N)　都(ADV)　很(ADV)　近(Vi)　！(EXCLAMATIONCATEGORY)

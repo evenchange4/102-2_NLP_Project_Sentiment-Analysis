@@ -1,0 +1,6 @@
+　匯(Vt)　東大(N)　酒店(N)　：(COLONCATEGORY)　1(DET)　、(PAUSECATEGORY)　商務單(N)　間(POST)　和(C)　普通單(N)　間(POST)　可以(ADV)　說(Vt)　基本(N)　沒有(Vt)　區別(N)　（(PARENTHESISCATEGORY)　就(P)　房間(N)　大小(N)　和(C)　配套(Vi)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　主要(A)　的(T)　區別(N)　就(ADV)　是(Vt)　樓層(N)　，(COMMACATEGORY)
+　商務(N)　的(T)　一般(A)　安排(Nv)　最(ADV)　上面(N)　幾(DET)　層(M)　，(COMMACATEGORY)
+　建議(Vt)　大家(N)　選擇(Vt)　普通單(N)　入住(Vt)　；(SEMICOLONCATEGORY)　2(DET)　、(PAUSECATEGORY)　房間(N)　的(T)　燈光(N)　特別(Vi)　暗(Vi)　，(COMMACATEGORY)
+　感覺(N)　給(Vt)　人(N)　有點(ADV)　壓抑(Vt)　；(SEMICOLONCATEGORY)　3(DET)　、(PAUSECATEGORY)　房間(N)　的(T)　裝修(Nv)　比較(ADV)　差(Vi)　，(COMMACATEGORY)
+　應該(ADV)　是(Vt)　我(N)　住(Vt)　過(ASP)　的(T)　四星(N)　酒店(N)　中(N)　最(ADV)　差(Vi)　的(T)　（(PARENTHESISCATEGORY)　但(C)　沒辦法(Vi)

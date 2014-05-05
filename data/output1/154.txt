@@ -1,0 +1,7 @@
+　在(P)　衢州(N)　能(ADV)　住到(Vt)　這樣(Vi)　的(T)　酒店(N)　算是(Vt)　很(ADV)　不錯(Vi)　了(T)　，(COMMACATEGORY)
+　房間(N)　液晶(N)　電視(N)　，(COMMACATEGORY)
+　窗口(N)　看出去(Vi)　是(Vt)　條(M)　小(Vi)　河(N)　，(COMMACATEGORY)
+　還(ADV)　送(Vt)　了(ASP)　水果(N)　，(COMMACATEGORY)
+　算是(Vt)　很(ADV)　不錯(Vi)　的(T)　啦(T)　，(COMMACATEGORY)
+　就是(C)　周圍(N)　環境(N)　一般(POST)　，(COMMACATEGORY)
+　沒(Vt)　什麼(DET)　可以(ADV)　逛(Vt)　的(T)　...(ETCCATEGORY)

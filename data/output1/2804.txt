@@ -1,0 +1,5 @@
+　設施(N)　陳舊(Vi)　，(COMMACATEGORY)
+　最(ADV)　不(ADV)　好(Vi)　的(T)　是(Vt)　房間(N)　太(ADV)　小(Vi)　了(T)　（(PARENTHESISCATEGORY)　單人(N)　間(POST)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　除了(P)　放(Vt)　一(DET)　張(M)　床(N)　，(COMMACATEGORY)
+　我(N)　在(P)　想(Vt)　相同(Vi)　的(T)　價格(N)　，(COMMACATEGORY)
+　是否(ADV)　標準(Vi)　間(POST)　面積(N)　會(ADV)　大(Vi)　一些(DET)　?(QUESTIONCATEGORY)　不(N)　敢(Vt)　相信(Vt)　這(DET)　是(Vt)　四星(N)　酒店(N)　。(PERIODCATEGORY)

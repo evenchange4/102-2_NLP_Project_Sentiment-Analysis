@@ -1,0 +1,2 @@
+　為什麼(ADV)　我們(N)　每(DET)　天(M)　訂房(Vi)　間(POST)　，(COMMACATEGORY)
+　就(ADV)　不(ADV)　送(Vt)　水果(N)　、(PAUSECATEGORY)　咖啡(N)　！(EXCLAMATIONCATEGORY)　協(Vi)　程(N)　網(N)　上(N)　有(Vt)　果盤(N)　送(Vt)　的(T)　！(EXCLAMATIONCATEGORY)　簡直(ADV)　不(ADV)　講(Vt)　道理(N)　！(EXCLAMATIONCATEGORY)

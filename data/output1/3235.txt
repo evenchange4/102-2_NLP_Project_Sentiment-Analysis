@@ -1,0 +1,3 @@
+　招待所(N)　而已(T)　吧(T)　，(COMMACATEGORY)
+　唯一(A)　可取(Vi)　之(T)　處(N)　就(ADV)　是(Vt)　交通(N)　還(ADV)　行(Vi)　，(COMMACATEGORY)
+　三(DET)　環(N)　邊(N)　上(N)　。(PERIODCATEGORY)

@@ -1,0 +1,8 @@
+　早上(N)　自助餐(N)　極(ADV)　差(Vi)　，(COMMACATEGORY)
+　髒(Vi)　得(T)　無法(ADV)　吃(Vt)　，(COMMACATEGORY)
+　居然(ADV)　還(ADV)　每(DET)　人(N)　20(DET)　.(PERIODCATEGORY)　中(N)　餐廳(N)　服務員(N)　極(ADV)　差(Vi)　，(COMMACATEGORY)
+　要(ADV)　想(Vt)　吃飯(Vi)　，(COMMACATEGORY)
+　先(ADV)　氣死(Vt)　。(PERIODCATEGORY)
+　再(ADV)　也(ADV)　不會(ADV)　去(Vt)　了(ASP)　。(PERIODCATEGORY)
+　免費(Vi)　註冊(Nv)　網站(N)　導航(Nv)　賓館(N)　索引(N)　服務(Nv)　說明(N)　關於(P)　攜程(N)　誠聘(Vt)　英才(N)　代理(Nv)　合作(Nv)　廣告(N)　業務(N)　聯繫(Vt)　我們(N)　Copyright(FW)　?(QUESTIONCATEGORY)　1999(DET)　-(DASHCATEGORY)　2008(DET)　,(COMMACATEGORY)
+　ctrip.com(FW)　.(PERIODCATEGORY)　all(FW)　rights(FW)　reserved(FW)　.(PERIODCATEGORY)

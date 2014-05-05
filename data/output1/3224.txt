@@ -1,0 +1,6 @@
+　裝修(Vt)　的(T)　味道(N)　太(ADV)　重(Vi)　，(COMMACATEGORY)
+　商務(N)　標準(N)　間(POST)　的(T)　房間(N)　太(ADV)　小(Vi)　。(PERIODCATEGORY)
+　旺季(N)　的(T)　原因(N)　吧(T)　，(COMMACATEGORY)
+　我(N)　結帳(Vi)　的(T)　時候(N)　聽到(Vt)　當天(N)　的(T)　房價(N)　又(C)　提價(N)　了(T)　，(COMMACATEGORY)
+　坐(Vi)　地(T)　起價(Vt)　，(COMMACATEGORY)
+　沒辦法(Vi)　。(PERIODCATEGORY)

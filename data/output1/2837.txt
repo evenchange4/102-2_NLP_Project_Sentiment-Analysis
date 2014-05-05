@@ -1,0 +1,6 @@
+　第一(DET)　次(M)　入住(Vt)　，(COMMACATEGORY)
+　感覺(Vt)　很(ADV)　差(Vi)　。(PERIODCATEGORY)
+　賓館(N)　服務(Nv)　人員(N)　的(T)　態度(N)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　強烈(Vi)　的(T)　不滿(Nv)　！(EXCLAMATIONCATEGORY)　怎麼(ADV)　評上(Vt)　五(DET)　星(N)　的(T)　？(QUESTIONCATEGORY)
+　退房(Vi)　時(POST)　頭(DET)　一(DET)　次(M)　碰到(Vt)　要(ADV)　在(P)　兩(DET)　個(M)　櫃檯(N)　間(POST)　來回(Vt)　的(T)　折騰(Vt)　才(ADV)　能(ADV)　退房(Vi)　的(T)　酒店(N)　！(EXCLAMATIONCATEGORY)　這(DET)　是(Vt)　我(N)　第一(DET)　次(M)　入住(Vt)　，(COMMACATEGORY)
+　也(ADV)　將(ADV)　是(Vt)　最後(N)　一(DET)　次(M)　！(EXCLAMATIONCATEGORY)　拜拜(Vi)　了(T)　！(EXCLAMATIONCATEGORY)

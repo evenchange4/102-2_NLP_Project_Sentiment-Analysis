@@ -1,0 +1,1 @@
+　作為(Vt)　五星級(N)　酒店(N)　的(T)　硬件(N)　是(Vt)　差(Vi)　了(ASP)　點(M)　裝修(Nv)　很(ADV)　久(Vi)　電視(N)　很(ADV)　小(Vi)　只是(C)　位置(N)　很(ADV)　好(Vi)　樓下(N)　是(Vt)　DFS(FW)　對面(N)　是(Vt)　海港城(N)　但(C)　性價(N)　比(P)　不(ADV)　高(Vi)

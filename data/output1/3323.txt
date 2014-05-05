@@ -1,0 +1,3 @@
+　推薦(Vt)　天目湖(N)　賓館(N)　,(COMMACATEGORY)
+　各(DET)　方面(N)　設置(Vt)　比(P)　這(DET)　家(M)　好多(DET)　了(T)　.(PERIODCATEGORY)　值得(Vi)　推薦(Vt)　的(T)　是(Vt)　他們(N)　的(T)　餐廳(N)　還(ADV)　算(Vt)　過得去(Vi)　,(COMMACATEGORY)
+　魚(N)　頭(N)　還(ADV)　能(ADV)　吃吃(Vt)　.(PERIODCATEGORY)　但是(C)　前台(N)　小姐(N)　的(T)　服務(Nv)　太(ADV)　差(Vi)　了(T)　。(PERIODCATEGORY)

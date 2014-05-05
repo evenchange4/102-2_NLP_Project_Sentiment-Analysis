@@ -1,0 +1,3 @@
+　剛才(N)　提到(Vt)　的(T)　如(P)　家(N)　快捷(Vi)　酒店(N)　，(COMMACATEGORY)
+　應該(ADV)　是(Vt)　如(P)　家(N)　深圳(N)　火車站店(N)　，(COMMACATEGORY)
+　在(P)　漁民(N)　村小區(N)　內(N)　。(PERIODCATEGORY)

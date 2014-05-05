@@ -1,0 +1,5 @@
+　在(P)　前台(N)　不能(ADV)　刷卡(Vi)　預(ADV)　授權(Vt)　，(COMMACATEGORY)
+　有點(ADV)　不(ADV)　方便(Vi)　。(PERIODCATEGORY)
+　搞(Vt)　不(ADV)　懂(Vt)　，(COMMACATEGORY)
+　為什麼(ADV)　可以(ADV)　刷卡(Vi)　消費(Vi)　，(COMMACATEGORY)
+　卻(ADV)　不能(ADV)　刷(ADV)　預(ADV)　授權(Vt)　？(QUESTIONCATEGORY)

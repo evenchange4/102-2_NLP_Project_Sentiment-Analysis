@@ -1,0 +1,3 @@
+　同樣(Vi)　的(T)　價格(N)　相差(Vt)　一(DET)　個(M)　月(N)　，(COMMACATEGORY)
+　房間(N)　小(Vi)　了(ASP)　一(DET)　倍(N)　！(EXCLAMATIONCATEGORY)　忽悠(Vi)　，(COMMACATEGORY)
+　接著(ADV)　忽悠(Vi)　！(EXCLAMATIONCATEGORY)

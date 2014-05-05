@@ -1,0 +1,5 @@
+　1(DET)　）(PARENTHESISCATEGORY)　交通(N)　便利(Nv)　，(COMMACATEGORY)
+　到(P)　津濱(N)　高速(N)　入口(N)　5(DET)　分鐘(M)　的(T)　車程(N)　2(DET)　）(PARENTHESISCATEGORY)　對面(N)　就(ADV)　有(Vt)　不錯(Vi)　的(T)　飯店(N)　，(COMMACATEGORY)
+　而且(C)　距離(P)　超市(N)　也(ADV)　不(ADV)　遠3(N)　）(PARENTHESISCATEGORY)　房間(N)　內(N)　設施(N)　一般(POST)　，(COMMACATEGORY)
+　衛生間(N)　裝修(Vt)　比較(ADV)　粗糙(Vi)　，(COMMACATEGORY)
+　浴盆(N)　的(T)　地漏(N)　不(ADV)　暢(Vi)

@@ -1,0 +1,5 @@
+　房間(N)　太(ADV)　舊(Vi)　,(COMMACATEGORY)
+　太(ADV)　吵(Vi)　.(PERIODCATEGORY)　洗手間(N)　沒有(Vt)　熱水(N)　,(COMMACATEGORY)
+　建議(Vt)　攜程(N)　取消(Vt)　和(P)　其(DET)　合作(Vi)　.(PERIODCATEGORY)　補充(Vt)　點評(N)　2007年(N)　11月(N)　11日(N)　：(COLONCATEGORY)　服務(Vt)　態度(N)　惡劣(Vi)　,(COMMACATEGORY)
+　言語(N)　不(ADV)　是(Vt)　太(ADV)　沖(Vt)　就(ADV)　是(Vt)　冷冰冰(Vi)　的(T)　,(COMMACATEGORY)
+　房間(N)　設施(N)　陳舊(Vi)　.(PERIODCATEGORY)　衛生間(N)　小(Vi)　.(PERIODCATEGORY)

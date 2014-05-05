@@ -1,0 +1,6 @@
+　攜(Vt)　程(N)　提供(Vt)　的(T)　160(DET)　元(M)　的(T)　普通(Vi)　標(N)　間(POST)　沒有(Vt)　任何(DET)　競爭力(N)　,(COMMACATEGORY)
+　房間(N)　設施(N)　一般(POST)　,(COMMACATEGORY)
+　床單(N)　破損(Vi)　,(COMMACATEGORY)
+　服務(Nv)　也(ADV)　一般(Vi)　.(PERIODCATEGORY)　商務(N)　豪華(Vi)　標(N)　間(POST)　部分(DET)　房間(N)　不(ADV)　是(Vt)　沒有(Vt)　電腦(N)　,(COMMACATEGORY)
+　便是(C)　電腦(N)　只是(ADV)　擺設(Vt)　,(COMMACATEGORY)
+　連(C)　啟動(Vt)　都(ADV)　不能(ADV)　.(PERIODCATEGORY)　我(N)　在(P)　升級(Vi)　更換(Vt)　房間(N)　時(POST)　便(ADV)　三(DET)　易(Vi)　房間(N)　才(ADV)　能夠(ADV)　正常(Vi)　入住(Vt)　.(PERIODCATEGORY)　期待(Vt)　改進(Vt)　.(PERIODCATEGORY)

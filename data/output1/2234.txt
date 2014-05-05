@@ -1,0 +1,3 @@
+　不(ADV)　知(Vt)　前面(N)　幾(DET)　位(M)　朋友(N)　怎麼(ADV)　評價(Vt)　的(T)　，(COMMACATEGORY)
+　反正(ADV)　我(N)　自己(N)　入住(Vt)　後(POST)　感覺(N)　實在(ADV)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　CHACK(FW)　IN(FW)　?(QUESTIONCATEGORY)

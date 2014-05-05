@@ -1,0 +1,7 @@
+　首先(ADV)　受到(Vt)　攜程(N)　的(T)　誤導(Nv)　,(COMMACATEGORY)
+　以為(Vt)　是(Vt)　四星級(N)　的(T)　酒店(N)　,(COMMACATEGORY)
+　沒(ADV)　想到(Vt)　是(Vt)　四星級(N)　裡面(N)　的(T)　無(Vt)　星級(N)　((PARENTHESISCATEGORY)　或(C)　被(P)　他們(N)　自稱(Vt)　的(T)　2(DET)　星級(N)　)(PARENTHESISCATEGORY)　的(T)　客房(N)　,(COMMACATEGORY)
+　如果(C)　提前(Vi)　標明(Vt)　肯定(Nv)　不會(ADV)　預定(Vt)　這(DET)　個(M)　房間(N)　.(PERIODCATEGORY)　住(Vt)　進去(Vi)　之後(POST)　發現(Vt)　先(ADV)　是(Vt)　枕套(N)　是(Vt)　發霉(Vi)　的(T)　,(COMMACATEGORY)
+　投訴(Vi)　後(POST)　,(COMMACATEGORY)
+　服務員(N)　說(Vt)　不(ADV)　是(Vt)　發霉(Vi)　,(COMMACATEGORY)
+　只是(ADV)　沒(ADV)　洗乾淨(Vi)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　豈有此理(Vi)　!(EXCLAMATIONCATEGORY)　不過(ADV)　還是(ADV)　給(P)　換(Vt)　了(ASP)　.(PERIODCATEGORY)　接著(ADV)　是(Vt)　毛巾(N)　疊起來(Vi)　在(P)　裡面(N)　的(T)　一(DET)　面(N)　居然(ADV)　有(Vt)　大(Vi)　塊(M)　的(T)　黃斑(N)　?(QUESTIONCATEGORY)　!(EXCLAMATIONCATEGORY)　噁心(Vi)　!(EXCLAMATIONCATEGORY)　第二天(N)　早上(N)　居然(ADV)　要(ADV)　收(Vt)　?(QUESTIONCATEGORY)

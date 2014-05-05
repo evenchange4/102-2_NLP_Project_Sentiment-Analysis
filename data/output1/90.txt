@@ -1,0 +1,3 @@
+　酒店(N)　位置(N)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　適合(Vi)　旅遊(Nv)　度假(Nv)　!(EXCLAMATIONCATEGORY)　房間(N)　馬馬虎虎(Vi)　,(COMMACATEGORY)
+　過(Vt)　的(T)　去(Vt)　了(T)　!(EXCLAMATIONCATEGORY)　服務(Nv)　一般(Vi)　!(EXCLAMATIONCATEGORY)

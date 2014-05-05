@@ -1,0 +1,3 @@
+　房間(N)　的(T)　隔音(A)　設計(N)　實在(ADV)　是(Vt)　不行(Vi)　，(COMMACATEGORY)
+　牆壁(N)　與(C)　玻璃(N)　外牆(N)　之間(POST)　明顯(Vi)　是(Vt)　沒(ADV)　堵(Vt)　好(Vi)　，(COMMACATEGORY)
+　其他(DET)　還好(Vi)　。(PERIODCATEGORY)

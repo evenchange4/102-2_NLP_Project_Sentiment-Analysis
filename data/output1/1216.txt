@@ -1,0 +1,3 @@
+　感覺(N)　一般(POST)　，(COMMACATEGORY)
+　性價(N)　比(P)　不(ADV)　太(ADV)　高(Vi)　!(EXCLAMATIONCATEGORY)　check(FW)　out(FW)　比較(ADV)　慢(Vi)　，(COMMACATEGORY)
+　希望(Vt)　改進(Vt)

@@ -1,0 +1,6 @@
+　訂(Vt)　家庭(N)　間(POST)　入住(Vt)　的(T)　是(Vt)　虹口(N)　商務(N)　酒店(N)　,(COMMACATEGORY)
+　因為(C)　到達(Vt)　之後(N)　臨時(N)　改(Vt)　訂單(N)　,(COMMACATEGORY)
+　與(P)　前台(N)　小姐(N)　發生(Vt)　了(ASP)　點(M)　不(ADV)　愉快(Vi)　,(COMMACATEGORY)
+　但(C)　之後(N)　的(T)　客房(N)　服務(Nv)　以及(C)　入住(Vt)　房間(N)　的(T)　物超所值(Vi)　大大(Vi)　彌補(Vt)　了(ASP)　之前(POST)　的(T)　不(ADV)　快(Vi)　,(COMMACATEGORY)
+　總的來說(ADV)　,(COMMACATEGORY)
+　很(ADV)　不錯(Vi)

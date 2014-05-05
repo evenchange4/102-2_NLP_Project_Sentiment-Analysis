@@ -1,0 +1,7 @@
+　時隔(Vt)　2(DET)　年(M)　又(ADV)　住(Vt)　這(DET)　家(M)　賓館(N)　，(COMMACATEGORY)
+　當時(N)　給(Vt)　了(ASP)　4(DET)　∼(FW)　5(DET)　分(M)　的(T)　評價(N)　，(COMMACATEGORY)
+　可(ADV)　今天(N)　再(ADV)　也(ADV)　看(Vt)　不(ADV)　到(Vt)　2(DET)　年(N)　前(POST)　正在(ADV)　申請(Vt)　3星(N)　時(POST)　的(T)　服務(Nv)　和(C)　環境(N)　了(T)　，(COMMACATEGORY)
+　服務員(N)　沒(Vt)　了(ASP)　微笑(Vi)　，(COMMACATEGORY)
+　早餐(N)　沒(Vt)　了(ASP)　品種(N)　，(COMMACATEGORY)
+　設施(N)　正在(ADV)　老化(Vt)　，(COMMACATEGORY)
+　失望(Vi)　啊(T)　。(PERIODCATEGORY)

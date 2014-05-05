@@ -1,0 +1,6 @@
+　地理(N)　位置(N)　不錯(Vi)　，(COMMACATEGORY)
+　，(COMMACATEGORY)
+　但是(C)　有點(ADV)　舊(Vi)　，(COMMACATEGORY)
+　，(COMMACATEGORY)
+　不(ADV)　是(Vt)　節假日(N)　基本(N)　上(POST)　不用(ADV)　預定(Vt)　，(COMMACATEGORY)
+　價格(N)　到(Vt)　前台(N)　訂(Vt)　都(ADV)　一樣(Vi)　。(PERIODCATEGORY)

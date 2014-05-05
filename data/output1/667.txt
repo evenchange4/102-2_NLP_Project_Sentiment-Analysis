@@ -1,0 +1,2 @@
+　環境(N)　非常(ADV)　好(Vi)　,(COMMACATEGORY)
+　服務(Nv)　也(ADV)　到位(Vi)　.(PERIODCATEGORY)　公司(N)　的(T)　韓國人(N)　很(ADV)　喜歡(Vt)　住(Vt)　這(DET)　家(M)　酒店(N)　.(PERIODCATEGORY)

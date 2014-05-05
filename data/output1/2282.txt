@@ -1,0 +1,6 @@
+　優點(N)　;(SEMICOLONCATEGORY)　有(DET)　電梯(N)　((PARENTHESISCATEGORY)　4(DET)　層(M)　開封(N)　賓館(N)　連(C)　電梯(N)　都(ADV)　沒有(Vt)　)(PARENTHESISCATEGORY)　,(COMMACATEGORY)
+　晚上(N)　好像(ADV)　沒有(Vt)　小姐(N)　電話(N)　騷擾(Nv)　((PARENTHESISCATEGORY)　開封(N)　賓館(N)　騷擾(Vt)　到(P)　最後(N)　乾脆(Vi)　和(C)　按摩(Nv)　小姐(N)　電話(N)　聊天(Vi)　起來(ASP)　了(ASP)　)(PARENTHESISCATEGORY)　缺點(N)　;(SEMICOLONCATEGORY)　房間(N)　象(N)　招待所(N)　,(COMMACATEGORY)
+　設備(N)　老化(Vt)　,(COMMACATEGORY)
+　能(ADV)　算(Vt)　3星(N)　?(QUESTIONCATEGORY)　價格(N)　偏(ADV)　高(Vi)　,(COMMACATEGORY)
+　性價(N)　比(P)　不好(Vt)　!(EXCLAMATIONCATEGORY)　門口(N)　亂哄哄(Vi)　的(T)　,(COMMACATEGORY)
+　感覺(N)　不好(Vt)　!(EXCLAMATIONCATEGORY)

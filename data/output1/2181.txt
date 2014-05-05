@@ -1,0 +1,5 @@
+　真(ADV)　不(ADV)　像(Vt)　是(Vt)　一(DET)　家(M)　四星級(N)　的(T)　酒店(N)　，(COMMACATEGORY)
+　評(Vt)　三星(N)　都(ADV)　覺得(Vt)　高(Vi)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　小(Vi)　並且(C)　很(ADV)　舊(Vi)　，(COMMACATEGORY)
+　到處(ADV)　都(ADV)　覺得(Vt)　亂糟糟(Vi)　的(T)　，(COMMACATEGORY)
+　一樓(N)　大堂(N)　很(ADV)　吵(Vi)　。(PERIODCATEGORY)

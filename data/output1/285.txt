@@ -1,0 +1,3 @@
+　房間(N)　很(ADV)　大(Vi)　,(COMMACATEGORY)
+　老公(N)　每(DET)　次(M)　去(ADV)　都(ADV)　定(Vt)　那裡(N)　,(COMMACATEGORY)
+　在(P)　鄭州(N)　算是(Vt)　不錯(Vi)　的(T)　酒店(N)　.(PERIODCATEGORY)

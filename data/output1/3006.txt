@@ -1,0 +1,3 @@
+　房間(N)　的(T)　環境(N)　非常(ADV)　差(Vi)　,(COMMACATEGORY)
+　而且(C)　房間(N)　還(ADV)　不(ADV)　隔音(A)　，(COMMACATEGORY)
+　住(Vt)　的(T)　不(ADV)　舒服(Vi)　。(PERIODCATEGORY)

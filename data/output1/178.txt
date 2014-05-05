@@ -1,0 +1,4 @@
+　不能(ADV)　說(Vt)　沒有(Vt)　一點點(DET)　問題(N)　，(COMMACATEGORY)
+　但(C)　酒店(N)　所有(DET)　員工(N)　都(ADV)　在(P)　用(Vt)　一(DET)　種(M)　非常(ADV)　的(T)　熱情(N)　給(Vt)　每(DET)　一(DET)　個(M)　客人(N)　以(P)　盡可能(ADV)　的(T)　服務(Nv)　，(COMMACATEGORY)
+　所以(C)　，(COMMACATEGORY)
+　我(N)　願意(Vt)　把(P)　最(ADV)　高(Vi)　的(T)　評價(N)　給(P)　這(DET)　個(M)　酒店(N)　。(PERIODCATEGORY)

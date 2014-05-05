@@ -1,0 +1,7 @@
+　服務(Vt)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　尤其(ADV)　是(Vt)　賓館(N)　的(T)　客戶(N)　經理(N)　，(COMMACATEGORY)
+　服務(Nv)　尤其(ADV)　的(T)　好(Vi)　，(COMMACATEGORY)
+　為(P)　客人(N)　想(Vt)　的(T)　很(ADV)　周全(Vi)　，(COMMACATEGORY)
+　在(P)　此(DET)　點名(Vi)　表揚(Vt)　不(ADV)　太(ADV)　好(Vi)　，(COMMACATEGORY)
+　房間(N)　也(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　下(DET)　次(M)　去(ADV)　還(ADV)　住(Vt)　這裡(N)　。(PERIODCATEGORY)

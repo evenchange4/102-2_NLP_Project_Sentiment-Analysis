@@ -1,0 +1,7 @@
+　預訂(Vt)　標準(N)　間(N)　：(COLONCATEGORY)　拐角(N)　房間(N)　（(PARENTHESISCATEGORY)　為什麼(ADV)　攜程(N)　訂(Vt)　的(T)　都(ADV)　是(Vt)　拐角(N)　間(N)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　小(Vi)　，(COMMACATEGORY)
+　隔音(A)　超(Vt)　差(Vi)　，(COMMACATEGORY)
+　房間(N)　非常(ADV)　冷(Vi)　，(COMMACATEGORY)
+　空調(N)　幾乎(ADV)　不(ADV)　好用(Vi)　，(COMMACATEGORY)
+　衛生間(N)　更(ADV)　冷(Vi)　，(COMMACATEGORY)
+　幾乎(ADV)　沒法(ADV)　淋浴(Vi)　！(EXCLAMATIONCATEGORY)　三(DET)　個(M)　字(N)　〞(FW)　不(T)　滿意(Nv)　〞(FW)　！(EXCLAMATIONCATEGORY)

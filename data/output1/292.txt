@@ -1,0 +1,5 @@
+　因為(C)　悅華(N)　酒店(N)　沒(Vt)　房間(N)　了(T)　，(COMMACATEGORY)
+　才(ADV)　通過(Vt)　攜程定(Vt)　泉州(N)　酒店(N)　的(T)　。(PERIODCATEGORY)
+　雖然(C)　最(ADV)　喜歡(Vt)　的(T)　還是(C)　悅華(N)　，(COMMACATEGORY)
+　其實(ADV)　感覺(Vt)　泉州(N)　酒店(N)　的(T)　裝修(Nv)　和(C)　氣派(N)　還是(ADV)　在(P)　悅華(N)　之上(POST)　，(COMMACATEGORY)
+　就是(C)　服務(Nv)　和(C)　早餐(N)　差(Vi)　悅華(N)　了(T)　。(PERIODCATEGORY)

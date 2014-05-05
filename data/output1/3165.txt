@@ -1,0 +1,4 @@
+　酒店(N)　不(ADV)　承認(Vt)　此(DET)　次(M)　預定(Vt)　，(COMMACATEGORY)
+　與(C)　攜程(N)　交涉(Vt)　7(DET)　、(PAUSECATEGORY)　8(DET)　次(M)　才(ADV)　解決(Vt)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　補充(Vt)　點評(N)　2007年(N)　6月(N)　20日(N)　：(COLONCATEGORY)　明明(ADV)　入住(Vt)　了(ASP)　酒店(N)　！(EXCLAMATIONCATEGORY)　300多(DET)　無(Vt)　窗(N)　房(N)　，(COMMACATEGORY)
+　勉強(Vt)　3星(N)　級別(N)　的(T)　標準(N)　，(COMMACATEGORY)
+　還不如(C)　住(Vt)　如(P)　加(Vt)　快捷(Vi)

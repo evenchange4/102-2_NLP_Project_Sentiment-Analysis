@@ -1,0 +1,7 @@
+　酒店(N)　比較(ADV)　舊(Vi)　，(COMMACATEGORY)
+　靠近(Vt)　機場(N)　，(COMMACATEGORY)
+　能(ADV)　聽到(Vt)　很(ADV)　大(Vi)　的(T)　噪音(N)　。(PERIODCATEGORY)
+　空調(N)　也(ADV)　不(ADV)　開(Vt)　，(COMMACATEGORY)
+　關上(Vt)　窗(N)　屋(N)　內(N)　的(T)　氣味(N)　讓(Vt)　人(N)　頭暈(Vi)　，(COMMACATEGORY)
+　開(Vt)　窗(N)　基本(N)　被(P)　吵(Vt)　的(T)　睡(Vi)　不著(Vi)　而且(C)　早餐(N)　非常(ADV)　差(Vi)　，(COMMACATEGORY)
+　簡直(ADV)　就是(C)　沒(Vt)　東西(N)　吃(Vt)　。(PERIODCATEGORY)

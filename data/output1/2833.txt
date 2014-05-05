@@ -1,0 +1,4 @@
+　房間(N)　還可以(Vi)　，(COMMACATEGORY)
+　早餐(N)　不(ADV)　大好(Vi)　，(COMMACATEGORY)
+　周圍(N)　比較(ADV)　偏僻(Vi)　。(PERIODCATEGORY)
+　服務(Nv)　態度(N)　一般(POST)　。(PERIODCATEGORY)

@@ -1,0 +1,3 @@
+　酒店(N)　比較(ADV)　陳舊(Vi)　,(COMMACATEGORY)
+　房間(N)　也(ADV)　不(ADV)　大(Vi)　,(COMMACATEGORY)
+　有(Vt)　股(M)　味道(N)　.(PERIODCATEGORY)　早餐(N)　一般(POST)　.(PERIODCATEGORY)　房價(N)　也(ADV)　不(ADV)　便宜(Vi)　!(EXCLAMATIONCATEGORY)　總之(ADV)　很(ADV)　一般(Vi)　.(PERIODCATEGORY)

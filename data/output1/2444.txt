@@ -1,0 +1,8 @@
+　覺得(Vt)　是(Vt)　住(Vt)　過(ASP)　酒店(N)　最(ADV)　差(Vi)　的(T)　一(DET)　家(M)　，(COMMACATEGORY)
+　一樓(N)　房間(N)　接近(Vt)　地下層(N)　，(COMMACATEGORY)
+　空氣(N)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　而且(C)　酒店(N)　還(ADV)　在(P)　涮漆(N)　整修(Vt)　中(POST)　，(COMMACATEGORY)
+　油漆(N)　氣味(N)　很(ADV)　難(Vi)　聞(Vt)　....(ETCCATEGORY)　早上(N)　七點鐘(N)　不(ADV)　到(Vt)　，(COMMACATEGORY)
+　施工(Nv)　人員(N)　和(C)　服務(Nv)　人員(N)　就(ADV)　在(P)　走廊(N)　上(N)　吵到(Vt)　不行(Vi)　....(ETCCATEGORY)　而且(C)　，(COMMACATEGORY)
+　酒店(N)　位置(N)　很(ADV)　難找(Vt)　，(COMMACATEGORY)
+　在(P)　胡同(N)　裡(N)　！(EXCLAMATIONCATEGORY)　...(ETCCATEGORY)　總之(ADV)　印象(N)　超(Vt)　差(Vi)

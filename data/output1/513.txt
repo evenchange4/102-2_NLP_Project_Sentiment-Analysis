@@ -1,0 +1,2 @@
+　硬件(N)　基本(A)　什麼(DET)　都(ADV)　不(ADV)　缺(Vt)　,(COMMACATEGORY)
+　但(C)　又(ADV)　總(ADV)　覺得(Vt)　缺點(N)　什麼(DET)　!(EXCLAMATIONCATEGORY)

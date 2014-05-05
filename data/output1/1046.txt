@@ -1,0 +1,3 @@
+　自助(Nv)　早餐(N)　非常(ADV)　好(Vi)　，(COMMACATEGORY)
+　服務(Vt)　很(ADV)　周到(Vi)　，(COMMACATEGORY)
+　下(DET)　次(M)　還(ADV)　會(ADV)　去(ADV)　住(Vt)　。(PERIODCATEGORY)

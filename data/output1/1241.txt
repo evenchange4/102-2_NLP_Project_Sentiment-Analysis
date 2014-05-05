@@ -1,0 +1,4 @@
+　總的來說(ADV)　,(COMMACATEGORY)
+　比較(ADV)　乾淨(Vi)　,(COMMACATEGORY)
+　而且(C)　地理(N)　位置(N)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　市區(N)　繁華(Vi)　地段(N)　.(PERIODCATEGORY)　進出(Vt)　方便(Vi)　.(PERIODCATEGORY)

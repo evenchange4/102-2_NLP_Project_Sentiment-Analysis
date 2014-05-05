@@ -1,0 +1,7 @@
+　Stayed(FW)　here(FW)　many(FW)　times(FW)　in(FW)　the(FW)　past(FW)　18(DET)　months(FW)　.(PERIODCATEGORY)　This(FW)　could(FW)　be(FW)　a(FW)　good(FW)　place(FW)　to(FW)　stay(FW)
+　if(FW)　the(FW)　hotel(FW)　would(FW)　maintain(FW)　the(FW)　facilities(FW)　,(COMMACATEGORY)
+　but(FW)　they(FW)　did(FW)　not(FW)　.(PERIODCATEGORY)　The(FW)　last(FW)　two(FW)　times(FW)　I(FW)　stayed(FW)　((PARENTHESISCATEGORY)　Feb(FW)　and(FW)　March(FW)　)(PARENTHESISCATEGORY)　the(FW)　shower(FW)　and(FW)　TV(FW)
+　did(FW)　not(FW)　work(FW)　EVEN(FW)　after(FW)　I(FW)　reported(FW)　them(FW)　.(PERIODCATEGORY)　Will(FW)　not(FW)　stay(FW)　here(FW)　from(FW)　now(FW)　on(FW)　!(EXCLAMATIONCATEGORY)　賓館(N)　反饋(Vt)　20(DET)
+　08年(N)　5月(N)　16日(N)　：(COLONCATEGORY)　Thanks(FW)　your(FW)　problem(FW)　,(COMMACATEGORY)
+　We(FW)　will(FW)　chang(FW)　the(FW)　shower(FW)　and(FW)　Tv(FW)　,(COMMACATEGORY)
+　I(FW)　will(FW)　hope(FW)　you(FW)　come(FW)　here(FW)　again(FW)

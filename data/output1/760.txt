@@ -1,0 +1,4 @@
+　送(Vt)　的(T)　水果(N)　很(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　房間(N)　1(DET)　般(POST)　，(COMMACATEGORY)
+　沒(Vt)　什麼(DET)　特別(Vi)　的(T)　，(COMMACATEGORY)
+　不過(C)　早餐(N)　很(ADV)　難吃(Vi)

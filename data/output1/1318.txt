@@ -1,0 +1,3 @@
+　酒店(N)　環境(N)　還(ADV)　可(ADV)　，(COMMACATEGORY)
+　價位(N)　也(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　我(N)　想(Vt)　以後(POST)　還是(ADV)　會(ADV)　居住(Vi)　這裡(N)　。(PERIODCATEGORY)

@@ -1,0 +1,6 @@
+　房間(N)　非常(ADV)　小(Vi)　房間(N)　設施(N)　非常(ADV)　舊(Vi)　，(COMMACATEGORY)
+　因為(C)　裝修(Vt)　至今(ADV)　已經(ADV)　10(DET)　年(M)　了(T)　。(PERIODCATEGORY)
+　房間(N)　空氣(N)　非常(ADV)　差(Vi)　，(COMMACATEGORY)
+　一(ADV)　打開(Vt)　門(N)　一(DET)　股(M)　非常(ADV)　大(Vi)　的(T)　煙味(N)　和(C)　霉味(N)　迎面(ADV)　撲來(Vi)　服務(Vt)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　雖然(C)　幫(P)　我(N)　從(P)　6樓(N)　換到(Vt)　了(ASP)　9樓(N)　，(COMMACATEGORY)
+　但是(C)　房間(N)　空氣(N)　依然(ADV)　非常(ADV)　差(Vi)　非常(ADV)　差(Vi)　非常(ADV)　差(Vi)　得(T)　不能(ADV)　接受(Vt)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)

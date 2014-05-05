@@ -1,0 +1,4 @@
+　太(ADV)　差(Vi)　了(T)　，(COMMACATEGORY)
+　空調(N)　的(T)　噪音(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　設施(N)　也(ADV)　不(ADV)　齊全(Vi)　，(COMMACATEGORY)
+　攜(Vt)　程(N)　怎麼(ADV)　會(ADV)　選擇(Vt)　這樣(Vi)　的(T)　合作(Nv)　夥伴(N)

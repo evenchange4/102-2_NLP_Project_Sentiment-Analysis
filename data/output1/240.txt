@@ -1,0 +1,4 @@
+　９８(DET)　年(M)　這(DET)　家(M)　酒店(N)　開業(Vi)　時(POST)　住(Vt)　過(ASP)　，(COMMACATEGORY)
+　感覺(Vt)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　今年(N)　去(Vt)　青島(N)　還是(ADV)　選擇(Vt)　了(ASP)　住(Vt)　在(P)　這裡(N)　．１０年(N)　過去(N)　了(T)　，(COMMACATEGORY)
+　雖然(C)　硬件(N)　略顯(Vi)　陳舊(Vi)　但(C)　服務(Nv)　水平(N)　依舊(ADV)　讓(Vt)　我(N)　感覺(Vt)　很(ADV)　滿意(Vt)　．(PERIODCATEGORY)

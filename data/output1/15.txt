@@ -1,0 +1,6 @@
+　服務(Nv)　不(ADV)　是(Vt)　很(ADV)　專業(Vi)　，(COMMACATEGORY)
+　處理(Vt)　速度(N)　太(ADV)　慢(Vi)　。(PERIODCATEGORY)
+　不過(C)　，(COMMACATEGORY)
+　因為(C)　服務員(N)　的(T)　小(Vi)　錯誤(N)　，(COMMACATEGORY)
+　副理(N)　親自(ADV)　上來(Vi)　道歉(Vi)　，(COMMACATEGORY)
+　還是(ADV)　非常(ADV)　讓(Vt)　人(N)　感動(Vt)　的(T)　。(PERIODCATEGORY)

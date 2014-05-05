@@ -1,0 +1,8 @@
+　第一(DET)　次(M)　在(P)　網(N)　上(N)　定(Vt)　酒店(N)　，(COMMACATEGORY)
+　價格(N)　是(Vt)　428(DET)　元(M)　，(COMMACATEGORY)
+　感覺(Vt)　房間(N)　比較(ADV)　差(Vi)　，(COMMACATEGORY)
+　以前(N)　來(Vi)　烏市(N)　每(DET)　次(M)　都(ADV)　是(Vt)　以(P)　朋友(N)　公司(N)　的(T)　名義(N)　訂房(Vi)　，(COMMACATEGORY)
+　價格(N)　很(ADV)　優惠(Vt)　，(COMMACATEGORY)
+　這(DET)　次(M)　是(Vt)　自己(N)　定(Vt)　的(T)　，(COMMACATEGORY)
+　現在(N)　是(Vt)　淡季(N)　，(COMMACATEGORY)
+　我(N)　定(Vt)　的(T)　428(DET)　元(M)　的(T)　房間(N)　朋友(N)　定(Vt)　只(ADV)　需要(Vt)　320(DET)　元(M)　就(ADV)　夠(Vi)　了(T)　......(ETCCATEGORY)

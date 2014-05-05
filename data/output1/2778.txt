@@ -1,0 +1,8 @@
+　差(Vi)　，(COMMACATEGORY)
+　房間(N)　怎麼樣(Vi)　我(N)　不(ADV)　清楚(Vi)　。(PERIODCATEGORY)
+　是(Vt)　給(P)　客人(N)　訂(Vt)　的(T)　，(COMMACATEGORY)
+　一月份(N)　的(T)　天氣(N)　，(COMMACATEGORY)
+　聽(Vt)　客人(N)　說(Vt)　居然(ADV)　沒有(Vt)　暖氣(N)　供應(Nv)　。(PERIODCATEGORY)
+　好像(ADV)　是(Vt)　說(Vt)　入住(Vt)　的(T)　人(N)　少(Vi)　了(T)　，(COMMACATEGORY)
+　暖氣(N)　給(Vt)　關掉(Vt)　了(ASP)　，(COMMACATEGORY)
+　怎麼(ADV)　有(Vt)　這樣(Vi)　的(T)　賓館(N)　。(PERIODCATEGORY)

@@ -1,0 +1,5 @@
+　房間(N)　較(ADV)　小(Vi)　,(COMMACATEGORY)
+　但(C)　挺(ADV)　乾淨(Vi)　,(COMMACATEGORY)
+　另外(C)　空調(N)　噪聲(N)　較(ADV)　大(Vi)　,(COMMACATEGORY)
+　晚上(N)　睡覺(Vi)　還是(ADV)　有點(ADV)　吵(Vi)　.(PERIODCATEGORY)　早餐(N)　是(Vt)　自助餐(N)　,(COMMACATEGORY)
+　挺(ADV)　豐富(Vt)　!(EXCLAMATIONCATEGORY)　總體(N)　感覺(N)　不錯(Vi)　!(EXCLAMATIONCATEGORY)

@@ -1,0 +1,4 @@
+　酒店(N)　的(T)　大堂(N)　很(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　房間(N)　也(ADV)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　溫馨(Vi)　、(PAUSECATEGORY)　舒適(Vi)　，(COMMACATEGORY)
+　是(Vt)　個(M)　不錯(Vi)　的(T)　五星級(N)　酒店(N)　。(PERIODCATEGORY)

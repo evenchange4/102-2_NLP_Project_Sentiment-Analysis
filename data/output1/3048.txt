@@ -1,0 +1,8 @@
+　服務(Nv)　實在(ADV)　太(ADV)　差(Vi)　!(EXCLAMATIONCATEGORY)　7月(N)　9日(N)　入住(Vt)　的(T)　,(COMMACATEGORY)
+　晚上(N)　11(DET)　店(N)　打(Vt)　1168(DET)　總機(N)　拜託(Vt)　第二天(N)　早上(N)　645(DET)　分(M)　叫醒(Vt)　服務(Nv)　,(COMMACATEGORY)
+　房(N)　號(N)　:(COLONCATEGORY)　2319(DET)　((PARENTHESISCATEGORY)　便於(Vt)　查詢(Nv)　與(C)　確認(Nv)　)(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+　竟然(ADV)　沒有(ADV)　做到(Vt)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　這(DET)　是(Vt)　我(N)　這(DET)　個(M)　長期(N)　出差(Vi)　者(N)　第一(DET)　次(M)　碰到(Vt)　的(T)　事情(N)　,(COMMACATEGORY)
+　因為(C)　10日(N)　早上(N)　830(DET)　分有(Vt)　會議(N)　才(ADV)　提前(Vi)　一(DET)　天(M)　住(Vt)　酒店(N)　的(T)　,(COMMACATEGORY)
+　還好(ADV)　這(DET)　個(M)　酒店(N)　的(T)　床板(N)　硬(ADV)　得(ADV)　不能(ADV)　好好(Vi)　入睡(Vi)　,(COMMACATEGORY)
+　才(ADV)　"(FW)　救(Vt)　"(FW)　了(ASP)　我(N)　。(PERIODCATEGORY)
+　特此(ADV)　評價(Vt)　。(PERIODCATEGORY)

@@ -1,0 +1,2 @@
+　有(Vt)　按摩(Nv)　浴缸(N)　和(C)　桑拿房(N)　的(T)　標準(N)　大(Vi)　床(N)　間(POST)　很(ADV)　有(Vt)　特色(N)　4百(DET)　的(T)　放假(Vi)　寬帶(N)　免費(Vi)　含單(N)　早(ADV)　也(ADV)　算是(Vt)　值(Vt)　了(ASP)　。(PERIODCATEGORY)
+　下(DET)　次(M)　去(ADV)　還(ADV)　會(ADV)　入住(Vt)　再次(ADV)　感受(Vt)　下(POST)　免費(Vi)　按摩(Vt)　浴缸(N)　和(C)　桑拿房(N)　：(COLONCATEGORY)　）(PARENTHESISCATEGORY)

@@ -1,0 +1,2 @@
+　枕頭(N)　太(ADV)　低(Vi)　了(ASP)　不(ADV)　好(Vi)　睡(Vi)　，(COMMACATEGORY)
+　不過(C)　在(P)　駐馬店(N)　這(DET)　種(M)　地方(N)　算(Vt)　可以(Vi)　了(T)

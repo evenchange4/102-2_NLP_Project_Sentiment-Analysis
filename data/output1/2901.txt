@@ -1,0 +1,4 @@
+　酒店(N)　位置(N)　十分(ADV)　偏遠(Vi)　，(COMMACATEGORY)
+　交通(N)　，(COMMACATEGORY)
+　購物(Vi)　，(COMMACATEGORY)
+　餐飲(N)　極(ADV)　不(ADV)　方便(Vi)

@@ -1,0 +1,2 @@
+　這(DET)　個(M)　店(N)　太(ADV)　差(Vi)　房間(N)　有(Vt)　霉味(N)　,(COMMACATEGORY)
+　最(ADV)　不能(ADV)　忍受(Vt)　的(T)　是(Vt)　前台(N)　工作(N)　效率(N)　極(ADV)　低(Vi)　極(ADV)　低(Vi)　!(EXCLAMATIONCATEGORY)

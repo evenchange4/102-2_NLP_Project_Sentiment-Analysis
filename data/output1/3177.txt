@@ -1,0 +1,7 @@
+　大(Vi)　床(N)　房(N)　是(Vt)　有(Vt)　電腦(N)　可以(ADV)　上網(Vi)　的(T)　（(PARENTHESISCATEGORY)　但(C)　地毯(N)　很(ADV)　髒(Vi)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　還(ADV)　有(Vt)　自費(Vi)　的(T)　食品(N)　和(C)　日用品(N)　；(SEMICOLONCATEGORY)　標(Vt)　房(N)　比較(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　我(N)　在(P)　衛生間(N)　裡(N)　２(DET)　次(M)　看見(Vt)　有(Vt)　蟲蟲(N)　在(P)　爬(Vi)　，(COMMACATEGORY)
+　沒有(ADV)　自費(Vi)　的(T)　食品(N)　和(C)　日用品(N)　，(COMMACATEGORY)
+　也(ADV)　沒有(Vt)　電腦(N)　上網(Nv)　。(PERIODCATEGORY)
+　大堂(N)　經理(N)　處理(Vt)　事情(N)　的(T)　能力(N)　極(ADV)　差(Vi)　！(EXCLAMATIONCATEGORY)　我們(N)　這(DET)　批(M)　入住(Vt)　的(T)　人(N)　整體(N)　感覺(N)　都(ADV)　不(ADV)　滿意(Vt)　，(COMMACATEGORY)
+　性價(N)　比(P)　實在(ADV)　太(ADV)　低(Vi)　！(EXCLAMATIONCATEGORY)

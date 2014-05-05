@@ -1,0 +1,6 @@
+　房間(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　還(ADV)　有(Vt)　海景(N)　陽台(N)　，(COMMACATEGORY)
+　走出(Vt)　酒店(N)　就(ADV)　是(Vt)　沙灘(N)　，(COMMACATEGORY)
+　非常(ADV)　不錯(Vi)　。(PERIODCATEGORY)
+　唯一(A)　遺憾(Nv)　的(T)　就是(C)　不能(ADV)　刷銀聯卡(N)　，(COMMACATEGORY)
+　不(ADV)　方便(Vi)　。(PERIODCATEGORY)

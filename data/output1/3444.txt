@@ -1,0 +1,6 @@
+　靠(P)　馬路(N)　，(COMMACATEGORY)
+　晚上(N)　太(ADV)　噪(Vi)　。(PERIODCATEGORY)
+　早餐(N)　較(ADV)　差(Vi)　。(PERIODCATEGORY)
+　長途(A)　電話(N)　應該(ADV)　是(Vt)　IP(FW)　的(T)　，(COMMACATEGORY)
+　收費(Vt)　0.8(DET)　元(M)　/(FW)　分鐘(M)　。(PERIODCATEGORY)
+　補充(Vt)　點評(N)　2007年(N)　12月(N)　25日(N)　：(COLONCATEGORY)　洗澡水(N)　不(ADV)　是(Vt)　很(ADV)　大(Vi)　。(PERIODCATEGORY)

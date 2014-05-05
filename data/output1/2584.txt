@@ -1,0 +1,5 @@
+　房間(N)　象(N)　80年代(N)　的(T)　路邊(N)　小(Vi)　旅館(N)　.(PERIODCATEGORY)　通往(Vt)　3樓(N)　餐廳(N)　的(T)　路(N)　上(POST)　,(COMMACATEGORY)
+　污水(N)　橫流(Vi)　,(COMMACATEGORY)
+　黑色(N)　的(T)　污漬(N)　隨處(ADV)　可見(ADV)　.(PERIODCATEGORY)　房間(N)　連電(N)　吹風(Vi)　都(ADV)　沒有(Vt)　!(EXCLAMATIONCATEGORY)　也(ADV)　沒有(Vt)　免費(Vi)　的(T)　礦泉水(N)　和(C)　茶葉包(N)　!(EXCLAMATIONCATEGORY)　電腦桌(N)　下面(N)　的(T)　地毯(N)　上(N)　黑色(N)　的(T)　污漬(N)　到處(ADV)　都(ADV)　是(Vt)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　更(ADV)　好笑(Vi)　的(T)　是(Vt)　,(COMMACATEGORY)
+　有時(ADV)　打(Vt)　51(DET)　((PARENTHESISCATEGORY)　前台(N)　)(PARENTHESISCATEGORY)　後(POST)　得到(Vt)　的(T)　回復(Nv)　是(Vt)　你(N)　找(Vt)　52(DET)　((PARENTHESISCATEGORY)　客房部(N)　)(PARENTHESISCATEGORY)　;(SEMICOLONCATEGORY)　然後(ADV)　52(DET)　又(ADV)　說(Vt)　你(N)　找(Vt)　51(DET)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　整體(N)　而言(Vt)　,(COMMACATEGORY)
+　還是(ADV)　國企(N)　的(T)　做法(N)　.(PERIODCATEGORY)

@@ -1,0 +1,3 @@
+　太(ADV)　髒(Vi)　，(COMMACATEGORY)
+　停車場(N)　太(ADV)　小(Vi)　，(COMMACATEGORY)
+　建議(Vt)　攜程(N)　不要(ADV)　推薦(Vt)　這樣(Vi)　的(T)　旅館(N)

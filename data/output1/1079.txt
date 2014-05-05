@@ -1,0 +1,3 @@
+　房間(N)　有(Vt)　些(M)　舊(Vi)　了(T)　.(PERIODCATEGORY)　而且(C)　我(N)　住(Vt)　的(T)　房間(N)　進去(Vi)　後(POST)　居然(ADV)　沒有(ADV)　打掃(Vt)　出來(Vi)　.(PERIODCATEGORY)　前台(N)　和(C)　服務員(N)　協同(ADV)　不(ADV)　好(Vi)　.(PERIODCATEGORY)　補充(Vt)　點評(N)　2007年(N)　12月(N)　9日(N)　：(COLONCATEGORY)　這(DET)　家(M)　酒店(N)　的(T)　服務(Nv)　大(Vi)　不如(Vt)　從前(N)　,(COMMACATEGORY)
+　設施(N)　也(ADV)　舊(Vi)　了(T)　,(COMMACATEGORY)
+　以後(N)　不(ADV)　住(Vt)　了(T)　.(PERIODCATEGORY)

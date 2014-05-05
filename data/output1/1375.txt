@@ -1,0 +1,1 @@
+　地段(N)　非常(ADV)　棒(Vi)　.(PERIODCATEGORY)　住(Vt)　的(T)　是(Vt)　高級(Vi)　商務(N)　間(POST)　.(PERIODCATEGORY)　感覺(N)　房間(N)　有(Vt)　些(M)　小(Vi)　.(PERIODCATEGORY)　另(DET)　空調(N)　`(FW)　的(T)　製冷(Vi)　效果(N)　也(ADV)　不行(Vi)　.(PERIODCATEGORY)　不過(C)　門(N)　童(N)　和(C)　服務生(N)　很(ADV)　熱情(Vi)　.(PERIODCATEGORY)　而且(C)　有(Vt)　免費(Vi)　水果(N)　.(PERIODCATEGORY)　地毯(N)　和(C)　裝修(Nv)　有(Vt)　些(M)　陳舊(Vi)　~(FW)　~(FW)　~(FW)

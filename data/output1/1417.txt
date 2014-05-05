@@ -1,0 +1,4 @@
+　據(P)　同事(N)　反映(Vt)　,(COMMACATEGORY)
+　各(DET)　方面(N)　都(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　下(DET)　次(M)　出差(Vi)　,(COMMACATEGORY)
+　他們(N)　還(ADV)　希望(Vt)　住(Vt)　這(DET)　家(M)　酒店(N)　.(PERIODCATEGORY)

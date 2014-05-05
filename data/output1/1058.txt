@@ -1,0 +1,8 @@
+　大堂(N)　不錯(Vi)　，(COMMACATEGORY)
+　有(Vt)　四(DET)　星(N)　的(T)　樣子(N)　，(COMMACATEGORY)
+　房間(N)　的(T)　設施(N)　一般(POST)　，(COMMACATEGORY)
+　感覺(Vt)　有點(ADV)　舊(Vi)　，(COMMACATEGORY)
+　衛生間(N)　細節(N)　不錯(Vi)　，(COMMACATEGORY)
+　各(DET)　種(M)　配套(Vi)　東西(N)　都(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　感覺(N)　還可以(Vi)　，(COMMACATEGORY)
+　有(Vt)　機會(N)　再(ADV)　去(Vt)　泰山(N)　還(ADV)　要(ADV)　入住(Vt)　。(PERIODCATEGORY)

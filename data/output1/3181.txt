@@ -1,0 +1,2 @@
+　實在(ADV)　對不起(Vt)　四(DET)　星(N)　的(T)　稱呼(N)　!(EXCLAMATIONCATEGORY)　12(DET)　月份(N)　在(P)　2(DET)　--(DASHCATEGORY)　14(DET)　度(M)　的(T)　氣溫(N)　下(POST)　,(COMMACATEGORY)
+　只(ADV)　在(P)　晚上(N)　8(DET)　點(M)　後(POST)　才(ADV)　開(Vt)　空調(N)　!(EXCLAMATIONCATEGORY)　下(DET)　半夜(N)　又(ADV)　關閉(Vt)　!(EXCLAMATIONCATEGORY)　投訴(Vi)　後(POST)　還(ADV)　有理(Vi)　說(Vt)　是(Vt)　響應(Vt)　政府(N)　號召(Nv)　:(COLONCATEGORY)　節約(Vt)　能耗(Nv)　.(PERIODCATEGORY)　這樣(Vi)　的(T)　HOTEL(FW)　朋友(N)　們(N)　您(N)　還(ADV)　敢(Vt)　入住(Vt)　嗎(T)　?(QUESTIONCATEGORY)

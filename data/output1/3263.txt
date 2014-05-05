@@ -1,0 +1,4 @@
+　房間(N)　隔音(A)　真(ADV)　差(Vi)　，(COMMACATEGORY)
+　隔壁(N)　有(Vt)　人(N)　魚水之歡(N)　，(COMMACATEGORY)
+　讓(Vt)　我(N)　一(DET)　夜(N)　沒有(ADV)　睡好(Vi)　！(EXCLAMATIONCATEGORY)　房價(N)　也(ADV)　不(ADV)　算(Vt)　低(Vi)　，(COMMACATEGORY)
+　只(ADV)　比(P)　華陽(N)　便宜(Vi)　了(ASP)　50來(DET)　塊(M)　錢(N)　！(EXCLAMATIONCATEGORY)

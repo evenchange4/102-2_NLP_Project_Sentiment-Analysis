@@ -1,0 +1,3 @@
+　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　相當(ADV)　差(Vi)　，(COMMACATEGORY)
+　搞(Vt)　得(T)　我們(N)　的(T)　外國(N)　客人(N)　都(ADV)　發大火(N)　了(T)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　服務(Nv)　不(ADV)　符合(Vt)　四星級(N)　的(T)　酒店(N)　標準(N)　！(EXCLAMATIONCATEGORY)

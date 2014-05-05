@@ -1,0 +1,6 @@
+　住(Vt)　的(T)　是(Vt)　江景房(N)　，(COMMACATEGORY)
+　房間(N)　超大(Vi)　，(COMMACATEGORY)
+　環境(N)　一流(Vi)　，(COMMACATEGORY)
+　價錢(N)　不(ADV)　算(Vt)　高(Vi)　（(PARENTHESISCATEGORY)　258(DET)　元(M)　包2(N)　早(Vi)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　美中不足(Vi)　是(Vt)　服務(Vt)　有點(ADV)　跟不上(Vt)　，(COMMACATEGORY)
+　總體(N)　不錯(Vi)　。(PERIODCATEGORY)

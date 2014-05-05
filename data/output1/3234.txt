@@ -1,0 +1,7 @@
+　只(ADV)　是(Vt)　招待所(N)　而已(T)　，(COMMACATEGORY)
+　設施(N)　不(ADV)　怎麼樣(Vi)　，(COMMACATEGORY)
+　毛巾(N)　都(ADV)　是(Vt)　破(Vt)　的(T)　。(PERIODCATEGORY)
+　而且(C)　我(N)　前一天(N)　洗(Vt)　的(T)　短褲(N)　和(C)　襪子(N)　掛(Vt)　在(P)　浴室(N)　裡(N)　，(COMMACATEGORY)
+　退房(Vi)　的(T)　時候(N)　忘記(Vt)　了(T)　。(PERIODCATEGORY)
+　結果(ADV)　再(ADV)　去(ADV)　問(Vt)　說(Vt)　沒(ADV)　看見(Vt)　。(PERIODCATEGORY)
+　就(ADV)　不了了之(Vi)　了(T)　。(PERIODCATEGORY)

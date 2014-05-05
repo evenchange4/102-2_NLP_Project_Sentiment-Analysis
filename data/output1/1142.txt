@@ -1,0 +1,6 @@
+　環境(N)　不錯(Vi)　，(COMMACATEGORY)
+　8月(N)　18(DET)　號(M)　入住(Vt)　，(COMMACATEGORY)
+　8月(N)　16(DET)　號(M)　安裝(Vt)　好了(T)　電梯(N)　，(COMMACATEGORY)
+　預約(Vt)　人員(N)　對(P)　此(DET)　信息(N)　不(ADV)　瞭解(Vt)　，(COMMACATEGORY)
+　這(DET)　幾月(N)　出行(Vi)　最好(Vi)　的(T)　酒店(N)　了(T)　，(COMMACATEGORY)
+　價格(N)　偏(ADV)　高(Vi)　。(PERIODCATEGORY)

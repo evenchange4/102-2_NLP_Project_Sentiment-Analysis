@@ -1,0 +1,5 @@
+　整(DET)　個(M)　酒店(N)　比較(ADV)　老(Vi)　款(N)　，(COMMACATEGORY)
+　不過(C)　酒店(N)　的(T)　客房(N)　設計(N)　非常(ADV)　摩登(Vi)　潔淨(Vi)　，(COMMACATEGORY)
+　除了(P)　面積(N)　比較(ADV)　小(Vi)　（(PARENTHESISCATEGORY)　不管(C)　是(Vt)　行政(N)　樓層(N)　還是(C)　一般(A)　樓層(N)　，(COMMACATEGORY)
+　似乎(ADV)　都(ADV)　是(Vt)　一樣(Vi)　的(T)　大小(N)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　其他(DET)　均(ADV)　滿意(Vt)　。(PERIODCATEGORY)

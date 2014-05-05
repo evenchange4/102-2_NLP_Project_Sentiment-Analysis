@@ -1,0 +1,3 @@
+　最(ADV)　繁華(Vi)　的(T)　地段(N)　中價位(N)　適中(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　房間(N)　較(ADV)　大(Vi)　，(COMMACATEGORY)
+　騷擾(Nv)　電話(N)　不少(Vi)　。(PERIODCATEGORY)

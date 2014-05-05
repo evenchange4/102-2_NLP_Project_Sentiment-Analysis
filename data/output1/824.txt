@@ -1,0 +1,1 @@
+　交通(N)　方便(Vi)　；(SEMICOLONCATEGORY)　環境(N)　很(ADV)　好(Vi)　；(SEMICOLONCATEGORY)　服務(Nv)　態度(N)　很(ADV)　好(Vi)　房間(N)　較(ADV)　小(Vi)

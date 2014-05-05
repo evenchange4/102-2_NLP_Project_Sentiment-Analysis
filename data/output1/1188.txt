@@ -1,0 +1,2 @@
+　服務員(N)　態度(N)　等(POST)　都(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　如果(C)　有定餐(N)　送(Vt)　餐(N)　服務(Nv)　就(ADV)　更(ADV)　完美(Vi)　了(T)　！(EXCLAMATIONCATEGORY)

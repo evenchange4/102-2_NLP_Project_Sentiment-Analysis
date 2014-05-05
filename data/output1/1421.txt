@@ -1,0 +1,7 @@
+　本來(ADV)　訂(Vt)　這裡(N)　是(Vt)　因為(C)　它(N)　算山(N)　上(N)　比較(ADV)　便宜(Vi)　的(T)　，(COMMACATEGORY)
+　後來(N)　入住(Vt)　發現(Vt)　，(COMMACATEGORY)
+　比(P)　想像(N)　中(POST)　的(T)　好(ADV)　很多(Vi)　。(PERIODCATEGORY)
+　起碼(ADV)　很(ADV)　乾淨(Vi)　。(PERIODCATEGORY)
+　就是(C)　隔音(A)　效果(N)　不(ADV)　太(ADV)　好(Vi)　，(COMMACATEGORY)
+　早上(N)　隔壁(N)　人(N)　去(ADV)　看(Vt)　日出(Vi)　，(COMMACATEGORY)
+　那(DET)　個(M)　吵(Vi)　啊(T)　∼(FW)　∼(FW)　其它(DET)　的(T)　感覺(N)　還(ADV)　不錯(Vi)

@@ -1,0 +1,7 @@
+　總體(N)　來(ADV)　說(Vt)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　交通(N)　服務(Nv)　都(ADV)　還(ADV)　行(Vi)　，(COMMACATEGORY)
+　酒店(N)　有點(ADV)　年紀(N)　了(T)　，(COMMACATEGORY)
+　看上去(ADV)　檔次(N)　不(T)　像(P)　四星(N)　的(T)　，(COMMACATEGORY)
+　大堂(N)　很(ADV)　舊(Vi)　，(COMMACATEGORY)
+　呵呵(ADV)　，(COMMACATEGORY)
+　性價(N)　比(P)　還(ADV)　湊合(Vt)　吧(T)　。(PERIODCATEGORY)

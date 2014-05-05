@@ -1,0 +1,5 @@
+　還(ADV)　行(Vi)　吧(T)　，(COMMACATEGORY)
+　不(ADV)　算(Vt)　失望(Vi)　，(COMMACATEGORY)
+　離(P)　地鐵(N)　2(DET)　號(M)　線(N)　要(ADV)　走(Vi)　500(DET)　M(FW)　左右(POST)　，(COMMACATEGORY)
+　但(C)　在(P)　中環(N)　旁邊(N)　，(COMMACATEGORY)
+　自己(N)　開車(Vi)　去(ADV)　比較(ADV)　方便(Vi)　。(PERIODCATEGORY)

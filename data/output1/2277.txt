@@ -1,0 +1,4 @@
+　賓館(N)　直接(Vi)　對(P)　外(N)　的(T)　價格(N)　是(Vt)　168(DET)　，(COMMACATEGORY)
+　攜(Vt)　程(N)　的(T)　價格(N)　是(Vt)　160(DET)　，(COMMACATEGORY)
+　只(ADV)　便宜(Vi)　8(DET)　元(M)　，(COMMACATEGORY)
+　有點(ADV)　喜劇(N)

@@ -1,0 +1,6 @@
+　前台(N)　態度(N)　一般(POST)　，(COMMACATEGORY)
+　效率(N)　較(ADV)　佳(Vi)　，(COMMACATEGORY)
+　房間(N)　雖(C)　略(ADV)　顯(Vt)　陳舊(Vi)　但(C)　乾淨(Vi)　整潔(Vi)　，(COMMACATEGORY)
+　設施(N)　完備(Vi)　，(COMMACATEGORY)
+　蒸氣浴(N)　不錯(Vi)　。(PERIODCATEGORY)
+　性價(N)　比(P)　還是(ADV)　值得(Vi)　一(ADV)　去(Vt)　的(T)

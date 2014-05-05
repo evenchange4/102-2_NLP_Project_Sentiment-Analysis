@@ -1,0 +1,5 @@
+　很(ADV)　不錯(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　儘管(C)　在(P)　火車站(N)　，(COMMACATEGORY)
+　但(C)　很(ADV)　安靜(Vi)　。(PERIODCATEGORY)
+　房間(N)　乾淨(Vi)　，(COMMACATEGORY)
+　早餐(N)　一般(POST)　。(PERIODCATEGORY)

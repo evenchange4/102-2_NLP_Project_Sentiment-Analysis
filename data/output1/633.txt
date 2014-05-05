@@ -1,0 +1,2 @@
+　到(P)　敦煌(N)　入住(Vt)　這(DET)　個(M)　酒店(N)　吃(Vt)　住(Vt)　行都(N)　方便(Vi)　，(COMMACATEGORY)
+　適合(Vi)　驢友(N)　。(PERIODCATEGORY)

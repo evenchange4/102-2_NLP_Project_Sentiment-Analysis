@@ -1,0 +1,5 @@
+　1(DET)　、(PAUSECATEGORY)　總體(N)　感覺(N)　有(Vt)　些(M)　舊(Vi)　，(COMMACATEGORY)
+　地毯(N)　上(N)　污跡(N)　比較(ADV)　多(Vi)　。(PERIODCATEGORY)
+　2(DET)　、(PAUSECATEGORY)　服務(Nv)　等(POST)　還(ADV)　可以(ADV)　。(PERIODCATEGORY)
+　3(DET)　、(PAUSECATEGORY)　房間(N)　總(ADV)　帶有(Vt)　一些(DET)　煙味(N)　，(COMMACATEGORY)
+　不(ADV)　喜歡(Vt)　。(PERIODCATEGORY)

@@ -1,0 +1,3 @@
+　房間(N)　設施(N)　差(Vi)　，(COMMACATEGORY)
+　房間(N)　裡(N)　一(DET)　股(M)　發霉(Vi)　的(T)　味道(N)　價格(N)　出奇(Vi)　的(T)　貴(Vi)　早餐(N)　比較(ADV)　差(Vi)　與(P)　對面(N)　的(T)　際(N)　豪(Vi)　酒店(N)　相比(Vi)　，(COMMACATEGORY)
+　完全(ADV)　沒有(Vt)　競爭力(N)　不(ADV)　建議(Vt)　入住(Vt)　此(DET)　酒店(N)

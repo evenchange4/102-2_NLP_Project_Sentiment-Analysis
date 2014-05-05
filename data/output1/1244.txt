@@ -1,0 +1,7 @@
+　賓館(N)　大門(N)　顯得(Vt)　很(ADV)　時尚(N)　，(COMMACATEGORY)
+　大廳(N)　很(ADV)　有(Vt)　個性(N)　，(COMMACATEGORY)
+　房間(N)　也(ADV)　保持(Vt)　一樣(Vi)　的(T)　風格(N)　，(COMMACATEGORY)
+　綠色(N)　木紋(N)　和(C)　磚石(N)　牆面(N)　，(COMMACATEGORY)
+　簡單(Vi)　不失(Vt)　個性(N)　，(COMMACATEGORY)
+　很(ADV)　像(Vt)　快捷(Vi)　酒店(N)　。(PERIODCATEGORY)
+　就(P)　價位(N)　來(ADV)　說(Vt)　很(ADV)　值得(Vi)　。(PERIODCATEGORY)

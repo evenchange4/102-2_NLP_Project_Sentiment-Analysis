@@ -1,0 +1,4 @@
+　酒店(N)　還(ADV)　算(Vt)　不錯(Vi)　的(T)　，(COMMACATEGORY)
+　價格(N)　實惠(Vi)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　很(ADV)　到位(Vi)　，(COMMACATEGORY)
+　推薦(Vt)　下(POST)　！(EXCLAMATIONCATEGORY)

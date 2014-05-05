@@ -1,0 +1,5 @@
+　相對(Vi)　價格(N)　而言(Vt)　，(COMMACATEGORY)
+　很(ADV)　不錯(Vi)　。(PERIODCATEGORY)
+　可是(C)　我(N)　訂(Vt)　的(T)　商務(N)　大(Vi)　床(N)　房間(N)　隔音(A)　太(ADV)　差(Vi)　，(COMMACATEGORY)
+　隔壁(N)　房間(N)　電話(N)　聲音(N)　、(PAUSECATEGORY)　咳嗽聲(N)　等(POST)　清清楚楚(Vi)　，(COMMACATEGORY)
+　太(ADV)　沒(Vt)　私密(Vi)　空間(N)　了(T)　。(PERIODCATEGORY)

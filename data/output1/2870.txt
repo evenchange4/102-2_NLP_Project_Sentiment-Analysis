@@ -1,0 +1,2 @@
+　給(P)　父母(N)　訂(Vt)　的(T)　~(FW)　回來(Vi)　說(Vt)　房間(N)　遠(ADV)　不及(Vt)　盛華(N)　的(T)　,(COMMACATEGORY)
+　早餐(N)　也(ADV)　不行(Vi)　.(PERIODCATEGORY)　唯一(A)　好(Vi)　的(T)　就是(C)　在(P)　風景區(N)　內(N)　了(T)　~(FW)

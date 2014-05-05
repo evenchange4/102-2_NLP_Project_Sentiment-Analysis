@@ -1,0 +1,4 @@
+　經濟(N)　間(POST)　是(Vt)　後來(N)　裝修(Vt)　的(T)　，(COMMACATEGORY)
+　與(C)　原來(A)　的(T)　房間(N)　比較(ADV)　小(Vi)　而且(C)　只(ADV)　是(Vt)　適合(Vi)　單人(N)　，(COMMACATEGORY)
+　因為(C)　洗澡間(N)　是(Vt)　磨砂(N)　玻璃(N)　隔開(Vt)　的(T)　，(COMMACATEGORY)
+　沒有(Vt)　浴缸(N)　。(PERIODCATEGORY)

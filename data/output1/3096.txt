@@ -1,0 +1,3 @@
+　唉(T)　！(EXCLAMATIONCATEGORY)　這(DET)　個(M)　酒店(N)　真是(ADV)　讓(Vt)　我(N)　失望(Vi)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　上(DET)　次(M)　住(Vt)　就(ADV)　感覺(Vt)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　這(DET)　次(M)　去(ADV)　發現(Vt)　床(N)　上(POST)　竟然(ADV)　有(Vt)　JB(FW)　毛兒(N)　！(EXCLAMATIONCATEGORY)　不(ADV)　說(Vt)　什麼(DET)　了(T)　，(COMMACATEGORY)
+　希望(Vt)　攜程(N)　努力(Vi)　控制(Vt)　酒店(N)　的(T)　檔次(N)　！(EXCLAMATIONCATEGORY)

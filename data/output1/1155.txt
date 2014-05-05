@@ -1,0 +1,4 @@
+　行政(N)　豪華(Vi)　間(POST)　有點(ADV)　偏(Vt)　貴(Vi)　，(COMMACATEGORY)
+　房間(N)　面積(N)　小(Vi)　了(T)　！(EXCLAMATIONCATEGORY)　服務(Nv)　總體(N)　還(ADV)　可以(ADV)　，(COMMACATEGORY)
+　就是(C)　房間(N)　清掃(Vt)　人員(N)　不(ADV)　太(ADV)　注意(Vt)　禮貌(N)　，(COMMACATEGORY)
+　有時候(ADV)　剛(ADV)　敲門(Vi)　馬上(ADV)　就(ADV)　擅自(ADV)　進來(Vi)　！(EXCLAMATIONCATEGORY)　酒店(N)　位置(N)　不錯(Vi)　！(EXCLAMATIONCATEGORY)

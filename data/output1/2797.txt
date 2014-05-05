@@ -1,0 +1,7 @@
+　優點(N)　：(COLONCATEGORY)　交通(N)　便利(Nv)　缺點(N)　：(COLONCATEGORY)　不(ADV)　符合(Vt)　我(N)　心(N)　中(POST)　的(T)　四星1(N)　.(PERIODCATEGORY)　酒店(N)　的(T)　泳池(N)　還不如(C)　比(P)　它(N)　小(Vi)　的(T)　酒店(N)　漂亮(Vi)　。(PERIODCATEGORY)
+　2(DET)　.(PERIODCATEGORY)　在(P)　三亞灣(N)　又(ADV)　不(ADV)　是(Vt)　亞龍灣(N)　，(COMMACATEGORY)
+　這(DET)　個(M)　價位(N)　沒有(Vt)　優勢(N)　，(COMMACATEGORY)
+　得不到(Vt)　相應(Vi)　的(T)　要求(N)　。(PERIODCATEGORY)
+　3(DET)　.(PERIODCATEGORY)　與(P)　之前(N)　的(T)　評價(N)　不符(Vt)　，(COMMACATEGORY)
+　a(FW)　距離(N)　春圓(N)　海鮮(N)　廣場(N)　沒(ADV)　那麼(ADV)　近(Vi)　．(PERIODCATEGORY)　b(FW)　樓下(N)　的(T)　金(N)　鳳凰(N)　廣場(N)　也(ADV)　沒有(ADV)　想(Vt)　的(T)　那麼(ADV)　好(Vi)　．(PERIODCATEGORY)　總之(ADV)　：(COLONCATEGORY)　下(POST)　回(Vt)　不會(ADV)　在(P)　選擇(Vt)　了(ASP)　，(COMMACATEGORY)
+　還不如(C)　花(Vt)　少(Vi)　錢(N)　住(Vt)　三亞灣(N)　的(T)　小型(N)　度假村(N)　或(ADV)　花(Vt)　同樣(Vi)　的(T)　錢(N)　住(Vt)　環境(N)　好(Vi)　的(T)　亞龍灣(N)

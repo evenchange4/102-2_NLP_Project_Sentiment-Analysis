@@ -1,0 +1,8 @@
+　性價(N)　比(P)　不錯(Vi)　，(COMMACATEGORY)
+　交通(N)　方便(Vi)　。(PERIODCATEGORY)
+　行政(N)　樓層(N)　感覺(Vt)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　只(ADV)　是(Vt)　早上(N)　8(DET)　點(M)　樓上(N)　裝修(Nv)　，(COMMACATEGORY)
+　好(ADV)　吵(Vi)　。(PERIODCATEGORY)
+　中(N)　餐廳(N)　檔次(N)　太(ADV)　低(Vi)　，(COMMACATEGORY)
+　雖然(C)　便宜(Vi)　，(COMMACATEGORY)
+　但是(C)　和(P)　酒店(N)　檔次(N)　不(T)　相配(Vi)　。(PERIODCATEGORY)

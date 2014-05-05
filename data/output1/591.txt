@@ -1,0 +1,5 @@
+　客房(N)　和(C)　餐廳(N)　的(T)　服務(Nv)　都(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　總台(N)　的(T)　辦事(Nv)　速度(N)　也(ADV)　挺(ADV)　快(Vi)　。(PERIODCATEGORY)
+　但(C)　樓層(N)　好像(ADV)　沒(Vt)　電話(N)　，(COMMACATEGORY)
+　我(N)　忘(Vt)　帶房卡(N)　還(ADV)　要(ADV)　下到(Vt)　總台(N)　，(COMMACATEGORY)
+　電梯(N)　有點(ADV)　慢(Vi)　。(PERIODCATEGORY)

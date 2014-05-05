@@ -1,0 +1,6 @@
+　非常(ADV)　好(Vi)　的(T)　酒店(N)　,(COMMACATEGORY)
+　除了(P)　前台(N)　的(T)　服務(Nv)　態度(N)　.(PERIODCATEGORY)　房間(N)　設施(N)　非常(ADV)　好(Vi)　,(COMMACATEGORY)
+　飛利浦(N)　的(T)　液晶(N)　彩電(N)　,(COMMACATEGORY)
+　還(ADV)　有(Vt)　電腦(N)　備用(Vi)　.(PERIODCATEGORY)　只(ADV)　是(Vt)　,(COMMACATEGORY)
+　可能(ADV)　因為(C)　是(Vt)　通過(Vt)　攜程(N)　預定(Vt)　而(C)　非(ADV)　直接(Vi)　預定(Vt)　的(T)　原因(N)　,(COMMACATEGORY)
+　房間(N)　的(T)　位置(N)　非常(ADV)　差(Vi)　.(PERIODCATEGORY)

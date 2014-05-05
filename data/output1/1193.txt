@@ -1,0 +1,3 @@
+　物(N)　有所(Vt)　值(N)　,(COMMACATEGORY)
+　同等(A)　價格(N)　,(COMMACATEGORY)
+　三星(N)　的(T)　酒店(N)　不錯(Vi)　了(T)　...(ETCCATEGORY)

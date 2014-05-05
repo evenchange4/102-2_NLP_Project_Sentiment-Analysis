@@ -1,0 +1,7 @@
+　1(DET)　、(PAUSECATEGORY)　房間(N)　裡(N)　過於(ADV)　奢華(Vi)　的(T)　傢俱(N)　不(ADV)　實用(Vi)　，(COMMACATEGORY)
+　且(C)　沒有(Vt)　家(N)　的(T)　溫馨2(N)　、(PAUSECATEGORY)　睡(Vi)　到(P)　凌晨(N)　發現(Vt)　有(Vt)　老鼠(N)　在(P)　放(Vt)　家(N)　裡(N)　爬(Vi)　，(COMMACATEGORY)
+　打電話(Vi)　給(Vt)　前台(N)　要求(Vt)　換(Vt)　房(N)　，(COMMACATEGORY)
+　前台(N)　讓(Vt)　我(N)　自己(N)　下樓(Vi)　換(Vt)　房卡(N)　，(COMMACATEGORY)
+　理由(N)　是(Vt)　服務員(N)　睡覺(Vi)　了(ASP)　3(DET)　、(PAUSECATEGORY)　調到(Vt)　價位(N)　低(Vi)　的(T)　房間(N)　後(POST)　，(COMMACATEGORY)
+　第二(DET)　天(M)　結賬(Vi)　還(ADV)　要(ADV)　按照(P)　高(Vi)　價位(N)　結算(Nv)　，(COMMACATEGORY)
+　並且(C)　對(P)　房間(N)　發現(Vt)　老鼠(N)　一(DET)　事(N)　沒有(Vt)　意思(N)　的(T)　道歉(Vi)　4(DET)　、(PAUSECATEGORY)　over(FW)

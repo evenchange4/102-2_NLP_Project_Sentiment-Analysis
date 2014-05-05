@@ -1,0 +1,4 @@
+　航空(N)　酒店(N)　還(ADV)　是(Vt)　不錯(Vi)　的(T)　，(COMMACATEGORY)
+　房間(N)　也(ADV)　乾淨(Vi)　整潔(Vi)　，(COMMACATEGORY)
+　地理(N)　位置(N)　也好(T)　，(COMMACATEGORY)
+　價位(N)　也(ADV)　適中(Vi)　。(PERIODCATEGORY)

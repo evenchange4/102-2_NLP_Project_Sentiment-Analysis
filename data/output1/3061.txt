@@ -1,0 +1,2 @@
+　整(DET)　個(M)　房間(N)　也(ADV)　太(ADV)　小(Vi)　了(ASP)　點(ADV)　,(COMMACATEGORY)
+　所有(DET)　的(T)　加(Vt)　一起(ADV)　大概(ADV)　才(ADV)　十(DET)　平米(M)　左右(N)　!(EXCLAMATIONCATEGORY)　床單(N)　是(Vt)　髒(Vi)　的(T)　.(PERIODCATEGORY)

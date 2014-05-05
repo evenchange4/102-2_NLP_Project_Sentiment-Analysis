@@ -1,0 +1,2 @@
+　設備(N)　很(ADV)　簡單(Vi)　服務(Nv)　意識(N)　很(ADV)　差(Vi)　餐廳(N)　的(T)　設施(N)　就(ADV)　跟(P)　街(N)　邊(N)　的(T)　小(Vi)　灘(N)　一樣(Vi)　，(COMMACATEGORY)
+　衛生(N)　條件(N)　很(ADV)　不(ADV)　好(Vi)　。(PERIODCATEGORY)

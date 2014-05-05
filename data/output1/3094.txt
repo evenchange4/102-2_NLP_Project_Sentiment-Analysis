@@ -1,0 +1,5 @@
+　感覺(N)　不(ADV)　太(ADV)　像(Vt)　酒店(N)　，(COMMACATEGORY)
+　像(P)　旅館(N)　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　毛巾(N)　什麼(DET)　的(T)　都(ADV)　比較(ADV)　舊(Vi)

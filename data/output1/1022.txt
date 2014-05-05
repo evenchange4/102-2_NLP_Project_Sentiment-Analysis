@@ -1,0 +1,3 @@
+　總體(N)　感覺(N)　不錯(Vi)　，(COMMACATEGORY)
+　美中不足(Vi)　的(T)　是(Vt)　房(N)　與(C)　房(N)　之間(POST)　隔音(A)　效果(N)　不(ADV)　太(ADV)　好(Vi)　，(COMMACATEGORY)
+　還(ADV)　有(Vt)　房價(N)　感覺(N)　稍(ADV)　高(Vi)　。(PERIODCATEGORY)

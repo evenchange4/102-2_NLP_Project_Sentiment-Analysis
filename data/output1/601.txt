@@ -1,0 +1,7 @@
+　又(ADV)　是(Vt)　為了(P)　吸煙區(N)　和(C)　非(A)　吸煙區(N)　！(EXCLAMATIONCATEGORY)　一(ADV)　開始(Vt)　總是(ADV)　說(Vt)　沒有(Vt)　，(COMMACATEGORY)
+　最後(N)　還(ADV)　都(ADV)　能(ADV)　找到(Vt)　，(COMMACATEGORY)
+　唉(T)　！(EXCLAMATIONCATEGORY)　真(ADV)　不(ADV)　明白(Vt)　。(PERIODCATEGORY)
+　賓館(N)　反饋(Vt)　2008年(N)　7月(N)　8日(N)　：(COLONCATEGORY)　您(N)　的(T)　寶貴(Vi)　意見(N)　得到(Vt)　了(ASP)　我們(N)　酒店(N)　管理層(N)　的(T)　高度(A)　重視(Nv)　,(COMMACATEGORY)
+　我們(N)　已經(ADV)　加強(Vt)　了(ASP)　從(P)　預訂(Vt)　到(P)　前台(N)　對(P)　客人(N)　的(T)　吸煙房(N)　和(C)　無煙房(N)　的(T)　需求(N)　的(T)　重視(Nv)　.(PERIODCATEGORY)　但(C)　如果(C)　酒店(N)　房間(N)　特別(Vi)　緊張(Vi)　時(POST)　,(COMMACATEGORY)
+　酒店(N)　也(ADV)　只有(ADV)　將(P)　吸煙房(N)　做(Vt)　無煙(Vi)　處理(Vt)　,(COMMACATEGORY)
+　敬請(Vt)　諒解(Vt)　!(EXCLAMATIONCATEGORY)　歡迎(Vt)　您(N)　下(DET)　次(M)　繼續(Vt)　入住(Vt)　我(N)　酒店(N)　!(EXCLAMATIONCATEGORY)

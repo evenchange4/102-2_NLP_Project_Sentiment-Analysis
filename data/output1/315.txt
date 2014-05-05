@@ -1,0 +1,6 @@
+　酒店(N)　設施(N)　有點(ADV)　陳舊(Vi)　，(COMMACATEGORY)
+　但(C)　地處(Vt)　市中心(N)　地(T)　帶(Vt)　，(COMMACATEGORY)
+　交通(N)　方便(Vi)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　攜(Vt)　程(N)　的(T)　預定(Nv)　價格(N)　很(ADV)　公道(Vi)　，(COMMACATEGORY)
+　可以(ADV)　作為(Vt)　一(DET)　個(M)　出差(Vi)　的(T)　選擇(N)

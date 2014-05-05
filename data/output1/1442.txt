@@ -1,0 +1,7 @@
+　住(Vt)　的(T)　行政(N)　大(Vi)　床(N)　房(N)　,(COMMACATEGORY)
+　實在(ADV)　是(Vt)　喜歡(Vt)　西郊(N)　裡(N)　的(T)　環境(N)　,(COMMACATEGORY)
+　院子(N)　裡(N)　的(T)　黑(Vi)　天鵝(N)　,(COMMACATEGORY)
+　丹(N)　頂鶴(N)　,(COMMACATEGORY)
+　還(ADV)　有(Vt)　西郊(N)　的(T)　小(Vi)　野貓(N)　,(COMMACATEGORY)
+　繁華(Vi)　上海(N)　中(N)　的(T)　安逸(Vi)　休息(Vi)　之(T)　地(N)　,(COMMACATEGORY)
+　以後(N)　去(Vt)　上海(N)　都(ADV)　住(Vt)　這裡(N)　.(PERIODCATEGORY)

@@ -1,0 +1,6 @@
+　經濟類(N)　酒店(N)　，(COMMACATEGORY)
+　所以(C)　價格(N)　適中(Vi)　。(PERIODCATEGORY)
+　酒店(N)　設施(N)　服務(Nv)　就(ADV)　一般(Vi)　了(T)　。(PERIODCATEGORY)
+　雖然(C)　在(P)　亞龍灣(N)　，(COMMACATEGORY)
+　但是(C)　交通(N)　十分(ADV)　不(ADV)　方便(Vi)　，(COMMACATEGORY)
+　下(DET)　次(M)　還不如(C)　住(Vt)　在(P)　市區(N)　。(PERIODCATEGORY)

@@ -1,0 +1,4 @@
+　因為(C)　悅華(N)　酒店(N)　沒(Vt)　房間(N)　了(T)　才(ADV)　通過(Vt)　攜程定(Vt)　泉州(N)　酒店(N)　的(T)　。(PERIODCATEGORY)
+　其實(ADV)　泉酒(N)　的(T)　整體(N)　比(P)　悅華(N)　大氣(N)　，(COMMACATEGORY)
+　裝修(Vt)　也(ADV)　很(ADV)　講究(Vt)　，(COMMACATEGORY)
+　唯一(A)　比不過(Vt)　悅華(N)　的(T)　就是(C)　服務(Nv)　和(C)　早餐(N)　。(PERIODCATEGORY)

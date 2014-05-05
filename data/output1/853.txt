@@ -1,0 +1,5 @@
+　設施(N)　不新(Vi)　,(COMMACATEGORY)
+　房間(N)　大小(N)　適中(Vi)　,(COMMACATEGORY)
+　都(ADV)　是(Vt)　側看(Vt)　海景(N)　,(COMMACATEGORY)
+　有(Vt)　無煙層(N)　.(PERIODCATEGORY)　早餐(N)　比較(ADV)　普通(Vi)　,(COMMACATEGORY)
+　選擇(Vt)　不(ADV)　多(Vi)　.(PERIODCATEGORY)

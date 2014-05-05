@@ -1,0 +1,5 @@
+　有(Vt)　停車場(N)　，(COMMACATEGORY)
+　房間(N)　乾淨(Vi)　、(PAUSECATEGORY)　安靜(Vi)　，(COMMACATEGORY)
+　各(DET)　方面(N)　還(ADV)　算(Vt)　不錯(Vi)　只是(C)　價格(N)　在(P)　肇慶(N)　來(ADV)　說(Vt)　還是(ADV)　偏(ADV)　高(Vi)　了(ASP)　些(ADV)　。(PERIODCATEGORY)
+　上(DET)　次(M)　我們(N)　在(P)　肇慶(N)　皇潮(N)　搞(Vt)　個(M)　活動(N)　，(COMMACATEGORY)
+　房間(N)　設施(N)　各(DET)　方面(N)　比星湖大(N)　酒店(N)　最(ADV)　起碼(A)　高(Vi)　一(DET)　個(T)　級別(N)　只(ADV)　需(Vt)　260(DET)　元(M)　。(PERIODCATEGORY)

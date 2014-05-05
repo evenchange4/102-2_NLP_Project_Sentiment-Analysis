@@ -1,0 +1,7 @@
+　房間(N)　比中州(N)　皇冠(N)　之類(POST)　的(T)　大多(DET)　了(T)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　還(ADV)　可以(ADV)　；(SEMICOLONCATEGORY)　早餐(N)　太(ADV)　次(Vt)　，(COMMACATEGORY)
+　品種(N)　太少(Vi)　。(PERIODCATEGORY)
+　此外(C)　，(COMMACATEGORY)
+　房間(N)　裝修(Vt)　在(P)　細節(N)　性(N)　方面(N)　有待(Vt)　改進(Vt)　，(COMMACATEGORY)
+　尤其(ADV)　是(Vt)　門框(N)　等(POST)　木質(N)　裝飾(N)　，(COMMACATEGORY)
+　實在(ADV)　不(ADV)　像(P)　5星(N)　級別(N)　。(PERIODCATEGORY)

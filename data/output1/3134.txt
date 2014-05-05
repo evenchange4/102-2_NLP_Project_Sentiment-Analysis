@@ -1,0 +1,4 @@
+　房間(N)　不(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　設施(N)　陳舊(Vi)　。(PERIODCATEGORY)
+　以後(N)　不會(ADV)　再(ADV)　住(Vt)　，(COMMACATEGORY)
+　還是(C)　格林豪泰(N)　或(C)　如(P)　家(N)　比較(ADV)　好(Vi)　。(PERIODCATEGORY)

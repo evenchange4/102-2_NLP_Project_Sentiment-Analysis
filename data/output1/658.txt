@@ -1,0 +1,5 @@
+　所謂(Vt)　商務(N)　間(POST)　和(C)　普通(Vi)　間(POST)　的(T)　區別(N)　就(ADV)　是(Vt)　多(Vi)　了(ASP)　台(N)　電腦(N)　，(COMMACATEGORY)
+　對於(P)　自帶(N)　電腦(N)　的(T)　商務(N)　旅客(N)　完全(ADV)　沒(Vt)　必要(N)　多加(N)　100(DET)　元(M)　，(COMMACATEGORY)
+　其它(DET)　都(ADV)　好(Vi)　。(PERIODCATEGORY)
+　合肥(Nca)　的(T)　出租車(N)　態度(N)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　可能(ADV)　是(Vt)　因為(C)　這(DET)　個(M)　城市(N)　出租車(N)　比較(ADV)　少(Vi)　。(PERIODCATEGORY)

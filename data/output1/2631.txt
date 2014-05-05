@@ -1,0 +1,5 @@
+　本人(N)　是(Vt)　在(P)　春節(N)　後(N)　2月(N)　27(DET)　號(M)　入住(Vt)　的(T)　，(COMMACATEGORY)
+　該(DET)　酒店(N)　很(ADV)　差(Vi)　；(SEMICOLONCATEGORY)　說(Vt)　是(Vt)　四星級(N)　，(COMMACATEGORY)
+　可是(C)　服務(Nv)　完全(ADV)　沒有(Vt)　到位(Vi)　。(PERIODCATEGORY)
+　我(N)　共住(Vt)　了(ASP)　五(DET)　天(M)　；(SEMICOLONCATEGORY)　三(DET)　天(M)　服務員(N)　進(Vt)　房間(N)　就(ADV)　是(Vt)　疊(Vt)　被子(N)　和(C)　補(Vt)　一次性(N)　酒店(N)　用品(N)　；(SEMICOLONCATEGORY)　地上(N)　都(ADV)　沒有(Vt)　清潔(Vi)　過(ASP)　；(SEMICOLONCATEGORY)　我(N)　第一(DET)　天(M)　掉(Vi)　的(T)　小(Vi)　紙屑(N)　到(P)　第三(DET)　天(M)　連(ADV)　躺(Vi)　的(T)　位置(N)　都(ADV)　沒(ADV)　換(Vt)　過(ASP)　；(SEMICOLONCATEGORY)　真(ADV)　可笑(Vi)　！(EXCLAMATIONCATEGORY)　晚上(N)　很(ADV)　吵(Vi)　，(COMMACATEGORY)
+　開門(Vi)　聲音(N)　很(ADV)　響(Vi)　；(SEMICOLONCATEGORY)　實在(ADV)　很(ADV)　差(Vi)　；(SEMICOLONCATEGORY)　建議(Vt)　大家(N)　都(ADV)　不要(ADV)　去(ADV)　住(Vt)　了(ASP)　。(PERIODCATEGORY)

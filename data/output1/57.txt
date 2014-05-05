@@ -1,0 +1,4 @@
+　豪華閣(N)　的(T)　客房(N)　和(C)　普通(Vi)　客房(N)　差距(N)　較(ADV)　大(Vi)　，(COMMACATEGORY)
+　普通(Vi)　客房(N)　都(ADV)　顯得(Vt)　比較(ADV)　陳舊(Vi)　，(COMMACATEGORY)
+　經常(ADV)　聽說(Vt)　外國(N)　客人(N)　遇到(Vt)　房間(N)　免費(Vi)　升級(Vi)　，(COMMACATEGORY)
+　中國人(N)　倒是(ADV)　沒有(ADV)　遇到(Vt)　過(ASP)　！(EXCLAMATIONCATEGORY)

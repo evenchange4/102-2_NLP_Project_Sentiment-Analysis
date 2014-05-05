@@ -1,0 +1,8 @@
+　通過(Vt)　攜程(N)　預訂(Vt)　，(COMMACATEGORY)
+　入住(Vt)　3(DET)　天(M)　，(COMMACATEGORY)
+　感覺(N)　價格(N)　和(C)　房間(N)　差距(N)　較(ADV)　大(Vi)　，(COMMACATEGORY)
+　房間(N)　陳舊(Vi)　、(PAUSECATEGORY)　衛生間(N)　較(ADV)　小(Vi)　、(PAUSECATEGORY)　特別(Vi)　是(Vt)　電視機(N)　那(DET)　叫(Vt)　一(DET)　個(M)　破(Vt)　哦(T)　，(COMMACATEGORY)
+　估計(Vt)　成都(N)　的(T)　招待所(N)　都(ADV)　沒有(Vt)　這樣(Vi)　的(T)　電視機(N)　了(T)　。(PERIODCATEGORY)
+　早餐(N)　不錯(Vi)　，(COMMACATEGORY)
+　服務(Nv)　沒有(ADV)　體會到(Vt)　。(PERIODCATEGORY)
+　房間(N)　價格(N)　在(P)　158(DET)　元(M)　/(FW)　間(DM)　應該(ADV)　差不多(Vi)　了(T)　。(PERIODCATEGORY)

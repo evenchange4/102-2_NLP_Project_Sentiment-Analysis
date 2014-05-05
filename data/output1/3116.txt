@@ -1,0 +1,3 @@
+　實在(ADV)　一般(Vi)　，(COMMACATEGORY)
+　這樣(Vi)　的(T)　酒店(N)　還(ADV)　要(ADV)　這(DET)　個(M)　價錢(N)　，(COMMACATEGORY)
+　令(Vt)　人(N)　費解(Vi)　！(EXCLAMATIONCATEGORY)

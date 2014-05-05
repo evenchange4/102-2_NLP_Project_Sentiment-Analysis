@@ -1,0 +1,5 @@
+　早餐(N)　還可以(Vi)　，(COMMACATEGORY)
+　房間(N)　一般(POST)　，(COMMACATEGORY)
+　不過(C)　隔音(A)　效果(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　雖然(C)　對(P)　則(ADV)　一(DET)　條(M)　大(Vi)　馬路(N)　，(COMMACATEGORY)
+　但是(C)　根本(ADV)　聽(Vt)　不(ADV)　到(Vt)　什麼(DET)　嘲音(A)

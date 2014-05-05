@@ -1,0 +1,1 @@
+　酒店(N)　環境(N)　很(ADV)　好(Vi)　交通(N)　很(ADV)　方便(Vi)　附近(N)　有(Vt)　比較(ADV)　多(Vi)　吃(Vt)　東西(N)　的(T)　地方(N)　我(N)　是(Vt)　晚上(N)　到(Vt)　的(T)　12(DET)　點(M)　多(POST)　在(P)　附近(N)　還是(ADV)　可以(ADV)　很(ADV)　方便(Vi)　吃到(Vt)　東西(N)

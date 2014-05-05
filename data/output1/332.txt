@@ -1,0 +1,4 @@
+　早餐(N)　是(Vt)　中式(A)　，(COMMACATEGORY)
+　有(Vt)　些(M)　東西(N)　很(ADV)　奇怪(Vt)　。(PERIODCATEGORY)
+　住(Vt)　店(N)　停車(Vi)　還(ADV)　收費(Vt)　，(COMMACATEGORY)
+　不應該(ADV)　。(PERIODCATEGORY)

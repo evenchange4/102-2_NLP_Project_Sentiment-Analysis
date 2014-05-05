@@ -1,0 +1,7 @@
+　這樣(Vi)　的(T)　酒店(N)　一般(POST)　,(COMMACATEGORY)
+　前台(N)　服務員(N)　善意(N)　提醒(Vt)　預定(Vt)　房間(N)　有(Vt)　些(M)　吵(Vt)　((PARENTHESISCATEGORY)　靠近(Vt)　高架(N)　)(PARENTHESISCATEGORY)　,(COMMACATEGORY)
+　因為(C)　只有(ADV)　這樣(Vi)　的(T)　房間(N)　才(ADV)　有(Vt)　收費(Vt)　的(T)　寬帶(N)　,(COMMACATEGORY)
+　查看(Vt)　房間(N)　後(POST)　感覺(Vt)　還(ADV)　可以(ADV)　,(COMMACATEGORY)
+　可(ADV)　服務員(N)　就(ADV)　不能(ADV)　等待(Vt)　10(DET)　min(FW)　再(ADV)　下樓(Vi)　登記(Vt)　,(COMMACATEGORY)
+　而是(C)　要求(Vt)　必須(ADV)　馬上(ADV)　登記(Vt)　,(COMMACATEGORY)
+　好像(ADV)　擔心(Vt)　我們(N)　會(ADV)　偷(Vt)　他們(N)　的(T)　東西(N)　似的(POST)　.(PERIODCATEGORY)

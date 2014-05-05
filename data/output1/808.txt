@@ -1,0 +1,8 @@
+　地理(N)　位置(N)　不錯(Vi)　,(COMMACATEGORY)
+　房間(N)　在(P)　香港(N)　來(ADV)　說(Vt)　,(COMMACATEGORY)
+　算(Vt)　大(Vi)　的(T)　,(COMMACATEGORY)
+　特別(Vi)　是(Vt)　衛生間(N)　很(ADV)　大(Vi)　,(COMMACATEGORY)
+　硬件(N)　比較(ADV)　舊(Vi)　.(PERIODCATEGORY)　住(Vt)　這裡(N)　只是(ADV)　塗(Vt)　個(M)　方便(Vi)　.(PERIODCATEGORY)　只是(C)　這(DET)　次(M)　的(T)　時機(N)　不(ADV)　對(Vi)　,(COMMACATEGORY)
+　遇上(Vt)　會展(N)　,(COMMACATEGORY)
+　價格(N)　大概(ADV)　別(ADV)　平時(N)　貴上(Vi)　2(DET)　-(DASHCATEGORY)　3(DET)　倍(N)　哦(T)　.(PERIODCATEGORY)　平時(N)　的(T)　話(N)　,(COMMACATEGORY)
+　2000多(DET)　能(ADV)

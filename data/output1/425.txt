@@ -1,0 +1,2 @@
+　價格(N)　實惠(Vi)　，(COMMACATEGORY)
+　基本(A)　還可以(Vi)　賓館(N)　反饋(Vt)　2008年(N)　4月(N)　17日(N)　：(COLONCATEGORY)　希望(N)　下(DET)　次(M)　再(ADV)　入住(Vt)　本(DET)　酒店(N)　。(PERIODCATEGORY)

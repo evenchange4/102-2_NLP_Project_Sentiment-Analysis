@@ -1,0 +1,7 @@
+　酒店(N)　位置(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　在(P)　西(N)　街(N)　的(T)　街口(N)　。(PERIODCATEGORY)
+　酒店(N)　內(N)　環境(N)　優美(Vi)　，(COMMACATEGORY)
+　就(ADV)　是(Vt)　自助(Nv)　早餐(N)　價格(N)　太(ADV)　貴(Vi)　，(COMMACATEGORY)
+　品種(N)　也(ADV)　不(ADV)　多(Vi)　。(PERIODCATEGORY)
+　7(DET)　月份(N)　住(Vt)　了(ASP)　3(DET)　天(M)　，(COMMACATEGORY)
+　感覺(Vt)　挺(ADV)　好(Vi)　的(T)　。(PERIODCATEGORY)

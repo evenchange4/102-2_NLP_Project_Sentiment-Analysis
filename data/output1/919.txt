@@ -1,0 +1,8 @@
+　很(ADV)　好(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　很(ADV)　喜歡(Vt)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　乾淨(Vi)　很(ADV)　漂亮(Vi)　，(COMMACATEGORY)
+　從(P)　房間(N)　的(T)　窗口(N)　看出去(Vi)　，(COMMACATEGORY)
+　超(Vt)　美(Vi)　的(T)　，(COMMACATEGORY)
+　在(P)　市中心(N)　區域(N)　，(COMMACATEGORY)
+　出行(Vi)　也(ADV)　非常(ADV)　的(T)　方便(Vi)　，(COMMACATEGORY)
+　有(Vt)　機會(N)　一定(ADV)　會(ADV)　再(ADV)　住(Vt)　的(T)　。(PERIODCATEGORY)

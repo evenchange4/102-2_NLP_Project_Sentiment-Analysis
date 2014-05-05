@@ -1,0 +1,4 @@
+　很(ADV)　差勁(Vi)　的(T)　地方(N)　。(PERIODCATEGORY)
+　是(Vt)　人(N)　都(ADV)　不要(ADV)　住(Vt)　。(PERIODCATEGORY)
+　設施(N)　什麼(DET)　都(ADV)　不(ADV)　好(Vi)　還(ADV)　貴(Vi)　。(PERIODCATEGORY)
+　真是(ADV)　晦氣(Vi)

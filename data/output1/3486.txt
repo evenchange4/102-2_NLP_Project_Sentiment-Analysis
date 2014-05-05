@@ -1,0 +1,2 @@
+　房間(N)　外(N)　聲音(N)　太(ADV)　大(Vi)　，(COMMACATEGORY)
+　比較(ADV)　吵鬧(Vi)　！(EXCLAMATIONCATEGORY)　直接(Vi)　到(Vt)　前台(N)　預定(Vt)　費用(N)　更(ADV)　合理(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,5 @@
+　非常(ADV)　不(ADV)　好(Vi)　,(COMMACATEGORY)
+　房間(N)　的(T)　裝修(Nv)　太(ADV)　舊(Vi)　,(COMMACATEGORY)
+　就(ADV)　像(P)　90年代(N)　的(T)　感覺(N)　.(PERIODCATEGORY)　入住(Vt)　的(T)　168(DET)　的(T)　所謂(Vt)　豪華(Vi)　標準(N)　間(POST)　,(COMMACATEGORY)
+　只(ADV)　能(ADV)　說(Vt)　普通(Vi)　標準(N)　間(N)　罷了(T)　,(COMMACATEGORY)
+　老公(N)　睡覺(Vi)　起來(ASP)　?(QUESTIONCATEGORY)

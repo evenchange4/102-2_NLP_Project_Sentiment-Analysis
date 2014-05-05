@@ -1,0 +1,4 @@
+　環境(N)　不(ADV)　太(ADV)　好(Vi)　，(COMMACATEGORY)
+　大堂(N)　燈光(N)　也(ADV)　不行(Vi)　，(COMMACATEGORY)
+　沒(ADV)　開(Vt)　幾(DET)　個(M)　燈(N)　，(COMMACATEGORY)
+　一(DET)　進門(N)　感覺(N)　挺(ADV)　暗(Vi)　的(T)　。(PERIODCATEGORY)

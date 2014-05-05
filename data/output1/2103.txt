@@ -1,0 +1,5 @@
+　出差(Vi)　入住(Vt)　的(T)　酒店(N)　,(COMMACATEGORY)
+　訂(Vt)　了(ASP)　個(M)　三(DET)　人間(N)　.(PERIODCATEGORY)　房間(N)　沒(Vt)　空調(N)　,(COMMACATEGORY)
+　冷(Vi)　得(T)　要(ADV)　死(Vi)　,(COMMACATEGORY)
+　而且(C)　被子(N)　很(ADV)　潮(Vi)　.(PERIODCATEGORY)　火車站(N)　旁(N)　,(COMMACATEGORY)
+　步行(Vi)　可(ADV)　到(Vt)　.(PERIODCATEGORY)　據說(ADV)　當地(N)　的(T)　第一(DET)　名(M)　金(N)　鑰匙(N)　是(Vt)　這(DET)　家(M)

@@ -1,0 +1,7 @@
+　就(ADV)　在(P)　崇聖寺(N)　後面(N)　，(COMMACATEGORY)
+　酒店(N)　環境(N)　不錯(Vi)　，(COMMACATEGORY)
+　但(C)　硬件(N)　設施(N)　比較(ADV)　陳舊(Vi)　。(PERIODCATEGORY)
+　地理(N)　位置(N)　離(P)　景點(N)　近(Vi)　，(COMMACATEGORY)
+　但(C)　離(P)　市區(N)　較(ADV)　遠(Vi)　，(COMMACATEGORY)
+　希望(Vt)　酒店(N)　能(ADV)　多(ADV)　為(Vt)　客人(N)　提供(Vt)　交通(N)　上(N)　的(T)　便利(Nv)　，(COMMACATEGORY)
+　比如(P)　多(DET)　發(M)　班車(N)　之類(POST)　的(T)　。(PERIODCATEGORY)

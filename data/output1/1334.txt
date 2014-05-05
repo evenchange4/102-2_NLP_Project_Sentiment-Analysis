@@ -1,0 +1,2 @@
+　這(DET)　間(M)　酒店(N)　環境(N)　和(C)　服務(Nv)　態度(N)　亦(ADV)　算(Vt)　不錯(Vi)　,(COMMACATEGORY)
+　但(C)　房間(N)　空間(N)　太(ADV)　小(Vi)　~(FW)　~(FW)　不宣(N)　容納(Vt)　太(ADV)　大(Vi)　件(M)　行李(N)　~(FW)　~(FW)　且(C)　房間(N)　格調(N)　還可以(ADV)　~(FW)　~(FW)　中(N)　餐廳(N)　的(T)　廣東(N)　點心(N)　不(ADV)　太(ADV)　好吃(Vi)　~(FW)　~(FW)　要(ADV)　改善(Vt)　之(T)　~(FW)　~(FW)　~(FW)　~(FW)　但(C)　算(Vt)　價錢(N)　平宜(N)　~(FW)　~(FW)　可(ADV)　接受(Vt)　~(FW)　~(FW)　西餐廳(N)　格調(N)　都(ADV)　很(ADV)　好(Vi)　~(FW)　~(FW)　但(C)　吃(Vt)　的(T)　味道(N)　一般(ADV)　且(ADV)　令(Vt)　人(N)　等(POST)　得(T)　太(ADV)　耐(Vt)　了(ASP)　~(FW)　~(FW)　要(ADV)　改善(Vt)　之(T)　~(FW)　~(FW)

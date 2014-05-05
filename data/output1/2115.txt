@@ -1,0 +1,3 @@
+　很(ADV)　懷疑(Vt)　五(DET)　星(N)　酒店(N)　的(T)　評價(N)　標準(N)　。(PERIODCATEGORY)
+　三星(N)　都(ADV)　不如(Vt)　，(COMMACATEGORY)
+　很(ADV)　失望(Vi)　！(EXCLAMATIONCATEGORY)

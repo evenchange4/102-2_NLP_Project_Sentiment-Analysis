@@ -1,0 +1,3 @@
+　環境(N)　比較(ADV)　舊(Vi)　，(COMMACATEGORY)
+　但是(C)　床單(N)　、(PAUSECATEGORY)　毛巾(N)　都(ADV)　比較(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　前台(N)　服務(Nv)　態度(N)　良好(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,2 @@
+　入住(Vt)　感想(N)　如下(Vt)　：(COLONCATEGORY)　找(Vt)　不(ADV)　到(Vt)　5(DET)　星級(N)　賓館(N)　的(T)　感覺(N)　、(PAUSECATEGORY)　總體(N)　水平(N)　最多(Vi)　只(ADV)　能(ADV)　算(Vt)　4(DET)　星級(N)　。(PERIODCATEGORY)
+　雖然(C)　房價(N)　比(P)　中州(N)　皇冠(N)　便宜(Vi)　100(DET)　元(M)　左右(POST)　、(PAUSECATEGORY)　但(C)　所有(DET)　硬件(N)　及(C)　軟件(N)　遠(ADV)　不及(Vt)　中州(N)　皇冠(N)　。(PERIODCATEGORY)

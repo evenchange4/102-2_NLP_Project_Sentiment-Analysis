@@ -1,0 +1,4 @@
+　酒店(N)　有(Vt)　異味(N)　，(COMMACATEGORY)
+　無(Vt)　空調(N)　，(COMMACATEGORY)
+　給(P)　人(N)　的(T)　整體(N)　感覺(N)　很(ADV)　破舊(Vi)　，(COMMACATEGORY)
+　根本(ADV)　不能(ADV)　稱為(Vt)　四星(N)

@@ -1,0 +1,3 @@
+　一(DET)　.(PERIODCATEGORY)　房間(N)　外面(N)　是(Vt)　中央(N)　空調(N)　外(N)　機(N)　的(T)　聲音(N)　.(PERIODCATEGORY)　無法(ADV)　入睡(Vi)　二(DET)　.(PERIODCATEGORY)　酒店(N)　服務員(N)　好像(ADV)　都(ADV)　是(Vt)　別人(N)　欠(Vt)　她(N)　錢(N)　的(T)　表情(N)　,(COMMACATEGORY)
+　不過(C)　對(P)　那些(DET)　小(Vi)　日本(N)　卻(ADV)　非常(ADV)　熱情(Vi)　.(PERIODCATEGORY)　三(DET)　.(PERIODCATEGORY)　酒店(N)　送(Vt)　的(T)　早餐(N)　品種(N)　小(Vi)　也(ADV)　就(ADV)　吧(T)　了(T)　,(COMMACATEGORY)
+　但是(C)　衛生(N)　非常(ADV)　不(ADV)　乾淨(Vi)　那些(DET)　碗筷(N)　根本(ADV)　和(P)　沒有(Vt)　洗(Vt)　一樣(Vi)　.(PERIODCATEGORY)　四(DET)　.(PERIODCATEGORY)　這樣(Vi)　的(T)　酒店(N)　以後(POST)　免費(Vi)　也(ADV)　不(ADV)　住(Vt)　了(T)　.(PERIODCATEGORY)

@@ -1,0 +1,3 @@
+　照片(N)　是(Vt)　假(Vi)　的(T)　,(COMMACATEGORY)
+　一(DET)　個(M)　家庭(N)　招待所(N)　,(COMMACATEGORY)
+　垃圾(N)　到(Vt)　家(N)　的(T)　旅館(N)　.(PERIODCATEGORY)　我(N)　住(Vt)　過(ASP)　最(ADV)　垃圾(N)　的(T)　地方(N)

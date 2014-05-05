@@ -1,0 +1,8 @@
+　服務(Nv)　態度(N)　很(ADV)　好(Vi)　.(PERIODCATEGORY)　不管(C)　是(Vt)　前(DET)　臺(N)　還是(C)　後勤(N)　人員(N)　,(COMMACATEGORY)
+　均(ADV)　很(ADV)　熱情(Vi)　,(COMMACATEGORY)
+　以(P)　禮(N)　待人(Vi)　;(SEMICOLONCATEGORY)　辦事(Nv)　效率(N)　較(ADV)　高(Vi)　.(PERIODCATEGORY)　包括(Vt)　登記(Vt)　入住(Vt)　,(COMMACATEGORY)
+　結賬(Vi)　,(COMMACATEGORY)
+　客房(N)　服務(Nv)　等(POST)　;(SEMICOLONCATEGORY)　設備(N)　維護(Nv)　工作(N)　尚(ADV)　有(Vt)　不足(Vi)　.(PERIODCATEGORY)　如(P)　容易(Vi)　被(P)　忽視(Vt)　的(T)　床頭燈(N)　管(Vt)　老化(Nv)　等(POST)　,(COMMACATEGORY)
+　建議(Vt)　酒店(N)　方面(N)　可以(ADV)　定期(ADV)　檢修(Vt)　,(COMMACATEGORY)
+　等到(P)　顧客(N)　反饋(Nv)　問題(N)　,(COMMACATEGORY)
+　就(ADV)　稍(ADV)　顯(Vt)　被動(Vi)　了(T)　.(PERIODCATEGORY)　祝攜程(N)　旅行網(N)　及(C)　漢庭(N)　酒店(N)　越(ADV)　辦(Vt)　越(ADV)　好(Vi)　!(EXCLAMATIONCATEGORY)

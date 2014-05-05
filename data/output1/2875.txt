@@ -1,0 +1,4 @@
+　房間(N)　靠近(Vt)　馬路(N)　，(COMMACATEGORY)
+　太(ADV)　吵(Vi)　了(T)　，(COMMACATEGORY)
+　一(DET)　晚上(N)　聽(Vt)　車子(N)　聲音(N)　聽到(Vt)　天亮(Vi)　，(COMMACATEGORY)
+　早上(N)　Check(FW)　out(FW)　速度(N)　比較(ADV)　慢(Vi)

@@ -1,0 +1,5 @@
+　運氣(N)　不錯(Vi)　,(COMMACATEGORY)
+　免費(Vi)　升級(Vi)　了(T)　,(COMMACATEGORY)
+　總體(N)　還(ADV)　是(Vt)　不錯(Vi)　!(EXCLAMATIONCATEGORY)　房間(N)　比(P)　想像(Vt)　的(T)　大(Vi)　,(COMMACATEGORY)
+　由於(C)　是(Vt)　海景(N)　套房(N)　,(COMMACATEGORY)
+　所以(C)　風景(N)　很(ADV)　好(Vi)　!(EXCLAMATIONCATEGORY)

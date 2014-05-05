@@ -1,0 +1,8 @@
+　交通(N)　方便(Vi)　，(COMMACATEGORY)
+　搭(Vt)　機場(N)　快(Vi)　線(N)　香港(N)　站出來(Vi)　坐(Vi)　H(FW)　1(DET)　直達(Vt)　，(COMMACATEGORY)
+　步行(Vi)　到(Vt)　地鐵站(N)　5(DET)　分鐘(M)　，(COMMACATEGORY)
+　門口(N)　就(ADV)　有(Vt)　叮叮(ADV)　車(N)　；(SEMICOLONCATEGORY)　房間(N)　雖(C)　小(Vi)　，(COMMACATEGORY)
+　但(C)　乾淨(Vi)　整潔(Vi)　，(COMMACATEGORY)
+　在(P)　香港(N)　已(ADV)　算(Vt)　不錯(Vi)　了(T)　；(SEMICOLONCATEGORY)　周邊(N)　各(DET)　式(M)　餐廳(N)　很多(DET)　，(COMMACATEGORY)
+　吃飯(Vi)　不(ADV)　成(Vt)　問題(N)　；(SEMICOLONCATEGORY)　酒店(N)　離金(N)　紫荊(N)　廣場(N)　近(Vi)　，(COMMACATEGORY)
+　早上(N)　可以(ADV)　步行(Vi)　去(ADV)　看(Vt)　升旗(Nv)　儀式(N)　。(PERIODCATEGORY)

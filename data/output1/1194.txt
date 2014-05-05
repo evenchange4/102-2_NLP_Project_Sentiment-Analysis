@@ -1,0 +1,4 @@
+　優點(N)　：(COLONCATEGORY)　1(DET)　）(PARENTHESISCATEGORY)　和(C)　汽車站(N)　在(P)　一(DET)　個(M)　院子(N)　內(POST)　，(COMMACATEGORY)
+　出行(Vi)　便利(Vt)　2(DET)　）(PARENTHESISCATEGORY)　斜對面(N)　就(ADV)　是(Vt)　大(Vi)　排擋(N)　一(DET)　條(M)　街(N)　，(COMMACATEGORY)
+　各(DET)　種(M)　小吃(N)　和(C)　水果(N)　一應俱全(Vi)　缺點(N)　：(COLONCATEGORY)　服務員(N)　態度(N)　一般(POST)　，(COMMACATEGORY)
+　服務(Nv)　水平(N)　有待(Vt)　提高(Vt)

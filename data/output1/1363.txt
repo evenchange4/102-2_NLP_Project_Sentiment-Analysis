@@ -1,0 +1,4 @@
+　房間(N)　不錯(Vi)　，(COMMACATEGORY)
+　比較(ADV)　大(Vi)　也(ADV)　比較(ADV)　乾淨(Vi)　。(PERIODCATEGORY)
+　早餐(N)　挺(ADV)　糟糕(Vi)　的(T)　，(COMMACATEGORY)
+　基本(A)　沒(Vt)　啥(DET)　好吃(Vi)　的(T)　。(PERIODCATEGORY)

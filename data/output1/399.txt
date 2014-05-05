@@ -1,0 +1,3 @@
+　不錯(Vi)　,(COMMACATEGORY)
+　變成(Vt)　常駐(Vi)　京(N)　酒店(N)　了(T)　,(COMMACATEGORY)
+　就是(C)　餐廳(N)　的(T)　餐(N)　太(ADV)　貴(Vi)

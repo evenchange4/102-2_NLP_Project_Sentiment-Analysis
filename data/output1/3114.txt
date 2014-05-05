@@ -1,0 +1,8 @@
+　不(ADV)　像(Vt)　個(M)　三星級(N)　酒店(N)　，(COMMACATEGORY)
+　到達(Vt)　樓層(N)　後(POST)　，(COMMACATEGORY)
+　一(DET)　眼(M)　望過去(Vi)　儘是(Vt)　髒兮兮(Vi)　的(T)　而且(C)　開裂(Vi)　的(T)　牆紙(N)　，(COMMACATEGORY)
+　房間(N)　的(T)　設備(N)　很(ADV)　陳舊(Vi)　，(COMMACATEGORY)
+　衛生(N)　條件(N)　太(ADV)　差(Vi)　，(COMMACATEGORY)
+　毛巾(N)　、(PAUSECATEGORY)　馬桶(N)　顏色(N)　都(ADV)　已(ADV)　泛黃(Vi)　，(COMMACATEGORY)
+　淋浴(Vi)　水(N)　太(ADV)　小(Vi)　，(COMMACATEGORY)
+　就(ADV)　像(P)　進(Vt)　了(ASP)　招待所(N)　......(ETCCATEGORY)

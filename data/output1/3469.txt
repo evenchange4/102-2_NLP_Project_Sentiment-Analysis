@@ -1,0 +1,5 @@
+　房間(N)　還可以(Vi)　,(COMMACATEGORY)
+　可是(C)　竟然(ADV)　沒有(Vt)　網絡(N)　.(PERIODCATEGORY)　上網(Nv)　要(ADV)　到(Vt)　大堂(N)　非常(ADV)　不(ADV)　方便(Vi)　.(PERIODCATEGORY)　前台(N)　人員(N)　素質(N)　很(ADV)　差(Vi)　,(COMMACATEGORY)
+　要求(Vt)　換(Vt)　個(M)　房間(N)　給(Vt)　他們(N)　談(Vt)　了(ASP)　兩(DET)　次(M)　,(COMMACATEGORY)
+　每(DET)　次(M)　30(DET)　分鐘(M)　,(COMMACATEGORY)
+　最後(N)　領班(N)　來(Vi)　了(ASP)　才(ADV)　解決(Vt)　.(PERIODCATEGORY)

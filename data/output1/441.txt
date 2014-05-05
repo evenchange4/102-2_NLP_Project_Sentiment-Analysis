@@ -1,0 +1,4 @@
+　酒店(N)　服務(Nv)　很(ADV)　不錯(Vi)　。(PERIODCATEGORY)
+　有(Vt)　幾(DET)　次(M)　因(C)　標準(N)　房間(N)　售完(Vt)　，(COMMACATEGORY)
+　酒店(N)　就(ADV)　升級(Vi)　到(P)　豪華(Vi)　間(POST)　賓館(N)　反饋(Vt)　2008年(N)　7月(N)　3日(N)　：(COLONCATEGORY)　感謝(Vt)　您(N)　經常(ADV)　入住(Vt)　國賓(N)　大(Vi)　酒店(N)　,(COMMACATEGORY)
+　並且(C)　對(P)　酒店(N)　的(T)　服務(Nv)　予以(ADV)　認可(Vt)　.(PERIODCATEGORY)　我們(N)　熱切(Vi)　期待(Vt)　您(N)　的(T)　再次(ADV)　光臨(Vt)　!(EXCLAMATIONCATEGORY)

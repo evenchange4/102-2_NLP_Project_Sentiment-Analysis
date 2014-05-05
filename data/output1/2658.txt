@@ -1,0 +1,2 @@
+　幫(P)　同事(N)　訂(Vt)　的(T)　酒店(N)　....(ETCCATEGORY)　反饋(Vt)　回來(Vi)　的(T)　信息(N)　說(Vt)　這(DET)　個(M)　酒店(N)　實在(ADV)　是(Vt)　太(ADV)　差(Vi)　了(T)　,(COMMACATEGORY)
+　和(P)　招待所(N)　差不多(Vi)　!(EXCLAMATIONCATEGORY)　唐山(N)　的(T)　酒店(N)　性價(N)　比(P)　一點(DET)　都(ADV)　不(ADV)　高(Vi)　啊(T)　.(PERIODCATEGORY)

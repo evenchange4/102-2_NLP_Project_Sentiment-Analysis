@@ -1,0 +1,8 @@
+　亞運村(N)　地區(N)　,(COMMACATEGORY)
+　以(P)　這(DET)　個(M)　價格(N)　,(COMMACATEGORY)
+　還是(ADV)　相當(ADV)　不錯(Vi)　的(T)　.(PERIODCATEGORY)　交通(N)　方便(Vi)　,(COMMACATEGORY)
+　樓下(N)　的(T)　酒樓(N)　很(ADV)　有(Vt)　特點(N)　((PARENTHESISCATEGORY)　味道(N)　江湖(N)　)(PARENTHESISCATEGORY)　,(COMMACATEGORY)
+　日日(ADV)　客滿(Vi)　,(COMMACATEGORY)
+　8(DET)　:(COLONCATEGORY)　00(DET)　PM(FW)　以後(POST)　有(Vt)　表演(N)　,(COMMACATEGORY)
+　相當(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　來(ADV)　晚(Vi)　了(ASP)　佔(Vt)　不(ADV)　到(Vt)　座位(N)　.(PERIODCATEGORY)

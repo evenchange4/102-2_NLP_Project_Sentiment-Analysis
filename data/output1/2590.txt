@@ -1,0 +1,8 @@
+　服務(Nv)　態度(N)　相當(ADV)　差(Vi)　,(COMMACATEGORY)
+　我(N)　接觸到(Vt)　的(T)　上海(N)　賓館(N)　服務(Vt)　多半(DET)　是(Vt)　這樣(Vi)　,(COMMACATEGORY)
+　可能(ADV)　這(DET)　是(Vt)　地域(N)　文化(N)　吧(T)　((PARENTHESISCATEGORY)　不(ADV)　知道(Vt)　這(DET)　句(M)　話(N)　算(Vt)　不(ADV)　算(Vt)　不(ADV)　文明(Vi)　用詞(N)　)(PARENTHESISCATEGORY)　賓館(N)　反饋(Vt)　2008年(N)　7月(N)　22日(N)　：(COLONCATEGORY)　尊敬(Vt)　的(T)　賓客(N)　您好(Vi)　!(EXCLAMATIONCATEGORY)　對於(P)　您(N)　在(P)　酒店(N)　遇到(Vt)　的(T)　不(ADV)　快(Vi)　我們(N)　深表(N)　歉意(N)　,(COMMACATEGORY)
+　我們(N)　真誠(Vi)　的(T)　希望(Vt)　每(DET)　一(DET)　位(M)　顧客(N)　都(ADV)　能(ADV)　在(P)　我們(N)　酒店(N)　度過(Vt)　一段(N)　美好(Vi)　的(T)　時光(N)　,(COMMACATEGORY)
+　如(P)　您(N)　在(P)　酒店(N)　遇到(Vt)　困難(N)　可(ADV)　第(Vi)　一(DET)　時間(N)　聯繫(Vt)　酒店(N)　的(T)　大堂(N)　經理(N)　,(COMMACATEGORY)
+　我們(N)　會(ADV)　及時(ADV)　為(P)　您(N)　排憂(Vi)　解難(Vi)　,(COMMACATEGORY)
+　給(Vt)　您(N)　一(DET)　個(M)　滿意(Vt)　的(T)　回復(Nv)　,(COMMACATEGORY)
+　期待(Vt)　您(N)　的(T)　再次(ADV)　光臨(Vt)　!(EXCLAMATIONCATEGORY)

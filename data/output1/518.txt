@@ -1,0 +1,7 @@
+　酒店(N)　的(T)　大堂(N)　真的(ADV)　很(ADV)　舊(Vi)　了(T)　，(COMMACATEGORY)
+　房間(N)　還可以(Vi)　，(COMMACATEGORY)
+　早餐(N)　的(T)　西餐廳(N)　比(P)　以前(N)　的(T)　就餐(Vi)　環境(N)　好了(T)　，(COMMACATEGORY)
+　以前(N)　亂哄哄(Vi)　的(T)　，(COMMACATEGORY)
+　（(PARENTHESISCATEGORY)　以前(N)　早餐(N)　是(Vt)　憑(P)　2(DET)　張(M)　餐券(N)　，(COMMACATEGORY)
+　很多(DET)　人(N)　估計(Vt)　叫(Vt)　外面(N)　的(T)　人(N)　來(ADV)　吃(Vt)　所以(C)　亂亂(Vi)　的(T)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　現在(N)　憑(P)　房卡(N)　就(ADV)　好多(DET)　了(T)　。(PERIODCATEGORY)

@@ -1,0 +1,6 @@
+　看(Vt)　了(ASP)　網(N)　上(N)　的(T)　留言(N)　才(ADV)　定(Vt)　的(T)　假日(N)　酒店(N)　，(COMMACATEGORY)
+　到(P)　後(N)　有(Vt)　些(M)　失望(Vi)　，(COMMACATEGORY)
+　很(ADV)　一般(A)　的(T)　招待所(N)　而已(T)　嘛(T)　．(PERIODCATEGORY)　為了(P)　安靜(Vi)　定(Vt)　了(ASP)　山(N)　景房(N)　，(COMMACATEGORY)
+　可是(C)　三更半夜(N)　的(T)　，(COMMACATEGORY)
+　人(N)　說話聲(N)　加上(Vt)　共鳴(N)　比(P)　自己(N)　房間(N)　說話(Vi)　還(ADV)　響(Vi)　，(COMMACATEGORY)
+　太(ADV)　吵(Vi)　沒(ADV)　睡好(Vi)　．(PERIODCATEGORY)

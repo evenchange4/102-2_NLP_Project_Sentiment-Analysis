@@ -1,0 +1,4 @@
+　除了(P)　在(P)　湖(N)　邊(N)　上(N)　這(DET)　點(M)　好處(N)　之外(POST)　.(PERIODCATEGORY)　沒有(Vt)　任何(DET)　可以(ADV)　一(ADV)　提(Vt)　的(T)　優點(N)　.(PERIODCATEGORY)　房間(N)　老舊(Vi)　,(COMMACATEGORY)
+　臥具(N)　破爛(Vi)　,(COMMACATEGORY)
+　髒兮兮(Vi)　的(T)　,(COMMACATEGORY)
+　我(N)　真(ADV)　服(Vt)　了(T)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)

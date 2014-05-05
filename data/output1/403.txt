@@ -1,0 +1,3 @@
+　酒店(N)　位置(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　房間(N)　也(ADV)　很(ADV)　舒服(Vi)　，(COMMACATEGORY)
+　下(DET)　次(M)　還(ADV)　會(ADV)　入住(Vt)　。(PERIODCATEGORY)

@@ -1,0 +1,8 @@
+　太(ADV)　差(Vi)　。(PERIODCATEGORY)
+　就(ADV)　差(Vi)　是(Vt)　露宿(Vt)　街頭(N)　了(T)　。(PERIODCATEGORY)
+　攜(Vt)　程(N)　把(P)　這樣(Vi)　的(T)　酒店(N)　包括(Vt)　進來(Vi)　，(COMMACATEGORY)
+　實在(ADV)　是(Vt)　很(ADV)　幽默(Vi)　。(PERIODCATEGORY)
+　十(DET)　堰還(Vt)　有(Vt)　燕良大(N)　酒店(N)　，(COMMACATEGORY)
+　據說(ADV)　還(ADV)　行(Vi)　，(COMMACATEGORY)
+　為什麼(ADV)　不(ADV)　去(ADV)　聯繫(Vt)　？(QUESTIONCATEGORY)
+　這樣(Vi)　我們(N)　也(ADV)　方便(Vi)　一些(DET)　。(PERIODCATEGORY)

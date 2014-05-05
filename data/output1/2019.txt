@@ -1,0 +1,5 @@
+　酒店(N)　太髒(Vi)　、(PAUSECATEGORY)　太舊(Vi)　、(PAUSECATEGORY)　太(ADV)　破(Vt)　！(EXCLAMATIONCATEGORY)　房間(N)　廁所(N)　都(ADV)　是(Vt)　下水道(N)　的(T)　臭味(N)　！(EXCLAMATIONCATEGORY)　地毯(N)　已經(ADV)　舊(Vi)　的(T)　看(Vt)　不(ADV)　清楚(Vi)　顏色(N)　了(T)　。(PERIODCATEGORY)
+　電視機(N)　只有(ADV)　6(DET)　個(M)　頻道(N)　！(EXCLAMATIONCATEGORY)　我(N)　真是(ADV)　暈(Vi)　哦(T)　！(EXCLAMATIONCATEGORY)　前台(N)　服務員(N)　都(ADV)　是(Vt)　坐(Vi)　著(ASP)　看(Vt)　著(ASP)　報紙(N)　工作(N)　的(T)　，(COMMACATEGORY)
+　而且(C)　前台(N)　只(ADV)　有(Vt)　1(DET)　個(M)　服務員(N)　。(PERIODCATEGORY)
+　客房(N)　服務員(N)　不(ADV)　敲門(Vi)　就(ADV)　開門(Vi)　進來(Vi)　的(T)　，(COMMACATEGORY)
+　受不了(Vt)　哦(T)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)

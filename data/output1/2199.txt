@@ -1,0 +1,6 @@
+　酒店(N)　真的(ADV)　不(ADV)　怎麼樣(Vi)　，(COMMACATEGORY)
+　不(ADV)　知道(Vt)　怎麼(ADV)　評上(Vt)　四(DET)　星(N)　的(T)　。(PERIODCATEGORY)
+　房間(N)　又(ADV)　小(Vi)　又(ADV)　舊(Vi)　，(COMMACATEGORY)
+　早餐(N)　也(ADV)　沒(Vt)　什麼(DET)　吃(Vt)　的(T)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　而且(C)　會(ADV)　有(Vt)　騷擾(Nv)　電話(N)

@@ -1,0 +1,7 @@
+　入住(Vt)　的(T)　是(Vt)　度假區(N)　的(T)　豪華(Vi)　海景房(N)　,(COMMACATEGORY)
+　前台(N)　給(Vt)　了(ASP)　5樓(N)　((PARENTHESISCATEGORY)　最(ADV)　高(Vi)　6樓(N)　)(PARENTHESISCATEGORY)　,(COMMACATEGORY)
+　然後(ADV)　差不多(Vi)　100(DET)　%(M)　的(T)　海景(N)　,(COMMACATEGORY)
+　雖然(C)　是(Vt)　掛牌(Vi)　5星(N)　的(T)　,(COMMACATEGORY)
+　但是(C)　本人(N)　覺得(Vt)　是(Vt)　4星(N)　的(T)　標準(N)　,(COMMACATEGORY)
+　和(P)　我(N)　後來(N)　入住(Vt)　的(T)　5星(N)　喜(Vt)　來(ADV)　登(Vt)　差(Vi)　了(ASP)　蠻(ADV)　多(Vi)　的(T)　,(COMMACATEGORY)
+　不過(C)　整體(N)　來(ADV)　說(Vt)　還是(ADV)　符合(Vt)　他(N)　家(N)　的(T)　價錢(N)　的(T)　.(PERIODCATEGORY)

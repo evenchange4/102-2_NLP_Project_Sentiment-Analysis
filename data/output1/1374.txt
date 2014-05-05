@@ -1,0 +1,5 @@
+　多(DET)　年(M)　入住(Vt)　此(DET)　酒店(N)　，(COMMACATEGORY)
+　主要(ADV)　是(Vt)　服務(Nv)　和(C)　地理(N)　位置(N)　好(Vi)　。(PERIODCATEGORY)
+　但(C)　房間(N)　和(C)　設施(N)　太(ADV)　陳舊(Vi)　了(T)　，(COMMACATEGORY)
+　應該(ADV)　要(ADV)　重(Vi)　裝修(Nv)　才(ADV)　行(Vi)　，(COMMACATEGORY)
+　否則(C)　性價(N)　比(P)　不(ADV)　高(Vi)

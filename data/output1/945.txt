@@ -1,0 +1,4 @@
+　房間(N)　總的來說(ADV)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　早餐(N)　做為(Vt)　四星級(N)　酒店(N)　來(ADV)　說(Vt)　一般(POST)　。(PERIODCATEGORY)
+　酒店(N)　外面(N)　小吃(N)　或者(C)　一般(A)　的(T)　酒店(N)　少(ADV)　總的來說(ADV)　，(COMMACATEGORY)
+　對(P)　我(N)　這樣(Vi)　出差(Vi)　的(T)　人(N)　來(ADV)　說(Vt)　還(ADV)　不錯(Vi)　了(T)

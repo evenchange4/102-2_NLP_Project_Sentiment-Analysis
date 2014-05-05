@@ -1,0 +1,5 @@
+　第三(DET)　次(M)　入住(Vt)　了(ASP)　，(COMMACATEGORY)
+　覺得(Vt)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　正好(ADV)　碰上(Vt)　了(ASP)　地震(Vi)　，(COMMACATEGORY)
+　樓層(N)　低(Vi)　感覺(N)　不(ADV)　明顯(Vi)　。(PERIODCATEGORY)
+　希望(Vt)　四川(N)　盡快(ADV)　從(P)　災情(N)　中(POST)　恢復過來(Vi)　！(EXCLAMATIONCATEGORY)

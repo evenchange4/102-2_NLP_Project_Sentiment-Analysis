@@ -1,0 +1,4 @@
+　晚上(N)　10(DET)　點(M)　至(P)　凌晨(N)　4(DET)　點(M)　之間(POST)　騷擾(Vt)　電話(N)　太多(Vi)　，(COMMACATEGORY)
+　常常(ADV)　無法(ADV)　入睡(Vi)　，(COMMACATEGORY)
+　給(P)　總台(N)　反映(Vt)　過(ASP)　，(COMMACATEGORY)
+　但是(C)　沒有(ADV)　起(POST)　到(P)　作用(N)　！(EXCLAMATIONCATEGORY)

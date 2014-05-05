@@ -1,0 +1,8 @@
+　酒店(N)　很(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　服務(Vt)　不錯(Vi)　，(COMMACATEGORY)
+　所以(C)　決定(Vt)　今晚(N)　再次(ADV)　來(ADV)　入住(Vt)　。(PERIODCATEGORY)
+　賓館(N)　反饋(Vt)　2008年(N)　7月(N)　31日(N)　：(COLONCATEGORY)　感謝(Vt)　您(N)　多(DET)　次(M)　選擇(Vt)　國賓(N)　大(Vi)　酒店(N)　入住(Vt)　，(COMMACATEGORY)
+　並(C)　對(P)　酒店(N)　予以(ADV)　認可(Vt)　。(PERIODCATEGORY)
+　我們(N)　將(ADV)　一如(P)　即(ADV)　往(P)　，(COMMACATEGORY)
+　以(P)　優質(A)　的(T)　服務(Nv)　，(COMMACATEGORY)
+　熱情(Vi)　的(T)　微笑(N)　期待(Vt)　您(N)　的(T)　再次(ADV)　光臨(Vt)　！(EXCLAMATIONCATEGORY)

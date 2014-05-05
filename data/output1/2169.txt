@@ -1,0 +1,6 @@
+　圖(Vt)　了(ASP)　離(P)　火車站(N)　近(Vi)　，(COMMACATEGORY)
+　不能(ADV)　太(ADV)　苛求(Vt)　。(PERIODCATEGORY)
+　不過(C)　即使(C)　再(ADV)　住(Vt)　一定(ADV)　要(ADV)　住(Vt)　新樓(N)　。(PERIODCATEGORY)
+　老(Vi)　樓(N)　好像(ADV)　屬於(Vt)　文物(N)　一(DET)　類(M)　，(COMMACATEGORY)
+　偽(A)　滿(DET)　時期(N)　建(Vt)　的(T)　？(QUESTIONCATEGORY)
+　整體(N)　陰暗(Vi)　、(PAUSECATEGORY)　樓道(N)　曲折(Vi)　、(PAUSECATEGORY)　房間(N)　狹小(Vi)　、(PAUSECATEGORY)　服務(Vt)　惡劣(Vi)　、(PAUSECATEGORY)　還(ADV)　有(Vt)　騷擾(Nv)　電話(N)　。(PERIODCATEGORY)

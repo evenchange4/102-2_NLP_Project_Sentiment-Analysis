@@ -1,0 +1,8 @@
+　相對(Vi)　於(P)　這(DET)　個(M)　價位(N)　的(T)　酒店(N)　來(ADV)　說(Vt)　,(COMMACATEGORY)
+　還是(ADV)　非常(ADV)　好(Vi)　的(T)　.(PERIODCATEGORY)　房間(N)　不(ADV)　大(Vi)　但是(C)　很(ADV)　乾淨(Vi)　,(COMMACATEGORY)
+　洗手間(N)　的(T)　設施(N)　也(ADV)　做(Vt)　的(T)　很(ADV)　有(Vt)　誠意(N)　.(PERIODCATEGORY)　水龍頭水(N)　很(ADV)　大(Vi)　,(COMMACATEGORY)
+　洗(Vt)　得(T)　很(ADV)　舒服(Vi)　.(PERIODCATEGORY)　早餐(N)　品種(N)　不(ADV)　多(Vi)　,(COMMACATEGORY)
+　但(C)　居然(ADV)　還是(ADV)　自助餐(N)　.(PERIODCATEGORY)　廚房(N)　連著(ADV)　餐廳(N)　,(COMMACATEGORY)
+　服務員(N)　做好(Vt)　的(T)　食物(N)　就(ADV)　拿出來(Vi)　,(COMMACATEGORY)
+　看上(Vt)　挺(ADV)　溫馨(Vi)　的(T)　,(COMMACATEGORY)
+　真的(ADV)　有(Vt)　一點(DET)　家(N)　的(T)　感覺(N)　.(PERIODCATEGORY)　就(ADV)　是(Vt)　房間(N)　隔音(A)　效果(N)　不(ADV)　好(Vi)　.(PERIODCATEGORY)

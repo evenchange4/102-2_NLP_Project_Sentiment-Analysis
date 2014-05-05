@@ -1,0 +1,2 @@
+　條件(N)　太(ADV)　差(Vi)　！(EXCLAMATIONCATEGORY)　房間(N)　面積(N)　太(ADV)　小(Vi)　，(COMMACATEGORY)
+　簡直(ADV)　就(ADV)　不(ADV)　像(Vt)　4(DET)　*(FW)　酒店(N)　！(EXCLAMATIONCATEGORY)

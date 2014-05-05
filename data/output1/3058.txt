@@ -1,0 +1,3 @@
+　房間(N)　隔音(A)　效果(N)　極(ADV)　差(Vi)　，(COMMACATEGORY)
+　深夜(N)　如果(C)　隔壁(N)　客人(N)　大聲(Vi)　喧嘩(Vi)　的(T)　話(N)　……(ETCCATEGORY)　服務員(N)　會(ADV)　去(ADV)　提醒(Vt)　，(COMMACATEGORY)
+　但(C)　僅(ADV)　限於(Vt)　你(N)　投訴(Vi)　後(POST)

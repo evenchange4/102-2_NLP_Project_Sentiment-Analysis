@@ -1,0 +1,5 @@
+　我(N)　是(Vt)　07年(N)　8月(N)　入住(Vt)　的(T)　這(DET)　家(M)　酒店(N)　，(COMMACATEGORY)
+　環境(N)　和(C)　服務(Nv)　都(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　只是(ADV)　沒有(Vt)　攜程(N)　說(Vt)　的(T)　禮品(N)　果盤(N)　，(COMMACATEGORY)
+　雖然(C)　沒(Vt)　什麼(DET)　大不了(Vi)　的(T)　，(COMMACATEGORY)
+　但是(C)　如果(C)　沒有(Vt)　這(DET)　項(M)　禮品(N)　還是(ADV)　不(ADV)　寫(Vt)　的(T)　好(Vi)　。(PERIODCATEGORY)

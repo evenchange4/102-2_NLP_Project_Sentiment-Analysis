@@ -1,0 +1,4 @@
+　住(Vt)　的(T)　是(Vt)　一樓(N)　，(COMMACATEGORY)
+　房間(N)　太(ADV)　小(Vi)　，(COMMACATEGORY)
+　窗戶(N)　對(P)　著(ASP)　一(DET)　堵(M)　牆(N)　。(PERIODCATEGORY)
+　以後(N)　不會(ADV)　再(ADV)　住(Vt)　它(N)　了(T)

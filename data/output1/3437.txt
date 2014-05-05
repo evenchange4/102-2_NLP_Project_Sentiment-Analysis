@@ -1,0 +1,5 @@
+　這(DET)　個(M)　酒店(N)　就是(C)　因為(C)　在(P)　國貿(N)　邊(N)　上(N)　,(COMMACATEGORY)
+　所以(C)　價格(N)　很(ADV)　貴(Vi)　.(PERIODCATEGORY)　因為(C)　離(P)　我們(N)　公司(N)　近(Vi)　,(COMMACATEGORY)
+　也(ADV)　就(ADV)　算了(Vi)　感覺(N)　和(C)　那(DET)　種(M)　200(DET)　塊(M)　左右(POST)　的(T)　酒店(N)　差別(N)　不(ADV)　大(Vi)　,(COMMACATEGORY)
+　就是(C)　地段(N)　,(COMMACATEGORY)
+　別的(DET)　沒(Vt)　什麼(DET)　好說(Vi)　的(T)　電梯(N)　還(ADV)　不(ADV)　好(Vi)　....(ETCCATEGORY)

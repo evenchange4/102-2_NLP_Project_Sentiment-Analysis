@@ -1,0 +1,4 @@
+　說(Vt)　實在(Vi)　的(T)　我(N)　很(ADV)　失望(Vi)　，(COMMACATEGORY)
+　之前(N)　看(Vt)　了(ASP)　其他(DET)　人(N)　的(T)　點評(N)　後(POST)　覺得(Vt)　還(ADV)　可以(ADV)　才(ADV)　去(Vt)　的(T)　，(COMMACATEGORY)
+　結果(ADV)　讓(Vt)　我們(N)　大跌(Vi)　眼鏡(N)　。(PERIODCATEGORY)
+　我(N)　想(Vt)　這(DET)　家(M)　酒店(N)　以後(POST)　無論如何(ADV)　我(N)　都(ADV)　不會(ADV)　再(ADV)　去(Vt)　了(ASP)　。(PERIODCATEGORY)

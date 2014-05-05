@@ -1,0 +1,7 @@
+　不能夠(ADV)　提供(Vt)　按照(P)　預定(Vt)　的(T)　房間(N)　要求(N)　，(COMMACATEGORY)
+　明明(ADV)　是(Vt)　要求(Vt)　兩(DET)　間(M)　大(Vi)　床(N)　房(N)　，(COMMACATEGORY)
+　當天(N)　到(Vt)　了(ASP)　之後(POST)　才(ADV)　告知(Vt)　沒有(Vt)　，(COMMACATEGORY)
+　而且(C)　只(ADV)　給(Vt)　了(ASP)　一(DET)　個(M)　標準(N)　間(POST)　，(COMMACATEGORY)
+　並且(C)　最(ADV)　開始(Vi)　連(C)　冷氣(N)　都(ADV)　是(Vt)　壞(Vt)　的(T)　，(COMMACATEGORY)
+　北京(N)　40(DET)　度(M)　的(T)　高溫(N)　，(COMMACATEGORY)
+　不(ADV)　知道(Vt)　這裡(N)　到底(ADV)　是(Vt)　酒店(N)　還是(ADV)　桑拿(N)　房(DM)

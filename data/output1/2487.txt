@@ -1,0 +1,6 @@
+　房間(N)　一般(POST)　，(COMMACATEGORY)
+　洗手間(N)　浴缸(N)　裡(N)　的(T)　水(N)　有(Vt)　些(M)　下(POST)　不(ADV)　去(Vt)　，(COMMACATEGORY)
+　標(Vt)　房(N)　是(Vt)　對(P)　著(ASP)　大堂(N)　餐廳(N)　開(Vt)　窗戶(N)　的(T)　，(COMMACATEGORY)
+　晚上(N)　12(DET)　點(M)　好像(ADV)　還(ADV)　有(Vt)　人(N)　用餐(Vi)　，(COMMACATEGORY)
+　放(Vt)　音樂(N)　，(COMMACATEGORY)
+　挺(ADV)　吵(Vi)　的(T)　．(PERIODCATEGORY)

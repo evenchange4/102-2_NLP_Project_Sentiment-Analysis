@@ -1,0 +1,3 @@
+　太(ADV)　潮(Vi)　了(T)　，(COMMACATEGORY)
+　根本(ADV)　不(ADV)　是(Vt)　人(N)　住(Vt)　的(T)　！(EXCLAMATIONCATEGORY)　價位(N)　倒是(ADV)　不(ADV)　高(Vi)　，(COMMACATEGORY)
+　但是(C)　攜程價(N)　沒有(Vt)　競爭力(N)　！(EXCLAMATIONCATEGORY)

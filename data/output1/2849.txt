@@ -1,0 +1,5 @@
+　離(P)　市區(N)　遠(Vi)　，(COMMACATEGORY)
+　浴池(N)　下水(Vi)　不(ADV)　暢(Vi)　，(COMMACATEGORY)
+　晚上(N)　外面(N)　施工(Vi)　，(COMMACATEGORY)
+　服務員(N)　態度(N)　惡劣(Vi)　，(COMMACATEGORY)
+　垃圾(N)　酒店(N)

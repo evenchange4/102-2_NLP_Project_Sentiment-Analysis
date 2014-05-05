@@ -1,0 +1,7 @@
+　位置(N)　相當(ADV)　偏僻(Vi)　,(COMMACATEGORY)
+　晚上(N)　從(P)　五(DET)　環(N)　出來(Vi)　,(COMMACATEGORY)
+　該(ADV)　拐(Vt)　第一(DET)　個(M)　彎(Vi)　的(T)　地方(N)　連(C)　路燈(N)　都(ADV)　沒有(Vt)　,(COMMACATEGORY)
+　房間(N)　小(Vi)　,(COMMACATEGORY)
+　二樓(N)　的(T)　房間(N)　要(ADV)　從(P)　三樓(N)　走下去(Vi)　,(COMMACATEGORY)
+　沒(ADV)　體會(Vt)　他們(N)　能(ADV)　提供(Vt)　什麼(DET)　服務(Nv)　,(COMMACATEGORY)
+　連(C)　出租車(N)　都(N)　不(ADV)　給定(Vt)　.(PERIODCATEGORY)　絕對(ADV)　不(ADV)　建議(Vt)　入住(Vt)　.(PERIODCATEGORY)

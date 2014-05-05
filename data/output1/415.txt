@@ -1,0 +1,3 @@
+　房間(N)　小(Vi)　,(COMMACATEGORY)
+　感覺(N)　衛生(N)　不(ADV)　太(ADV)　好(Vi)　,(COMMACATEGORY)
+　整(DET)　個(M)　環境(N)　顯(Vt)　的(T)　很(ADV)　陳舊(Vi)　.(PERIODCATEGORY)　服務(Nv)　一般(POST)　.(PERIODCATEGORY)

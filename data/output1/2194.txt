@@ -1,0 +1,4 @@
+　已經(ADV)　是(Vt)　第三(DET)　次(M)　入住(Vt)　該(DET)　酒店(N)　了(T)　，(COMMACATEGORY)
+　雖然(C)　換(Vt)　了(ASP)　一些(DET)　新(Vi)　床(N)　和(C)　桌椅(N)　，(COMMACATEGORY)
+　但(C)　還是(ADV)　越來越(ADV)　久(Vi)　了(T)　．(PERIODCATEGORY)　無論(C)　是(Vt)　服務(Nv)　還是(C)　其他(DET)　，(COMMACATEGORY)
+　也(ADV)　就(ADV)　只有(ADV)　一(DET)　星(N)　而已(T)　．(PERIODCATEGORY)　只是(ADV)　在(P)　南戴河(N)　的(T)　話(N)　沒辦法(Vi)　了(T)　．(PERIODCATEGORY)

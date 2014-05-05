@@ -1,0 +1,7 @@
+　賓館(N)　雖然(C)　比較(ADV)　老(Vi)　，(COMMACATEGORY)
+　房間(N)　感覺(N)　還(ADV)　可以(ADV)　，(COMMACATEGORY)
+　服務(Vt)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　早餐(N)　品種(N)　少(Vi)　了(ASP)　點(ADV)　。(PERIODCATEGORY)
+　打(Vt)　車(N)　起步價(N)　到(Vt)　海邊(N)　。(PERIODCATEGORY)
+　走路(Vi)　15(DET)　分鐘(M)　到(P)　好(Vi)　又(C)　多(DET)　超市(N)　。(PERIODCATEGORY)
+　在(P)　開發區(N)　裡面(N)　出差(Vi)　住(Vt)　在(P)　這裡(N)　很(ADV)　方便(Vi)　。(PERIODCATEGORY)

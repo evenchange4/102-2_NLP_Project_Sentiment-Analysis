@@ -1,0 +1,4 @@
+　河南(N)　人(N)　就是(C)　河南(N)　人(N)　！(EXCLAMATIONCATEGORY)　不(ADV)　被(P)　懵(Vt)　一(DET)　次(M)　，(COMMACATEGORY)
+　那(DET)　算(Vt)　白來(Vi)　一(DET)　回(M)　；(SEMICOLONCATEGORY)　在(P)　全(DET)　國(N)　乃至(C)　全(DET)　世界(N)　那(DET)　種(M)　叫做(Vt)　經濟房(N)　的(T)　房間(N)　，(COMMACATEGORY)
+　在(P)　河南(N)　濟源(N)　雅士(N)　達(Vt)　叫做(Vt)　「(PARENTHESISCATEGORY)　貴賓(N)　樓(N)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　真(ADV)　夠(Vi)　逗(Vt)　的(T)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)

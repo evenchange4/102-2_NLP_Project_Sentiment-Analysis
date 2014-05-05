@@ -1,0 +1,6 @@
+　房間(N)　雖(C)　小(Vi)　五臟(N)　具(Vt)　全(DET)　，(COMMACATEGORY)
+　我們(N)　住(Vt)　的(T)　是(Vt)　海景房(N)　，(COMMACATEGORY)
+　需要(Vt)　另(DET)　加(Vt)　400(DET)　塊(M)　，(COMMACATEGORY)
+　不(ADV)　住(Vt)　海景房(N)　在(P)　那兒(N)　住(Vt)　就(ADV)　沒(Vt)　意義(N)　了(T)　。(PERIODCATEGORY)
+　早上(N)　在(P)　中(N)　餐廳(N)　的(T)　早茶(N)　比較(ADV)　愜意(Vi)　可口(Vi)　。(PERIODCATEGORY)
+　周邊(N)　逛街(Vi)　比較(ADV)　方便(Vi)　。(PERIODCATEGORY)

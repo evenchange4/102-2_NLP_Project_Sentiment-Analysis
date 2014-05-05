@@ -1,0 +1,4 @@
+　隔音(A)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　交通(N)　尚可(Vi)　，(COMMACATEGORY)
+　設施(N)　較(ADV)　陳舊(Vi)　，(COMMACATEGORY)
+　總體(N)　感覺(N)　不(ADV)　像(P)　三星(N)　的(T)　酒店(N)　。(PERIODCATEGORY)

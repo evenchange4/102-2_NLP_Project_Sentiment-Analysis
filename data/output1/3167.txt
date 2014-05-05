@@ -1,0 +1,6 @@
+　如果(C)　去(Vt)　成都(N)　,(COMMACATEGORY)
+　在(P)　這裡(N)　居住(Vi)　不錯(Vi)　,(COMMACATEGORY)
+　行程(N)　方便(Vi)　,(COMMACATEGORY)
+　其他(DET)　的(T)　都(ADV)　很(ADV)　差(Vi)　.(PERIODCATEGORY)　最(ADV)　氣(Vt)　的(T)　是(Vt)　請(Vt)　客人(N)　吃飯(Vi)　結完帳(N)　,(COMMACATEGORY)
+　很(ADV)　久(Vi)　以後(POST)　到(Vt)　房間(N)　說(Vt)　檯布(N)　被(P)　燙(Vt)　了(ASP)　,(COMMACATEGORY)
+　硬是(ADV)　要(ADV)　賠(Vt)　500(DET)　大洋(N)　.(PERIODCATEGORY)

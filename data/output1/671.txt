@@ -1,0 +1,2 @@
+　比較(ADV)　老(Vi)　的(T)　五星級(N)　酒店(N)　，(COMMACATEGORY)
+　酒店(N)　的(T)　管理(Nv)　維護(Nv)　還是(ADV)　很(ADV)　好(Vi)

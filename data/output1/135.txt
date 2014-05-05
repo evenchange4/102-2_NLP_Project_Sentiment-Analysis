@@ -1,0 +1,5 @@
+　房間(N)　設施(N)　不錯(Vi)　,(COMMACATEGORY)
+　服務(Vt)　沒(Vt)　問題(N)　,(COMMACATEGORY)
+　早餐(N)　也(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　直(Vi)　的(T)　住(Nv)　,(COMMACATEGORY)
+　金華(N)　沒有(Vt)　好(Vi)　選擇(Vt)

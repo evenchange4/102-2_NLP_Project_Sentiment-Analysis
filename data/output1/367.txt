@@ -1,0 +1,4 @@
+　環境(N)　不錯(Vi)　，(COMMACATEGORY)
+　房間(N)　設施(N)　挺(ADV)　好(Vi)　，(COMMACATEGORY)
+　很(ADV)　有(Vt)　檔次(N)　，(COMMACATEGORY)
+　下(DET)　次(M)　還(ADV)　會(ADV)　考慮(Vt)　入住(Vt)

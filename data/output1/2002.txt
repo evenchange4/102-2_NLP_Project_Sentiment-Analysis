@@ -1,0 +1,8 @@
+　服務(Nv)　態度(N)　極其(ADV)　差(Vi)　，(COMMACATEGORY)
+　前台(N)　接待(Vt)　好像(ADV)　沒有(ADV)　受(Vt)　過(ASP)　培訓(Nv)　，(COMMACATEGORY)
+　連(C)　基本(A)　的(T)　禮貌(N)　都(ADV)　不(ADV)　懂(Vt)　，(COMMACATEGORY)
+　竟然(ADV)　同時(N)　接待(Vt)　幾(DET)　個(M)　客人(N)　；(SEMICOLONCATEGORY)　大堂(N)　副理(N)　更(ADV)　差(Vi)　，(COMMACATEGORY)
+　跟(P)　客人(N)　辯解(Vt)　個(M)　沒完(Vi)　，(COMMACATEGORY)
+　要(ADV)　總經理(N)　的(T)　電話(N)　投訴(Vi)　竟然(ADV)　都(ADV)　不(ADV)　敢(Vt)　給(Vt)　。(PERIODCATEGORY)
+　要是(C)　沒有(ADV)　作(Vt)　什麼(DET)　虧心事(N)　情(N)　，(COMMACATEGORY)
+　跟(P)　本(DET)　不用(ADV)　這麼(ADV)　怕(Vt)　。(PERIODCATEGORY)

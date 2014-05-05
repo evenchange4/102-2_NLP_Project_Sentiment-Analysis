@@ -1,0 +1,8 @@
+　我(N)　入住(Vt)　的(T)　是(Vt)　該(DET)　酒店(N)　的(T)　中式(A)　大(Vi)　床(N)　房(N)　，(COMMACATEGORY)
+　房間(N)　環境(N)　和(C)　服務(Nv)　質量(N)　都(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　就是(C)　樓層(N)　低點(N)　，(COMMACATEGORY)
+　在(P)　4樓(N)　（(PARENTHESISCATEGORY)　整(DET)　個(M)　酒店(N)　也(ADV)　就(ADV)　5(DET)　層(M)　樓(N)　高(Vi)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　整體(N)　不錯(Vi)　，(COMMACATEGORY)
+　就是(C)　送(Vt)　的(T)　早餐(N)　不(ADV)　是(Vt)　自助餐(N)　，(COMMACATEGORY)
+　而是(C)　2樓(N)　酒樓(N)　的(T)　10(DET)　元(M)　餐卷(N)　，(COMMACATEGORY)
+　對於(P)　一(DET)　個人(N)　的(T)　話(N)　很(ADV)　不(ADV)　方便(Vi)　。(PERIODCATEGORY)

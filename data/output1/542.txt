@@ -1,0 +1,6 @@
+　地理(N)　位置(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　離(P)　洋貨(N)　市場(N)　很(ADV)　近(Vi)　。(PERIODCATEGORY)
+　房間(N)　裝修(Vt)　還(ADV)　可以(ADV)　，(COMMACATEGORY)
+　就是(C)　有點(ADV)　小(Vi)　。(PERIODCATEGORY)
+　電視(N)　是(Vt)　液晶(N)　的(T)　，(COMMACATEGORY)
+　總體(N)　感覺(N)　不錯(Vi)　。(PERIODCATEGORY)

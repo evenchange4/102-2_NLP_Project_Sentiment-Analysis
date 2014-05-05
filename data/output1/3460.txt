@@ -1,0 +1,6 @@
+　這(DET)　個(M)　是(Vt)　我(N)　住國(N)　全(DET)　國(N)　最(ADV)　差(Vi)　的(T)　所謂(Vt)　四星(N)　標準(N)　建(Vt)　的(T)　賓館(N)　.(PERIODCATEGORY)　房間(N)　小(Vi)　的(T)　可憐(Vt)　,(COMMACATEGORY)
+　可以(ADV)　說(Vt)　讓(Vt)　人(N)　無法(ADV)　轉身(Vi)　.(PERIODCATEGORY)　看上去(ADV)　最多(Vi)　也(ADV)　只有(ADV)　三星級(N)　.(PERIODCATEGORY)　服務員(N)　結帳(Nv)　速度(N)　超(Vt)　慢(Vi)　,(COMMACATEGORY)
+　我(N)　等候(Vt)　了(ASP)　半(DET)　小時(N)　,(COMMACATEGORY)
+　最後(N)　還(ADV)　問(Vt)　了(ASP)　一(DET)　句(M)　話(N)　,(COMMACATEGORY)
+　超過(Vt)　了(ASP)　4(DET)　分鐘(M)　((PARENTHESISCATEGORY)　等到(P)　我(N)　的(T)　時候(N)　時(POST)　12(DET)　:(COLONCATEGORY)　04(DET)　)(PARENTHESISCATEGORY)　是(Vt)　不(ADV)　是(Vt)　要(ADV)　加收(Vt)　半(DET)　天(M)　的(T)　房費(N)　.(PERIODCATEGORY)　希望(Vt)　攜程(N)　不要(ADV)　把(P)　這(DET)　種(M)　酒店(N)　再(ADV)　列為(Vt)　推薦(Vt)　酒店(N)　.(PERIODCATEGORY)　說(Vt)　句(M)　時候(N)　,(COMMACATEGORY)
+　房間(N)　的(T)　情況(N)　和(C)　總總台(N)　那裡(N)　的(T)　匯報(N)　一下(N)

@@ -1,0 +1,5 @@
+　新(Vi)　裝修(Vt)　的(T)　酒店(N)　,(COMMACATEGORY)
+　房間(N)　很(ADV)　新(Vi)　很(ADV)　好(Vi)　的(T)　,(COMMACATEGORY)
+　作為(Vt)　萬豪(N)　的(T)　金卡(N)　會員(N)　,(COMMACATEGORY)
+　充分(Vi)　享受(Vt)　金卡(N)　的(T)　待遇(N)　,(COMMACATEGORY)
+　很(ADV)　好(Vi)　.(PERIODCATEGORY)　早餐(N)　的(T)　品種(N)　不(ADV)　夠(ADV)　豐富(Vt)　.(PERIODCATEGORY)

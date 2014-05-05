@@ -1,0 +1,8 @@
+　房間(N)　太(ADV)　小(Vi)　了(T)　，(COMMACATEGORY)
+　而且(C)　我(N)　自己(N)　用(P)　格林豪泰(N)　的(T)　會員卡(N)　定(Vt)　的(T)　房間(N)　比(P)　攜程(N)　定(Vt)　的(T)　房間(N)　好(Vi)　，(COMMACATEGORY)
+　他(N)　是(Vt)　五樓(N)　的(T)　最後(N)　一(DET)　間(M)　房(N)　，(COMMACATEGORY)
+　好像(ADV)　是(Vt)　522(DET)　吧(T)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　而且(C)　床(N)　也(ADV)　超大(Vi)　的(T)　，(COMMACATEGORY)
+　比(P)　1(DET)　米(M)　8(DET)　的(T)　大多(DET)　了(T)　，(COMMACATEGORY)
+　希望(Vt)　攜程(N)　以後(POST)　可以(ADV)　提供(Vt)　這樣(Vi)　的(T)　房間(N)

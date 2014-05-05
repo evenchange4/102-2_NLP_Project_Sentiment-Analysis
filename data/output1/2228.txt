@@ -1,0 +1,6 @@
+　差(Vi)　的(T)　不能(ADV)　在(P)　差(Vi)　了(T)　，(COMMACATEGORY)
+　廁所(N)　垃圾桶(N)　旁邊(N)　發現(Vt)　一(DET)　隻(M)　3(DET)　厘米(M)　的(T)　蟑螂(N)　，(COMMACATEGORY)
+　床單(N)　被(P)　罩(N)　有(Vt)　血跡(N)　，(COMMACATEGORY)
+　打電話(Vi)　讓(Vt)　換(Vt)　，(COMMACATEGORY)
+　服務員(N)　來(Vi)　了(ASP)　竟然(ADV)　說(Vt)　是(Vt)　剛(ADV)　換(Vt)　的(T)　，(COMMACATEGORY)
+　血跡(N)　是(Vt)　洗(Vt)　不(ADV)　掉(Vi)　的(T)　。(PERIODCATEGORY)

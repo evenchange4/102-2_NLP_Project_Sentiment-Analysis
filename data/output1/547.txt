@@ -1,0 +1,6 @@
+　1(DET)　、(PAUSECATEGORY)　環境(N)　不錯(Vi)　，(COMMACATEGORY)
+　離(P)　東百(N)　很(ADV)　近(Vi)　，(COMMACATEGORY)
+　就(ADV)　在(P)　東(N)　街口(N)　後面(N)　。(PERIODCATEGORY)
+　2(DET)　、(PAUSECATEGORY)　房間(N)　不錯(Vi)　，(COMMACATEGORY)
+　有(Vt)　電腦(N)　，(COMMACATEGORY)
+　可以(ADV)　免費(Vi)　上網(Nv)　。(PERIODCATEGORY)

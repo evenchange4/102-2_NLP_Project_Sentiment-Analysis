@@ -1,0 +1,3 @@
+　酒店(N)　設施(N)　及(C)　服務(Nv)　質量(N)　一般(POST)　,(COMMACATEGORY)
+　交通(N)　情況(N)　比較(ADV)　方便(Vi)　,(COMMACATEGORY)
+　較(ADV)　適合(Vi)　中等(A)　收入(N)　家庭(N)　旅遊(Nv)　選擇(N)

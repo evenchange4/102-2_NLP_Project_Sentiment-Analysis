@@ -1,0 +1,7 @@
+　房間(N)　大(Vi)　，(COMMACATEGORY)
+　裝修(Vt)　好(Vi)　，(COMMACATEGORY)
+　服務(Vt)　佳(Vi)　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　就(P)　房間(N)　而言(Vt)　，(COMMACATEGORY)
+　不遜(Vt)　於(P)　5(DET)　星(N)　還(ADV)　會(ADV)　來(ADV)　住(Vt)

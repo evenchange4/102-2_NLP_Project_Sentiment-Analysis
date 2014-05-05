@@ -1,0 +1,1 @@
+　入住(Vt)　很多(DET)　次(M)　了(T)　都(ADV)　忘記(Vt)　點評(N)　了(T)　.(PERIODCATEGORY)　現在(N)　全部(DET)　補上(Vt)　.(PERIODCATEGORY)　從(P)　去年(N)　底(POST)　開始(Vt)　基本(A)　每(DET)　個(M)　月(N)　都(ADV)　去(Vt)　兩三(DET)　天(M)　的(T)　.(PERIODCATEGORY)

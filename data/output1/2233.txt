@@ -1,0 +1,7 @@
+　我(N)　訂(Vt)　的(T)　是(Vt)　普通(Vi)　標準(N)　間(POST)　B(FW)　,(COMMACATEGORY)
+　感覺(Vt)　非常(ADV)　的(T)　糟糕(Vi)　.(PERIODCATEGORY)　尤其(ADV)　是(Vt)　淋浴房(N)　沒(ADV)　設計好(Vt)　,(COMMACATEGORY)
+　洗完(Vt)　澡(N)　之後(POST)　水流(N)　的(T)　一(DET)　地(N)　都(ADV)　是(Vt)　,(COMMACATEGORY)
+　第二(DET)　天(M)　都(ADV)　沒(ADV)　干(Vt)　,(COMMACATEGORY)
+　嚴重(Vi)　影響(Vt)　心情(N)　,(COMMACATEGORY)
+　本來(ADV)　計劃(Vt)　住(Vt)　二(DET)　天(M)　,(COMMACATEGORY)
+　無奈(Vi)　第二天(N)　早上(N)　退房(Vi)　了(ASP)　.(PERIODCATEGORY)

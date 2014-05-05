@@ -1,0 +1,8 @@
+　不錯(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　房間(N)　乾淨(Vi)　，(COMMACATEGORY)
+　安靜(Vi)　（(PARENTHESISCATEGORY)　15樓(N)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+　客戶(N)　請客(Vi)　就(ADV)　在(P)　酒店(N)　的(T)　包房(N)　吃(Vt)　的(T)　，(COMMACATEGORY)
+　味道(N)　很(ADV)　好(Vi)　。(PERIODCATEGORY)
+　中式(A)　早餐(N)　略(ADV)　有(Vt)　不足(Vi)　，(COMMACATEGORY)
+　沒(Vt)　什麼(DET)　可(ADV)　選(Vt)　，(COMMACATEGORY)
+　味道(N)　還可以(Vi)　。(PERIODCATEGORY)

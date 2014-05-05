@@ -1,0 +1,7 @@
+　房間(N)　還可以(ADV)　（(PARENTHESISCATEGORY)　我(N)　住(Vt)　的(T)　是(Vt)　二十一(DET)　層(M)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　但(C)　空調(N)　不(ADV)　太(ADV)　好(Vi)　--(DASHCATEGORY)　溫度(N)　不(ADV)　好(Vi)　調節(Nv)　以及(C)　噪音(N)　不(ADV)　小(Vi)　，(COMMACATEGORY)
+　淋浴(Vi)　水量(N)　也(ADV)　不(ADV)　是(Vt)　很(ADV)　大(Vi)　。(PERIODCATEGORY)
+　另外(C)　就是(C)　酒店(N)　電梯(N)　太少(Vi)　了(T)　，(COMMACATEGORY)
+　只(ADV)　有(Vt)　兩(DET)　部(M)　可以(ADV)　用(Vt)　。(PERIODCATEGORY)
+　每(DET)　次(M)　都(ADV)　要(ADV)　等(Vt)　好(ADV)　長(Vi)　時間(N)　才(ADV)　能(ADV)　等到(P)　電梯(N)　。(PERIODCATEGORY)
+　下(DET)　次(M)　估計(Vt)　不會(ADV)　再(ADV)　住(Vt)　了(ASP)

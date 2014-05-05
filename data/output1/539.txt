@@ -1,0 +1,4 @@
+　價格(N)　不(ADV)　高(Vi)　,(COMMACATEGORY)
+　比較(ADV)　實惠(Vi)　,(COMMACATEGORY)
+　服務(Nv)　也(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　離(P)　鬧市(N)　區不遠(N)　.(PERIODCATEGORY)　交通(N)　也(ADV)　比較(ADV)　方便(Vi)　.(PERIODCATEGORY)

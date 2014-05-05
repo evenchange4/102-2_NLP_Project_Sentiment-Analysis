@@ -1,0 +1,3 @@
+　便宜(Vi)　，(COMMACATEGORY)
+　物(N)　有所(Vt)　值(N)　。(PERIODCATEGORY)
+　早餐(N)　：(COLONCATEGORY)　相對(Vi)　比較(ADV)　單調(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,3 @@
+　酒店(N)　硬件(N)　和(C)　軟件(N)　設施(N)　都(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　服務(Nv)　也(ADV)　很(ADV)　專業(Vi)　,(COMMACATEGORY)
+　去(Vt)　香港(N)　會(ADV)　經常(ADV)　住(Vt)　這(DET)　家(M)　酒店(N)　.(PERIODCATEGORY)

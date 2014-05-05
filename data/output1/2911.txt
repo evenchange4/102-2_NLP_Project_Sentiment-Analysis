@@ -1,0 +1,4 @@
+　前台(N)　服務(Nv)　態度(N)　如(P)　晚娘(N)　臉孔(N)　....(ETCCATEGORY)　房間(N)　小(Vi)　,(COMMACATEGORY)
+　衛生間(N)　有(Vt)　一(DET)　股(M)　油耗味(N)　,(COMMACATEGORY)
+　另(DET)　人(N)　想(Vt)　吐(Vt)　....(ETCCATEGORY)　原本(ADV)　住(Vt)　4(DET)　天(M)　,(COMMACATEGORY)
+　住(Vt)　一(DET)　天(M)　就(ADV)　跑(Vi)　人(N)　.....(ETCCATEGORY)

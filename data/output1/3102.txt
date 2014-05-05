@@ -1,0 +1,5 @@
+　簡直(ADV)　受不了(Vt)　啊(T)　，(COMMACATEGORY)
+　居然(ADV)　有(Vt)　蟑螂(N)　，(COMMACATEGORY)
+　一共(ADV)　消滅(Vt)　了(ASP)　3(DET)　只(M)　，(COMMACATEGORY)
+　作為(Vt)　1(DET)　家(M)　4星(N)　的(T)　酒店(N)　居然(ADV)　這樣(Vi)　很(ADV)　失望(Vi)　，(COMMACATEGORY)
+　而且(C)　上網(Nv)　速度(N)　簡直(ADV)　太(ADV)　慢(Vi)　了(T)

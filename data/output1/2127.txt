@@ -1,0 +1,7 @@
+　很(ADV)　破(Vt)　的(T)　賓館(N)　和(C)　招待所(N)　差不多(Vi)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　有(Vt)　問題(N)　多(ADV)　找錢(Vi)　還給(Vt)　她(N)　連聲(ADV)　謝謝(Vt)　都(ADV)　不(ADV)　說(Vt)　氣死(Vt)　我(N)　拉(Vt)　，(COMMACATEGORY)
+　早飯(N)　跟本(N)　不(ADV)　是(Vt)　人(N)　吃(Vt)　的(T)　，(COMMACATEGORY)
+　房間(N)　送(Vt)　餐(N)　送完(Vt)　了(ASP)　就(ADV)　沒(Vt)　人(N)　來(ADV)　拿(Vt)　餐具(N)　了(T)　暈倒(Vi)　，(COMMACATEGORY)
+　點(Vt)　了(ASP)　一(DET)　個(M)　紅燒(Nv)　牛肉(N)　牛肉(N)　上(POST)　都(ADV)　是(Vt)　淋巴(N)　都(ADV)　不(ADV)　敢(Vt)　吃(Vt)　而且(C)　要(ADV)　48(DET)　元(M)　一(DET)　份(M)　。(PERIODCATEGORY)
+　只(ADV)　有(Vt)　網速(N)　很(ADV)　快(Vi)　能(ADV)　到(Vt)　2(DET)　M(FW)　，(COMMACATEGORY)
+　不過(C)　建議(Vt)　不要(ADV)　入住(Vt)　太(ADV)　差(Vi)　拉(Vt)　。(PERIODCATEGORY)

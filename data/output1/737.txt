@@ -1,0 +1,3 @@
+　就是(C)　網絡(N)　速度(N)　超(Vt)　慢(Vi)　，(COMMACATEGORY)
+　而且(C)　經常(ADV)　掉線(N)　，(COMMACATEGORY)
+　前台(N)　服務(Nv)　不(ADV)　太(ADV)　專業(Vi)　。(PERIODCATEGORY)

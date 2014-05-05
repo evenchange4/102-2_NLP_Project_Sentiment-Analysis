@@ -1,0 +1,5 @@
+　儘管(C)　是(Vt)　四星(N)　的(T)　賓館(N)　，(COMMACATEGORY)
+　但(C)　這裡(N)　的(T)　服務員(N)　都(ADV)　不會(ADV)　笑(Vi)　，(COMMACATEGORY)
+　不(ADV)　知(Vt)　是(Vt)　何(DET)　原因(N)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　早餐(N)　差勁(Vi)　不(ADV)　說(Vt)　，(COMMACATEGORY)
+　冰冷(Vi)　的(T)　饅頭(N)　要求(Vt)　打熱(N)　一下(N)　都(ADV)　遭到(P)　拒絕(Vt)　。(PERIODCATEGORY)
+　服務(Vt)　太(ADV)　差(Vi)　！(EXCLAMATIONCATEGORY)　和(C)　四星(N)　的(T)　標準(N)　根本(ADV)　不符(Vt)　。(PERIODCATEGORY)

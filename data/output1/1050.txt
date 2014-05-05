@@ -1,0 +1,5 @@
+　這(DET)　次(M)　入住(Vt)　的(T)　宜興(N)　賓館(N)　性價(N)　比(P)　還是(ADV)　比較(ADV)　高(Vi)　的(T)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　房(N)　內(N)　佈置(Vt)　也(ADV)　比較(ADV)　溫馨(Vi)　。(PERIODCATEGORY)
+　早餐(N)　品種(N)　太少(Vi)　了(T)　，(COMMACATEGORY)
+　服務員(N)　態度(N)　比較(ADV)　好(Vi)　。(PERIODCATEGORY)

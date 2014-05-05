@@ -1,0 +1,4 @@
+　地點(N)　偏僻(Vi)　,(COMMACATEGORY)
+　比較(ADV)　難(Vi)　找到(Vt)　.(PERIODCATEGORY)　出租車(N)　司機(N)　都(ADV)　不(ADV)　知道(Vt)　這(DET)　個(M)　酒店(N)　的(T)　.(PERIODCATEGORY)　早上(N)　的(T)　自主餐(N)　沒有(Vt)　什麼(DET)　東西(N)　的(T)　,(COMMACATEGORY)
+　用餐(Nv)　環境(N)　就(ADV)　在(P)　一(DET)　個(M)　走廊(N)　上(N)　,(COMMACATEGORY)
+　環境(N)　比較(ADV)　差(Vi)　.(PERIODCATEGORY)　一(DET)　張(M)　地圖(N)　要(ADV)　10(DET)　元(M)　錢(N)　.(PERIODCATEGORY)

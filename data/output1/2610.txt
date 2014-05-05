@@ -1,0 +1,7 @@
+　房間(N)　較(ADV)　舊(Vi)　，(COMMACATEGORY)
+　牆(N)　紙(N)　有(Vt)　霉變(Vi)　。(PERIODCATEGORY)
+　環境(N)　一般(POST)　，(COMMACATEGORY)
+　感覺(N)　不(ADV)　像(Vt)　攜程(N)　上(POST)　介紹(Vt)　的(T)　那樣(ADV)　古色古香(Vi)　，(COMMACATEGORY)
+　而是(C)　感覺(Vt)　破舊(Vi)　不堪(ADV)　。(PERIODCATEGORY)
+　不過(C)　周圍(N)　交通(N)　比較(ADV)　方便(Vi)　，(COMMACATEGORY)
+　離(P)　景點(N)　和(C)　汽車站(N)　都(ADV)　很(ADV)　近(Vi)　。(PERIODCATEGORY)

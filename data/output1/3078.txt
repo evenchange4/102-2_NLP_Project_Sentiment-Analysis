@@ -1,0 +1,8 @@
+　地段(N)　馬(N)　馬乎乎(N)　。(PERIODCATEGORY)
+　但(C)　這(DET)　個(M)　樓(N)　本來(ADV)　就(ADV)　像(Vt)　寫字樓(N)　一樣(Vi)　，(COMMACATEGORY)
+　大部分(DET)　都(ADV)　是(Vt)　人家(N)　辦公(Vi)　的(T)　地方(N)　，(COMMACATEGORY)
+　少(Vi)　部分(DET)　樓層(N)　是(Vt)　客房(N)　。(PERIODCATEGORY)
+　房間(N)　不(ADV)　大(Vi)　，(COMMACATEGORY)
+　設施(N)　也(ADV)　有點(ADV)　舊(Vi)　的(T)　樣子(N)　，(COMMACATEGORY)
+　早餐(N)　更(ADV)　是(Vt)　殘(Vi)　不(ADV)　目睹(Vt)　。(PERIODCATEGORY)
+　我(N)　真的(ADV)　覺得(Vt)　他(N)　能(ADV)　評上(Vt)　3星(N)　是(Vt)　奇跡(N)

@@ -1,0 +1,4 @@
+　幫(P)　同事(N)　訂(Vt)　的(T)　酒店(N)　,(COMMACATEGORY)
+　他(N)　老兄(N)　剛(ADV)　從(P)　東莞(N)　回來(Vi)　,(COMMACATEGORY)
+　詳細(Vi)　地(T)　問(Vt)　了(ASP)　一下(N)　他(N)　對(P)　粵海(N)　酒店(N)　的(T)　印象(N)　,(COMMACATEGORY)
+　說(Vt)　是(Vt)　硬件(N)　和(C)　軟件(N)　:(COLONCATEGORY)　極好(Vi)　!(EXCLAMATIONCATEGORY)　所以(C)　表揚(Vt)　一下(N)

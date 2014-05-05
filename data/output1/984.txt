@@ -1,0 +1,2 @@
+　很(ADV)　好(Vi)　的(T)　酒店(N)　,(COMMACATEGORY)
+　床(N)　很(ADV)　大(Vi)　!(EXCLAMATIONCATEGORY)　衛生間(N)　的(T)　設計(N)　很(ADV)　好(Vi)　.(PERIODCATEGORY)　很(ADV)　有(Vt)　藝術性(N)　!(EXCLAMATIONCATEGORY)　感謝(Vt)　入住(Vt)　兩(DET)　天(M)　那(DET)　位(M)　男(N)　服務員(N)　對(P)　我(N)　的(T)　幫助(N)　謝謝(Vt)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)

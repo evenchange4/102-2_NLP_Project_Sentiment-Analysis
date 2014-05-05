@@ -1,0 +1,5 @@
+　太(ADV)　像(Vt)　公寓(N)　了(T)　！(EXCLAMATIONCATEGORY)　簡直(ADV)　就是(C)　公寓(N)　！(EXCLAMATIONCATEGORY)　大廳(N)　感覺(N)　非常(ADV)　公寓(N)　，(COMMACATEGORY)
+　房間(N)　也(ADV)　公寓(N)　非常(ADV)　，(COMMACATEGORY)
+　居然(ADV)　還(ADV)　有(Vt)　廚房(N)　和(C)　相關(Vi)　設備(N)　，(COMMACATEGORY)
+　其實(ADV)　你(N)　根本(ADV)　沒有(Vt)　機會(N)　使用(Vt)　，(COMMACATEGORY)
+　因為(C)　你(N)　不可能(ADV)　隨身(ADV)　帶(Vt)　餐具(N)　！(EXCLAMATIONCATEGORY)

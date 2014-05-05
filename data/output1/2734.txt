@@ -1,0 +1,5 @@
+　房間(N)　安排(Vt)　非常(ADV)　不(ADV)　合理(Vi)　，(COMMACATEGORY)
+　要(ADV)　穿過(Vt)　很(ADV)　遠(Vi)　的(T)　廚房(N)　才(ADV)　能(ADV)　到達(Vt)　房間(N)　，(COMMACATEGORY)
+　聞到(Vt)　廚房(N)　一(DET)　股(M)　做飯(Vi)　的(T)　味道(N)　後(POST)　到(Vt)　了(ASP)　房間(N)　都(ADV)　沒法(ADV)　休息(Vi)　；(SEMICOLONCATEGORY)　大(Vi)　床(N)　房間(N)　反而(C)　不能(ADV)　上網(Vi)　，(COMMACATEGORY)
+　而(C)　標準(N)　間(POST)　能(ADV)　上網(Vi)　，(COMMACATEGORY)
+　不(ADV)　合理(Vi)　；(SEMICOLONCATEGORY)　服務(Nv)　態度(N)　也(ADV)　很(ADV)　一般(Vi)　。(PERIODCATEGORY)

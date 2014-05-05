@@ -1,0 +1,6 @@
+　房間(N)　非常(ADV)　好(Vi)　，(COMMACATEGORY)
+　早餐(N)　還好(Vi)　，(COMMACATEGORY)
+　比較(ADV)　滿意(Vt)　。(PERIODCATEGORY)
+　房間(N)　缺少(Vt)　針線(N)　包(Vt)　，(COMMACATEGORY)
+　客房部(N)　人員(N)　反應(N)　速度(N)　比較(ADV)　快(Vi)　，(COMMACATEGORY)
+　再(ADV)　去(Vt)　瀋陽(N)　還(ADV)　住(Vt)　高登(N)　。(PERIODCATEGORY)

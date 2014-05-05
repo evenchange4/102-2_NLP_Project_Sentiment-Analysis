@@ -1,0 +1,6 @@
+　性價(N)　比低(Vi)　，(COMMACATEGORY)
+　感覺(Vt)　很(ADV)　貴(Vi)　。(PERIODCATEGORY)
+　選擇(Vt)　酒店(N)　主要(ADV)　是(Vt)　離(P)　附近(N)　的(T)　企業(N)　近(ADV)　一些(DET)　。(PERIODCATEGORY)
+　房間(N)　總是(ADV)　能(ADV)　聽(Vt)　得(T)　很(ADV)　響(Vi)　的(T)　水聲(N)　。(PERIODCATEGORY)
+　希望(Vt)　酒店(N)　能(ADV)　降低(Vt)　價格(N)　。(PERIODCATEGORY)
+　目前(N)　的(T)　設施(N)　同(DET)　安徽省(N)　內(N)　其它(DET)　酒店(N)　相比(Vi)　只(ADV)　值(Vt)　250(DET)　元(M)　不(ADV)　到(Vt)　啊(T)

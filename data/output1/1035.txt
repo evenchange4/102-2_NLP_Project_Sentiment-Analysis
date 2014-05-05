@@ -1,0 +1,2 @@
+　位置(N)　不錯(Vi)　,(COMMACATEGORY)
+　在(P)　市中心(N)　.(PERIODCATEGORY)　周圍(N)　吃飯(Vi)　等(POST)　很(ADV)　方便(Vi)　.(PERIODCATEGORY)　房間(N)　一如(Vt)　既(C)　往(Vt)　的(T)　乾淨(Vi)

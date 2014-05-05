@@ -1,0 +1,3 @@
+　是(Vt)　華苑(N)　產業(N)　園區(N)　唯一(A)　的(T)　酒店(N)　，(COMMACATEGORY)
+　雖說(C)　有(Vt)　3(DET)　星(N)　，(COMMACATEGORY)
+　但(C)　總體(N)　感覺(N)　也(ADV)　就(ADV)　比(P)　快捷(Vi)　酒店(N)　好(Vi)　一點(ADV)　。(PERIODCATEGORY)

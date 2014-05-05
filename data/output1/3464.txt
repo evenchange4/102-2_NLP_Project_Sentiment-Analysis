@@ -1,0 +1,6 @@
+　房間(N)　設施(N)　比較(ADV)　簡單(Vi)　。(PERIODCATEGORY)
+　服務員(N)　服務(Nv)　也(ADV)　一般(Vi)　，(COMMACATEGORY)
+　隔音(A)　比較(ADV)　差(Vi)　。(PERIODCATEGORY)
+　晚上(N)　的(T)　騷擾(Nv)　電話(N)　，(COMMACATEGORY)
+　唉(T)　，(COMMACATEGORY)
+　不(ADV)　提(Vt)　了(ASP)

@@ -1,0 +1,7 @@
+　稱作(Vt)　4星(N)　，(COMMACATEGORY)
+　有點(ADV)　牽強(Vi)　，(COMMACATEGORY)
+　不過(C)　酒店(N)　下面(N)　的(T)　朝鮮(N)　料理(N)　還(ADV)　可以(ADV)　，(COMMACATEGORY)
+　還(ADV)　有(Vt)　歌舞(N)　，(COMMACATEGORY)
+　的確(ADV)　不錯(Vi)　。(PERIODCATEGORY)
+　想(Vt)　感受(Vt)　一下(N)　朝鮮(N)　風格(N)　，(COMMACATEGORY)
+　還是(ADV)　可以(ADV)　一(ADV)　試(Vt)　的(T)　。(PERIODCATEGORY)

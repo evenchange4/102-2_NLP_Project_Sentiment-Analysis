@@ -1,0 +1,5 @@
+　位置(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　走路(Vi)　到(P)　文廟(N)　、(PAUSECATEGORY)　清涼寺(N)　5(DET)　分鐘(M)　都(ADV)　用不了(ADV)　，(COMMACATEGORY)
+　周邊(N)　公交車(N)　很多(DET)　很(ADV)　方便(Vi)　，(COMMACATEGORY)
+　就是(C)　出租車(N)　不(T)　太(ADV)　愛(Vt)　去(Vt)　（(PARENTHESISCATEGORY)　老(Vi)　城區(N)　路窄愛(N)　堵車(Vi)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　因為(C)　是(Vt)　老(Vi)　賓館(N)　所以(C)　設施(N)　要(ADV)　陳舊(Vi)　些(ADV)　，(COMMACATEGORY)

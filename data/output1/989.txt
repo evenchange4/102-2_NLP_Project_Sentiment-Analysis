@@ -1,0 +1,5 @@
+　這(DET)　是(Vt)　一(DET)　間(M)　非常(ADV)　不錯(Vi)　的(T)　三星級(N)　酒店(N)　,(COMMACATEGORY)
+　房間(N)　設施(N)　和(C)　服務員(N)　的(T)　服務(Nv)　素質(N)　,(COMMACATEGORY)
+　態度(N)　等(POST)　都(ADV)　很(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　不過(C)　就(ADV)　是(Vt)　攜程(N)　的(T)　協議(N)　價格(N)　和(C)　酒店(N)　前台(N)　價格(N)　相差(Vt)　不(ADV)　是(Vt)　很多(DET)　,(COMMACATEGORY)
+　希望(Vt)　攜程(N)　還(ADV)　得(ADV)　繼續(Vt)　努力(Vi)　.(PERIODCATEGORY)

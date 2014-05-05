@@ -1,0 +1,8 @@
+　2007年(N)　9月(N)　份(N)　曾(ADV)　住(Vt)　二(DET)　晚(M)　,(COMMACATEGORY)
+　總體(N)　評價(N)　:(COLONCATEGORY)　1(DET)　、(PAUSECATEGORY)　服務(Vt)　還(ADV)　可以(ADV)　，(COMMACATEGORY)
+　入住(Vt)　的(T)　客人(N)　特別(Vi)　多(Vi)　，(COMMACATEGORY)
+　尤其(ADV)　是(Vt)　旅行團(N)　的(T)　，(COMMACATEGORY)
+　可能(ADV)　是(Vt)　肇慶(N)　市區(N)　較(ADV)　價廉物美(Vi)　的(T)　一(DET)　間(M)　酒店(N)　。(PERIODCATEGORY)
+　2(DET)　、(PAUSECATEGORY)　房間(N)　設施(N)　舊(Vi)　些(ADV)　，(COMMACATEGORY)
+　但(C)　乾淨(Vi)　。(PERIODCATEGORY)
+　3(DET)　、(PAUSECATEGORY)　住觀景房(N)　比較(ADV)　值得(Vi)　。(PERIODCATEGORY)

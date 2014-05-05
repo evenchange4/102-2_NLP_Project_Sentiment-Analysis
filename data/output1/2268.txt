@@ -1,0 +1,3 @@
+　還是(ADV)　不(ADV)　去(Vt)　的(T)　好(Vi)　，(COMMACATEGORY)
+　裝修(Vt)　噪音(N)　大(Vi)　，(COMMACATEGORY)
+　離(P)　汽車站(N)　火車站(N)　比較(ADV)　近(Vi)　比較(ADV)　亂(Vi)　。(PERIODCATEGORY)

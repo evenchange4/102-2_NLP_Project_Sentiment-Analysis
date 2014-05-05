@@ -1,0 +1,1 @@
+　房間(N)　很(ADV)　乾淨(Vi)　完全(ADV)　對得起(Vt)　3星(N)　的(T)　標準(N)　服務(Nv)　態度(N)　也(ADV)　還可以(ADV)　保安(Vt)　警覺性(N)　也(ADV)　滿(ADV)　好(Vi)　也(ADV)　滿(ADV)　安靜(Vi)　的(T)　早餐(N)　很(ADV)　差(Vi)　不(ADV)　是(Vt)　一般(A)　的(T)　差(Vi)　除了(P)　早餐(N)　外(N)　其他(DET)　都(ADV)　滿(ADV)　滿意(Vt)　的(T)　。(PERIODCATEGORY)

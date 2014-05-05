@@ -1,0 +1,4 @@
+　房間(N)　裝修(Vt)　不錯(Vi)　，(COMMACATEGORY)
+　早餐(N)　也(ADV)　挺(ADV)　好(Vi)　。(PERIODCATEGORY)
+　出入(Vt)　方便(Vi)　。(PERIODCATEGORY)
+　推薦(Vt)　。(PERIODCATEGORY)

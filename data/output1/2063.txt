@@ -1,0 +1,3 @@
+　建議(Vt)　訂(Vt)　別的(DET)　酒店(N)　,(COMMACATEGORY)
+　省得(C)　心痛(Vi)　,(COMMACATEGORY)
+　因為(C)　這(DET)　家(M)　酒店(N)　在(P)　我(N)　看來(ADV)　是(Vt)　多麼(ADV)　的(T)　糟糕(Vi)

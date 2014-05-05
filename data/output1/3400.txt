@@ -1,0 +1,7 @@
+　370(DET)　的(T)　房間(N)　，(COMMACATEGORY)
+　性價(N)　比(P)　很(ADV)　低(Vi)　，(COMMACATEGORY)
+　也(ADV)　就(P)　內地(N)　150(DET)　的(T)　水平(N)　，(COMMACATEGORY)
+　自助餐(N)　品種(N)　那(DET)　是(Vt)　相當(Vi)　的(T)　少(Vi)　，(COMMACATEGORY)
+　成天(ADV)　一(DET)　堆(M)　喝(Vt)　得(T)　紅赤胡臉(N)　的(T)　中年(N)　FB(FW)　男(N)　出入(Vt)　，(COMMACATEGORY)
+　很(ADV)　不(ADV)　爽(Vi)　，(COMMACATEGORY)
+　決不(ADV)　再(ADV)　住(Vt)

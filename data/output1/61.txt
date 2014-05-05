@@ -1,0 +1,6 @@
+　很(ADV)　不錯(Vi)　的(T)　一(DET)　家(M)　五(DET)　星(N)　的(T)　酒店(N)　,(COMMACATEGORY)
+　房間(N)　很(ADV)　大(Vi)　,(COMMACATEGORY)
+　設施(N)　也(ADV)　很(ADV)　新(Vi)　,(COMMACATEGORY)
+　重要(Vi)　它(N)　的(T)　位置(N)　在(P)　金融(N)　中心(N)　,(COMMACATEGORY)
+　去(Vt)　哪裡(N)　都(ADV)　很(ADV)　方便(Vi)　,(COMMACATEGORY)
+　以後(N)　會(ADV)　考慮(Vt)　再次(ADV)　入住(Vt)　的(T)　.(PERIODCATEGORY)

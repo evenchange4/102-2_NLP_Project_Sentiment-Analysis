@@ -1,0 +1,5 @@
+　實在(ADV)　看(Vt)　不(ADV)　懂(Vt)　的(T)　房價(N)　，(COMMACATEGORY)
+　房間(N)　較(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　但是(C)　像(Vt)　是(Vt)　臨時房(N)　一樣(Vi)　，(COMMACATEGORY)
+　幾乎(ADV)　沒有(Vt)　隔音(A)　，(COMMACATEGORY)
+　昆山(N)　的(T)　酒店(N)　價格(N)　太(ADV)　離譜(Vi)　了(T)　！(EXCLAMATIONCATEGORY)

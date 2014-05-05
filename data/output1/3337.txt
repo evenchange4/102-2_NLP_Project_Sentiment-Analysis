@@ -1,0 +1,6 @@
+　結帳(Vi)　的(T)　時候(N)　刷卡(Vi)　總是(ADV)　刷(ADV)　不(ADV)　過去(Vi)　，(COMMACATEGORY)
+　為了(P)　趕(Vt)　飛機(N)　，(COMMACATEGORY)
+　只好(ADV)　答應(Vt)　他們(N)　說(Vt)　走(Vi)　後(POST)　再(ADV)　解除(Vt)　預(ADV)　授權(Vt)　並(ADV)　結帳(Vi)　，(COMMACATEGORY)
+　回來(Vi)　兩(DET)　天(M)　了(ASP)　酒店(N)　也(ADV)　沒有(Vt)　主動(Vi)　聯繫(Vt)　，(COMMACATEGORY)
+　昨天(N)　我(N)　打電話(Vi)　過去(N)　說(Vt)　還(ADV)　沒有(ADV)　弄好(Vt)　，(COMMACATEGORY)
+　要(ADV)　等(P)　週一(N)

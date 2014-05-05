@@ -1,0 +1,7 @@
+　在(P)　這裡(N)　住(Vt)　過(ASP)　很多(DET)　次(M)　了(T)　，(COMMACATEGORY)
+　每(DET)　次(M)　來(POST)　肇慶(N)　必(ADV)　住(Vt)　這(DET)　家(M)　酒店(N)　。(PERIODCATEGORY)
+　設施(N)　有點(ADV)　老(Vi)　了(T)　，(COMMACATEGORY)
+　但是(C)　面對(Vt)　星湖(N)　，(COMMACATEGORY)
+　交通(N)　方便(Vi)　，(COMMACATEGORY)
+　可以(ADV)　隨時(ADV)　感受(Vt)　星湖(N)　的(T)　碧波(N)　和(C)　肇慶(N)　的(T)　人文(N)　氣息(N)　，(COMMACATEGORY)
+　感覺(N)　還是(ADV)　挺(ADV)　不錯(Vi)　的(T)　。(PERIODCATEGORY)

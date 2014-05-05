@@ -1,0 +1,3 @@
+　很(ADV)　喜歡(Vt)　，(COMMACATEGORY)
+　而且(C)　解放(Vt)　北路(N)　也(ADV)　很(ADV)　漂亮(Vi)　，(COMMACATEGORY)
+　住(Vt)　這裡(N)　晚上(N)　出來(Vi)　散步(Vi)　很(ADV)　好(Vi)

@@ -1,0 +1,5 @@
+　非常(ADV)　好(Vi)　的(T)　位置(N)　，(COMMACATEGORY)
+　便於(Vt)　交通(N)　，(COMMACATEGORY)
+　面對(Vt)　星湖(N)　。(PERIODCATEGORY)
+　地毯(N)　很(ADV)　厚實(Vi)　，(COMMACATEGORY)
+　感覺(N)　不錯(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,3 @@
+　由於(C)　不(ADV)　是(Vt)　本人(N)　入住(Vt)　，(COMMACATEGORY)
+　是(Vt)　朋友(N)　住(Vt)　的(T)　．(PERIODCATEGORY)　酒店(N)　好像(ADV)　是(Vt)　新(Vi)　裝修(Vt)　過(ASP)　了(T)　，(COMMACATEGORY)
+　所以(C)　感覺(N)　還(ADV)　不錯(Vi)　．(PERIODCATEGORY)　性價(N)　比(P)　比較(ADV)　高(Vi)　．(PERIODCATEGORY)

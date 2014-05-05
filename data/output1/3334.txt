@@ -1,0 +1,5 @@
+　酒店(N)　設施(N)　還(ADV)　行(Vi)　，(COMMACATEGORY)
+　服務(Vt)　超級(A)　差(Vi)　，(COMMACATEGORY)
+　服務(Nv)　態度(N)　也(ADV)　很(ADV)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　我們(N)　本來(ADV)　是(Vt)　在(P)　這裡(N)　開會(Vi)　，(COMMACATEGORY)
+　結果(ADV)　各(DET)　個(M)　部分(DET)　互相(ADV)　之間(POST)　很(ADV)　難(Vi)　溝通(Vt)　哦(T)

@@ -1,0 +1,5 @@
+　房間(N)　真(ADV)　差(Vi)　啊(T)　，(COMMACATEGORY)
+　我(N)　住(Vt)　的(T)　是(Vt)　高級(Vi)　大(Vi)　床(N)　間(POST)　，(COMMACATEGORY)
+　結果(ADV)　房間(N)　裡(N)　一(DET)　股(M)　油漆味(N)　...(ETCCATEGORY)　房間(N)　的(T)　衛浴(N)　系統(N)　太(ADV)　差(Vi)　了(T)　，(COMMACATEGORY)
+　都(ADV)　沒(ADV)　能(ADV)　洗好(Vt)　澡(N)　，(COMMACATEGORY)
+　空調(N)　基本(N)　屬於(Vt)　沒有(Vt)　....(ETCCATEGORY)

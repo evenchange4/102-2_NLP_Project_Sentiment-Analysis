@@ -1,0 +1,5 @@
+　位置(N)　好(Vi)　，(COMMACATEGORY)
+　早餐(N)　豐富(Vt)　，(COMMACATEGORY)
+　上網(Vi)　很(ADV)　快(Vi)　。(PERIODCATEGORY)
+　只是(ADV)　不再(ADV)　是(Vt)　萬豪(N)　管理(N)　的(T)　了(T)　，(COMMACATEGORY)
+　希望(Vt)　服務(Nv)　水平(N)　不會(ADV)　下降(Vi)

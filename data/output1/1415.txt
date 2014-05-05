@@ -1,0 +1,4 @@
+　面對(Vt)　鴉綠江(N)　大橋(N)　,(COMMACATEGORY)
+　附(Vt)　望遠鏡(N)　,(COMMACATEGORY)
+　還(ADV)　有(Vt)　飛鏢(N)　,(COMMACATEGORY)
+　設施(N)　沒(Vt)　話(N)　講(Vt)　!(EXCLAMATIONCATEGORY)　下樓(Vi)　就(ADV)　是(Vt)　風景區(N)　很(ADV)　不錯(Vi)　!(EXCLAMATIONCATEGORY)

@@ -1,0 +1,5 @@
+　電梯(N)　太(ADV)　慢(Vi)　，(COMMACATEGORY)
+　需要(N)　等(POST)　很(ADV)　長(Vi)　時間(N)　才(ADV)　能(ADV)　上(N)　下樓(Vi)　一(DET)　次(M)　。(PERIODCATEGORY)
+　房間門(N)　卡進(Vt)　門(N)　也(ADV)　不(ADV)　方便(Vi)　，(COMMACATEGORY)
+　需要(Vt)　試(Vt)　很多(DET)　次(M)　才(ADV)　能(ADV)　把(P)　門(N)　打開(Vt)　。(PERIODCATEGORY)
+　條件(N)　太(ADV)　一般(Vi)　！(EXCLAMATIONCATEGORY)　攜(Vt)　程(N)　房價(N)　與(C)　前台價(N)　完全(ADV)　一致(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,6 @@
+　酒店(N)　位置(N)　不錯(Vi)　，(COMMACATEGORY)
+　距(P)　天府(N)　廣場(N)　和(C)　春曦路(N)　走路(Vi)　大概(ADV)　25(DET)　分鐘(M)　、(PAUSECATEGORY)　打車(N)　5(DET)　分鐘(M)　。(PERIODCATEGORY)
+　房間(N)　、(PAUSECATEGORY)　服務(Nv)　也(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　夠(Vi)　三星(N)　水平(N)　。(PERIODCATEGORY)
+　只(ADV)　是(Vt)　早餐(N)　過於(ADV)　簡單(Vi)　。(PERIODCATEGORY)
+　房間(N)　地毯(N)　、(PAUSECATEGORY)　牆紙略顯(N)　陳舊(Vi)　了(T)　。(PERIODCATEGORY)

@@ -1,0 +1,5 @@
+　我(N)　第一(DET)　次(M)　用攜程(N)　訂房(Vi)　，(COMMACATEGORY)
+　在(P)　長安(N)　酒店(N)　住(Vt)　得(T)　很(ADV)　舒適(Vi)　，(COMMACATEGORY)
+　餐飲(N)　很(ADV)　令(Vt)　人(N)　滿意(Vt)　。(PERIODCATEGORY)
+　價格(N)　僅(ADV)　比(P)　前台(N)　價格(N)　低(Vi)　不(ADV)　多(Vi)　，(COMMACATEGORY)
+　不(ADV)　是(Vt)　太(ADV)　有(Vt)　競爭(N)　優勢(N)　。(PERIODCATEGORY)

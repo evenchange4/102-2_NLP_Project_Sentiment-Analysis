@@ -1,0 +1,4 @@
+　價格(N)　偏(ADV)　高(Vi)　,(COMMACATEGORY)
+　好像(ADV)　連雲港(N)　這(DET)　地方(N)　的(T)　酒店(N)　都(ADV)　偏(ADV)　貴(Vi)　.(PERIODCATEGORY)　早飯(N)　不(ADV)　好(Vi)　.(PERIODCATEGORY)　房間(N)　還(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　窗(N)　外(N)　風景(N)　還(ADV)　行(Vi)　.(PERIODCATEGORY)　最(ADV)　重要(Vi)　是(Vt)　房間(N)　的(T)　窗戶(N)　很(ADV)　隔音(A)　.(PERIODCATEGORY)　床(N)　小(Vi)　,(COMMACATEGORY)
+　還是(C)　明珠(N)　萬豪(N)　的(T)　床(N)　好些(DET)　.(PERIODCATEGORY)

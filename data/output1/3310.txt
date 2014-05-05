@@ -1,0 +1,6 @@
+　衛生(N)　條件(N)　比較(ADV)　差(Vi)　，(COMMACATEGORY)
+　真的(ADV)　很(ADV)　差(Vi)　！(EXCLAMATIONCATEGORY)　毛巾(N)　白(Vi)　裡(POST)　透著(Vt)　黑(Vi)　，(COMMACATEGORY)
+　馬桶(N)　和(C)　地面(N)　已經(ADV)　分家(Vi)　，(COMMACATEGORY)
+　一(ADV)　碰(Vt)　就(ADV)　要(ADV)　倒(Vi)　。(PERIODCATEGORY)
+　沒有(Vt)　停車場(N)　，(COMMACATEGORY)
+　車(N)　放(Vt)　在(P)　馬路(N)　邊(N)　不(ADV)　是(Vt)　太(ADV)　安全(Vi)

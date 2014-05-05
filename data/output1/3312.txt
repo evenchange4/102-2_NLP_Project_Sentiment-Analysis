@@ -1,0 +1,8 @@
+　非常(ADV)　不(ADV)　好(Vi)　的(T)　經歷(Nv)　,(COMMACATEGORY)
+　通過(Vt)　攜程定(Vt)　的(T)　房間(N)　,(COMMACATEGORY)
+　到(Vt)　了(ASP)　以後(POST)　,(COMMACATEGORY)
+　服務(Vt)　的(T)　人員(N)　居然(ADV)　要(ADV)　我(N)　的(T)　身份證(N)　,(COMMACATEGORY)
+　我(N)　在(P)　美國(N)　生活(Vi)　了(ASP)　10(DET)　年(M)　,(COMMACATEGORY)
+　早(ADV)　就(ADV)　沒有(Vt)　了(ASP)　身份證(N)　,(COMMACATEGORY)
+　還好(Vi)　護照(N)　也(ADV)　勉強(Vi)　接受(Vt)　了(ASP)　,(COMMACATEGORY)
+　整(DET)　個(M)　服(Vt)

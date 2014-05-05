@@ -1,0 +1,4 @@
+　酒店(N)　一般(POST)　，(COMMACATEGORY)
+　唯一(A)　就(ADV)　是(Vt)　距離(P)　機場(N)　近(Vi)　，(COMMACATEGORY)
+　有(Vt)　免費(Vi)　班車(N)　，(COMMACATEGORY)
+　沒有(ADV)　特別(Vi)　印象(N)　。(PERIODCATEGORY)

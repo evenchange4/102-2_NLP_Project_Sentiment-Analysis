@@ -1,0 +1,3 @@
+　很(ADV)　好(Vi)　的(T)　地理(N)　位置(N)　，(COMMACATEGORY)
+　一(DET)　蹋(b)　糊塗(Vi)　的(T)　服務(Nv)　，(COMMACATEGORY)
+　蕭條(Vi)　的(T)　酒店(N)　。(PERIODCATEGORY)

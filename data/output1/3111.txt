@@ -1,0 +1,8 @@
+　我(N)　住(Vt)　的(T)　是(Vt)　所謂(Vt)　５樓(N)　行政房(N)　．(PERIODCATEGORY)　雖說(C)　是(Vt)　無煙(Vi)　樓層(N)　，(COMMACATEGORY)
+　但(C)　一(ADV)　出(Vt)　升降機(N)　已(ADV)　嗅到(Vt)　煙味(N)　．(PERIODCATEGORY)　房間(N)　面積(N)　和(C)　設備(N)　很(ADV)　一般(Vi)　．(PERIODCATEGORY)　浴室(N)　設計(N)　奇怪(Vt)　．(PERIODCATEGORY)　浴缸(N)　外面(N)　設有(Vt)　淋浴(Vi)　花灑(Vt)　，(COMMACATEGORY)
+　但(C)　只得(ADV)　半(DET)　邊(N)　玻璃門(N)　阻擋(Vt)　水花(N)　，(COMMACATEGORY)
+　所以(C)　必須(ADV)　很(ADV)　小心(Vt)　淋浴(Vi)　，(COMMACATEGORY)
+　以免(C)　水(N)　弄濕(Vt)　玻璃門(N)　外(N)　地板(N)　．(PERIODCATEGORY)　浴缸(N)　外邊(N)　近(DET)　地板處(N)　有(Vt)　明顯(Vi)　污漬(N)　．(PERIODCATEGORY)　行政房(N)　住客(N)　可(ADV)　在(P)　６樓(N)　所謂(Vt)　行政(N)　酒廊(N)　用(P)　早餐(N)　．(PERIODCATEGORY)　食物(N)　款式(N)　少(Vi)　得(T)　很(ADV)　，(COMMACATEGORY)
+　樣子(N)　亦(ADV)　很(ADV)　不(ADV)　吸引(Vt)　，(COMMACATEGORY)
+　不(ADV)　吃(Vt)　都(ADV)　沒(Vt)　甚麼(DET)　損失(N)　．(PERIODCATEGORY)　以(P)　上述(N)　的(T)　設施(N)　，(COMMACATEGORY)
+　房價(N)　收費(Nv)　是(Vt)　$(FW)　1,　027(DET)　.(PERIODCATEGORY)　-(DASHCATEGORY)　這(DET)　是(Vt)　我(N)　在(P)　深圳(N)　付出(Vt)　一(DET)　仟(DET)　圓(M)　以上(POST)　的(T)　房費(N)　住到(Vt)　最(ADV)　差(Vi)　的(T)　酒店(N)　.(PERIODCATEGORY)　以後(N)　也(ADV)　不會(ADV)　再(ADV)　住(Vt)　.(PERIODCATEGORY)

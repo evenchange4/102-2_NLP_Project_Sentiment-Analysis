@@ -1,0 +1,5 @@
+　比較(ADV)　新(Vi)　的(T)　四星(N)　酒店(N)　，(COMMACATEGORY)
+　各(DET)　方面(N)　都(ADV)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　應該(ADV)　算是(Vt)　很(ADV)　標準(Vi)　的(T)　4星(N)　服務(Nv)　，(COMMACATEGORY)
+　值得(Vi)　推薦(Vt)　賓館(N)　反饋(Vt)　2008年(N)　7月(N)　31日(N)　：(COLONCATEGORY)　感謝(Vt)　您(N)　對(P)　酒店(N)　的(T)　認可(Nv)　，(COMMACATEGORY)
+　期待(Vt)　您(N)　的(T)　再次(ADV)　光臨(Vt)　！(EXCLAMATIONCATEGORY)

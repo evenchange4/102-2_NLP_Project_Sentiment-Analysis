@@ -1,0 +1,6 @@
+　兩(DET)　星級(N)　的(T)　設施(N)　((PARENTHESISCATEGORY)　可能(ADV)　還(ADV)　沒有(Vt)　)(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　四(DET)　星(N)　的(T)　收費(Nv)　標準(N)　。(PERIODCATEGORY)
+　真(ADV)　不(ADV)　知道(Vt)　四星級(N)　是(Vt)　怎麼(ADV)　評(Vt)　下來(ASP)　的(T)　。(PERIODCATEGORY)
+　和(C)　攜程(N)　宣傳(N)　有(Vt)　很(ADV)　大(Vi)　的(T)　區別(N)　。(PERIODCATEGORY)
+　比如說(P)　有(Vt)　酒吧(N)　，(COMMACATEGORY)
+　原來(ADV)　是(Vt)　房間(N)　內(N)　食品(N)　。(PERIODCATEGORY)

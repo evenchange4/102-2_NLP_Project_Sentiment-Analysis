@@ -1,0 +1,4 @@
+　地點(N)　較(ADV)　好(Vi)　，(COMMACATEGORY)
+　還給(Vt)　免費(Vi)　升級(Vi)　了(T)　，(COMMACATEGORY)
+　感覺(Vt)　好了(T)　很多(DET)　，(COMMACATEGORY)
+　就是(C)　價格(N)　太(ADV)　高(Vi)　了(T)　。(PERIODCATEGORY)

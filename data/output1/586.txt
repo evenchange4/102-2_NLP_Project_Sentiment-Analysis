@@ -1,0 +1,3 @@
+　酒店(N)　總的來說(ADV)　，(COMMACATEGORY)
+　還可以(Vi)　，(COMMACATEGORY)
+　下(DET)　次(M)　去(Vt)　瀋陽(N)　還(ADV)　會(ADV)　去(ADV)　住(Vt)

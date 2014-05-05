@@ -1,0 +1,4 @@
+　房間(N)　蠻(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　地理(N)　位置(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　早餐(N)　還(ADV)　不錯(Vi)　。(PERIODCATEGORY)
+　就是(C)　價格(N)　貴(Vi)　了(T)

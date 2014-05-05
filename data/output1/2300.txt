@@ -1,0 +1,7 @@
+　於(P)　山(N)　賓館(N)　服務(Nv)　非常(ADV)　差(Vi)　,(COMMACATEGORY)
+　是(Vt)　我(N)　從未(ADV)　見(Vt)　過(ASP)　的(T)　惡劣(Vi)　.(PERIODCATEGORY)　櫃檯(N)　動作(N)　慢(Vi)　,(COMMACATEGORY)
+　態度(N)　凶(Vi)　,(COMMACATEGORY)
+　臉色(N)　臭(Vi)　,(COMMACATEGORY)
+　房間(N)　沒空調(N)　又(ADV)　冷(Vi)　又(C)　潮(N)　,(COMMACATEGORY)
+　餐廳(N)　更(ADV)　差(Vi)　.(PERIODCATEGORY)　可能(ADV)　是(Vt)　政府(N)　公營(Vi)　,(COMMACATEGORY)
+　不(ADV)　在乎(Vt)　吧(T)

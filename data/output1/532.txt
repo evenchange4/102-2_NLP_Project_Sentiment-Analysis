@@ -1,0 +1,4 @@
+　入住(Vt)　8(DET)　號(M)　樓(N)　81118(DET)　房(M)　,(COMMACATEGORY)
+　服務(Nv)　人員(N)　態度(N)　很(ADV)　熱情(Vi)　周到(Vi)　,(COMMACATEGORY)
+　房間(N)　整潔(Vi)　,(COMMACATEGORY)
+　早餐(N)　比較(ADV)　豐富(Vt)　.(PERIODCATEGORY)　衛生間(N)　略(ADV)　顯(Vt)　陳舊(Vi)　.(PERIODCATEGORY)

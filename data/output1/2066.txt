@@ -1,0 +1,5 @@
+　非常(ADV)　一般(A)　的(T)　酒店(N)　，(COMMACATEGORY)
+　房(N)　裡(N)　設施(N)　很(ADV)　舊(Vi)　，(COMMACATEGORY)
+　房間(N)　送(Vt)　餐(N)　竟然(ADV)　要(ADV)　加多(Vi)　50(DET)　%(M)　的(T)　送(Vt)　餐費(N)　。(PERIODCATEGORY)
+　總之(ADV)　找(Vt)　不(ADV)　到(Vt)　好(Vi)　的(T)　方面(N)　來(ADV)　說(Vt)　，(COMMACATEGORY)
+　有(Vt)　其他(DET)　選擇(N)　就(ADV)　不要(ADV)　去(Vt)　了(ASP)

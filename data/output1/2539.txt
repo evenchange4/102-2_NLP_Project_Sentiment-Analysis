@@ -1,0 +1,2 @@
+　前台(N)　服務(Nv)　態度(N)　十分(ADV)　惡劣(Vi)　,(COMMACATEGORY)
+　總體(N)　印象(N)　很(ADV)　不(ADV)　好(Vi)　.(PERIODCATEGORY)　影響到(Vt)　出行(Vi)　心情(N)　.(PERIODCATEGORY)

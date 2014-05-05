@@ -1,0 +1,4 @@
+　位置(N)　好(Vi)　，(COMMACATEGORY)
+　服務員(N)　熱情(Vi)　，(COMMACATEGORY)
+　早餐(N)　不錯(Vi)　，(COMMACATEGORY)
+　電梯(N)　也(ADV)　快(Vi)　。(PERIODCATEGORY)

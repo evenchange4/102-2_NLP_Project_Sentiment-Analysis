@@ -1,0 +1,7 @@
+　一(DET)　個(M)　月(N)　前(POST)　入住(Vt)　過(ASP)　，(COMMACATEGORY)
+　首先(ADV)　是(Vt)　裝修(Vt)　已經(ADV)　很(ADV)　陳舊(Vi)　了(T)　，(COMMACATEGORY)
+　給(P)　人(N)　一(DET)　種(M)　死(Vi)　氣(N)　沉沉(Vi)　的(T)　感覺(N)　，(COMMACATEGORY)
+　再就是(C)　服務(Nv)　，(COMMACATEGORY)
+　都(ADV)　是(Vt)　大媽級(N)　的(T)　，(COMMACATEGORY)
+　倒退(Vi)　10(DET)　年(M)　還(ADV)　能(ADV)　算(Vt)　4星(N)　，(COMMACATEGORY)
+　現在(N)　很(ADV)　難說(Vt)　了(T)　。(PERIODCATEGORY)

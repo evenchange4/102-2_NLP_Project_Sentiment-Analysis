@@ -1,0 +1,5 @@
+　我(N)　訂(Vt)　的(T)　行政房(N)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　小(Vi)　，(COMMACATEGORY)
+　而且(C)　樓(N)　比較(ADV)　舊(Vi)　，(COMMACATEGORY)
+　除了(P)　能(ADV)　上網(Vi)　沒(ADV)　覺得(Vt)　跟(P)　普(Vi)　標有(Vt)　什麼(DET)　差別(N)　。(PERIODCATEGORY)
+　酒店(N)　本身(N)　也(ADV)　很(ADV)　小(Vi)　。(PERIODCATEGORY)

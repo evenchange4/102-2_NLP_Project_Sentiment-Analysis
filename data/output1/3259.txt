@@ -1,0 +1,5 @@
+　每(DET)　次(M)　中途(N)　休息(Vi)　都(ADV)　會(ADV)　住(Vt)　在(P)　這(DET)　，(COMMACATEGORY)
+　不(ADV)　是(Vt)　因為(C)　這(DET)　家(M)　酒店(N)　有(Vt)　多(ADV)　好(Vi)　，(COMMACATEGORY)
+　主要(ADV)　是(Vt)　上下(N)　高速(N)　比較(ADV)　方便(Vi)　。(PERIODCATEGORY)
+　房間(N)　一般(POST)　，(COMMACATEGORY)
+　餐廳(N)　飯菜(N)　比較(ADV)　差(Vi)　。(PERIODCATEGORY)

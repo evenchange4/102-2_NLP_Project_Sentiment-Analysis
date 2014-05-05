@@ -1,0 +1,2 @@
+　建議(Vt)　酒店(N)　餐廳(N)　預備(Vt)　當地(N)　產(Vt)　的(T)　酒水(N)　,(COMMACATEGORY)
+　以(P)　備(Vt)　外地(N)　客人(N)　品嚐(Vt)　.(PERIODCATEGORY)

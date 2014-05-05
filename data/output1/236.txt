@@ -1,0 +1,3 @@
+　萬豪(N)　旗下(N)　的(T)　酒店(N)　，(COMMACATEGORY)
+　管理(Vt)　不錯(Vi)　。(PERIODCATEGORY)
+　酒店(N)　環境(N)　也(ADV)　很(ADV)　好(Vi)　。(PERIODCATEGORY)

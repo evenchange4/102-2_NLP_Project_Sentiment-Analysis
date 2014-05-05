@@ -1,0 +1,6 @@
+　五一(DET)　節(M)　期間(N)　入住(Vt)　，(COMMACATEGORY)
+　建築(N)　挺(ADV)　宏偉(Vi)　，(COMMACATEGORY)
+　車(N)　開(Vt)　到(P)　酒店(N)　門口(N)　沒有(Vt)　人(N)　理(Vt)　你(N)　或(C)　引導(Vt)　你(N)　停車(Vi)　到位(Vi)　，(COMMACATEGORY)
+　詢問(Vt)　哪裡(N)　有(Vt)　停車(Vi)　，(COMMACATEGORY)
+　被(P)　答覆(N)　沒有(Vt)　，(COMMACATEGORY)
+　後來(N)　自己(N)

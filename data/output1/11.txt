@@ -1,0 +1,5 @@
+　早餐(N)　太(ADV)　差(Vi)　，(COMMACATEGORY)
+　無論(C)　去(Vt)　多少(DET)　人(N)　，(COMMACATEGORY)
+　那邊(N)　也(ADV)　不(ADV)　加(Vt)　食品(N)　的(T)　。(PERIODCATEGORY)
+　酒店(N)　應該(ADV)　重視(Vt)　一下(N)　這(DET)　個(M)　問題(N)　了(T)　。(PERIODCATEGORY)
+　房間(N)　本身(N)　很(ADV)　好(Vi)　。(PERIODCATEGORY)

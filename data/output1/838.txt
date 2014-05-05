@@ -1,0 +1,5 @@
+　該(DET)　酒店(N)　2008年(N)　剛剛(ADV)　裝修(Vt)　，(COMMACATEGORY)
+　室(N)　內(N)　有(Vt)　濃重(Vi)　的(T)　裝修(Nv)　建材(N)　味道(N)　，(COMMACATEGORY)
+　且(C)　窗戶(N)　無法(ADV)　打開(Vt)　。(PERIODCATEGORY)
+　另外(C)　該(DET)　酒店(N)　重新(ADV)　裝修(Vt)　過(ASP)　之後(POST)　改名為(Vt)　現在(N)　的(T)　仁(N)　民(N)　，(COMMACATEGORY)
+　故(C)　大多(DET)　的(T)　士(N)　司機(N)　不(ADV)　清楚(Vi)　酒店(N)　的(T)　位置(N)

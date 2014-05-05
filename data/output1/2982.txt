@@ -1,0 +1,6 @@
+　酒店(N)　老化(Nv)　,(COMMACATEGORY)
+　房間(N)　裝修(Vt)　差(Vi)　,(COMMACATEGORY)
+　服務(Vt)　過於(ADV)　生硬(Vi)　,(COMMACATEGORY)
+　中午(N)　退房(Vi)　時間(N)　過(Vt)　不(ADV)　到(Vt)　兩(DET)　小時(N)　收取(Vt)　半(DET)　日(M)　房費(N)　，(COMMACATEGORY)
+　而(C)　其它(DET)　酒店(N)　基本(N)　從(P)　人性化(Vt)　考慮(Vt)　，(COMMACATEGORY)
+　不(ADV)　收(Vt)　此(DET)　項(M)　費用(N)　．(PERIODCATEGORY)

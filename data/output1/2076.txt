@@ -1,0 +1,5 @@
+　酒店(N)　太(ADV)　舊(Vi)　,(COMMACATEGORY)
+　不(ADV)　像(P)　4星(N)　,(COMMACATEGORY)
+　房間(N)　隔音(A)　太(ADV)　差(Vi)　,(COMMACATEGORY)
+　隔壁(N)　打(Vt)　了(ASP)　一(DET)　晚(M)　麻將(N)　,(COMMACATEGORY)
+　太(ADV)　吵(Vi)　了(T)

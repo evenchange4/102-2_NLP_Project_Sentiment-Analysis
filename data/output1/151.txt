@@ -1,0 +1,6 @@
+　我(N)　北京(N)　朋友(N)　掉(Vt)　了(ASP)　一(DET)　根(M)　照相機線(N)　，(COMMACATEGORY)
+　但是(C)　人(N)　已經(ADV)　到(Vt)　金華(N)　，(COMMACATEGORY)
+　打電話(Vi)　到(P)　賓館(N)　，(COMMACATEGORY)
+　服務(Nv)　人員(N)　非常(ADV)　敬業(Vi)　和(C)　負責(Nv)　，(COMMACATEGORY)
+　找到(Vt)　後(POST)　快(ADV)　遞到(Vt)　北京(N)　，(COMMACATEGORY)
+　在(P)　這裡(N)　說(Vt)　聲(N)　謝謝(Vt)　！(EXCLAMATIONCATEGORY)

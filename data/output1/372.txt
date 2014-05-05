@@ -1,0 +1,3 @@
+　酒店(N)　的(T)　服務(Nv)　人員(N)　服務(Vt)　周到(Vi)　，(COMMACATEGORY)
+　細緻(Vi)　，(COMMACATEGORY)
+　給(P)　人(N)　一(DET)　種(M)　賓至如歸(Vi)　的(T)　感覺(N)　。(PERIODCATEGORY)

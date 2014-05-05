@@ -1,0 +1,8 @@
+　我(N)　通過(Vt)　攜程定(Vt)　的(T)　豪華(Vi)　標(N)　間(POST)　,(COMMACATEGORY)
+　價格(N)　4百(DET)　元(M)　,(COMMACATEGORY)
+　以為(Vt)　這(DET)　個(M)　價錢(N)　至少(ADV)　可以(ADV)　住到(Vt)　乾淨(Vi)　整潔(Vi)　的(T)　酒店(N)　吧(T)　,(COMMACATEGORY)
+　至於(P)　豪華(Vi)　,(COMMACATEGORY)
+　根本(ADV)　是(Vt)　沒(ADV)　想(Vt)　過(ASP)　;(SEMICOLONCATEGORY)　但(C)　即使(C)　這樣(Vi)　低(Vi)　的(T)　心理(N)　期待(Nv)　下(POST)　,(COMMACATEGORY)
+　這(DET)　酒店(N)　還是(ADV)　把(P)　我(N)　嚇(Vt)　了(ASP)　一(DET)　跳(N)　;(SEMICOLONCATEGORY)　一(N)　進(Vt)　房間(N)　就(ADV)　是(Vt)　一(DET)　股(M)　霉味(N)　和(C)　臭味(N)　混雜(Vt)　的(T)　味道(N)　;(SEMICOLONCATEGORY)　等(N)　進(Vt)　了(ASP)　廁所(N)　,(COMMACATEGORY)
+　才(ADV)　知道(Vt)　房間(N)　的(T)　味道(N)　與(C)　之(N)　相比(Vi)　簡直(ADV)　是(Vt)　小巫見大巫(Vi)　,(COMMACATEGORY)
+　簡(N)

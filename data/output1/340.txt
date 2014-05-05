@@ -1,0 +1,5 @@
+　酒店(N)　還可以(Vi)　,(COMMACATEGORY)
+　前台(N)　的(T)　小姐(N)　很(ADV)　熱情(Vi)　.(PERIODCATEGORY)　周邊(N)　有(Vt)　很多(DET)　的(T)　商店(N)　和(C)　餐館(N)　.(PERIODCATEGORY)　不(ADV)　好(Vi)　的(T)　地方(N)　是(Vt)　酒店(N)　的(T)　卡拉(N)　ok(FW)　12(DET)　店(N)　下班(Vi)　,(COMMACATEGORY)
+　不能(ADV)　早(ADV)　睡(Vi)　,(COMMACATEGORY)
+　房間(N)　和(C)　對面(N)　樓(N)　很(ADV)　近(Vi)　,(COMMACATEGORY)
+　要(ADV)　拉(Vt)　窗簾(N)　.(PERIODCATEGORY)

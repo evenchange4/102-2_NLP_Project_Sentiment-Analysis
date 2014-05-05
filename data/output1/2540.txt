@@ -1,0 +1,8 @@
+　這(DET)　次(M)　入住(Vt)　和(P)　上(DET)　次(M)　相比(Vi)　,(COMMACATEGORY)
+　感覺(N)　差(Vi)　很多(Vi)　啊(T)　...(ETCCATEGORY)　衛生間(N)　馬桶(N)　一直(ADV)　漏水(Vi)　,(COMMACATEGORY)
+　早上(N)　打掃(Vt)　房間(N)　服務員(N)　簡直(ADV)　像(Vt)　抄家(Vi)　一樣(Vi)　,(COMMACATEGORY)
+　搞(Vt)　的(T)　整(DET)　個(M)　樓層(N)　都(N)　雞犬不寧(Vi)　,(COMMACATEGORY)
+　想(Vt)　多(ADV)　睡(Vi)　一會兒(N)　都(ADV)　不行(Vi)　;(SEMICOLONCATEGORY)　晚上(N)　2(DET)　層(M)　的(T)　KTV(FW)　音響(N)　一直(ADV)　鬧到(Vt)　半夜(N)　,(COMMACATEGORY)
+　住(Vt)　在(P)　3(DET)　層(M)　的(T)　我(N)　不但(C)　沒法(ADV)　睡覺(Vi)　,(COMMACATEGORY)
+　連(C)　聽(Vt)　電視(N)　的(T)　聲音(N)　都(ADV)　有(Vt)　困難(Vi)　.(PERIODCATEGORY)　下(DET)　次(M)　再(ADV)　去(Vt)　揚州(N)　,(COMMACATEGORY)
+　我(N)　肯定(Vt)　要(ADV)　換(Vt)　個(M)　酒店(N)　了(T)　.(PERIODCATEGORY)

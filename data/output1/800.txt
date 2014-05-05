@@ -1,0 +1,8 @@
+　3月(N)　25日(N)　入住(Vt)　，(COMMACATEGORY)
+　3月(N)　28日(N)　退房(Vi)　，(COMMACATEGORY)
+　房間(N)　比較(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　就是(C)　離(P)　地鐵(N)　稍(ADV)　遠(Vi)　點(ADV)　，(COMMACATEGORY)
+　從(P)　尖(Vi)　沙嘴(N)　到(Vt)　酒店(N)　需要(Vt)　15(DET)　分鐘(M)　左右(POST)　的(T)　時間(N)　，(COMMACATEGORY)
+　如果(C)　不(ADV)　是(Vt)　特別(Vi)　緊張(Vi)　還是(ADV)　可以(ADV)　考慮(Vt)　入住(Vt)　，(COMMACATEGORY)
+　早餐(N)　不錯(Vi)　。(PERIODCATEGORY)

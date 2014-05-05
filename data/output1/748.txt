@@ -1,0 +1,3 @@
+　前台(N)　接待(Vt)　人員(N)　略顯(Vi)　死板(Vi)　，(COMMACATEGORY)
+　不能(ADV)　主動(Vi)　向(P)　客人(N)　介紹(Vt)　各(DET)　項(M)　事宜(N)　，(COMMACATEGORY)
+　服務(Vt)　較(ADV)　被動(Vi)

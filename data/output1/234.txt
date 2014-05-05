@@ -1,0 +1,4 @@
+　地點(N)　和(C)　位置(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　晚上(N)　比較(ADV)　安靜(Vi)　，(COMMACATEGORY)
+　設施(N)　較(P)　全(DET)　。(PERIODCATEGORY)
+　對於(P)　一般(A)　的(T)　自助(Vi)　游(Vi)　來(ADV)　說(Vt)　比較(ADV)　合適(Vi)　。(PERIODCATEGORY)

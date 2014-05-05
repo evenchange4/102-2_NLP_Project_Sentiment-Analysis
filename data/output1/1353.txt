@@ -1,0 +1,7 @@
+　12月(N)　在(P)　金泉住(Vt)　了(ASP)　幾(DET)　天(M)　，(COMMACATEGORY)
+　開始(Vt)　訂(Vt)　的(T)　豪華(Vi)　商務(N)　小(Vi)　套房(N)　，(COMMACATEGORY)
+　後來(N)　換(Vt)　了(ASP)　個(M)　商務(N)　標(N)　間(POST)　，(COMMACATEGORY)
+　感覺(N)　性價(N)　比(P)　更(ADV)　好(Vi)　：(COLONCATEGORY)　兩(DET)　種(M)　房間(N)　大小(N)　差(Vi)　不(ADV)　太多(Vi)　，(COMMACATEGORY)
+　可以(ADV)　向(P)　酒店(N)　免費(Vi)　租(Vt)　一(DET)　個(M)　貓(N)　，(COMMACATEGORY)
+　通過(Vt)　電源線(N)　上網(Nv)　，(COMMACATEGORY)
+　上網(Nv)　速度(N)　挺(ADV)　快(Vi)　。(PERIODCATEGORY)

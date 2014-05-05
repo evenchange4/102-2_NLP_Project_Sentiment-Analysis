@@ -1,0 +1,4 @@
+　環境(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　地點(N)　很(ADV)　方便(Vi)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　下(DET)　回(M)　還(ADV)　會(ADV)　住(Vt)　的(T)　！(EXCLAMATIONCATEGORY)

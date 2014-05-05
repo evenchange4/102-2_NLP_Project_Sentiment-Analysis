@@ -1,0 +1,3 @@
+　房間(N)　陳舊(Vi)　,(COMMACATEGORY)
+　服務(Vt)　差(Vi)　,(COMMACATEGORY)
+　設備(N)　也(ADV)　陳舊(Vi)　.(PERIODCATEGORY)　垃圾(N)　酒店(N)　!(EXCLAMATIONCATEGORY)

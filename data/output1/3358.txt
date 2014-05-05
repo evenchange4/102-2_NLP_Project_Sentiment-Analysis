@@ -1,0 +1,4 @@
+　住進(Vt)　去(ADV)　感覺(Vt)　不(ADV)　是(Vt)　那麼(ADV)　回(Vt)　事(N)　,(COMMACATEGORY)
+　很(ADV)　舊(Vi)　,(COMMACATEGORY)
+　不(ADV)　很(ADV)　乾淨(Vi)　.(PERIODCATEGORY)　旁邊(N)　的(T)　海灘(N)　很(ADV)　髒(Vi)　,(COMMACATEGORY)
+　還(ADV)　有(Vt)　條(M)　大(Vi)　水溝(N)　往(P)　海(N)　裡(N)　注入(Vt)　髒(Vi)　水(N)　.(PERIODCATEGORY)　真(ADV)　想(Vt)　逃走(Vi)　.(PERIODCATEGORY)

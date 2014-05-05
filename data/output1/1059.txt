@@ -1,0 +1,5 @@
+　裝修(Vt)　較(ADV)　舊(Vi)　,(COMMACATEGORY)
+　特別(Vi)　是(Vt)　地毯(N)　的(T)　材質(N)　顏色(N)　顯得(Vt)　較(ADV)　髒(Vi)　,(COMMACATEGORY)
+　與(P)　四星(N)　的(T)　評級(N)　很(ADV)　不(ADV)　相稱(Vi)　,(COMMACATEGORY)
+　門(N)　童(N)　很(ADV)　熱情(Vi)　,(COMMACATEGORY)
+　贊(Vt)　一(DET)　個(M)

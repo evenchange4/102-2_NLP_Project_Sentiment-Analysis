@@ -1,0 +1,6 @@
+　入住(Vt)　的(T)　時候(N)　，(COMMACATEGORY)
+　恰(ADV)　逢(P)　前台(N)　的(T)　POS(FW)　機壞(N)　了(T)　，(COMMACATEGORY)
+　只(ADV)　能(ADV)　預付(Vt)　現金(N)　，(COMMACATEGORY)
+　有(Vt)　些(M)　不便(Vi)　。(PERIODCATEGORY)
+　不過(C)　位於(Vt)　一樓(N)　的(T)　餐廳(N)　真是(ADV)　物美價廉(Vi)　，(COMMACATEGORY)
+　值得(Vi)　一(DET)　去(T)　。(PERIODCATEGORY)

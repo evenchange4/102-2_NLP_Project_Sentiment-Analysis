@@ -1,0 +1,7 @@
+　房間(N)　很(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　住(Vt)　的(T)　比較(ADV)　舒服(Vi)　，(COMMACATEGORY)
+　就是(C)　床(N)　有點(ADV)　硬(Vi)　。(PERIODCATEGORY)
+　但是(C)　，(COMMACATEGORY)
+　號稱(Vt)　在(P)　海河(N)　最(ADV)　美(Vi)　的(T)　一段(N)　純粹(ADV)　是(Vt)　騙人(Vi)　，(COMMACATEGORY)
+　離(P)　海河(N)　至少(ADV)　要(ADV)　走(Vi)　十(DET)　分鐘(M)　，(COMMACATEGORY)
+　而且(C)　根本(ADV)　談不上(Vt)　美(Vi)　。(PERIODCATEGORY)

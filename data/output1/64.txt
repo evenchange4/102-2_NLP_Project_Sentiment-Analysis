@@ -1,0 +1,6 @@
+　房間(N)　不錯(Vi)　,(COMMACATEGORY)
+　只(ADV)　是(Vt)　上網(Nv)　速度(N)　慢(Vi)　得(T)　無法(ADV)　忍受(Vt)　,(COMMACATEGORY)
+　打開(Vt)　一(DET)　個(M)　網頁(N)　要(ADV)　等(Vt)　半(DET)　小時(N)　,(COMMACATEGORY)
+　連(C)　郵件(N)　都(ADV)　無法(ADV)　收(Vt)　。(PERIODCATEGORY)
+　另(DET)　前台(N)　工作(N)　人員(N)　服務(Nv)　態度(N)　是(Vt)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　只(ADV)　是(Vt)　效率(N)　有得(ADV)　改善(Vt)　。(PERIODCATEGORY)

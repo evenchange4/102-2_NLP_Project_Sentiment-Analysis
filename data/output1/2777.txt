@@ -1,0 +1,3 @@
+　說(Vt)　實話(N)　180(DET)　太(ADV)　浪費(Vi)　,(COMMACATEGORY)
+　副(A)　樓連(N)　120(DET)　都(ADV)　不值(Vi)　,(COMMACATEGORY)
+　這(DET)　是(Vt)　我(N)　最(ADV)　後悔(Vt)　的(T)　酒店(N)　.(PERIODCATEGORY)

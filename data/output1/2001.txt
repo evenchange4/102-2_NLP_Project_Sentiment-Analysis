@@ -1,0 +1,1 @@
+　標準(N)　間(POST)　太(ADV)　差(Vi)　房間(N)　還不如(C)　3星(N)　的(T)　而且(C)　設施(N)　非常(ADV)　陳舊(Vi)　.(PERIODCATEGORY)　建議(Vt)　酒店(N)　把(P)　老(Vi)　的(T)　標準(N)　間(POST)　從(P)　新(Vi)　改善(Vt)　.(PERIODCATEGORY)

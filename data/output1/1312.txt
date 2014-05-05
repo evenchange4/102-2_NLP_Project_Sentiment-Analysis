@@ -1,0 +1,3 @@
+　早餐(N)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　位置(N)　算(Vt)　不錯(Vi)　,(COMMACATEGORY)
+　打(Vt)　車(N)　到(Vt)　火車站(N)　要(ADV)　十幾(DET)　員(M)　吧(T)

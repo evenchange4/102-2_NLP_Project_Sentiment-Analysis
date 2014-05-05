@@ -1,0 +1,5 @@
+　這(DET)　次(M)　的(T)　入住(Vt)　，(COMMACATEGORY)
+　因為(C)　用(P)　港澳(N)　身份證(N)　預訂(Vt)　登記(Vt)　的(T)　，(COMMACATEGORY)
+　所以(C)　安排(Vt)　的(T)　樓層(N)　高(N)　了(ASP)　很多(DET)　．(PERIODCATEGORY)　呵呵(ADV)　．(PERIODCATEGORY)　真(ADV)　是(Vt)　區別(Vt)　大(Vi)　呢(T)　．(PERIODCATEGORY)　而且(C)　房間(N)　很(ADV)　新(Vi)　，(COMMACATEGORY)
+　似乎(ADV)　改造(Vt)　過(ASP)　．(PERIODCATEGORY)　行李員(N)　態度(N)　不錯(Vi)　．(PERIODCATEGORY)　下午茶(N)　款式(N)　豐富(Vt)　．(PERIODCATEGORY)　入住(Vt)　還(ADV)　送(Vt)　了(ASP)　五十(DET)　元(M)　的(T)　代金券(N)　，(COMMACATEGORY)
+　這樣(Vi)　算(Vt)　下來(ASP)　房間(N)　價格(N)　是(Vt)　很(ADV)　划算(Vi)　的(T)　．(PERIODCATEGORY)　如果(C)　下午(N)　再(ADV)　來(ADV)　會(ADV)　再(ADV)　考慮(Vt)　入住(Vt)　．(PERIODCATEGORY)

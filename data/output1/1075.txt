@@ -1,0 +1,4 @@
+　商務(N)　標(N)　間(N)　房間(N)　比較(ADV)　大(Vi)　,(COMMACATEGORY)
+　但(C)　洗手間(N)　很(ADV)　小(Vi)　.(PERIODCATEGORY)　隔音(A)　效果(N)　也(ADV)　不(ADV)　太(ADV)　好(Vi)　.(PERIODCATEGORY)　總體(N)　說來(ADV)　還(ADV)　算(Vt)　乾淨(Vi)　,(COMMACATEGORY)
+　整潔(Vi)　.(PERIODCATEGORY)　交通(N)　很(ADV)　方便(Vi)　,(COMMACATEGORY)
+　離(P)　靜安寺(N)　很(ADV)　近(Vi)　.(PERIODCATEGORY)

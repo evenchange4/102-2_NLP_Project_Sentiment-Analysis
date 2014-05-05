@@ -1,0 +1,3 @@
+　房間(N)　環境(N)　不錯(Vi)　，(COMMACATEGORY)
+　前台(N)　禮貌(N)　服務(Nv)　也(ADV)　很(ADV)　到位(Vi)　，(COMMACATEGORY)
+　好評(N)　！(EXCLAMATIONCATEGORY)

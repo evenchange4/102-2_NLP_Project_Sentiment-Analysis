@@ -1,0 +1,3 @@
+　這(DET)　個(M)　酒店(N)　總體(N)　不錯(Vi)　,(COMMACATEGORY)
+　安排(Vt)　的(T)　房間(N)　正好(ADV)　可以(ADV)　看到(Vt)　海(N)　,(COMMACATEGORY)
+　就是(C)　普通話(N)　好像(ADV)　很(ADV)　難(Vi)　溝通(Vt)　亞(N)　~(FW)　下(DET)　次(M)　還(ADV)　會(ADV)　訂(Vt)

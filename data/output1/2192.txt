@@ -1,0 +1,6 @@
+　總體(N)　來(ADV)　說(Vt)　酒店(N)　真的(ADV)　不(ADV)　怎麼樣(Vi)　，(COMMACATEGORY)
+　首先(C)　空調(N)　是(Vt)　壞(Vt)　的(T)　其次(Vi)　窗戶(N)　漏風(Vi)　，(COMMACATEGORY)
+　晚上(N)　非常(ADV)　冷(Vi)　，(COMMACATEGORY)
+　睡覺(Vi)　時(POST)　只(ADV)　能(ADV)　把(P)　腦袋(N)　一起(ADV)　放進(Vt)　被臥(N)　裡(POST)　，(COMMACATEGORY)
+　這(DET)　是(Vt)　我(N)　住(Vt)　過(ASP)　的(T)　最(ADV)　差勁(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　如果(C)　再(ADV)　有(Vt)　機會(N)　去(Vt)　丹東(N)　絕(ADV)　對不住(Vt)　這(DET)

@@ -1,0 +1,4 @@
+　在(P)　上海(N)　市中心(N)　的(T)　位置(N)　，(COMMACATEGORY)
+　因此(C)　比較(Vt)　牛氣(N)　。(PERIODCATEGORY)
+　不過(C)　在(P)　周圍(N)　幾(DET)　個(M)　酒店(N)　裡(N)　性價(N)　比(P)　算(Vt)　高(Vi)　的(T)　了(T)　，(COMMACATEGORY)
+　大(Vi)　床(N)　房難(N)　訂到(Vt)　。(PERIODCATEGORY)

@@ -1,0 +1,6 @@
+　定(Vt)　的(T)　商務(N)　大(Vi)　床(N)　房(N)　，(COMMACATEGORY)
+　房間(N)　偏(ADV)　小(Vi)　了(T)　，(COMMACATEGORY)
+　不過(C)　經濟性(N)　酒店(N)　也(ADV)　就(ADV)　這樣(Vi)　；(SEMICOLONCATEGORY)　環境(N)　一般(POST)　，(COMMACATEGORY)
+　周圍(N)　感覺(N)　蠻(ADV)　亂(Vi)　的(T)　，(COMMACATEGORY)
+　不過(C)　旁邊(N)　有(Vt)　個(M)　易初(N)　蓮花(N)　超市(N)　，(COMMACATEGORY)
+　買(Vt)　東西(N)　很(ADV)　方便(Vi)　；(SEMICOLONCATEGORY)　服務(Vt)　相對(Vi)　另(DET)　2(DET)　個(M)　經濟型(N)　酒店(N)　算(Vt)　最好(Vi)　?(QUESTIONCATEGORY)

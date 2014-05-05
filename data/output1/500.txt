@@ -1,0 +1,6 @@
+　離(P)　機場(N)　算是(Vt)　比較(ADV)　近(Vi)　的(T)　酒店(N)　,(COMMACATEGORY)
+　規模(N)　看上去(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　服務(Vt)　不錯(Vi)　,(COMMACATEGORY)
+　酒店(N)　餐廳(N)　也(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　最(ADV)　讚(Vi)　的(T)　是(Vt)　大(Vi)　床(N)　房(N)　,(COMMACATEGORY)
+　很(ADV)　棒(Vi)　.(PERIODCATEGORY)

@@ -1,0 +1,8 @@
+　該(DET)　酒店(N)　的(T)　價格(N)　和(C)　實際(Vi)　提供(Vt)　的(T)　服務(Nv)　相差(Vt)　比較(ADV)　大(Vi)　。(PERIODCATEGORY)
+　暖氣(N)　不(ADV)　夠(ADV)　熱(Vt)　，(COMMACATEGORY)
+　在(P)　房間(N)　裡(N)　需要(Vt)　穿著(Vt)　毛衣(N)　、(PAUSECATEGORY)　毛褲(N)　，(COMMACATEGORY)
+　甚至(ADV)　有時候(ADV)　需要(Vt)　蓋(Vt)　著(ASP)　被子(N)　。(PERIODCATEGORY)
+　客房(N)　偏(ADV)　小(Vi)　，(COMMACATEGORY)
+　而且(C)　設施(N)　陳舊(Vi)　。(PERIODCATEGORY)
+　優點(N)　：(COLONCATEGORY)　離(Vt)　火車站(N)　很(ADV)　近(Vi)　，(COMMACATEGORY)
+　步行(Vi)　過去(N)　只(ADV)　需要(Vt)　5(DET)　分鐘(M)　左右(POST)　。(PERIODCATEGORY)

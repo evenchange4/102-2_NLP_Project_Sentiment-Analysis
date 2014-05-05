@@ -1,0 +1,7 @@
+　大家(N)　這(DET)　段(M)　時間(N)　不要(ADV)　去(ADV)　住(Vt)　，(COMMACATEGORY)
+　他們(N)　施工(Vi)　吵死人(N)　了(T)　！(EXCLAMATIONCATEGORY)　並且(C)　，(COMMACATEGORY)
+　房間(N)　裡(N)　的(T)　提示(N)　上(POST)　說(Vt)　是(Vt)　8(DET)　：(COLONCATEGORY)　30(DET)　才(ADV)　開始(Vt)　施工(Vi)　，(COMMACATEGORY)
+　結構(N)　7(DET)　：(COLONCATEGORY)　40(DET)　就(ADV)　開始(Vi)　，(COMMACATEGORY)
+　找(Vt)　他們(N)　解決(Vt)　了(ASP)　一(DET)　早上(N)　，(COMMACATEGORY)
+　到(P)　8(DET)　：(COLONCATEGORY)　30(DET)　一直(ADV)　沒有(ADV)　停止(Vt)　過(ASP)　！(EXCLAMATIONCATEGORY)　到(Vt)　了(ASP)　8(DET)　：(COLONCATEGORY)　30(DET)　他們(N)　就(ADV)　更(ADV)　有理(Vi)　了(T)　，(COMMACATEGORY)
+　繼續(Vt)　開始(Vt)　施工(Vi)　！(EXCLAMATIONCATEGORY)

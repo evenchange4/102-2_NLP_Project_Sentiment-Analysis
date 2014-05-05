@@ -1,0 +1,5 @@
+　4月(N)　5(DET)　號(M)　入住(Vt)　的(T)　.(PERIODCATEGORY)　真是(ADV)　後悔(Vt)　.(PERIODCATEGORY)　雖然(C)　是(Vt)　三星(N)　,(COMMACATEGORY)
+　卻(ADV)　只是(ADV)　招待所(N)　的(T)　水準(N)　.(PERIODCATEGORY)　房間(N)　的(T)　設施(N)　極其(ADV)　陳舊(Vi)　..(ETCCATEGORY)　最(ADV)　要命(Vi)　的(T)　是(Vt)　第一(DET)　天(M)　八(DET)　點(M)　多(Vi)　起床(Vi)　後(POST)　發現(Vt)　竟然(ADV)　沒有(Vt)　熱水(N)　.(PERIODCATEGORY)　打到(Vt)　總台(N)　總(ADV)　說(Vt)　再(ADV)　等(Vt)　等等(POST)　.(PERIODCATEGORY)　後來(N)　乾脆(Vi)　說(Vt)　不可能(ADV)　在(P)　上午(N)　來(Vi)　的(T)　熱水(N)　.(PERIODCATEGORY)　真(ADV)　是(Vt)　的(T)　!(EXCLAMATIONCATEGORY)　後來(N)　到(Vt)　了(ASP)　景(N)
+　區(N)　,(COMMACATEGORY)
+　才(ADV)　發現(Vt)　很多(DET)　家庭(N)　旅館(N)　要好(Vi)　的(T)　多(Vi)　,(COMMACATEGORY)
+　.(PERIODCATEGORY)　而且(C)　價格(N)　便宜(Vi)　.(PERIODCATEGORY)　強烈(Vi)　要求(Vt)　攜程(N)　不要(ADV)　再(ADV)　推薦(Vt)　這(DET)　個(M)　酒店(N)　了(T)　!(EXCLAMATIONCATEGORY)

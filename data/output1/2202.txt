@@ -1,0 +1,7 @@
+　個人(N)　認為(Vt)　不(ADV)　符合(Vt)　4星(N)　的(T)　條件(N)　,(COMMACATEGORY)
+　房間(N)　很(ADV)　潮濕(Vi)　,(COMMACATEGORY)
+　□(FW)　味(N)　太(ADV)　重(Vi)　,(COMMACATEGORY)
+　,(COMMACATEGORY)
+　根本(ADV)　沒辦法(Vi)　入睡(Vi)　,(COMMACATEGORY)
+　浴室(N)　的(T)　條件(N)　也(ADV)　不(ADV)　怎麼樣(Vi)　,(COMMACATEGORY)
+　總之(ADV)　感覺(N)　更(ADV)　像(Vt)　個(M)　快捷式(N)　酒店(N)

@@ -1,0 +1,7 @@
+　這(DET)　個(M)　酒店(N)　到(Vt)　還(ADV)　可以(ADV)　。(PERIODCATEGORY)
+　但是(C)　最近(N)　兩(DET)　次(M)　住(Vt)　那裡(N)　兩(DET)　晚(M)　以上(POST)　，(COMMACATEGORY)
+　結果(ADV)　酒店(N)　每(DET)　次(M)　都(ADV)　給(Vt)　攜程(N)　說(Vt)　我(N)　只(ADV)　住(Vt)　了(ASP)　1(DET)　晚(M)　就(P)　離店(N)　了(T)　，(COMMACATEGORY)
+　太(ADV)　不像話(Vi)　了(T)　，(COMMACATEGORY)
+　影響(Vt)　我(N)　的(T)　積分(N)　。(PERIODCATEGORY)
+　酒店(N)　使(Vt)　這(DET)　點(M)　小心眼(Vi)　，(COMMACATEGORY)
+　太(ADV)　不應該(ADV)　了(T)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)

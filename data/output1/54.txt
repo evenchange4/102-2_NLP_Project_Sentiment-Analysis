@@ -1,0 +1,5 @@
+　房間(N)　太(ADV)　舊(Vi)　了(T)　，(COMMACATEGORY)
+　服務(Nv)　一般(POST)　，(COMMACATEGORY)
+　倒是(ADV)　桑拿(N)　那裡(N)　超級(A)　大(Vi)　有如(Vt)　對(P)　外(N)　經營(Vt)　的(T)　一樣(Vi)　。(PERIODCATEGORY)
+　地段(N)　還可以(Vi)　，(COMMACATEGORY)
+　其它(DET)　就(ADV)　沒有(Vt)　感覺(N)　了(T)　。(PERIODCATEGORY)

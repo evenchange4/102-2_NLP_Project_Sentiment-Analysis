@@ -1,0 +1,6 @@
+　性價(N)　比(P)　極(ADV)　低(Vi)　,(COMMACATEGORY)
+　根本(ADV)　夠(Vi)　不(ADV)　上(Vt)　4星(N)　的(T)　標準(N)　.(PERIODCATEGORY)　送(Vt)　單(N)　早(Vi)　,(COMMACATEGORY)
+　早餐(N)　另外(ADV)　收費(Vt)　,(COMMACATEGORY)
+　68(DET)　元(M)　/(FW)　位(DM)　,(COMMACATEGORY)
+　上網(Nv)　收費(Nv)　,(COMMACATEGORY)
+　60(DET)　元(M)　/(FW)　天(M)　.(PERIODCATEGORY)　下(DET)　次(M)　再(ADV)　也(ADV)　不(ADV)　住(Vt)　了(T)　!(EXCLAMATIONCATEGORY)

@@ -1,0 +1,3 @@
+　前台(N)　的(T)　MM(FW)　很(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　效率(N)　高(Vi)　，(COMMACATEGORY)
+　態度(N)　也(ADV)　非常(ADV)　好(Vi)　。(PERIODCATEGORY)

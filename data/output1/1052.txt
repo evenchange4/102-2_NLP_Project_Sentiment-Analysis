@@ -1,0 +1,3 @@
+　離(P)　機場(N)　很(ADV)　近(Vi)　，(COMMACATEGORY)
+　房間(N)　裡(N)　的(T)　床(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　裡面(N)　還(ADV)　有(Vt)　一(DET)　面(N)　鏡子(N)

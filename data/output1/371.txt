@@ -1,0 +1,2 @@
+　很(ADV)　好(Vi)　．(PERIODCATEGORY)　非常(ADV)　乾淨(Vi)　．(PERIODCATEGORY)　是(Vt)　新(Vi)　裝修(Vt)　的(T)　．(PERIODCATEGORY)　服務(Vt)　不錯(Vi)　．(PERIODCATEGORY)　早餐(N)　也(ADV)　很(ADV)　好(Vi)　．(PERIODCATEGORY)　對了(Vi)　，(COMMACATEGORY)
+　被子(N)　很(ADV)　厚(Vi)　但(C)　非常(ADV)　鬆軟(Vi)　．(PERIODCATEGORY)　哈哈(ADV)　滿意(Vt)

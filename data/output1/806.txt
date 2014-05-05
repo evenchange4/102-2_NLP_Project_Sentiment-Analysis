@@ -1,0 +1,8 @@
+　房間(N)　不(ADV)　算(Vt)　太(ADV)　小(Vi)　，(COMMACATEGORY)
+　床(N)　不錯(Vi)　，(COMMACATEGORY)
+　雖然(C)　不(ADV)　太(ADV)　軟(Vi)　但(C)　也(ADV)　挺(ADV)　舒服(Vi)　，(COMMACATEGORY)
+　乾淨(Vi)　。(PERIODCATEGORY)
+　最(ADV)　大(Vi)　的(T)　問題(N)　是(Vt)　上網(Vi)　太(ADV)　貴(Vi)　，(COMMACATEGORY)
+　HKD70/HOUR(FW)　，(COMMACATEGORY)
+　搶(Vt)　錢(N)　似的(POST)　，(COMMACATEGORY)
+　為什麼(ADV)　香港(N)　的(T)　酒店(N)　都(ADV)　沒有(Vt)　免費(Vi)　上網(Vi)　呢(T)　？(QUESTIONCATEGORY)

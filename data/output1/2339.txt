@@ -1,0 +1,8 @@
+　地段(N)　可以(ADV)　，(COMMACATEGORY)
+　這(DET)　大概(ADV)　是(Vt)　唯一(A)　的(T)　優點(N)　了(T)　。(PERIODCATEGORY)
+　房間(N)　小(Vi)　，(COMMACATEGORY)
+　配置(Vt)　簡陋(Vi)　，(COMMACATEGORY)
+　簡直(ADV)　沒法(ADV)　洗澡(Vi)　。(PERIODCATEGORY)
+　最(ADV)　要命(Vi)　的(T)　是(Vt)　沒有(Vt)　暖(Vi)　空調(N)　，(COMMACATEGORY)
+　凍(Vt)　的(T)　要命(Vi)　。(PERIODCATEGORY)
+　不過(C)　前台(N)　服務員(N)　態度(N)　可以(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,5 @@
+　無論(C)　從(P)　任何(DET)　角度(N)　講(Vt)　，(COMMACATEGORY)
+　該(DET)　酒店(N)　最多(Vi)　只(ADV)　能(ADV)　評為(Vt)　2(DET)　星級(N)　。(PERIODCATEGORY)
+　攜(Vt)　程(N)　首先(ADV)　推薦(Vt)　該(DET)　酒店(N)　，(COMMACATEGORY)
+　我(N)　認為(Vt)　只有(ADV)　一(DET)　個(M)　原因(N)　：(COLONCATEGORY)　酒店(N)　的(T)　返點(Vi)　最(ADV)　高(Vi)　？(QUESTIONCATEGORY)
+　補充(Vt)　點評(N)　2008年(N)　3月(N)　11日(N)　：(COLONCATEGORY)　教訓(N)　！(EXCLAMATIONCATEGORY)

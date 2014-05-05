@@ -1,0 +1,4 @@
+　大堂(N)　和(C)　房間(N)　的(T)　裝修(Nv)　豪華(Vi)　，(COMMACATEGORY)
+　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　距離(P)　廣州(N)　很(ADV)　近(Vi)　，(COMMACATEGORY)
+　推薦(Vt)　．(PERIODCATEGORY)

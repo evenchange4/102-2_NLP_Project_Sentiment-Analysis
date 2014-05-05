@@ -1,0 +1,7 @@
+　不錯(Vi)　，(COMMACATEGORY)
+　外邊(N)　看(Vt)　比較(ADV)　舊(Vi)　，(COMMACATEGORY)
+　但是(C)　裡面(N)　很(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　交通(N)　也(ADV)　很(ADV)　方便(Vi)　，(COMMACATEGORY)
+　退房(Vi)　很(ADV)　快(Vi)　。(PERIODCATEGORY)
+　在(P)　房間(N)　就(ADV)　可以(ADV)　看(Vt)　音樂(N)　噴泉(N)　，(COMMACATEGORY)
+　不錯(Vi)　。(PERIODCATEGORY)

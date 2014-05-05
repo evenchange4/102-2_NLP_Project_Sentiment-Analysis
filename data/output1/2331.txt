@@ -1,0 +1,4 @@
+　餐廳(N)　很(ADV)　差(Vi)　,(COMMACATEGORY)
+　菜(N)　的(T)　種類(N)　水準(N)　都(ADV)　不行(Vi)　.(PERIODCATEGORY)　酒店(N)　基本(N)　沒有(ADV)　旅遊(Vi)　配套(Vi)　服務(Vt)　,(COMMACATEGORY)
+　其實(ADV)　河南(N)　有(Vt)　很多(DET)　有(Vt)　吸引力(N)　的(T)　旅遊(Nv)　景點(N)　,(COMMACATEGORY)
+　但是(C)　實在(ADV)　缺少(Vt)　相應(Vi)　的(T)　服務(Nv)　.(PERIODCATEGORY)

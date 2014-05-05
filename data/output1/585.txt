@@ -1,0 +1,5 @@
+　交通(N)　很(ADV)　便利(Vt)　，(COMMACATEGORY)
+　環境(N)　尚可(Vi)　。(PERIODCATEGORY)
+　提供(Vt)　的(T)　早餐(N)　也(ADV)　比較(ADV)　好(Vi)　，(COMMACATEGORY)
+　就是(C)　舊(Vi)　了(ASP)　一點(ADV)　。(PERIODCATEGORY)
+　總體(N)　上(POST)　說(Vt)　還是(ADV)　令(Vt)　人(N)　滿意(Vt)　的(T)　。(PERIODCATEGORY)

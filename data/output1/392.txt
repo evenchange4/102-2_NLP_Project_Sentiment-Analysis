@@ -1,0 +1,4 @@
+　酒店(N)　離(P)　報國寺(N)　和(C)　車站(N)　都(ADV)　很(ADV)　近(Vi)　；(SEMICOLONCATEGORY)　房間(N)　整潔(Vi)　乾淨(Vi)　；(SEMICOLONCATEGORY)　瑜珈(N)　溫泉(N)　作為(Vt)　峨眉(N)　四(DET)　大(Vi)　溫泉(N)　之(T)　一(DET)　，(COMMACATEGORY)
+　住(Vt)　店(N)　客人(N)　只(ADV)　需(Vt)　50(DET)　元(M)　/(FW)　人性價(N)　比較(ADV)　高(Vi)　；(SEMICOLONCATEGORY)　早餐(N)　非常(ADV)　豐富(Vt)　；(SEMICOLONCATEGORY)　唯一(A)　的(T)　缺點(N)　是(Vt)　１(DET)　號(M)　樓(N)　樓道(N)　比較(ADV)　複雜(Vi)　，(COMMACATEGORY)
+　像(Vt)　個(M)　小(Vi)　迷宮(N)　，(COMMACATEGORY)
+　找(Vt)　房間(N)　花(Vt)　了(ASP)　一點(DET)　時間(N)　．(PERIODCATEGORY)

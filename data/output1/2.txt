@@ -1,0 +1,4 @@
+　商務(N)　大(Vi)　床(N)　房(N)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　床(N)　有(Vt)　2(DET)　M(FW)　寬(Vi)　，(COMMACATEGORY)
+　整體(N)　感覺(N)　經濟(N)　實惠(Vi)　不錯(Vi)　!(EXCLAMATIONCATEGORY)

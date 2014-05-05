@@ -1,0 +1,6 @@
+　酒店(N)　附近(N)　修路(Vi)　,(COMMACATEGORY)
+　出行(Vi)　比較(ADV)　痛苦(Vi)　.(PERIODCATEGORY)　服務(Nv)　還是(ADV)　一如(Vt)　既(C)　往(Vt)　的(T)　好(Vi)　.(PERIODCATEGORY)　偶爾(ADV)　去(Vt)　了(ASP)　趟(M)　健身房(N)　,(COMMACATEGORY)
+　覺得(Vt)　好(ADV)　小(Vi)　叻(b)　,(COMMACATEGORY)
+　設備(N)　都(ADV)　擠(Vt)　在一起(Vi)　,(COMMACATEGORY)
+　其他(DET)　都(ADV)　還(ADV)　不錯(Vi)　的(T)　BTW(FW)　:(COLONCATEGORY)　餐廳(N)　有(Vt)　金(N)　,(COMMACATEGORY)
+　銀(N)　卡(N)　的(T)　可以(ADV)　打折(Vi)　的(T)　yo(FW)　~(FW)

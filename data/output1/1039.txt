@@ -1,0 +1,8 @@
+　住(Vt)　的(T)　是(Vt)　350(DET)　的(T)　大(Vi)　床(N)　房(N)　,(COMMACATEGORY)
+　以(P)　四星(N)　標準(N)　衡量(Vt)　的(T)　話(N)　,(COMMACATEGORY)
+　傢俱(N)　太(ADV)　舊(Vi)　,(COMMACATEGORY)
+　房間(N)　太(ADV)　小(Vi)　,(COMMACATEGORY)
+　早餐(N)　品種(N)　單一(Vi)　,(COMMACATEGORY)
+　別的(DET)　總體(N)　來(ADV)　說(Vt)　還可以(Vi)　吧(T)　,(COMMACATEGORY)
+　地段(N)　不錯(Vi)　,(COMMACATEGORY)
+　服務(Nv)　也(ADV)　滿(ADV)　好(Vi)　.(PERIODCATEGORY)

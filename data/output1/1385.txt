@@ -1,0 +1,5 @@
+　地理(N)　位置(N)　不錯(Vi)　，(COMMACATEGORY)
+　離去(Vi)　機場(N)　大大(Vi)　巴站(N)　很(ADV)　近(Vi)　，(COMMACATEGORY)
+　周圍(N)　吃飯(Vi)　很(ADV)　方便(Vi)　，(COMMACATEGORY)
+　有(Vt)　一(DET)　家(M)　齊齊(Vi)　火鍋(N)　不錯(Vi)　，(COMMACATEGORY)
+　也(ADV)　很(ADV)　便宜(Vi)　.(PERIODCATEGORY)

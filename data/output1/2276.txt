@@ -1,0 +1,8 @@
+　因為(C)　辦事處(N)　要(ADV)　裝修(Vt)　的(T)　原因(N)　，(COMMACATEGORY)
+　我(N)　住(Vt)　在(P)　這(DET)　旅館(N)　裡(N)　．(PERIODCATEGORY)　這(DET)　家(M)　靠(P)　關係(N)　得到(Vt)　所謂(Vt)　４星(N)　的(T)　旅館(N)　，(COMMACATEGORY)
+　是(Vt)　怎麼樣(Vi)　的(T)　我(N)　現在(N)　告訴(Vt)　大家(N)　一下(N)　，(COMMACATEGORY)
+　在(P)　宜賓(N)　去(Vt)　那(DET)　家(M)　都(ADV)　比(P)　這(DET)　家(M)　好(Vi)　，(COMMACATEGORY)
+　晚上(N)　這裡(N)　的(T)　雞(N)　叫(Vi)　不停(Vi)　．(PERIODCATEGORY)　而且(C)　不(ADV)　分(Vt)　公母(N)　的(T)　．(PERIODCATEGORY)　會(ADV)　一直(ADV)　叫到(Vt)　２(DET)　點(M)　，(COMMACATEGORY)
+　我(N)　晚上(N)　火(N)　了(T)　，(COMMACATEGORY)
+　總(A)　台會(N)　將(P)　那(DET)　個(M)　是(Vt)　男(N)　的(T)　住(Vt)　的(T)　房間(N)　告訴(Vt)　給(Vt)　雞婆(Vi)　，(COMMACATEGORY)
+　晚上(N)　你(N)　就(ADV)　別(ADV)　想(Vt)　睡(Vi)　的(T)　好(Vi)　．(PERIODCATEGORY)　投訴(Vi)　了(ASP)　他們(N)　說(Vt)　他們(N)　沒(ADV)　告(Vt)　?(QUESTIONCATEGORY)

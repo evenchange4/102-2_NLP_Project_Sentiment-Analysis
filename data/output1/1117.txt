@@ -1,0 +1,5 @@
+　庭院(N)　環境(N)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　房間(N)　也(ADV)　還(ADV)　可以(ADV)　,(COMMACATEGORY)
+　設施(N)　有(Vt)　一些(DET)　舊(Vi)　了(T)　,(COMMACATEGORY)
+　總(A)　台(N)　有(Vt)　位(M)　小姐(N)　服務(Nv)　稍(ADV)　差(Vi)　了(ASP)　些(ADV)　，(COMMACATEGORY)
+　但(C)　總體(N)　還(ADV)　可以(ADV)　。(PERIODCATEGORY)

@@ -1,0 +1,7 @@
+　購物(Nv)　選擇(N)　入住(Vt)　是(Vt)　非常(ADV)　方便(Vi)　，(COMMACATEGORY)
+　酒店(N)　就(ADV)　連著(ADV)　海港城(N)　，(COMMACATEGORY)
+　但是(C)　房間(N)　一般(POST)　，(COMMACATEGORY)
+　設施(N)　也(ADV)　很(ADV)　陳舊(Vi)　，(COMMACATEGORY)
+　早餐(N)　也(ADV)　非常(ADV)　一般(Vi)　，(COMMACATEGORY)
+　個人(N)　認為(Vt)　，(COMMACATEGORY)
+　香港(N)　最好(Vi)　的(T)　酒店(N)　早餐(N)　是(Vt)　數碼(N)　港艾美(N)　酒店(N)　的(T)　。(PERIODCATEGORY)

@@ -1,0 +1,3 @@
+　訂(Vt)　房間(N)　時(POST)　說(Vt)　,(COMMACATEGORY)
+　免費(Vi)　延遲(Vt)　退房(Vi)　至(P)　16(DET)　：(COLONCATEGORY)　00(DET)　點(M)　.(PERIODCATEGORY)　但是(C)　,(COMMACATEGORY)
+　完全(ADV)　不可能(ADV)　..(ETCCATEGORY)　延遲(Vt)　退房(Vi)　要(ADV)　收半(N)　天房費(N)　.(PERIODCATEGORY)

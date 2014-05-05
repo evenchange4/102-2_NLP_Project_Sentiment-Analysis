@@ -1,0 +1,4 @@
+　花園式(N)　的(T)　酒店(N)　，(COMMACATEGORY)
+　在(P)　城(N)　中(POST)　，(COMMACATEGORY)
+　有點(ADV)　舊(Vi)　，(COMMACATEGORY)
+　但(C)　靠(P)　花園(N)　的(T)　房間(N)　不錯(Vi)　！(EXCLAMATIONCATEGORY)

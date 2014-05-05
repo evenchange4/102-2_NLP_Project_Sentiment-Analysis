@@ -1,0 +1,4 @@
+　這(DET)　家(M)　酒店(N)　太(ADV)　讓(Vt)　我(N)　失望(Vi)　了(T)　,(COMMACATEGORY)
+　房間(N)　小(Vi)　的(T)　簡直(ADV)　不能(ADV)　再(ADV)　小(Vi)　了(T)　而且(C)　服務(Nv)　態度(N)　一般(ADV)　除了(P)　天台(N)　泳池(N)　還可以(Vi)　以外(POST)　,(COMMACATEGORY)
+　還不如(C)　住(Vt)　海景(N)　酒店(N)　離天(N)　後(POST)　車站(N)　又(ADV)　近(Vt)　價錢(N)　又(ADV)　便宜(Vi)　,(COMMACATEGORY)
+　下(DET)　次(M)　去(Vt)　香港(N)　我(N)　肯定(Vt)　不(ADV)　住(Vt)　這(DET)　家(M)

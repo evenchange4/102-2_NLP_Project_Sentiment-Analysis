@@ -1,0 +1,4 @@
+　地方(N)　惡偏(Vi)　，(COMMACATEGORY)
+　早餐(N)　可以(ADV)　比美(Vt)　招待所(N)　，(COMMACATEGORY)
+　服務員(N)　素質(N)　巨(Vi)　差(Vi)　，(COMMACATEGORY)
+　堅決(Vi)　不(ADV)　去(Vt)　第二(DET)　趟(M)

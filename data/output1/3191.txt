@@ -1,0 +1,4 @@
+　北京(N)　的(T)　酒店(N)　，(COMMACATEGORY)
+　也(ADV)　就是(C)　這麼著(ADV)　了(T)　！(EXCLAMATIONCATEGORY)　五星級(N)　酒店(N)　也(ADV)　就(P)　三星(N)　的(T)　水平(N)　，(COMMACATEGORY)
+　何況(C)　四星(N)　的(T)　呢(T)　，(COMMACATEGORY)
+　湊合(Vt)　著(ASP)　住(Vt)　吧(T)

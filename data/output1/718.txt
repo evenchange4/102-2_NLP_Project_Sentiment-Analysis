@@ -1,0 +1,3 @@
+　服務(Vt)　非常(ADV)　好(Vi)　,(COMMACATEGORY)
+　希望(Vt)　不(ADV)　是(Vt)　正好(ADV)　趕上(Vt)　奧運(N)　才(ADV)　這樣(Vi)　.(PERIODCATEGORY)　去(Vt)　哪裡(N)　都(ADV)　有(Vt)　人(N)　帶路(Vi)　.(PERIODCATEGORY)　賓至如歸(Vi)　啊(T)　!(EXCLAMATIONCATEGORY)　早餐(N)　還(ADV)　算(Vt)　豐富(Vt)　,(COMMACATEGORY)
+　門口(N)　也(ADV)　有(Vt)　不少(DET)　餐廳(N)　.(PERIODCATEGORY)　出門(Vi)　就(ADV)　是(Vt)　海邊(N)　.(PERIODCATEGORY)　風景(N)　美(Vi)　.(PERIODCATEGORY)　值得(Vi)　一(ADV)　住(Vt)　!(EXCLAMATIONCATEGORY)

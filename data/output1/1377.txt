@@ -1,0 +1,5 @@
+　不錯(Vi)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　設施(N)　比較(ADV)　完備(Vi)　，(COMMACATEGORY)
+　地理(N)　位置(N)　也(ADV)　很(ADV)　方便(Vi)　。(PERIODCATEGORY)
+　電視機(N)　稍微(ADV)　差(Vi)　了(ASP)　一點(ADV)　。(PERIODCATEGORY)

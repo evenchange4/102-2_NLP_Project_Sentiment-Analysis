@@ -1,0 +1,7 @@
+　該(DET)　酒店(N)　衛生(N)　情況(N)　較(ADV)　差(Vi)　，(COMMACATEGORY)
+　特別(Vi)　是(Vt)　早晨(N)　6(DET)　點(M)　多(POST)　，(COMMACATEGORY)
+　我(N)　聽到(Vt)　衛生間(N)　有(Vt)　兩(DET)　隻(M)　老鼠(N)　在(P)　嘶叫(Vi)　，(COMMACATEGORY)
+　感覺(N)　特別(Vi)　差(Vi)　，(COMMACATEGORY)
+　硬件(N)　設施(N)　與(C)　價格(N)　不符(Vt)　，(COMMACATEGORY)
+　失望(Vi)　，(COMMACATEGORY)
+　太(ADV)　令(Vt)　人(N)　失望(Vi)

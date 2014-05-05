@@ -1,0 +1,3 @@
+　感覺(Vt)　挺(ADV)　好(Vi)　的(T)　,(COMMACATEGORY)
+　是(Vt)　家(N)　不錯(Vi)　的(T)　酒店(N)　,(COMMACATEGORY)
+　下(DET)　個(M)　月(N)　去(ADV)　辦事(Vi)　打算(Vt)　還(ADV)　住(Vt)　那兒(N)　.(PERIODCATEGORY)

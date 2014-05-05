@@ -1,0 +1,4 @@
+　不錯(Vi)　的(T)　酒店(N)　,(COMMACATEGORY)
+　地址(N)　不錯(Vi)　,(COMMACATEGORY)
+　在(P)　市中心(N)　,(COMMACATEGORY)
+　酒店(N)　服務員(N)　態度(N)　很(ADV)　好(Vi)　.(PERIODCATEGORY)

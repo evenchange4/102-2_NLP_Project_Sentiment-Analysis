@@ -1,0 +1,4 @@
+　前台(N)　小姑娘(N)　很(ADV)　有意思(Vi)　，(COMMACATEGORY)
+　經常(ADV)　入住(Vt)　，(COMMACATEGORY)
+　都(ADV)　熟(Vi)　了(T)　，(COMMACATEGORY)
+　呵呵(ADV)

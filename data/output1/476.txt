@@ -1,0 +1,4 @@
+　大樓(N)　很(ADV)　漂亮(Vi)　。(PERIODCATEGORY)
+　價格(N)　不(ADV)　便宜(Vi)　。(PERIODCATEGORY)
+　其他(DET)　一般(Vi)　。(PERIODCATEGORY)
+　就是(C)　索菲特(N)　聽起來(ADV)　很(ADV)　牛(N)　。(PERIODCATEGORY)

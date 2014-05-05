@@ -1,0 +1,3 @@
+　酒店(N)　設施(N)　陳舊(Vi)　.(PERIODCATEGORY)　傢俱(N)　很(ADV)　舊(Vi)　.(PERIODCATEGORY)　電視(N)　很(ADV)　小(Vi)　.(PERIODCATEGORY)　浴衣(N)　好像(ADV)　不(ADV)　是(Vt)　新洗(Vt)　的(T)　,(COMMACATEGORY)
+　而且(C)　就(ADV)　一(DET)　件(M)　單布(N)　的(T)　.(PERIODCATEGORY)　房門(N)　不(ADV)　隔音(A)　.(PERIODCATEGORY)　沒有(Vt)　免費(Vi)　的(T)　速溶(Vt)　咖啡(N)　和(C)　茶(N)　.(PERIODCATEGORY)　預訂(Vt)　時(POST)　攜程(N)　說(Vt)　酒店(N)　設施(N)　是(Vt)　四星級(N)　的(T)　,(COMMACATEGORY)
+　太(ADV)　失望(Vi)　了(T)　!(EXCLAMATIONCATEGORY)

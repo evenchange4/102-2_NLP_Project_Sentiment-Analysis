@@ -1,0 +1,3 @@
+　非常(ADV)　的(T)　差(Vi)　,(COMMACATEGORY)
+　定(Vt)　的(T)　是(Vt)　豪華(Vi)　套房(N)　可是(C)　給(Vt)　我(N)　的(T)　感覺(N)　是(Vt)　剛剛(ADV)　做(Vt)　過(ASP)　真空(N)　處理(Nv)　,(COMMACATEGORY)
+　什麼(DET)　都(ADV)　沒有(ADV)　真的(ADV)　很(ADV)　差(Vi)　服務(Nv)　方面(N)　就(ADV)　更(ADV)　不用說(ADV)　了(T)　我(N)　在(P)

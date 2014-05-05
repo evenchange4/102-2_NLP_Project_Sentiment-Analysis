@@ -1,0 +1,4 @@
+　早餐(N)　很(ADV)　豐富(Vt)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　熱情(Vi)　，(COMMACATEGORY)
+　早上(N)　很(ADV)　早(Vi)　退房(Vi)　時(POST)　，(COMMACATEGORY)
+　前台(N)　值(Vt)　此(DET)　人員(N)　辦理(Vt)　手續(N)　也(ADV)　非常(ADV)　快(Vi)　．(PERIODCATEGORY)

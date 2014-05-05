@@ -1,0 +1,5 @@
+　位置(N)　一般(POST)　，(COMMACATEGORY)
+　服務(Vt)　不錯(Vi)　，(COMMACATEGORY)
+　價格(N)　偏(ADV)　高(Vi)　，(COMMACATEGORY)
+　周圍(N)　環境(N)　比較(ADV)　吵(Vi)　，(COMMACATEGORY)
+　晚上(N)　不(ADV)　容易(Vi)　入睡(Vi)　。(PERIODCATEGORY)

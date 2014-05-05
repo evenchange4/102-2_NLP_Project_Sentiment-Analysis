@@ -1,0 +1,5 @@
+　酒店(N)　交通(N)　方便(Vi)　，(COMMACATEGORY)
+　環境(N)　也(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　正好(ADV)　是(Vt)　我們(N)　辦事(Vi)　地點(N)　的(T)　旁邊(N)　，(COMMACATEGORY)
+　感覺(N)　性價(N)　比(P)　還(ADV)　可以(ADV)　，(COMMACATEGORY)
+　以後(N)　還(ADV)　會(ADV)　考慮(Vt)　入住(Vt)　該(DET)　酒店(N)　。(PERIODCATEGORY)

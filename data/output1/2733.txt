@@ -1,0 +1,2 @@
+　太(ADV)　同意(Vt)　前(DET)　兩(DET)　位(M)　的(T)　點評(N)　了(T)　,(COMMACATEGORY)
+　後悔(Vt)　當時(N)　定(Vt)　得(T)　沖(Vt)　忙(Vi)　沒(ADV)　看(Vt)　點評(N)　.(PERIODCATEGORY)　除了(P)　沒辦法(Vi)　建議(Vt)　各(DET)　位(M)　看看(Vt)　別的(DET)　酒店(N)　吧(T)　.(PERIODCATEGORY)

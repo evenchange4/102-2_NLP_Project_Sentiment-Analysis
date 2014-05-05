@@ -1,0 +1,7 @@
+　價格(N)　比(P)　比較(ADV)　不錯(Vi)　的(T)　酒店(N)　。(PERIODCATEGORY)
+　這(DET)　次(M)　免費(Vi)　升級(Vi)　了(T)　，(COMMACATEGORY)
+　感謝(Vt)　前台(N)　服務員(N)　。(PERIODCATEGORY)
+　房子(N)　還好(Vi)　，(COMMACATEGORY)
+　地毯(N)　是(Vt)　新(Vi)　的(T)　，(COMMACATEGORY)
+　比(P)　上(DET)　次(M)　的(T)　好些(DET)　。(PERIODCATEGORY)
+　早餐(N)　的(T)　人(N)　很多(DET)　要(ADV)　早(ADV)　去(Vt)　些(ADV)　。(PERIODCATEGORY)

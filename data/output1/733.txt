@@ -1,0 +1,7 @@
+　酒店(N)　位置(N)　不錯(Vi)　，(COMMACATEGORY)
+　位於(Vt)　泉州市(N)　中心(N)　。(PERIODCATEGORY)
+　酒店(N)　硬件(N)　還(ADV)　行(Vi)　，(COMMACATEGORY)
+　比較(ADV)　新(Vi)　，(COMMACATEGORY)
+　另外(C)　工作(N)　人員(N)　的(T)　服務(Nv)　態度(N)　也(ADV)　不錯(Vi)　。(PERIODCATEGORY)
+　不過(C)　唯一(A)　不(ADV)　好(Vi)　的(T)　就是(C)　早餐(N)　的(T)　品種(N)　太少(Vi)　，(COMMACATEGORY)
+　而且(C)　質量(N)　一般(POST)　。(PERIODCATEGORY)

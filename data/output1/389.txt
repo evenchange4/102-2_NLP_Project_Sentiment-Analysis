@@ -1,0 +1,2 @@
+　溫泉(N)　還(ADV)　是(Vt)　不錯(Vi)　的(T)　,(COMMACATEGORY)
+　其它(DET)　很(ADV)　一般(Vi)　了(T)　.(PERIODCATEGORY)　衛生間(N)　小(Vi)　且(C)　舊(Vi)　.(PERIODCATEGORY)　景區(N)　的(T)　賓館(N)　也(ADV)　就(ADV)　這樣(Vi)　了(T)　.(PERIODCATEGORY)

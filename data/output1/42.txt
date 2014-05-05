@@ -1,0 +1,7 @@
+　房間(N)　很(ADV)　舒服(Vi)　，(COMMACATEGORY)
+　我(N)　個人(N)　非常(ADV)　滿意(Vt)　，(COMMACATEGORY)
+　辦公台(N)　適合(Vi)　我(N)　個人(N)　的(T)　使用(Nv)　習慣(N)　且(C)　網速(N)　好(Vi)　。(PERIODCATEGORY)
+　大(Vi)　床(N)　、(PAUSECATEGORY)　衛生間(N)　都(ADV)　不錯(Vi)　。(PERIODCATEGORY)
+　賓館(N)　反饋(Vt)　2008年(N)　1月(N)　16日(N)　：(COLONCATEGORY)　感謝(Vt)　您(N)　對(P)　大連(N)　銀帆(N)　賓館(N)　的(T)　良好(Vi)　評價(N)　！(EXCLAMATIONCATEGORY)　近期(N)　的(T)　商務(N)　間(POST)　升級(Vi)　推廣(Vt)　活動(N)　受到(Vt)　了(ASP)　很多(DET)　客人(N)　的(T)　一致(Vi)　好評(N)　，(COMMACATEGORY)
+　這(DET)　是(Vt)　對(P)　新(Vi)　房間(N)　的(T)　認可(Nv)　，(COMMACATEGORY)
+　也(ADV)　是(Vt)　對(P)　我們(N)　房間(N)　進一步(ADV)　優化(Vi)　的(T)　良好(Vi)　幫助(Vt)　資源(N)　！(EXCLAMATIONCATEGORY)　銀帆(N)　賓館(N)　歡迎(Vt)　您(N)　！(EXCLAMATIONCATEGORY)　如(C)　有(Vt)　需要(Vt)　通過(Vt)　總機(N)　與(C)　我(N)　聯繫(Vt)　！(EXCLAMATIONCATEGORY)

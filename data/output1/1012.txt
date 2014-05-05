@@ -1,0 +1,2 @@
+　價格(N)　偏(ADV)　高(Vi)　,(COMMACATEGORY)
+　服務(Nv)　一般(POST)　.(PERIODCATEGORY)　窗(N)　外(N)　風景(N)　ok(FW)　.(PERIODCATEGORY)　早餐(N)　還(ADV)　不錯(Vi)

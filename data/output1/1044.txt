@@ -1,0 +1,4 @@
+　雖然(C)　表面(N)　看(Vt)　很(ADV)　一般(Vi)　,(COMMACATEGORY)
+　但(C)　裡面(N)　裝修(Vt)　還是(ADV)　很(ADV)　精緻(Vi)　的(T)　,(COMMACATEGORY)
+　住(Vt)　著(ASP)　乾淨(Vi)　,(COMMACATEGORY)
+　舒服(Vi)　;(SEMICOLONCATEGORY)　以後(POST)　去(Vt)　宜興(N)　首選(N)　還是(C)　宜興(N)　賓館(N)　!(EXCLAMATIONCATEGORY)

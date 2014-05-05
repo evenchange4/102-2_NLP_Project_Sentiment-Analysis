@@ -1,0 +1,6 @@
+　服務(Nv)　態度(N)　很(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　呵呵(ADV)　，(COMMACATEGORY)
+　而且(C)　離(P)　我們(N)　去(Vt)　的(T)　地方(N)　非常(ADV)　近(Vi)　，(COMMACATEGORY)
+　非常(ADV)　方便(Vi)　，(COMMACATEGORY)
+　環境(N)　也(ADV)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　希望(Vt)　下(DET)　次(M)　還可以(ADV)　住(Vt)　那裡(N)

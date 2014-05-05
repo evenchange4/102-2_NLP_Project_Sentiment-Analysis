@@ -1,0 +1,7 @@
+　前台(N)　沒有(Vt)　傳說(N)　的(T)　那麼(ADV)　慢(Vi)　，(COMMACATEGORY)
+　我(N)　去(Vt)　的(T)　時候(N)　還(ADV)　可以(ADV)　。(PERIODCATEGORY)
+　整體(N)　服務(Nv)　還(ADV)　不錯(Vi)　。(PERIODCATEGORY)
+　當時(N)　是(Vt)　3月(N)　份(N)　去(T)　的(T)　，(COMMACATEGORY)
+　房間(N)　有點(ADV)　冷(Vi)　，(COMMACATEGORY)
+　洗澡(Vi)　的(T)　時候(N)　直(ADV)　打哆嗦(Vi)　。(PERIODCATEGORY)
+　網(N)　速(Vi)　還(ADV)　可以(ADV)　。(PERIODCATEGORY)

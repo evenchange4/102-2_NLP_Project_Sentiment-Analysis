@@ -1,0 +1,3 @@
+　很(ADV)　舊(Vi)　的(T)　設施(N)　,(COMMACATEGORY)
+　服務(Nv)　也(ADV)　不(ADV)　好(Vi)　,(COMMACATEGORY)
+　感覺(N)　一般(POST)　.(PERIODCATEGORY)　不能(ADV)　和(P)　大(Vi)　城市(N)　比(Vt)　.(PERIODCATEGORY)

@@ -1,0 +1,7 @@
+　1(DET)　,(COMMACATEGORY)
+　房間(N)　小2(N)　，(COMMACATEGORY)
+　房間(N)　通風(Vi)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　氣味(N)　有點(ADV)　大(Vi)　3(DET)　，(COMMACATEGORY)
+　傢俱(N)　，(COMMACATEGORY)
+　床單(N)　陳舊(Vi)　4(DET)　，(COMMACATEGORY)
+　網絡(N)　有時(ADV)　不(ADV)　通(Vt)　一(DET)　個(M)　字(N)　爛(Vi)　建議(N)　遠離(Vt)

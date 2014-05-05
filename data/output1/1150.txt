@@ -1,0 +1,5 @@
+　物超所值(Vi)　,(COMMACATEGORY)
+　此(DET)　次(M)　我們(N)　是(Vt)　訂(Vt)　的(T)　三(DET)　個(M)　房間(N)　。(PERIODCATEGORY)
+　感慨(N)　中西部(N)　的(T)　服務(Nv)　有時(ADV)　比(P)　發達(Vi)　地區(N)　好多(DET)　了(T)　。(PERIODCATEGORY)
+　賓館(N)　反饋(Vt)　2008年(N)　8月(N)　8日(N)　：(COLONCATEGORY)　感謝(Vt)　您(N)　的(T)　入住(Vt)　，(COMMACATEGORY)
+　並(C)　期待(Vt)　您(N)　再次(ADV)　光臨(Vt)　。(PERIODCATEGORY)

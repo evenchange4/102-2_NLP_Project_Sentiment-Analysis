@@ -1,0 +1,7 @@
+　非常(ADV)　差(Vi)　，(COMMACATEGORY)
+　服務(Vt)　差(Vi)　。(PERIODCATEGORY)
+　房間(N)　比較(ADV)　大(Vi)　，(COMMACATEGORY)
+　但(C)　也(ADV)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　更(ADV)　重要(Vi)　的(T)　是(Vt)　臨近(Vt)　鐵路(N)　，(COMMACATEGORY)
+　很(ADV)　吵(Vi)　！(EXCLAMATIONCATEGORY)　難怪(ADV)　酒店(N)　生意(N)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　人(N)　很少(Vi)　！(EXCLAMATIONCATEGORY)

@@ -1,0 +1,8 @@
+　緊鄰(Vt)　馬路(N)　和(C)　高架(N)　，(COMMACATEGORY)
+　房間(N)　非常(ADV)　吵鬧(Vi)　！(EXCLAMATIONCATEGORY)　嚴重(Vi)　影響(N)　休息(Vi)　。(PERIODCATEGORY)
+　賓館(N)　反饋(Vt)　2008年(N)　3月(N)　13日(N)　：(COLONCATEGORY)　您好(Vi)　，(COMMACATEGORY)
+　非常(ADV)　感謝(Vt)　您(N)　提出(Vt)　的(T)　寶貴(Vi)　意見(N)　，(COMMACATEGORY)
+　現在(N)　我(N)　酒店(N)　進行(Vt)　全面(A)　裝修(Nv)　後(POST)　，(COMMACATEGORY)
+　已(ADV)　安裝(Vt)　了(ASP)　雙面(A)　隔音(A)　玻璃(N)　，(COMMACATEGORY)
+　吵鬧聲(N)　已(ADV)　得到(Vt)　很(ADV)　大(Vi)　改善(Vt)　，(COMMACATEGORY)
+　期待(Vt)　你(N)　下(DET)　一(DET)　次(M)　入住(Vt)　銀河(N)　大(Vi)　酒店(N)　！(EXCLAMATIONCATEGORY)

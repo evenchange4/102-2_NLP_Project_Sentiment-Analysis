@@ -1,0 +1,1 @@
+　很(ADV)　好(Vi)　房間(N)　很(ADV)　好(Vi)　位置(N)　很(ADV)　不錯(Vi)　以後(POST)　還(ADV)　會(ADV)　入住(Vt)

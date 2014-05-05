@@ -1,0 +1,7 @@
+　服務(Nv)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　但是(C)　客房(N)　裝修(Vt)　過於(ADV)　陳舊(Vi)　，(COMMACATEGORY)
+　隔音(A)　效果(N)　確實(ADV)　不(ADV)　好(Vi)　。(PERIODCATEGORY)
+　另外(C)　想要(Vt)　對(P)　客房(N)　部(N)　替(P)　個(M)　意見(N)　，(COMMACATEGORY)
+　你們(N)　能不能(ADV)　在(P)　客人(N)　沒有(ADV)　要求(Vt)　清理(Vt)　的(T)　情況(N)　下(POST)　，(COMMACATEGORY)
+　於(P)　顧客(N)　離(P)　店(N)　後(POST)　在(P)　進行(Vt)　清理(Vt)　客房(N)　呢(T)　？(QUESTIONCATEGORY)
+　最後(N)　說(Vt)　一(DET)　句(M)　「(PARENTHESISCATEGORY)　真的(ADV)　不要(ADV)　對(P)　早餐(N)　抱有(Vt)　太(ADV)　大(Vi)　的(T)　希望(N)　！(EXCLAMATIONCATEGORY)　」(PARENTHESISCATEGORY)

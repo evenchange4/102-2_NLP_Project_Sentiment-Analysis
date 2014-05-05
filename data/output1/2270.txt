@@ -1,0 +1,4 @@
+　升為(Vt)　一(DET)　家(M)　三星級(N)　的(T)　酒店(N)　，(COMMACATEGORY)
+　服務(Nv)　質量(N)　相當(Vi)　的(T)　差(Vi)　，(COMMACATEGORY)
+　服務員(N)　在(P)　電梯(N)　裡面(N)　遇到(Vt)　客人(N)　連(ADV)　招呼(Vt)　都(ADV)　不(ADV)　打(Vt)　~(FW)　還(ADV)　擺(Vt)　一(DET)　張(M)　臭臉(N)　，(COMMACATEGORY)
+　看見(Vt)　就(ADV)　不(ADV)　舒服(Vi)　！(EXCLAMATIONCATEGORY)　以後(N)　再(ADV)　也(ADV)　不會(ADV)　住(Vt)　該(DET)　酒店(N)　！(EXCLAMATIONCATEGORY)　~(FW)　~(FW)

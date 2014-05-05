@@ -1,0 +1,2 @@
+　大連(N)　很(ADV)　不錯(Vi)　的(T)　酒店(N)　了(T)　，(COMMACATEGORY)
+　不過(C)　差點(ADV)　和(P)　南山(N)　花園(N)　那(DET)　個(M)　搞錯(Vt)　0.0(DET)

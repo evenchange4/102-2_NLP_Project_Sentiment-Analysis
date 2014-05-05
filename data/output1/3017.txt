@@ -1,0 +1,3 @@
+　房間(N)　的(T)　格局(N)　在(P)　風水(N)　中(POST)　屬敗相(N)　,(COMMACATEGORY)
+　衛生間(N)　馬桶(N)　堵塞(Vt)　,(COMMACATEGORY)
+　無奈(Vi)　的(T)　一(DET)　晚(Vi)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)

@@ -1,0 +1,6 @@
+　請(Vt)　各(DET)　位(M)　注意(Vt)　酒店(N)　提供(Vt)　的(T)　飲用水(N)　是(Vt)　自來水(N)　，(COMMACATEGORY)
+　這(DET)　是(Vt)　前台(N)　服務員(N)　說(Vt)　的(T)　。(PERIODCATEGORY)
+　所以(C)　各(DET)　位(M)　千萬(DET)　不能(ADV)　生(Vt)　喝(Vt)　酒店(N)　提供(Vt)　的(T)　飲用水(N)　。(PERIODCATEGORY)
+　2008年(N)　了(T)　，(COMMACATEGORY)
+　北京(N)　的(T)　酒店(N)　還是(C)　這(DET)　種(M)　水平(N)　，(COMMACATEGORY)
+　真是(ADV)　令(Vt)　人(N)　心寒(Vi)　。(PERIODCATEGORY)

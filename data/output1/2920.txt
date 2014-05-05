@@ -1,0 +1,5 @@
+　性價(N)　比(P)　太(ADV)　差(Vi)　，(COMMACATEGORY)
+　大堂(N)　不(ADV)　氣派(Vi)　。(PERIODCATEGORY)
+　房間(N)　一般(POST)　，(COMMACATEGORY)
+　服務(Nv)　一般(POST)　，(COMMACATEGORY)
+　以後(N)　不會(ADV)　住(Vt)

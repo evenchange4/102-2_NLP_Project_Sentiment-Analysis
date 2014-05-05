@@ -1,0 +1,8 @@
+　除了(P)　環境(N)　比較(ADV)　好(Vi)　，(COMMACATEGORY)
+　在(P)　雲龍(N)　公園(N)　對面(N)　，(COMMACATEGORY)
+　酒店(N)　設施(N)　太(ADV)　舊(Vi)　了(T)　，(COMMACATEGORY)
+　價格(N)　高(Vi)　，(COMMACATEGORY)
+　性價(N)　比低(Vi)　，(COMMACATEGORY)
+　在(P)　這(DET)　個(M)　天氣(N)　，(COMMACATEGORY)
+　房間(N)　裡(N)　竟然(ADV)　有(Vt)　好多(DET)　蚊子(N)　，(COMMACATEGORY)
+　半夜(N)　被(P)　蚊子(N)　打擾(Vt)　幾(DET)　次(M)

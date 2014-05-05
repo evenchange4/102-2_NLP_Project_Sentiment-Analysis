@@ -1,0 +1,6 @@
+　入住(Vt)　的(T)　房間(N)　不可以(ADV)　開窗(N)　，(COMMACATEGORY)
+　空氣(N)　流通(Nv)　欠(Vt)　滿意(Vt)　，(COMMACATEGORY)
+　比較(ADV)　遺憾(Vt)　賓館(N)　反饋(Vt)　2008年(N)　7月(N)　10日(N)　：(COLONCATEGORY)　首先(ADV)　因(C)　飯店(N)　房間(N)　安排(Vt)　造成(Vt)　您(N)　的(T)　不滿(Nv)　表示(Vt)　歉意(N)　。(PERIODCATEGORY)
+　同時(N)　我們(N)　會(ADV)　與(P)　攜程(N)　及時(ADV)　溝通(Vt)　將(P)　您(N)　的(T)　要求(N)　錄(Vt)　入到(Vt)　「(PARENTHESISCATEGORY)　飯店(N)　客史(N)　信息(N)　中(POST)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　在(P)　您(N)　下(DET)　次(M)　入住(Vt)　時(POST)　前台(N)　就(ADV)　可以(ADV)　根據(P)　客史(N)　信息(N)　直接(Vi)　給(Vt)　您(N)　安排(Vt)　可以(ADV)　開窗(N)　的(T)　房間(N)　了(T)　。(PERIODCATEGORY)
+　河北(N)　世紀(N)　大(Vi)　飯店(N)　期待(Vt)　您(N)　的(T)　再次(ADV)　光臨(Vt)　！(EXCLAMATIONCATEGORY)

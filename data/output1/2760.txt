@@ -1,0 +1,4 @@
+　酒店(N)　外面(N)　的(T)　環境(N)　很(ADV)　髒(Vi)　,(COMMACATEGORY)
+　酒店(N)　裡面(N)　不僅(C)　地毯(N)　是(Vt)　黑(Vi)　的(T)　,(COMMACATEGORY)
+　連(C)　瓷磚(N)　地面(N)　都(ADV)　是(Vt)　黑(Vi)　的(T)　,(COMMACATEGORY)
+　離(P)　市區(N)　太(ADV)　遠(Vi)

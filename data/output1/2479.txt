@@ -1,0 +1,1 @@
+　房間(N)　的(T)　環境(N)　不(ADV)　好(Vi)　!(EXCLAMATIONCATEGORY)　陰暗(Vi)　潮濕(Vi)　!(EXCLAMATIONCATEGORY)　一點(ADV)　不(ADV)　像(Vt)　星級(N)　的(T)　賓館(N)　!(EXCLAMATIONCATEGORY)　失望(Vi)　.(PERIODCATEGORY)　不過(C)　服務(Nv)　還(ADV)　是(Vt)　可以(Vi)　的(T)　!(EXCLAMATIONCATEGORY)

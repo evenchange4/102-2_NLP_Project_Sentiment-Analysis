@@ -1,0 +1,6 @@
+　我(N)　住(Vt)　的(T)　是(Vt)　豪華(Vi)　大(Vi)　床(N)　房(N)　，(COMMACATEGORY)
+　硬件(N)　不錯(Vi)　，(COMMACATEGORY)
+　可惜(Vi)　床單(N)　上(N)　有(Vt)　細小(Vi)　毛髮(N)　，(COMMACATEGORY)
+　不過(C)　服務台(N)　獲知(Vt)　後(POST)　馬上(ADV)　就(ADV)　換(Vt)　了(ASP)　。(PERIODCATEGORY)
+　自助餐(N)　很(ADV)　好(Vi)　。(PERIODCATEGORY)
+　這(DET)　是(Vt)　桐鄉(N)　最好(Vi)　的(T)　酒店(N)　了(T)　。(PERIODCATEGORY)

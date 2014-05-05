@@ -1,0 +1,6 @@
+　酒店(N)　太(ADV)　舊(Vi)　了(T)　，(COMMACATEGORY)
+　大堂(N)　感覺(N)　像(Vt)　三星級(N)　的(T)　，(COMMACATEGORY)
+　房間(N)　也(ADV)　就(ADV)　是(Vt)　的(T)　好(Vi)　點(ADV)　的(T)　三星級(N)　的(T)　條件(N)　，(COMMACATEGORY)
+　在(P)　青島(N)　這樣(Vi)　的(T)　酒店(N)　是(Vt)　絕對(ADV)　算不上(Vt)　四星(N)　標準(N)　，(COMMACATEGORY)
+　早餐(N)　走(Vi)　了(ASP)　兩(DET)　圈(M)　也(ADV)　沒有(ADV)　找到(Vt)　可以(ADV)　吃(Vt)　的(T)　，(COMMACATEGORY)
+　太(ADV)　差(Vi)　了(T)

@@ -1,0 +1,8 @@
+　27(DET)　日(M)　入住(Vt)　正(ADV)　趕上(Vt)　附近(N)　施工(Vi)　，(COMMACATEGORY)
+　第一(DET)　印象(N)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　29日(N)　離開(Vt)　時(POST)　，(COMMACATEGORY)
+　大廳(N)　有(Vt)　鋼琴(N)　小提琴(N)　的(T)　表演(N)　。(PERIODCATEGORY)
+　訂房(Vi)　時(POST)　（(PARENTHESISCATEGORY)　大(Vi)　/(FW)　雙(DM)　）(PARENTHESISCATEGORY)　沒(ADV)　得(ADV)　挑(Vt)　，(COMMACATEGORY)
+　入住(Vt)　時(POST)　被(P)　告知(Vt)　是(Vt)　兩(DET)　間(M)　豪標(N)　雙人(N)　間(POST)　，(COMMACATEGORY)
+　其實(ADV)　想要(Vt)　一(DET)　大一(N)　雙(A)　。(PERIODCATEGORY)
+　總之(ADV)　不(ADV)　盡如人意(Vi)　。(PERIODCATEGORY)

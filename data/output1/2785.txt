@@ -1,0 +1,4 @@
+　房間(N)　小(Vi)　，(COMMACATEGORY)
+　很(ADV)　舊(Vi)　。(PERIODCATEGORY)
+　晚上(N)　12(DET)　點(M)　下(Vt)　到(P)　大堂(N)　去(Vt)　續房(N)　，(COMMACATEGORY)
+　居然(ADV)　看見(Vt)　一(DET)　隻(M)　大(Vi)　老鼠(N)　穿堂(N)　而(C)　過(Vt)

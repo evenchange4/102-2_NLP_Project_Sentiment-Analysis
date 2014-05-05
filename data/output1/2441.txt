@@ -1,0 +1,7 @@
+　酒店(N)　比較(ADV)　舊(Vi)　，(COMMACATEGORY)
+　設施(N)　也(ADV)　比較(ADV)　老(Vi)　，(COMMACATEGORY)
+　客房(N)　服務(Nv)　人員(N)　態度(N)　比較(ADV)　冷漠(Vi)　，(COMMACATEGORY)
+　而(C)　不(ADV)　講(Vt)　普通話(N)　，(COMMACATEGORY)
+　讓(Vt)　我們(N)　外地人(N)　覺得(Vt)　有點(ADV)　麻煩(Vt)　。(PERIODCATEGORY)
+　客房(N)　裡(N)　不能(ADV)　燒(Vt)　開水(N)　,(COMMACATEGORY)
+　需要(Vt)　打電話(Vi)　叫(Vt)　服務員(N)　送(Vt)　開水(N)　過來(Vi)　。(PERIODCATEGORY)

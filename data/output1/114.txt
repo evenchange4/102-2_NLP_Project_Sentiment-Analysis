@@ -1,0 +1,6 @@
+　一(DET)　家(M)　很(ADV)　好(Vi)　的(T)　度假型(N)　酒店(N)　,(COMMACATEGORY)
+　環境(N)　一流(Vi)　,(COMMACATEGORY)
+　尤其(ADV)　是(Vt)　戶外(N)　的(T)　自然(N)　環境(N)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　房間(N)　的(T)　設施(N)　也(ADV)　不錯(Vi)　.(PERIODCATEGORY)　唯一(A)　有點(ADV)　不足(Vi)　的(T)　是(Vt)　酒店(N)　裡(N)　的(T)　餐廳(N)　價格(N)　高(Vi)　了(ASP)　一點(ADV)　,(COMMACATEGORY)
+　已(ADV)　和(P)　香港(N)　4星(N)　酒店(N)　內(N)　的(T)　價格(N)　差不多(Vi)　了(T)　.(PERIODCATEGORY)　溫泉(N)　一般(POST)　,(COMMACATEGORY)
+　比(P)　南京(N)　湯山(N)　的(T)　頤尚(N)　差(Vi)　.(PERIODCATEGORY)

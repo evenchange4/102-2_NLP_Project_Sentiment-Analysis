@@ -1,0 +1,4 @@
+　套房(N)　很(ADV)　不錯(Vi)　。(PERIODCATEGORY)
+　風景(N)　也(ADV)　很(ADV)　好(Vi)　。(PERIODCATEGORY)
+　唯一(A)　美中不足(Vi)　的(T)　是(Vt)　酒店(N)　的(T)　位置(N)　比較(ADV)　難找(Vt)　，(COMMACATEGORY)
+　交通(N)　也(ADV)　不(ADV)　大(Vi)　方便(Vi)　。(PERIODCATEGORY)

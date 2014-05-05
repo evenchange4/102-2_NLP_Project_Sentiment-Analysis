@@ -1,0 +1,8 @@
+　說(Vt)　是(Vt)　4星(N)　的(T)　，(COMMACATEGORY)
+　居然(ADV)　沒有(ADV)　設置(Vt)　無煙房(N)　，(COMMACATEGORY)
+　實在(ADV)　是(Vt)　無語(Vi)　。(PERIODCATEGORY)
+　賓館(N)　反饋(Vt)　2008年(N)　4月(N)　28日(N)　：(COLONCATEGORY)　尊敬(Vt)　的(T)　賓客(N)　，(COMMACATEGORY)
+　非常(ADV)　感謝(Vt)　您(N)　入住(Vt)　七星(N)　商務(N)　酒店(N)　！(EXCLAMATIONCATEGORY)　本(DET)　酒店(N)　10樓(N)　為(Vt)　無煙(Vi)　樓層(N)　客房(N)　，(COMMACATEGORY)
+　樓層(N)　及(C)　客房(N)　均(ADV)　設有(Vt)　明顯(Vi)　無煙(Vi)　樓層(N)　標誌(N)　。(PERIODCATEGORY)
+　我們(N)　誠摯(Vi)　地(T)　期待(Vt)　您(N)　下(DET)　次(M)　光臨(Vt)　我們(N)　酒店(N)　，(COMMACATEGORY)
+　我們(N)　將(ADV)　盡量(ADV)　滿足(Vt)　您(N)　的(T)　訂房(Nv)　需求(N)　。(PERIODCATEGORY)

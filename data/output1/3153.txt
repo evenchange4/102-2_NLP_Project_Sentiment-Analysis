@@ -1,0 +1,8 @@
+　在(P)　臨安(N)　還是(ADV)　不錯(Vi)　的(T)　一(DET)　個(M)　酒店(N)　，(COMMACATEGORY)
+　乾淨(Vi)　。(PERIODCATEGORY)
+　不足(Vi)　的(T)　是(Vt)　：(COLONCATEGORY)　1窗(N)　的(T)　隔音(A)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　很(ADV)　早(Vi)　就(ADV)　能(ADV)　聽到(Vt)　外面(N)　的(T)　汽車聲(N)　。(PERIODCATEGORY)
+　2(DET)　電視(N)　頻道(N)　太少(Vi)　，(COMMACATEGORY)
+　臨安(N)　已經(ADV)　是(Vt)　數字(N)　有線(A)　電視(N)　了(T)　但(C)　不(ADV)　知(Vt)　酒店(N)　為什麼(ADV)　還(ADV)　沒有(Vt)　。(PERIODCATEGORY)
+　3(DET)　沒有(Vt)　免費(Vi)　的(T)　飲用水(N)　提供(Vt)　。(PERIODCATEGORY)
+　4(DET)　前台(N)　服務員(N)　不(ADV)　夠(ADV)　專業(Vi)　、(PAUSECATEGORY)　熱情(N)　和(C)　禮貌(N)　。(PERIODCATEGORY)

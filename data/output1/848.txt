@@ -1,0 +1,6 @@
+　出行(Vi)　非常(ADV)　方便(Vi)　，(COMMACATEGORY)
+　離(P)　地鐵(N)　很(ADV)　近(Vi)　，(COMMACATEGORY)
+　酒店(N)　後面(N)　就(ADV)　有(Vt)　酒吧(N)　一(DET)　條(M)　街(N)　，(COMMACATEGORY)
+　房間(N)　還(ADV)　不錯(Vi)　沒有(ADV)　想像(Vt)　中(N)　小(Vi)　，(COMMACATEGORY)
+　被子(N)　超軟(Vi)　，(COMMACATEGORY)
+　很(ADV)　舒服(Vi)　！(EXCLAMATIONCATEGORY)　以後(N)　我(N)　還(ADV)　會(ADV)　住(Vt)　這裡(N)　！(EXCLAMATIONCATEGORY)

@@ -1,0 +1,3 @@
+　沒有(Vt)　效率(N)　和(C)　服務(Nv)　的(T)　旅館(N)　，(COMMACATEGORY)
+　如果(C)　你(N)　恨(Vt)　他(N)　/(FW)　她(N)　，(COMMACATEGORY)
+　就(ADV)　讓(Vt)　他(N)　/(FW)　她(N)　住(Vt)　寧夏(N)　國際(N)　飯店(N)

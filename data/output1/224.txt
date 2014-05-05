@@ -1,0 +1,6 @@
+　總體(N)　來(ADV)　說(Vt)　，(COMMACATEGORY)
+　很(ADV)　喜歡(Vt)　索菲特(N)　，(COMMACATEGORY)
+　這(DET)　一(DET)　次(M)　本來(ADV)　不(ADV)　想(Vt)　住(Vt)　索菲特(N)　，(COMMACATEGORY)
+　因為(C)　藏獨(N)　事件(N)　，(COMMACATEGORY)
+　但(C)　客人(N)　喜歡(Vt)　，(COMMACATEGORY)
+　總體(N)　感覺(N)　不錯(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,7 @@
+　房間(N)　裝修(Vt)　有點(ADV)　舊(Vi)　了(T)　，(COMMACATEGORY)
+　隔音(A)　較(ADV)　差(Vi)　，(COMMACATEGORY)
+　且(C)　沒有(Vt)　寬帶(N)　上網(Nv)　，(COMMACATEGORY)
+　服務(Nv)　中(POST)　規(N)　中(POST)　舉(Vt)　，(COMMACATEGORY)
+　沒(Vt)　什麼(DET)　特別(Vi)　，(COMMACATEGORY)
+　感覺(N)　往來(Vi)　的(T)　客人(N)　很(ADV)　複雜(Vi)　，(COMMACATEGORY)
+　有(Vt)　騷擾(Nv)　電話(N)　。(PERIODCATEGORY)

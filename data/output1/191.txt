@@ -1,0 +1,6 @@
+　酒店(N)　超值(Vi)　，(COMMACATEGORY)
+　不用(ADV)　300(DET)　元(M)　住標(N)　間(POST)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　乾淨(Vi)　舒服(Vi)　，(COMMACATEGORY)
+　前台(N)　服務員(N)　態度(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　酒店(N)　管理(Nv)　水平(N)　很(ADV)　高(Vi)　，(COMMACATEGORY)
+　還(ADV)　可(ADV)　免費(Vi)　延(Vt)　住到(Vt)　2(DET)　點(M)　。(PERIODCATEGORY)

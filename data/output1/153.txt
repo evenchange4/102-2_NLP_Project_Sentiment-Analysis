@@ -1,0 +1,7 @@
+　總(A)　台(N)　小姐(N)　凌晨(N)　0(DET)　：(COLONCATEGORY)　30(DET)　打電話(Vi)　詢問(Vt)　房卡(N)　之(T)　事(N)　，(COMMACATEGORY)
+　驚擾(Vt)　本人(N)　美夢(N)　，(COMMACATEGORY)
+　使(Vt)　我(N)　一(DET)　夜(N)　未(ADV)　眠(Vi)　，(COMMACATEGORY)
+　區區(ADV)　小(Vi)　事(N)　，(COMMACATEGORY)
+　為何(ADV)　不能(ADV)　次日(N)　早晨(N)　與(P)　我(N)　聯繫(Vt)　，(COMMACATEGORY)
+　服務(Vt)　欠(Vt)　周到(Vi)　，(COMMACATEGORY)
+　尚(ADV)　需(ADV)　改進(Vt)

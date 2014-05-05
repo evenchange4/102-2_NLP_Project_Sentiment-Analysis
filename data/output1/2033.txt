@@ -1,0 +1,8 @@
+　設施(N)　老化(Vt)　，(COMMACATEGORY)
+　緊(Vi)　靠(P)　馬路(N)　噪音(N)　太(ADV)　大(Vi)　。(PERIODCATEGORY)
+　晚上(N)　樓上(N)　衛生間(N)　的(T)　水流聲(N)　和(C)　空調(N)　噪音(N)　非常(ADV)　大(Vi)　，(COMMACATEGORY)
+　無法(ADV)　入眠(Vi)　，(COMMACATEGORY)
+　跟(P)　總台(N)　反映(Vt)　後(POST)　，(COMMACATEGORY)
+　服務員(N)　姍姍來遲(Vi)　，(COMMACATEGORY)
+　強調(Vt)　就是(C)　如此(Vi)　。(PERIODCATEGORY)
+　建議(Vt)　入住(Vt)　開發區(N)　安慶(N)　大(Vi)　酒店(N)　和(C)　市區(N)　人民路(N)　的(T)　錦江(N)　之(T)　星(N)

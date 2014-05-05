@@ -1,0 +1,4 @@
+　硬件(N)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　服務(Nv)　質量(N)　也(ADV)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　特別(Vi)　是(Vt)　酒店(N)　周圍(N)　環境(N)　非常(ADV)　優雅(Vi)　.(PERIODCATEGORY)　早餐(N)　也(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　下(DET)　次(M)　去(ADV)　還(ADV)　會(ADV)　入住(Vt)

@@ -1,0 +1,2 @@
+　酒店(N)　門口(N)　時(N)　條(M)　單行道(N)　，(COMMACATEGORY)
+　外出(Vi)　有(Vt)　些(M)　不(ADV)　方便(Vi)　！(EXCLAMATIONCATEGORY)　其他(DET)　還(ADV)　行(Vi)

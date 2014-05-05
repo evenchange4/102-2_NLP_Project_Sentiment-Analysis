@@ -1,0 +1,1 @@
+　房間(N)　設施(N)　不(ADV)　?(QUESTIONCATEGORY)

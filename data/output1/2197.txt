@@ -1,0 +1,2 @@
+　普通(Vi)　遊客(N)　旅館(N)　還(ADV)　三星(N)　讓(Vt)　我(N)　傷心(Vi)　店名(N)　好(ADV)　大(Vi)　奇(ADV)　差(Vi)　無比(Vi)　補充(Vt)　點評(N)　2006年(N)　12月(N)　8日(N)　：(COLONCATEGORY)　還(ADV)　說(Vt)　有(Vt)　地下(N)　車庫(N)　誰(N)　敢(Vt)　下去(ASP)　暈(Vi)　狹小(Vi)　黑暗(N)　要(ADV)　卡(Vi)　殼兒(N)　的(T)　CTRIP(FW)　上(N)　怎麼(ADV)　讓(Vt)　它(N)　這(DET)　麼(T)　忽悠(Vi)　顧客(N)　的(T)　？(QUESTIONCATEGORY)
+　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)

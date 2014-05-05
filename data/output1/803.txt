@@ -1,0 +1,6 @@
+　我(N)　是(Vt)　看(Vt)　了(ASP)　點評(N)　才(ADV)　入住(Vt)　海景(N)　嘉福(N)　的(T)　，(COMMACATEGORY)
+　感覺(N)　還不如(C)　怡東(N)　。(PERIODCATEGORY)
+　服務(Nv)　並(ADV)　不(ADV)　好(Vi)　。(PERIODCATEGORY)
+　房間(N)　內(N)　通風(Vi)　不(ADV)　好(ADV)　有(Vt)　異味(N)　。(PERIODCATEGORY)
+　也(ADV)　沒(ADV)　看到(Vt)　有(Vt)　送(Vt)　水果(N)　和(C)　巧克力(N)　。(PERIODCATEGORY)
+　總體(N)　感覺(N)　跟(P)　四星(N)　差不多(Vi)　。(PERIODCATEGORY)

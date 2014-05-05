@@ -1,0 +1,6 @@
+　因為(C)　公司(N)　的(T)　報銷(Nv)　制度(N)　嚴格(Vi)　,(COMMACATEGORY)
+　所以(C)　我(N)　在(P)　酒店(N)　結帳(Vi)　的(T)　時候(N)　讓(Vt)　前台(N)　在(P)　打(Vt)　印出來(Vi)　的(T)　明細單(N)　上(N)　加蓋(Vt)　酒店(N)　的(T)　章(N)　((PARENTHESISCATEGORY)　大家(N)　說(Vt)　這(DET)　個(M)　要求(N)　過分(Vi)　嗎(T)　)(PARENTHESISCATEGORY)　,(COMMACATEGORY)
+　但是(C)　前台(N)　小姐(N)　以(P)　各(DET)　種(M)　理由(N)　拒不(ADV)　蓋章(Vi)　,(COMMACATEGORY)
+　試問(Vt)　如果(C)　出差(Vi)　回去(Vi)　不能(ADV)　報銷(Vt)　費用(N)　的(T)　話(N)　,(COMMACATEGORY)
+　這樣(Vi)　的(T)　酒店(N)　誰(N)　還(ADV)　敢(Vt)　住(Vt)　?(QUESTIONCATEGORY)　如果(C)　不(ADV)　是(Vt)　急(Vi)　著(ASP)　趕(Vt)　飛機(N)　的(T)　話(N)　,(COMMACATEGORY)
+　一定(ADV)　要(ADV)　找(Vt)　酒店(N)　要(Vt)　個(M)　說法(N)　!(EXCLAMATIONCATEGORY)　建議(Vt)　報銷(Vt)　制度(N)　嚴格(Vi)　的(T)　朋友(N)　不要(ADV)　考慮(Vt)　這(DET)　個(M)　酒店(N)　了(T)　.(PERIODCATEGORY)

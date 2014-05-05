@@ -1,0 +1,5 @@
+　絕對(Vi)　的(T)　市中心(N)　位置(N)　,(COMMACATEGORY)
+　對面(N)　就(ADV)　是(Vt)　丁香(N)　蓮(N)　,(COMMACATEGORY)
+　隔壁(N)　就(ADV)　是(Vt)　賣(Vt)　最好(Vi)　的(T)　湖(N)　筆(N)　的(T)　王一品(N)　總店(N)　.(PERIODCATEGORY)　步行(Vi)　5(DET)　分鐘(M)　就(ADV)　是(Vt)　最(ADV)　熱鬧(Vi)　的(T)　紅旗路(N)　,(COMMACATEGORY)
+　定(Vt)　的(T)　是(Vt)　豪華(Vi)　雙人房(N)　,(COMMACATEGORY)
+　因為(C)　?(QUESTIONCATEGORY)

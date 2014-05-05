@@ -1,0 +1,5 @@
+　這(DET)　次(M)　是(Vt)　我(N)　第二(DET)　次(M)　入住(Vt)　青年會(N)　了(T)　,(COMMACATEGORY)
+　主要(ADV)　是(Vt)　服務(Nv)　態度(N)　好(Vi)　,(COMMACATEGORY)
+　房間(N)　環境(N)　好(Vi)　,(COMMACATEGORY)
+　周圍(N)　的(T)　交通(N)　比較(ADV)　方便(Vi)　..(ETCCATEGORY)　這(DET)　次(M)　酒店(N)　給(Vt)　我們(N)　安排(Vt)　到(P)　新裝(N)　修(Vt)　的(T)　房間(N)　,(COMMACATEGORY)
+　各(DET)　個(M)　設施(N)　以及(C)　環境(N)　更加(ADV)　齊全(Vi)　更(ADV)　好(Vi)　.(PERIODCATEGORY)　下(DET)　次(M)　還是(ADV)　會(ADV)　選擇(Vt)　青年會(N)　.(PERIODCATEGORY)

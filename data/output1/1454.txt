@@ -1,0 +1,7 @@
+　總的來說(ADV)　還(ADV)　算(Vt)　可以(Vi)　，(COMMACATEGORY)
+　我(N)　在(P)　15樓(N)　住(Vt)　著(ASP)　，(COMMACATEGORY)
+　洗澡(Vi)　的(T)　水壓(N)　有(Vt)　些(M)　小(Vi)　。(PERIODCATEGORY)
+　其他(DET)　還可以(Vi)　。(PERIODCATEGORY)
+　就是(C)　離(P)　龍門(N)　石窟(N)　有(Vt)　些(M)　遠(Vi)　，(COMMACATEGORY)
+　17(DET)　公里(M)　左右(POST)　。(PERIODCATEGORY)
+　寬帶(N)　的(T)　速度(N)　不錯(Vi)　。(PERIODCATEGORY)

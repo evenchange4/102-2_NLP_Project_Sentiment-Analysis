@@ -1,0 +1,3 @@
+　哈哈(ADV)　哈哈(ADV)　.....(ETCCATEGORY)　居然(ADV)　還可以(ADV)　繼續(Vt)　評論(Vt)　啊(T)　那(DET)　就(ADV)　給(Vt)　滿分(N)　了(ASP)　下(DET)　次(M)　去(Vt)　了(ASP)　繼續(Vt)　住(Vt)　忘記(Vt)　說(Vt)　了(ASP)　,(COMMACATEGORY)
+　有(Vt)　房(N)　內(N)　按(Vt)　摸(Vt)　的(T)　服務(Nv)　的(T)　可惜(Vi)　沒(Vt)　時間(N)　去(ADV)　試(Vt)　了(ASP)　,(COMMACATEGORY)
+　下(DET)　次(M)　去(ADV)　還(ADV)　會(ADV)　住(Vt)　的(T)　......(ETCCATEGORY)

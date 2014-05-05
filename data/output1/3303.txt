@@ -1,0 +1,4 @@
+　價格(N)　太(ADV)　貴(Vi)　的(T)　問題(N)　，(COMMACATEGORY)
+　房間(N)　還是(ADV)　太(ADV)　小(Vi)　,(COMMACATEGORY)
+　空調(N)　有時候(ADV)　都(ADV)　沒有(ADV)　開(Vt)　，(COMMACATEGORY)
+　房間(N)　廁所(N)　的(T)　抽水馬桶(N)　也(ADV)　壞(Vt)　的(T)

@@ -1,0 +1,5 @@
+　非常(ADV)　差(Vi)　的(T)　服務(Nv)　.(PERIODCATEGORY)　房間(N)　和(C)　床(N)　比較(ADV)　細小(Vi)　,(COMMACATEGORY)
+　雙人房(N)　原本(ADV)　還(ADV)　分(Vt)　單床(N)　雙(A)　床(N)　,(COMMACATEGORY)
+　預訂(Vt)　時(POST)　一定(ADV)　要(ADV)　另外(ADV)　補充(Vt)　說明(N)　是(Vt)　雙(A)　床(N)　,(COMMACATEGORY)
+　否則(C)　變為(Vt)　單床(N)　,(COMMACATEGORY)
+　本人(N)　因此(C)

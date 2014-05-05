@@ -1,0 +1,4 @@
+　非常(ADV)　一般(A)　的(T)　酒店(N)　,(COMMACATEGORY)
+　最(ADV)　過分(Vi)　的(T)　是(Vt)　早餐(N)　居然(ADV)　在(P)　地(N)　下(POST)　負(Vt)　一(DET)　層(M)　,(COMMACATEGORY)
+　而且(C)　基本(A)　沒(Vt)　什麼(DET)　吃(Vt)　的(T)　!(EXCLAMATIONCATEGORY)　酒店(N)　的(T)　位置(N)　也(ADV)　非常(ADV)　一般(Vi)　,(COMMACATEGORY)
+　四周(N)　景色(N)　非常(ADV)　不(ADV)　好(Vi)　!(EXCLAMATIONCATEGORY)

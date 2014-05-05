@@ -1,0 +1,3 @@
+　非常(ADV)　感謝(Vt)　攜程(N)　為(P)　我們(N)　安排(Vt)　的(T)　酒店(N)　我們(N)　對(P)　該(DET)　酒店(N)　的(T)　服務(Nv)　表示(Vt)　滿意(Vt)　，(COMMACATEGORY)
+　希望(Vt)　攜程(N)　的(T)　服務(Nv)　越來越(ADV)　好(Vi)　，(COMMACATEGORY)
+　為(P)　攜程(N)　的(T)　貴賓(N)　提供(Vt)　更(ADV)　優良(Vi)　、(PAUSECATEGORY)　更(ADV)　全面(A)　的(T)　服務(Nv)　。(PERIODCATEGORY)

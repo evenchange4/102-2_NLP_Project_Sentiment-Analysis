@@ -1,0 +1,5 @@
+　被(P)　安排(Vt)　在(P)　電梯(N)　附近(N)　。(PERIODCATEGORY)
+　極其(ADV)　吵(Vi)　！(EXCLAMATIONCATEGORY)　像(P)　住(Vt)　在(P)　飛機場(N)　。(PERIODCATEGORY)
+　補充(Vt)　點評(N)　2008年(N)　6月(N)　19日(N)　：(COLONCATEGORY)　早餐(N)　不錯(Vi)　。(PERIODCATEGORY)
+　如果(C)　用(P)　攜程(N)　的(T)　預定(Nv)　，(COMMACATEGORY)
+　不能(ADV)　用(Vt)　「(PARENTHESISCATEGORY)　優悅(N)　」(PARENTHESISCATEGORY)　卡(N)　積分(N)　。(PERIODCATEGORY)

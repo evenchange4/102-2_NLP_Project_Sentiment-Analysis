@@ -1,0 +1,6 @@
+　這(DET)　個(M)　酒店(N)　實在(ADV)　太(ADV)　差(Vi)　了(T)　,(COMMACATEGORY)
+　一(DET)　進房(N)　就(ADV)　看到(Vt)　蟑螂(N)　.(PERIODCATEGORY)　設施(N)　也(ADV)　差(Vi)　,(COMMACATEGORY)
+　電視(N)　不(ADV)　知道(Vt)　是(Vt)　什麼(DET)　時候(N)　的(T)　?(QUESTIONCATEGORY)　按(P)　床頭(N)　那些(DET)　鍵(N)　,(COMMACATEGORY)
+　誰(N)　知道(Vt)　一(ADV)　按下去(Vi)　就(ADV)　整(DET)　凹下去(Vi)　了(T)　.(PERIODCATEGORY)　走道(N)　上(N)　的(T)　牆(N)　都(ADV)　已經(ADV)　潮(Vi)　了(T)　,(COMMACATEGORY)
+　連(C)　前台(N)　的(T)　佈景(N)　也(ADV)　是(Vt)　破爛(Vi)　,(COMMACATEGORY)
+　是(Vt)　時候(N)　裝修(Vt)　啦(T)　.(PERIODCATEGORY)

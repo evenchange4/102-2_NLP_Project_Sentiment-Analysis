@@ -1,0 +1,6 @@
+　性價(N)　比(P)　太(ADV)　低(Vi)　，(COMMACATEGORY)
+　而且(C)　它(N)　的(T)　設施(N)　、(PAUSECATEGORY)　環境(N)　、(PAUSECATEGORY)　位置(N)　實在(ADV)　不值(Vi)　200多(DET)　。(PERIODCATEGORY)
+　據(P)　當地(N)　朋友(N)　說(Vt)　，(COMMACATEGORY)
+　這(DET)　種(M)　檔次(N)　的(T)　酒店(N)　，(COMMACATEGORY)
+　100多(DET)　塊(M)　錢(N)　就(ADV)　能(ADV)　住到(Vt)　。(PERIODCATEGORY)
+　希望(Vt)　攜程(N)　以後(POST)　能夠(ADV)　提供物(N)　有所(Vt)　值(N)　的(T)　酒店(N)　。(PERIODCATEGORY)

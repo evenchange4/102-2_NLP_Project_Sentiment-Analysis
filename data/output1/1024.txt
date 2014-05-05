@@ -1,0 +1,7 @@
+　房間(N)　比較(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　衛生間(N)　太(ADV)　小(Vi)　，(COMMACATEGORY)
+　轉身(Vi)　都(ADV)　費勁(Vi)　。(PERIODCATEGORY)
+　地理(N)　位置(N)　一半(DET)　，(COMMACATEGORY)
+　因(C)　在(P)　胡同(N)　裡(POST)　，(COMMACATEGORY)
+　不(ADV)　容易(Vi)　找到(Vt)　。(PERIODCATEGORY)
+　服務(Nv)　一般(POST)　。(PERIODCATEGORY)

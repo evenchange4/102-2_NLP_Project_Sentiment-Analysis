@@ -1,0 +1,4 @@
+　性價(N)　比(P)　太(ADV)　差(Vi)　了(T)　！(EXCLAMATIONCATEGORY)　嚴重(Vi)　不(ADV)　復合(Vi)　所謂(Vt)　的(T)　4星(N)　標準(N)　，(COMMACATEGORY)
+　周圍(N)　環境(N)　空氣(N)　較(ADV)　差(Vi)　，(COMMACATEGORY)
+　最(ADV)　麻煩(Vt)　空調(N)　系統(N)　的(T)　冷氣(N)　夾雜(Vt)　濃重(Vi)　的(T)　煙味(N)　，(COMMACATEGORY)
+　不(ADV)　開(Vt)　窗(N)　簡直(ADV)　沒法(ADV)　生存(Vi)　。(PERIODCATEGORY)

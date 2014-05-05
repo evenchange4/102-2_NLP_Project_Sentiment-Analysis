@@ -1,0 +1,2 @@
+　酒店(N)　地理(N)　位置(N)　比較(ADV)　好(Vi)　.(PERIODCATEGORY)　附近(N)　有(Vt)　家(M)　"(FW)　敦煌(N)　海鮮(N)　酒家(N)　"(FW)　早茶(N)　不錯(Vi)　。(PERIODCATEGORY)
+　還(ADV)　有(Vt)　大型(A)　超市(N)　"(FW)　麥凱樂(N)　"(FW)　也(ADV)　在(P)　不遠處(N)　.(PERIODCATEGORY)　酒店(N)　的(T)　整體性(N)　價比(N)　屬於(Vt)　中高(A)　.(PERIODCATEGORY)

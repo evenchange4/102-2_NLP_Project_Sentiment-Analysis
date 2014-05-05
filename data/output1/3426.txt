@@ -1,0 +1,3 @@
+　房間(N)　配置(Nv)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　真(ADV)　可惜(Vi)　太(ADV)　倉(N)　沒有(ADV)　如(P)　家(N)　和(C)　錦江(N)　之(T)　星(N)　，(COMMACATEGORY)
+　下(DET)　次(M)　不會(ADV)　再(ADV)　入住(Vt)　這(DET)　家(M)　酒店(N)

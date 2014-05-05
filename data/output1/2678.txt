@@ -1,0 +1,4 @@
+　設施(N)　陳舊(Vi)　，(COMMACATEGORY)
+　飯店(N)　各(DET)　區域(N)　之間(POST)　的(T)　交通(N)　混亂(Vi)　，(COMMACATEGORY)
+　早餐(N)　品種(N)　少(Vi)　、(PAUSECATEGORY)　品質(N)　差(Vi)　，(COMMACATEGORY)
+　優勝(Vi)　之(T)　處(N)　是(Vt)　周邊(N)　的(T)　交通(N)　方便(Vi)　。(PERIODCATEGORY)

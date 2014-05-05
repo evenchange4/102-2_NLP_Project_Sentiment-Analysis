@@ -1,0 +1,7 @@
+　整體(N)　環境(N)　比較(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　很(ADV)　有(Vt)　別墅(N)　的(T)　感覺(N)　，(COMMACATEGORY)
+　但是(C)　唯一(A)　不足(Vi)　的(T)　就是(C)　房間(N)　比較(ADV)　陳舊(Vi)　，(COMMACATEGORY)
+　另外(C)　正(ADV)　是(Vt)　在(P)　旅遊(Nv)　旺季(N)　的(T)　時候(N)　如果(C)　你(N)　還(ADV)　想(Vt)　繼續(Vt)　住(Vt)　的(T)　話(N)　是(Vt)　不可以(ADV)　延期(Vi)　的(T)　，(COMMACATEGORY)
+　必須(ADV)　退房(Vi)　，(COMMACATEGORY)
+　這樣(Vi)　比較(ADV)　難(Vi)　找到(Vt)　其他(DET)　酒店(N)　，(COMMACATEGORY)
+　基本(N)　上(N)　是(Vt)　無(Vt)　處(N)　可(ADV)　去(Vt)　的(T)　了(T)　。(PERIODCATEGORY)

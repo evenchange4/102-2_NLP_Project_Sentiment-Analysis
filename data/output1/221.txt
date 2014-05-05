@@ -1,0 +1,8 @@
+　交通(N)　方便(Vi)　，(COMMACATEGORY)
+　餐廳(N)　飯菜(N)　不錯(Vi)　，(COMMACATEGORY)
+　只是(ADV)　較(ADV)　小(Vi)　，(COMMACATEGORY)
+　忙(Vi)　時(POST)　要(ADV)　預定(Vt)　。(PERIODCATEGORY)
+　價格(N)　合理(Vi)　，(COMMACATEGORY)
+　下(DET)　次(M)　還(ADV)　住(Vt)　這裡(N)　！(EXCLAMATIONCATEGORY)　補充(Vt)　點評(N)　2008年(N)　4月(N)　11日(N)　：(COLONCATEGORY)　刷卡(Vi)　時(POST)　國內(N)　卡刷(N)　不(ADV)　出來(Vi)　，(COMMACATEGORY)
+　到(P)　是(Vt)　國外(N)　的(T)　卡刷(N)　出來(Vi)　了(ASP)　。(PERIODCATEGORY)
+　奇怪(Vt)　！(EXCLAMATIONCATEGORY)

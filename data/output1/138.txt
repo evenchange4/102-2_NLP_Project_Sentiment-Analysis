@@ -1,0 +1,2 @@
+　因為(C)　工作(N)　關係(N)　,(COMMACATEGORY)
+　每(DET)　個(M)　月(N)　都(ADV)　會(ADV)　去(ADV)　住(Vt)　.(PERIODCATEGORY)　在(P)　金華(N)　市區(N)　400(DET)　左右(N)　是(Vt)　最好(Vi)　的(T)　選擇(N)　.(PERIODCATEGORY)

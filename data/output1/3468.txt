@@ -1,0 +1,3 @@
+　前台(N)　人員(N)　不但(C)　英語(N)　不(ADV)　好(Vi)　,(COMMACATEGORY)
+　普通話(N)　也(ADV)　不(ADV)　好(Vi)　.(PERIODCATEGORY)　不過(C)　,(COMMACATEGORY)
+　大堂(N)　吧(T)　的(T)　服務(Nv)　人員(N)　很(ADV)　贊(Vt)　.(PERIODCATEGORY)

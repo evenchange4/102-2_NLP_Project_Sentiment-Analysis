@@ -1,0 +1,4 @@
+　酒店(N)　房間(N)　設施(N)　陳舊(Vi)　，(COMMACATEGORY)
+　尤其(ADV)　衛生間(N)　設置(Vt)　不(ADV)　合理(Vi)　，(COMMACATEGORY)
+　洗澡(Vi)　很(ADV)　不(ADV)　方便(Vi)　。(PERIODCATEGORY)
+　前台(N)　服務(Nv)　人員(N)　態度(N)　極其(ADV)　冷淡(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,5 @@
+　幫(P)　同事(N)　訂(Vt)　的(T)　，(COMMACATEGORY)
+　以下(N)　是(Vt)　他(N)　給(Vt)　我(N)　反饋(Nv)　：(COLONCATEGORY)　It(FW)　was(FW)　excellent(FW)　and(FW)　I(FW)　can(FW)　recommend(FW)　it(FW)　to(FW)　anyone(FW)　else(FW)　to(FW)　stay(FW)　there(FW)　.(PERIODCATEGORY)　M(FW)
+　y(FW)　room(FW)　was(FW)　on(FW)　the(FW)　top(FW)　floor(FW)　,(COMMACATEGORY)
+　the(FW)　8(DET)　th(FW)　floor(FW)　and(FW)　very(FW)　nice(FW)　.(PERIODCATEGORY)　Suggest(FW)　always(FW)　ask(FW)　for(FW)　the(FW)　8(DET)　th(FW)　floor(FW)　,(COMMACATEGORY)
+　even(FW)　though(FW)　I(FW)　did(FW)　not(FW)　see(FW)　the(FW)　other(FW)　floors(FW)　.(PERIODCATEGORY)

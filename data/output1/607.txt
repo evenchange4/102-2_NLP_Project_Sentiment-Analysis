@@ -1,0 +1,3 @@
+　酒店(N)　設施(N)　齊全(Vi)　，(COMMACATEGORY)
+　服務(Vt)　周到(Vi)　離(Vt)　海邊(N)　很(ADV)　近(Vi)　，(COMMACATEGORY)
+　適合(Vi)　晚上(N)　出去(Vi)　散步(Vi)

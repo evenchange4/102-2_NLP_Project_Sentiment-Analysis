@@ -1,0 +1,4 @@
+　酒店(N)　的(T)　地理(N)　位置(N)　不錯(Vi)　,(COMMACATEGORY)
+　出門(Vi)　就是(C)　公園(N)　,(COMMACATEGORY)
+　就是(C)　房間(N)　偏(ADV)　小(Vi)　,(COMMACATEGORY)
+　早餐(N)　還可以(Vi)　.(PERIODCATEGORY)

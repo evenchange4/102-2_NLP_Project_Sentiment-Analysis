@@ -1,0 +1,7 @@
+　從(P)　門面(N)　來(ADV)　看(Vt)　，(COMMACATEGORY)
+　該(DET)　酒店(N)　就(ADV)　顯得(Vt)　不(ADV)　夠(ADV)　氣派(Vi)　，(COMMACATEGORY)
+　雖然(C)　樓層(N)　很(ADV)　高(Vi)　。(PERIODCATEGORY)
+　房間(N)　從來(ADV)　沒有(ADV)　安排(Vt)　到(Vt)　過(ASP)　正面(N)　湖景(N)　的(T)　，(COMMACATEGORY)
+　尤其(ADV)　是(Vt)　前台(N)　的(T)　接待(Nv)　的(T)　水準(N)　實在(ADV)　差(Vi)　，(COMMACATEGORY)
+　有(Vt)　怨婦狀(N)　的(T)　，(COMMACATEGORY)
+　有(Vt)　面無表情(Vi)　的(T)　。(PERIODCATEGORY)

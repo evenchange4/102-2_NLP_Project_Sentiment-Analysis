@@ -1,0 +1,4 @@
+　服務(Vt)　比較(ADV)　好(Vi)　，(COMMACATEGORY)
+　離(P)　海邊(N)　也(ADV)　很(ADV)　近(Vi)　，(COMMACATEGORY)
+　附近(N)　有(Vt)　好(Vi)　又(ADV)　多(Vi)　，(COMMACATEGORY)
+　早餐(N)　品種(N)　不(ADV)　多(Vi)　。(PERIODCATEGORY)

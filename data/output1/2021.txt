@@ -1,0 +1,2 @@
+　酒店(N)　在(P)　鐵路(N)　旁(N)　，(COMMACATEGORY)
+　晚上(N)　火(N)　?(QUESTIONCATEGORY)

@@ -1,0 +1,8 @@
+　地點(N)　優越(Vi)　，(COMMACATEGORY)
+　房間(N)　和(C)　服務(Nv)　都(ADV)　不錯(Vi)　。(PERIODCATEGORY)
+　晚上(N)　送(Vt)　的(T)　綠豆湯(N)　，(COMMACATEGORY)
+　還(ADV)　有(Vt)　紙鶴(N)　和(C)　問候卡(N)　，(COMMACATEGORY)
+　感覺(N)　出家(Vi)　的(T)　感覺(N)　。(PERIODCATEGORY)
+　下(DET)　次(M)　還(ADV)　會(ADV)　住(Vt)　這裡(N)　的(T)　。(PERIODCATEGORY)
+　賓館(N)　反饋(Vt)　2008年(N)　6月(N)　25日(N)　：(COLONCATEGORY)　感謝(Vt)　您(N)　對(P)　國賓(N)　大(Vi)　酒店(N)　的(T)　認可(Nv)　.(PERIODCATEGORY)　我們(N)　非常(ADV)　願意(Vt)　成為(Vt)　您(N)　的(T)　朋友(N)　.(PERIODCATEGORY)　歡迎(Vt)　經常(ADV)　入住(Vt)　!(EXCLAMATIONCATEGORY)　祝(Vt)　工作(N)　順利(Vi)　,(COMMACATEGORY)
+　心情(N)　愉快(Vi)　.(PERIODCATEGORY)

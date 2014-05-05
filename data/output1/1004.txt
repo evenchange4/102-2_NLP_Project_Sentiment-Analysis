@@ -1,0 +1,2 @@
+　不錯(Vi)　，(COMMACATEGORY)
+　在(P)　同等(A)　檔次(N)　酒店(N)　中(N)　應該(ADV)　是(Vt)　值得(Vi)　推薦(Vt)　的(T)　！(EXCLAMATIONCATEGORY)

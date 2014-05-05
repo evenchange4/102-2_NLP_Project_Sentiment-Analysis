@@ -1,0 +1,7 @@
+　超(Vt)　贊(Vt)　！(EXCLAMATIONCATEGORY)　雖然(C)　窗(N)　正(ADV)　對(P)　中環(N)　，(COMMACATEGORY)
+　但(C)　一點(DET)　也(ADV)　不(ADV)　覺得(Vt)　吵(Vt)　。(PERIODCATEGORY)
+　房間(N)　很(ADV)　乾淨(Vi)　、(PAUSECATEGORY)　整齊(Vi)　，(COMMACATEGORY)
+　給(P)　人(N)　很(ADV)　舒服(Vi)　的(T)　感覺(N)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　價格(N)　也(ADV)　不(ADV)　貴(Vi)　，(COMMACATEGORY)
+　非常(ADV)　滿意(Vt)　！(EXCLAMATIONCATEGORY)

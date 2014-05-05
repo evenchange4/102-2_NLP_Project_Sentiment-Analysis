@@ -1,0 +1,7 @@
+　前台(N)　接待(Vt)　太(ADV)　差(Vi)　，(COMMACATEGORY)
+　酒店(N)　有(Vt)　A(FW)　B(FW)　樓(N)　之(T)　分(Nv)　，(COMMACATEGORY)
+　本人(N)　check－in(FW)　後(POST)　，(COMMACATEGORY)
+　前台(N)　未(ADV)　告訴(Vt)　B(FW)　樓(N)　在(P)　何處(N)　，(COMMACATEGORY)
+　並且(C)　B(FW)　樓(N)　無(Vt)　明顯(Vi)　指示(N)　；(SEMICOLONCATEGORY)　房間(N)　太(ADV)　小(Vi)　，(COMMACATEGORY)
+　根本(ADV)　不(ADV)　像(Vt)　4星級(N)　設施(N)　，(COMMACATEGORY)
+　下(DET)　次(M)　不會(ADV)　再(ADV)　選擇(Vt)　入住(Vt)　此(DET)　店(N)　啦(T)　。(PERIODCATEGORY)

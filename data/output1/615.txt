@@ -1,0 +1,2 @@
+　這(DET)　次(M)　還(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　但是(C)　房間(N)　裡面(N)　的(T)　花(N)　太(ADV)　不(ADV)　符合(Vt)　格調(N)　了(T)　.(PERIODCATEGORY)

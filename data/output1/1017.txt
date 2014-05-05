@@ -1,0 +1,5 @@
+　瀋陽(N)　市政府(N)　的(T)　酒店(N)　，(COMMACATEGORY)
+　比較(Vt)　大氣(N)　，(COMMACATEGORY)
+　交通(N)　便利(Nv)　，(COMMACATEGORY)
+　出門(Vi)　往(P)　左(N)　就(ADV)　是(Vt)　北陵(N)　公園(N)　，(COMMACATEGORY)
+　環境(N)　好(Vi)　。(PERIODCATEGORY)

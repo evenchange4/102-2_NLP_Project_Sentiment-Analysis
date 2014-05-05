@@ -1,0 +1,6 @@
+　前台(N)　服務員(N)　禮貌(N)　好(Vi)　，(COMMACATEGORY)
+　房間(N)　乾淨(Vi)　整齊(Vi)　，(COMMACATEGORY)
+　熱水(N)　的確(ADV)　有(Vt)　忽冷忽熱(N)　的(T)　現象(N)　，(COMMACATEGORY)
+　但(C)　影響(Vt)　不(ADV)　大(Vi)　。(PERIODCATEGORY)
+　價格(N)　小貴(N)　，(COMMACATEGORY)
+　只(ADV)　值(Vt)　200(DET)　元(M)　以下(POST)　。(PERIODCATEGORY)

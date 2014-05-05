@@ -1,0 +1,5 @@
+　這(DET)　個(M)　價格(N)　這(DET)　種(M)　房間(N)　環境(N)　很(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　感覺(Vt)　很(ADV)　乾淨(Vi)　^(FW)　_(FW)　^(FW)　興旺(Nv)　樓(N)　給(Vt)　我(N)　個人(N)　感覺(Vt)　很(ADV)　雅(Vi)　...(ETCCATEGORY)　下(DET)　次(M)　來(POST)　，(COMMACATEGORY)
+　肯定(Vt)　還(ADV)　定(Vt)　這裡(N)　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)

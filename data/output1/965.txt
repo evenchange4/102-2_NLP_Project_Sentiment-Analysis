@@ -1,0 +1,4 @@
+　很(ADV)　實惠(Vi)　，(COMMACATEGORY)
+　就是(C)　不(ADV)　靈活(Vi)　安排(Vt)　。(PERIODCATEGORY)
+　希望(Vt)　能(ADV)　更加(ADV)　進步(Vi)　，(COMMACATEGORY)
+　下(DET)　次(M)　去(ADV)　還(ADV)　到(Vt)　這裡(N)　。(PERIODCATEGORY)

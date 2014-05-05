@@ -1,0 +1,2 @@
+　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　來(Vi)　北京(N)　的(T)　首選(N)　．(PERIODCATEGORY)　就(ADV)　是(Vt)　餐廳(N)　太(ADV)　貴(Vi)　．．．(ETCCATEGORY)　．．．(ETCCATEGORY)

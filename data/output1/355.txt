@@ -1,0 +1,4 @@
+　房間(N)　每(DET)　天(M)　都(ADV)　有(Vt)　免費(Vi)　水果(N)　贈送(Vt)　,(COMMACATEGORY)
+　這(DET)　一點(DET)　比較(ADV)　好(Vi)　.(PERIODCATEGORY)　還(ADV)　有(Vt)　好多(DET)　書籍(N)　和(C)　攝影(N)　著作(N)　擺(Vt)　在(P)　房間(N)　裡(N)　,(COMMACATEGORY)
+　據說(ADV)　都(ADV)　是(Vt)　合慶(N)　董事長(N)　自己(N)　編寫(Vt)　拍攝(Vt)　的(T)　,(COMMACATEGORY)
+　太(ADV)　有(Vt)　才(N)　了(T)　.(PERIODCATEGORY)

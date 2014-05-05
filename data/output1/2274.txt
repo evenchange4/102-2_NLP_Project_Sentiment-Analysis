@@ -1,0 +1,5 @@
+　毛巾(N)　等(POST)　東西(N)　太(ADV)　舊(Vi)　了(T)　，(COMMACATEGORY)
+　而且(C)　連(C)　小(Vi)　方巾(N)　也(ADV)　沒有(Vt)　，(COMMACATEGORY)
+　瓶裝水(N)　也(ADV)　沒有(Vt)　，(COMMACATEGORY)
+　這些(DET)　小(Vi)　處(N)　沒(ADV)　看出(Vt)　是(Vt)　個(M)　四(DET)　星(N)　，(COMMACATEGORY)
+　唯一(A)　的(T)　好處(N)　就(ADV)　是(Vt)　離江(N)　近(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,7 @@
+　其他(DET)　沒(Vt)　什麼(DET)　，(COMMACATEGORY)
+　就是(C)　房價(N)　便宜(Vi)　。(PERIODCATEGORY)
+　很(ADV)　老(Vi)　的(T)　星級(N)　賓館(N)　了(T)　，(COMMACATEGORY)
+　愧對(Vt)　4星(N)　的(T)　標準(N)　了(T)　。(PERIODCATEGORY)
+　補充(Vt)　點評(N)　2008年(N)　5月(N)　31日(N)　：(COLONCATEGORY)　不過(C)　在(P)　安慶(N)　也(ADV)　就(ADV)　這(DET)　家(M)　好(Vi)　一點(ADV)　，(COMMACATEGORY)
+　其他(DET)　的(T)　要麼(C)　很(ADV)　遠(Vi)　，(COMMACATEGORY)
+　要麼(C)　更(ADV)　差(Vi)　。(PERIODCATEGORY)

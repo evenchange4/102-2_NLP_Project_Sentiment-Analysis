@@ -1,0 +1,4 @@
+　太(ADV)　偏(Vi)　的(T)　地方(N)　，(COMMACATEGORY)
+　太(ADV)　冷清(Vi)　的(T)　場所(N)　，(COMMACATEGORY)
+　太(ADV)　糟糕(Vi)　的(T)　早餐(N)　。(PERIODCATEGORY)
+　鬱悶(Vi)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　補充(Vt)　點評(N)　2008年(N)　4月(N)　18日(N)　：(COLONCATEGORY)　建議(N)　攜程(N)　不要(ADV)　推薦(Vt)　過去(Vi)　了(ASP)

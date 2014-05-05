@@ -1,0 +1,2 @@
+　房間(N)　設備(N)　比較(ADV)　陳舊(Vi)　，(COMMACATEGORY)
+　沒(Vt)　五(DET)　星(N)　標準(N)　客人(N)　非常(ADV)　不(ADV)　滿意(Vt)

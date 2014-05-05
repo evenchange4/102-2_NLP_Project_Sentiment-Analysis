@@ -1,0 +1,7 @@
+　看(Vt)　照片(N)　覺得(Vt)　還(ADV)　挺(ADV)　不錯(Vi)　的(T)　，(COMMACATEGORY)
+　又(ADV)　是(Vt)　4星級(N)　的(T)　，(COMMACATEGORY)
+　但(C)　入住(Vt)　以後(POST)　除了(P)　後悔(Vt)　沒有(Vt)　別的(DET)　，(COMMACATEGORY)
+　房間(N)　挺(ADV)　大(Vi)　但(C)　空空(Vi)　的(T)　，(COMMACATEGORY)
+　早餐(N)　是(Vt)　有(Vt)　但(C)　沒有(ADV)　可以(ADV)　吃(Vt)　的(T)　東東(N)　，(COMMACATEGORY)
+　環境(N)　是(Vt)　好(Vi)　但(C)　天氣(N)　太(ADV)　冷(Vi)　，(COMMACATEGORY)
+　總之(ADV)　我(N)　以後(N)　不會(ADV)　再(ADV)　住(Vt)　那裡(N)　。(PERIODCATEGORY)

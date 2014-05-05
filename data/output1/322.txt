@@ -1,0 +1,8 @@
+　不(ADV)　知道(Vt)　什麼(DET)　原因(N)　，(COMMACATEGORY)
+　這(DET)　個(M)　酒店(N)　目前(N)　的(T)　價格(N)　做(Vt)　了(ASP)　下(DET)　調(N)　，(COMMACATEGORY)
+　而且(C)　週末(N)　居然(ADV)　有(Vt)　促銷價(N)　。(PERIODCATEGORY)
+　不錯(Vi)　！(EXCLAMATIONCATEGORY)　這(DET)　次(M)　入住(Vt)　的(T)　是(Vt)　大(Vi)　床(N)　房(N)　，(COMMACATEGORY)
+　依舊(ADV)　是(Vt)　緊促(Vi)　的(T)　佈局(Nv)　，(COMMACATEGORY)
+　舒服(Vi)　的(T)　床(N)　，(COMMACATEGORY)
+　總體(N)　來(ADV)　說(Vt)　，(COMMACATEGORY)
+　還是(ADV)　很(ADV)　不錯(Vi)　的(T)　！(EXCLAMATIONCATEGORY)

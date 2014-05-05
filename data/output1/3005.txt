@@ -1,0 +1,5 @@
+　我(N)　3.6(DET)　預定(Vt)　好(Vi)　的(T)　180(DET)　的(T)　標(N)　間(POST)　，(COMMACATEGORY)
+　當(P)　我(N)　到(Vt)　的(T)　時候(N)　竟然(ADV)　說(Vt)　有(Vt)　會議(N)　房間(N)　滿(Vt)　了(ASP)　，(COMMACATEGORY)
+　我(N)　訂(Vt)　的(T)　房間(N)　沒有(Vt)　了(ASP)　，(COMMACATEGORY)
+　太(ADV)　不(ADV)　講(Vt)　信譽(N)　了(T)　。(PERIODCATEGORY)
+　唉(T)　！(EXCLAMATIONCATEGORY)　下(DET)　次(M)　再(ADV)　也(ADV)　不會(ADV)　住(Vt)　了(ASP)　。(PERIODCATEGORY)

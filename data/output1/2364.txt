@@ -1,0 +1,5 @@
+　堂堂(Vi)　四星級(N)　酒店(N)　，(COMMACATEGORY)
+　寫錯(Vt)　了(ASP)　房(N)　號(N)　。(PERIODCATEGORY)
+　用戶(N)　按照(P)　訂單(N)　退(Vi)　的(T)　房間(N)　，(COMMACATEGORY)
+　給(P)　攜程(N)　反饋(Vt)　的(T)　是(Vt)　提前(Vi)　退房(Vi)　。(PERIODCATEGORY)
+　這(DET)　種(M)　服務(Nv)　能(ADV)　符合(Vt)　四星級(N)　嗎(T)　？(QUESTIONCATEGORY)

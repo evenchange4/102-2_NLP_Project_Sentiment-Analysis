@@ -1,0 +1,2 @@
+　設施(N)　陳舊(Vi)　,(COMMACATEGORY)
+　早餐(N)　不(ADV)　太(ADV)　豐富(Vt)　只(ADV)　能(ADV)　說(Vt)　是(Vt)　一般(A)　般(POST)　了(T)

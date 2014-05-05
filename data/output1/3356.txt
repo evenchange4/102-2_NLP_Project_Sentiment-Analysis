@@ -1,0 +1,6 @@
+　環境(N)　一般(POST)　，(COMMACATEGORY)
+　設施(N)　較(ADV)　舊(Vi)　，(COMMACATEGORY)
+　豪華(Vi)　標準(N)　間(POST)　看(Vt)　不(ADV)　出(Vt)　哪(DET)　豪華(Vi)　來(T)　，(COMMACATEGORY)
+　浴室(N)　特滑(Vi)　，(COMMACATEGORY)
+　差點(ADV)　扭傷(Vt)　腳(N)　，(COMMACATEGORY)
+　以後(N)　不再(ADV)　住(Vt)　這(DET)　了(T)

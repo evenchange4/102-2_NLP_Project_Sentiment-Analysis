@@ -1,0 +1,3 @@
+　宜賓(N)　還(ADV)　有(Vt)　很多(DET)　好(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　比如說(P)　敘府(N)　賓館(N)　就(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　不(ADV)　知道(Vt)　為什麼(ADV)　攜程(N)　沒有(ADV)　簽(Vt)　這(DET)　個(M)　酒店(N)　。(PERIODCATEGORY)

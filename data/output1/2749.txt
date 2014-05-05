@@ -1,0 +1,4 @@
+　周圍(N)　環境(N)　差(Vi)　,(COMMACATEGORY)
+　房間(N)　設施(N)　陳舊(Vi)　.(PERIODCATEGORY)　房間(N)　小(Vi)　.(PERIODCATEGORY)　服務員(N)　懶散(Vi)　.(PERIODCATEGORY)　去(Vt)　餐廳(N)　很(ADV)　不(ADV)　方便(Vi)　,(COMMACATEGORY)
+　路線(N)　複雜(Vi)　.(PERIODCATEGORY)　早餐(N)　貴(Vi)　,(COMMACATEGORY)
+　而且(C)　沒有(Vt)　什麼(DET)　可以(ADV)　選擇(Vt)　的(T)　種類(N)　.(PERIODCATEGORY)

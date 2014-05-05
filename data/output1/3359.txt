@@ -1,0 +1,6 @@
+　這(DET)　家(M)　酒店(N)　是(Vt)　寫字樓(N)　改建(Nv)　,(COMMACATEGORY)
+　無論(C)　是(Vt)　整體(N)　裝修(Nv)　,(COMMACATEGORY)
+　房間(N)　設施(N)　,(COMMACATEGORY)
+　服務(Nv)　水準(N)　都(ADV)　離4星級(N)　酒店(N)　相差(Vt)　甚(ADV)　遠(Vi)　.(PERIODCATEGORY)　奇怪(Vt)　的(T)　是(Vt)　,(COMMACATEGORY)
+　這樣(Vi)　差(Vi)　的(T)　酒店(N)　居然(ADV)　好評(N)　如(P)　潮(N)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　請(Vt)　大家(N)　擦亮(Vt)　雙眼(N)　,(COMMACATEGORY)
+　千萬(DET)　不要(ADV)　住(Vt)　這(DET)　家(M)　酒店(N)　.(PERIODCATEGORY)

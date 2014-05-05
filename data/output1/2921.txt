@@ -1,0 +1,8 @@
+　在線(Vi)　預訂(Vt)　大(Vi)　床(N)　房(N)　，(COMMACATEGORY)
+　攜(Vt)　程網(N)　介紹(Vt)　過於(ADV)　簡單(Vi)　，(COMMACATEGORY)
+　由於(C)　18(DET)　：(COLONCATEGORY)　00(DET)　後(POST)　到達(Vt)　，(COMMACATEGORY)
+　信用卡(N)　擔保(Vt)　，(COMMACATEGORY)
+　結果(ADV)　到達(Vt)　在(P)　發現(Vt)　是(Vt)　閣樓房(N)　，(COMMACATEGORY)
+　簡直(ADV)　.....(ETCCATEGORY)　哎(T)　，(COMMACATEGORY)
+　只(ADV)　希望(Vt)　攜程(N)　今後(N)　能夠(ADV)　擔負(Vt)　起(ASP)　推薦(Vt)　酒店(N)　的(T)　審查(Nv)　責任(N)　，(COMMACATEGORY)
+　否則(C)　攜程(N)　會員(N)　就(ADV)　無法(ADV)　.......(ETCCATEGORY)

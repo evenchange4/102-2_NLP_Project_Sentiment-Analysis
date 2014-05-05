@@ -1,0 +1,4 @@
+　真的(ADV)　是(Vt)　老(Vi)　酒店(N)　了(T)　..(ETCCATEGORY)　硬件(N)　不(T)　好(Vi)　,(COMMACATEGORY)
+　服務(Vt)　可以(Vi)　,(COMMACATEGORY)
+　我(N)　定(Vt)　的(T)　是(Vt)　商務(N)　大(Vi)　床(N)　房(N)　但是(C)　一(ADV)　進去(Vi)　比(P)　一般(A)　酒店(N)　的(T)　大(Vi)　床(N)　房(N)　空間(N)　還(ADV)　小(Vi)　,(COMMACATEGORY)
+　真是(ADV)　虛(Vi)　有(Vt)　其(DET)　名(M)　...(ETCCATEGORY)　唉(T)

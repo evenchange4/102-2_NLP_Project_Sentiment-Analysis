@@ -1,0 +1,5 @@
+　隔音(A)　太(ADV)　差(Vi)　，(COMMACATEGORY)
+　好像(ADV)　開(Vt)　著(ASP)　窗戶(N)　一樣(Vi)　。(PERIODCATEGORY)
+　吵(Vt)　的(T)　沒法(ADV)　睡(Vi)　。(PERIODCATEGORY)
+　再(ADV)　出差(Vi)　不(ADV)　敢(Vt)　住(Vt)　這裡(N)　了(ASP)　房間(N)　設施(N)　還(ADV)　可以(ADV)　，(COMMACATEGORY)
+　床(N)　上(N)　被褥(N)　很(ADV)　乾淨(Vi)

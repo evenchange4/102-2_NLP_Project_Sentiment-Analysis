@@ -1,0 +1,5 @@
+　酒店(N)　位置(N)　很(ADV)　方便(Vi)　,(COMMACATEGORY)
+　離開(Vt)　封(Vt)　第一(DET)　樓(N)　和(C)　夜市(N)　非常(ADV)　近(Vi)　,(COMMACATEGORY)
+　酒店(N)　早餐(N)　10(DET)　元(M)　自助(Vi)　很(ADV)　實惠(Vi)　,(COMMACATEGORY)
+　服務(Nv)　也(ADV)　不錯(Vi)　但(C)　房間(N)　很(ADV)　大(Vi)　設施(N)　卻(ADV)　有(Vt)　些(M)　舊(Vi)　，(COMMACATEGORY)
+　尤其(ADV)　衛生間(N)　狹小(Vi)　。(PERIODCATEGORY)

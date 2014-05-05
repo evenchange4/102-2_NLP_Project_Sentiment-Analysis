@@ -1,0 +1,5 @@
+　房間(N)　很(ADV)　小(Vi)　，(COMMACATEGORY)
+　裝修(Vt)　太(ADV)　差(Vi)　，(COMMACATEGORY)
+　電線(N)　全部(DET)　裸露(Vt)　在(P)　外面(N)　，(COMMACATEGORY)
+　髒(Vi)　，(COMMACATEGORY)
+　不(ADV)　是(Vt)　一般(A)　的(T)　髒(Vi)

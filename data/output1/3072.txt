@@ -1,0 +1,8 @@
+　住(Vt)　這(DET)　個(M)　酒店(N)　實在(ADV)　是(Vt)　太(ADV)　享受(Vt)　了(ASP)　,(COMMACATEGORY)
+　不僅(C)　可以(ADV)　使用(Vt)　五彩繽紛(Vi)　的(T)　白(Vi)　毛巾(N)　,(COMMACATEGORY)
+　還可以(ADV)　免費(Vi)　聽(Vt)　賞(Vt)　別人(N)　KTV(FW)　包廂(N)　裡(N)　的(T)　高音(N)　演奏(Nv)　.(PERIODCATEGORY)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　以下(N)　是(Vt)　某某(N)　歌奏家(N)　的(T)　話(N)　,(COMMACATEGORY)
+　,(COMMACATEGORY)
+　,(COMMACATEGORY)
+　,(COMMACATEGORY)
+　,(COMMACATEGORY)
+　謝謝(Vt)　謝謝(Vt)　大家(N)　首先(ADV)　我(N)　要(ADV)　感謝(Vt)　我(N)　的(T)　父母(N)　還要(ADV)　感謝(Vt)　背後(N)　支持(Vt)　我(N)　的(T)　朋友(N)　們(N)　讓(Vt)　我(N)　有(Vt)　了(ASP)　以(P)　噪音(N)　感化(Vt)　大家(N)　的(T)　機會(N)　現在(N)　我(N)　再(ADV)　為(P)　大家(N)　獻上(Vt)　一(DET)　首(M)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　希望(Vt)　大家(N)　夜(N)　不能(ADV)　眠(Vi)　!(EXCLAMATIONCATEGORY)　!!!!(Vt)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)

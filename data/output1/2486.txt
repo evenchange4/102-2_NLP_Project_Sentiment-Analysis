@@ -1,0 +1,8 @@
+　住(Vt)　過(ASP)　很多(DET)　大連(N)　酒店(N)　，(COMMACATEGORY)
+　這(DET)　個(M)　酒店(N)　是(Vt)　最(ADV)　差(Vi)　的(T)　，(COMMACATEGORY)
+　客人(N)　在(P)　房間(N)　呆(Vt)　了(ASP)　一(DET)　個(M)　小時(N)　不(ADV)　到(Vt)　的(T)　時間(N)　，(COMMACATEGORY)
+　酒店(N)　竟然(ADV)　收取(Vt)　了(ASP)　100(DET)　元(M)　，(COMMACATEGORY)
+　大堂(N)　經理(N)　石金林(N)　態度(N)　惡劣(Vi)　，(COMMACATEGORY)
+　對(P)　客人(N)　惡言(ADV)　相(ADV)　向(P)　，(COMMACATEGORY)
+　沒(ADV)　見(Vt)　過(ASP)　這樣(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　勸(Vt)　大家(N)　千萬(DET)　不要(ADV)　住(Vt)　這(DET)　個(M)　酒店(N)　。(PERIODCATEGORY)

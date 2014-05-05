@@ -1,0 +1,6 @@
+　這(DET)　家(M)　是(Vt)　我(N)　在(P)　太原(N)　住(Vt)　的(T)　性價(N)　比(P)　比較(ADV)　好(Vi)　的(T)　酒店(N)　,(COMMACATEGORY)
+　但是(C)　上(DET)　次(M)　入住(Vt)　找(Vt)　服務員(N)　單獨(ADV)　要(Vt)　了(ASP)　一(DET)　床(M)　被子(N)　,(COMMACATEGORY)
+　氣味(N)　極其(ADV)　不(ADV)　好(Vi)　,(COMMACATEGORY)
+　與(P)　酒店(N)　不(ADV)　相稱(Vi)　,(COMMACATEGORY)
+　而且(C)　沒有(Vt)　早餐(N)　,(COMMACATEGORY)
+　建議(Vt)　攜程(N)　考慮(Nv)　和(C)　酒店(N)　協調(Vt)　一下(N)　.(PERIODCATEGORY)

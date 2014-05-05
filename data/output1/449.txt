@@ -1,0 +1,6 @@
+　價格(N)　確實(ADV)　比較(ADV)　高(Vi)　，(COMMACATEGORY)
+　而且(C)　還(ADV)　沒有(Vt)　早餐(N)　提供(Vt)　。(PERIODCATEGORY)
+　攜(Vt)　程(N)　拿到(Vt)　的(T)　價格(N)　不(ADV)　好(Vi)　？(QUESTIONCATEGORY)
+　還是(ADV)　自己(N)　保留(Vt)　起來(ASP)　不(ADV)　願意(Vt)　讓(Vt)　利(N)　給(Vt)　我們(N)　這些(DET)　客戶(N)　呢(T)　？(QUESTIONCATEGORY)
+　到(P)　前台(N)　搞(Vt)　價格(N)　，(COMMACATEGORY)
+　430(DET)　就(ADV)　可以(ADV)　了(T)　。(PERIODCATEGORY)

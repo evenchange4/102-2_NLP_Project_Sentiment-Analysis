@@ -1,0 +1,3 @@
+　房間(N)　設施(N)　難以(ADV)　夠得上(Vt)　五星級(N)　，(COMMACATEGORY)
+　服務(Nv)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　有(Vt)　送(Vt)　水果(N)　。(PERIODCATEGORY)

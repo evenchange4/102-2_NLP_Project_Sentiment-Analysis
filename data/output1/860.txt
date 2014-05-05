@@ -1,0 +1,7 @@
+　酒店(N)　適合(Vi)　度假(Vi)　，(COMMACATEGORY)
+　在(P)　尖沙咀(N)　漢口(N)　道逢(N)　整(DET)　點(M)　有(Vt)　免費(Vi)　班(M)　車(N)　往返(Vt)　，(COMMACATEGORY)
+　房間(N)　大小(N)　適中(Vi)　，(COMMACATEGORY)
+　可以(ADV)　躺(Vi)　在(P)　床(N)　上(N)　看(Vt)　海(N)　，(COMMACATEGORY)
+　兒子(N)　在(P)　游泳池(N)　裡(N)　玩(Vt)　得(T)　不(ADV)　想(Vt)　上來(Vi)　，(COMMACATEGORY)
+　缺少(Vt)　浴袍(N)　。(PERIODCATEGORY)
+　早餐(N)　還可以(Vi)　。(PERIODCATEGORY)

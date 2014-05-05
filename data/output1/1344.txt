@@ -1,0 +1,5 @@
+　地理(N)　位置(N)　優越(Vi)　，(COMMACATEGORY)
+　交通(N)　方便(Vi)　，(COMMACATEGORY)
+　飯店(N)　環境(N)　好(Vi)　，(COMMACATEGORY)
+　服務(Vt)　優良(Vi)　，(COMMACATEGORY)
+　洗衣(Vi)　迅捷(Vi)　。(PERIODCATEGORY)

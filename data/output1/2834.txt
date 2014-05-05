@@ -1,0 +1,7 @@
+　用餐(Vi)　一般(POST)　，(COMMACATEGORY)
+　價格(N)　比(P)　一般(A)　稍(ADV)　貴(Vi)　，(COMMACATEGORY)
+　簽單(N)　付賬(Vi)　時(POST)　千萬(DET)　注意(Nv)　，(COMMACATEGORY)
+　因為(C)　它(N)　沒有(Vt)　明細(N)　，(COMMACATEGORY)
+　只(ADV)　會(ADV)　寫(Vt)　"(FW)　零(DET)　點(M)　餐(N)　"(FW)　然後(ADV)　一(DET)　個(M)　總金額(N)　"(FW)　如(N)　"(FW)　零(DET)　點(M)　餐(N)　－－(DET)　1032.00(DET)　"(FW)　)(PARENTHESISCATEGORY)　.(PERIODCATEGORY)　如果(C)　是(Vt)　集團(N)　劃賬(Vi)　請(Vt)　千萬(DET)　注意(Vt)　多(DET)　收費(Nv)　現象(N)　,(COMMACATEGORY)
+　而且(C)　週期(N)　很(ADV)　長(Vi)　,(COMMACATEGORY)
+　可能(ADV)　會(ADV)　花(Vt)　一(DET)　個(M)　月(N)　時間(N)　在(P)　對(P)　賬(N)　上(N)　.(PERIODCATEGORY)　((PARENTHESISCATEGORY)　請(Vt)　分清(Vt)　是(Vt)　銷售(Vt)　在(P)　和(P)　您(N)　對(P)　賬(N)　而(C)　不(ADV)　是(Vt)　財務(N)　)(PARENTHESISCATEGORY)　.(PERIODCATEGORY)

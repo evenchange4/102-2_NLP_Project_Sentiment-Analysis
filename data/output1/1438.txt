@@ -1,0 +1,5 @@
+　酒店(N)　環境(N)　不錯(Vi)　，(COMMACATEGORY)
+　比較(ADV)　有(Vt)　特點(N)　，(COMMACATEGORY)
+　附(Vt)　樓(N)　比較(ADV)　一般(Vi)　。(PERIODCATEGORY)
+　沒(ADV)　怎麼(ADV)　用(P)　服務員(N)　，(COMMACATEGORY)
+　感覺(N)　服務(Vt)　中上(A)　吧(T)　。(PERIODCATEGORY)

@@ -1,0 +1,7 @@
+　酒店(N)　真的(ADV)　像(Vt)　足(Vi)　了(ASP)　2(DET)　星級(N)　的(T)　感覺(N)　，(COMMACATEGORY)
+　除了(P)　早餐(N)　不錯(Vi)　，(COMMACATEGORY)
+　從(P)　服務(Nv)　到(C)　住宿(Nv)　，(COMMACATEGORY)
+　沒有(Vt)　一(DET)　個(M)　能(ADV)　讓(Vt)　人(N)　滿意(Vt)　一點點(DET)　地(N)　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　房間(N)　裡(N)　的(T)　怪味(N)　……(ETCCATEGORY)　唉(T)

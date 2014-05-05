@@ -1,0 +1,2 @@
+　酒店(N)　的(T)　地理(N)　位置(N)　非常(ADV)　棒(Vi)　,(COMMACATEGORY)
+　住(Vt)　的(T)　高級(Nv)　商務(N)　間(POST)　.(PERIODCATEGORY)　感覺(N)　房間(N)　非常(ADV)　小(Vi)　.(PERIODCATEGORY)　門童(N)　和(C)　服務生(N)　都(ADV)　非常(ADV)　熱情(Vi)　.(PERIODCATEGORY)　還(ADV)　有(Vt)　免費(Vi)　的(T)　水果(N)　.(PERIODCATEGORY)　地毯(N)　和(C)　裝修(Nv)　有(Vt)　些(M)　陳舊(Vi)　~(FW)

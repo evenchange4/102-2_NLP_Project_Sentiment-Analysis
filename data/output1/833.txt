@@ -1,0 +1,4 @@
+　酒店(N)　離(P)　蘭桂(N)　坊(N)　和(C)　soho(FW)　美食區(N)　比較(ADV)　近(Vi)　。(PERIODCATEGORY)
+　酒店(N)　門口(N)　有(Vt)　直達(Vt)　巴士(N)　到(Vt)　銅鑼灣(N)　。(PERIODCATEGORY)
+　在(P)　半山(N)　高尚(Vi)　地段(N)　算是(Vt)　性價(N)　比(P)　不錯(Vi)　的(T)　酒店(N)　了(T)　。(PERIODCATEGORY)
+　

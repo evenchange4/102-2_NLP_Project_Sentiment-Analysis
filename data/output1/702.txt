@@ -1,0 +1,6 @@
+　知名度(N)　不錯(Vi)　，(COMMACATEGORY)
+　機場(N)　打(Vt)　車(N)　一(ADV)　說(Vt)　十(DET)　一經(P)　路(N)　，(COMMACATEGORY)
+　就(ADV)　問(Vt)　是(Vt)　如(P)　家(N)　吧(T)　。(PERIODCATEGORY)
+　但是(C)　天津(N)　機場(N)　基本(N)　都(ADV)　是(Vt)　黑車(N)　。(PERIODCATEGORY)
+　從(P)　酒店(N)　去(Vt)　機場(N)　不(ADV)　到(Vt)　30(DET)　，(COMMACATEGORY)
+　機場(N)　來(ADV)　居然(ADV)　打表(N)　打出(Vt)　50多(DET)　。(PERIODCATEGORY)

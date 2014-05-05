@@ -1,0 +1,7 @@
+　房間(N)　太(ADV)　小(Vi)　,(COMMACATEGORY)
+　賓館(N)　有(Vt)　租(Vt)　四(DET)　輪(M)　自行車(N)　的(T)　,(COMMACATEGORY)
+　很(ADV)　破(Vt)　,(COMMACATEGORY)
+　騎(Vt)　不(ADV)　動(Vt)　,(COMMACATEGORY)
+　後來(N)　服務員(N)　說(Vt)　他們(N)　的(T)　車(N)　都(ADV)　是(Vt)　東方(N)　綠舟(N)　淘汰(Vt)　的(T)　.(PERIODCATEGORY)　酒巴(N)　裝修(Vt)　的(T)　還(ADV)　可以(ADV)　,(COMMACATEGORY)
+　就是(C)　蚊子(N)　太多(Vi)　,(COMMACATEGORY)
+　象(N)　轟炸機(N)　.(PERIODCATEGORY)

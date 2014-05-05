@@ -1,0 +1,3 @@
+　一般(Vi)　，(COMMACATEGORY)
+　就(ADV)　是(Vt)　賓館(N)　設計(N)　比較(ADV)　有(Vt)　特色(N)　，(COMMACATEGORY)
+　但是(C)　服務(Nv)　實在(ADV)　一般(Vi)　。(PERIODCATEGORY)

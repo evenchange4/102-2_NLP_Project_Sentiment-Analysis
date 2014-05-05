@@ -1,0 +1,6 @@
+　優點(N)　：(COLONCATEGORY)　價格(N)　適中(Vi)　，(COMMACATEGORY)
+　位置(N)　方便(Vi)　；(SEMICOLONCATEGORY)　缺點(N)　：(COLONCATEGORY)　房間(N)　奇(ADV)　小(Vi)　，(COMMACATEGORY)
+　怪(Vt)　味(N)　刺鼻(Vi)　；(SEMICOLONCATEGORY)　周圍(N)　施工(Vi)　，(COMMACATEGORY)
+　吵鬧(Vi)　非凡(Vi)　。(PERIODCATEGORY)
+　結帳(Vi)　奇(ADV)　慢(Vi)　，(COMMACATEGORY)
+　開(Vt)　個(M)　發票(N)　半(DET)　小時(N)　。(PERIODCATEGORY)

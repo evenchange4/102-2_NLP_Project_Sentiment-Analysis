@@ -1,0 +1,7 @@
+　我(N)　住(Vt)　的(T)　是(Vt)　新(Vi)　裝修(Vt)　的(T)　東樓(N)　，(COMMACATEGORY)
+　感覺(Vt)　房間(N)　挺(ADV)　寬敞(Vi)　，(COMMACATEGORY)
+　設施(N)　也(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　相對(Vi)　於(P)　隔壁(N)　的(T)　香格里拉(N)　一(DET)　店(N)　都(ADV)　不(ADV)　差(Vi)　。(PERIODCATEGORY)
+　只(ADV)　是(Vt)　酒店(N)　其他(DET)　方面(N)　例如(P)　大堂(N)　、(PAUSECATEGORY)　西餐廳(N)　的(T)　環境(N)　和(C)　食物(N)　品種(N)　還(ADV)　需(ADV)　改進(Vt)　。(PERIODCATEGORY)
+　否則(C)　價格(N)　差(Vi)　不(ADV)　太(ADV)　遠(Vi)　，(COMMACATEGORY)
+　我(N)　還不如(C)　住(Vt)　香格里拉(N)　了(T)　。(PERIODCATEGORY)

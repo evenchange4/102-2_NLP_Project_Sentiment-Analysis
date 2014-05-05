@@ -1,0 +1,6 @@
+　渡假村(N)　周圍(N)　景色(N)　不錯(Vi)　,(COMMACATEGORY)
+　但(C)　較(ADV)　落(Vt)　鄉(N)　.(PERIODCATEGORY)　硬件(N)　太(ADV)　差(Vi)　,(COMMACATEGORY)
+　服務(Nv)　水準(N)　有待(Vt)　提高(Vt)　!(EXCLAMATIONCATEGORY)　查房(Vi)　時(POST)　故意(Vt)　用(Vt)　陳舊(Vi)　的(T)　煙蒂(N)　燙痕(N)　訛人(Vi)　,(COMMACATEGORY)
+　雖(C)　未(ADV)　得逞(Vi)　,(COMMACATEGORY)
+　但(C)　給(Vt)　人(N)　留下(Vt)　的(T)　感覺(N)　不(ADV)　好(Vi)　,(COMMACATEGORY)
+　以後(N)　不(ADV)　去(ADV)　就是了(Vi)　.(PERIODCATEGORY)

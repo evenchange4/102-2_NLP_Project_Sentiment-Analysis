@@ -1,0 +1,8 @@
+　朝陽(N)　的(T)　房間(N)　不(ADV)　算(Vt)　大(Vi)　，(COMMACATEGORY)
+　朝(P)　南(N)　的(T)　房間(N)　比較(ADV)　大(Vi)　，(COMMACATEGORY)
+　有(Vt)　大(Vi)　沙發(N)　，(COMMACATEGORY)
+　但是(C)　比較(ADV)　昏暗(Vi)　。(PERIODCATEGORY)
+　大堂(N)　比較(ADV)　暗(Vi)　，(COMMACATEGORY)
+　不(ADV)　敞亮(Vi)　。(PERIODCATEGORY)
+　位置(N)　比較(ADV)　靠(Vt)　中心(N)　，(COMMACATEGORY)
+　就是(C)　門口(N)　有(Vt)　單行(A)　。(PERIODCATEGORY)

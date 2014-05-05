@@ -1,0 +1,3 @@
+　我(N)　入住(Vt)　在(P)　如(P)　家(N)　,(COMMACATEGORY)
+　讓(Vt)　我(N)　這(DET)　個(M)　漂泊(Vi)　在(P)　做(Vt)　技術(N)　服務(Vt)　的(T)　人員(N)　真正(ADV)　感到(Vt)　如(P)　家(N)　的(T)　感覺(N)　,(COMMACATEGORY)
+　我(N)　非常(ADV)　喜歡(Vt)　!(EXCLAMATIONCATEGORY)

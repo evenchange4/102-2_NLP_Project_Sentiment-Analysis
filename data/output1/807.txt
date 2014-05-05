@@ -1,0 +1,2 @@
+　提醒(Vt)　大家(N)　每年(N)　10月(N)　份(N)　最好(ADV)　不要(ADV)　去(Vt)　香港(N)　,(COMMACATEGORY)
+　比(P)　平時(N)　貴(Vi)　太多(Vi)　拉(Vt)　!(EXCLAMATIONCATEGORY)

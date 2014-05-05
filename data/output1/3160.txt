@@ -1,0 +1,6 @@
+　入住(Vt)　感想(N)　如下(Vt)　、(PAUSECATEGORY)　共(ADV)　大家(N)　參考(Vt)　:(COLONCATEGORY)　1(DET)　、(PAUSECATEGORY)　典型(Vi)　的(T)　國營(Vi)　招待所(N)　、(PAUSECATEGORY)　除了(P)　有(Vt)　個(M)　很(ADV)　小(Vi)　的(T)　小賣部(N)　外(N)　什麼(DET)　都(ADV)　沒有(Vt)　。(PERIODCATEGORY)
+　2(DET)　、(PAUSECATEGORY)　房間(N)　設施(N)　陳舊(Vi)　、(PAUSECATEGORY)　毫無(ADV)　住(Vt)　賓館(N)　的(T)　感覺(N)　。(PERIODCATEGORY)
+　3(DET)　、(PAUSECATEGORY)　談不上(Vt)　服務(Nv)　、(PAUSECATEGORY)　電視(N)　遙控器(N)　不管(C)　用(Vt)　、(PAUSECATEGORY)　打電話(Vi)　給(Vt)　前台(N)　後(POST)　、(PAUSECATEGORY)　直至(P)　離店(N)　也(ADV)　未(ADV)　送來(Vt)　。(PERIODCATEGORY)
+　4(DET)　、(PAUSECATEGORY)　浴室(N)　沒有(Vt)　墊地(N)　的(T)　毛巾(N)　。(PERIODCATEGORY)
+　建議(Vt)　後來(N)　的(T)　朋友(N)　、(PAUSECATEGORY)　千萬(DET)　不要(ADV)　住(Vt)　這裡(N)　。(PERIODCATEGORY)
+　另外(C)　、(PAUSECATEGORY)　希望(Vt)　攜程(N)　應對(Nv)　酒店(N)　進行(Vt)　評比(Nv)　、(PAUSECATEGORY)　不(ADV)　符合(Vt)　要求(N)　的(T)　店(N)　不要(ADV)　推薦(Vt)　、(PAUSECATEGORY)　否則(C)　給(Vt)　客人(N)　造成(Vt)　不便(Vi)　。(PERIODCATEGORY)

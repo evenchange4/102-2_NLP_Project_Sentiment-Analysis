@@ -1,0 +1,3 @@
+　樓(N)　很(ADV)　老(Vi)　,(COMMACATEGORY)
+　房間(N)　很(ADV)　大(Vi)　,(COMMACATEGORY)
+　服務(Vt)　不錯(Vi)　.(PERIODCATEGORY)　二樓(N)　的(T)　早茶(N)　不錯(Vi)　.(PERIODCATEGORY)

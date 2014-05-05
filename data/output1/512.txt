@@ -1,0 +1,5 @@
+　酒店(N)　的(T)　服務(Nv)　很(ADV)　熱情(Vi)　，(COMMACATEGORY)
+　對於(P)　我們(N)　的(T)　客房(N)　要求(Vt)　總(ADV)　能(ADV)　及時(ADV)　回應(Vt)　。(PERIODCATEGORY)
+　地理(N)　位置(N)　不錯(Vi)　，(COMMACATEGORY)
+　離(P)　中山(N)　北街(N)　很(ADV)　近(Vi)　，(COMMACATEGORY)
+　吃飯(Vi)　方便(Vi)　。(PERIODCATEGORY)

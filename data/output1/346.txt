@@ -1,0 +1,4 @@
+　合(Vt)　慶(Vt)　的(T)　商務單(N)　間(POST)　可以(ADV)　堪稱(Vt)　豪華(Vi)　,(COMMACATEGORY)
+　設施(N)　特別(Vi)　先進(Vi)　，(COMMACATEGORY)
+　特別(Vi)　是(Vt)　少有(Vi)　的(T)　先進(Vi)　馬桶(N)　,(COMMACATEGORY)
+　很少(DET)　酒店(N)　有(Vt)　這樣(Vi)　的(T)　裝備(N)　.(PERIODCATEGORY)　價格(N)　也(ADV)　可以(ADV)　接受(Vt)

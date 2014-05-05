@@ -1,0 +1,1 @@
+　酒店(N)　環境(N)　很(ADV)　好(Vi)　就(ADV)　是(Vt)　有一點點(ADV)　偏(Vt)　交通(N)　不(ADV)　是(Vt)　很(ADV)　便利(Vt)　去(Vt)　哪(DET)　都(ADV)　需要(Vt)　達車(N)　關鍵(N)　是(Vt)　不(ADV)　好(Vi)　打(Vt)　酒店(N)　應該(ADV)　想(Vt)　辦法(N)　解決(Vt)　一下(N)

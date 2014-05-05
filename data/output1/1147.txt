@@ -1,0 +1,4 @@
+　寬帶(N)　上網(Nv)　速度(N)　挺(ADV)　快(Vi)　，(COMMACATEGORY)
+　酒店(N)　一樓(N)　的(T)　燒烤(Vt)　不錯(Vi)　。(PERIODCATEGORY)
+　酒店(N)　整體性(N)　價比(N)　可以(ADV)　，(COMMACATEGORY)
+　去(Vt)　酒吧(N)　一(DET)　條(M)　街打車(N)　10(DET)　元(M)

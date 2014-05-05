@@ -1,0 +1,4 @@
+　這(DET)　個(M)　酒店(N)　真是(ADV)　差(Vi)　啊(T)　，(COMMACATEGORY)
+　非常(ADV)　不(ADV)　好(Vi)　！(EXCLAMATIONCATEGORY)　房間(N)　是(Vt)　大(Vi)　，(COMMACATEGORY)
+　就是(C)　顯得(Vt)　不(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　估計(Vt)　是(Vt)　過去(N)　的(T)　招待所(N)　改(Vt)　的(T)　。(PERIODCATEGORY)

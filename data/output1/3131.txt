@@ -1,0 +1,5 @@
+　硬件(N)　頂多(ADV)　3星半(N)　，(COMMACATEGORY)
+　大堂(N)　黑(Vi)　咕(ADV)　隆(ADV)　咚(ADV)　的(T)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　小(Vi)　也(ADV)　沒(Vt)　特點(N)　。(PERIODCATEGORY)
+　管家部(N)　的(T)　服務(Nv)　倒是(ADV)　挺(ADV)　好(Vi)　，(COMMACATEGORY)
+　有求必應(Vi)　的(T)　。(PERIODCATEGORY)

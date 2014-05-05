@@ -1,0 +1,5 @@
+　兩(DET)　間(M)　房(N)　只(ADV)　給(Vt)　兩(DET)　條(M)　毛巾(N)　，(COMMACATEGORY)
+　加(Vt)　一(DET)　條(M)　毛巾(N)　要(ADV)　收費(Vt)　5(DET)　元(M)　，(COMMACATEGORY)
+　太(ADV)　過份(Vi)　了(T)　吧(T)　？(QUESTIONCATEGORY)
+　？(QUESTIONCATEGORY)
+　？(QUESTIONCATEGORY)

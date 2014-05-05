@@ -1,0 +1,4 @@
+　挺(ADV)　一般(A)　的(T)　酒店(N)　,(COMMACATEGORY)
+　酒店(N)　門口(N)　的(T)　馬路(N)　挺(ADV)　吵(Vi)　的(T)　,(COMMACATEGORY)
+　性價(N)　比(P)　不(ADV)　高(Vi)　,(COMMACATEGORY)
+　不(ADV)　值得(Vi)　推薦(Vt)

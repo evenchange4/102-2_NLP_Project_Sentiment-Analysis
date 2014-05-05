@@ -1,0 +1,7 @@
+　地點(N)　不錯(Vi)　，(COMMACATEGORY)
+　從(P)　客運(N)　站坐(Vi)　TAXI(FW)　到(Vt)　飯店(N)　大約(ADV)　7.5(DET)　塊(M)　，(COMMACATEGORY)
+　櫃檯(N)　小姐(N)　先生(N)　服務(Nv)　很(ADV)　好(Vi)　！(EXCLAMATIONCATEGORY)　房間(N)　更(ADV)　是(Vt)　優(Vi)　，(COMMACATEGORY)
+　乾淨(Vi)　整潔(Vi)　舒服(Vi)　，(COMMACATEGORY)
+　一(DET)　晚(M)　355(DET)　的(T)　價格(N)　，(COMMACATEGORY)
+　算(Vt)　很(ADV)　划算(Vi)　。(PERIODCATEGORY)
+　不過(C)　早餐(N)　有點(ADV)　貴(Vi)　！(EXCLAMATIONCATEGORY)　下(DET)　次(M)　去(Vt)　泉州(N)　還(ADV)　會(ADV)　去(ADV)　住(Vt)　。(PERIODCATEGORY)

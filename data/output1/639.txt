@@ -1,0 +1,5 @@
+　設施(N)　不(ADV)　是(Vt)　很(ADV)　新(Vi)　但(C)　收拾(Vt)　的(T)　很(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　讓(Vt)　人(N)　放心(Vt)　！(EXCLAMATIONCATEGORY)　不慎(Vi)　遺忘(Vt)　的(T)　價值(N)　不菲(Vi)　的(T)　攝影(N)　包(Vt)　被(P)　服務員(N)　及時(ADV)　發現(Vt)　且(C)　送回(Vt)　手(N)　中(POST)　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　讓(Vt)　人(N)　感動(Vt)　！(EXCLAMATIONCATEGORY)　早餐(N)　免費(Vi)　且(C)　可口(Vi)　、(PAUSECATEGORY)　粥(N)　粉面(N)　齊全(Vi)　！(EXCLAMATIONCATEGORY)

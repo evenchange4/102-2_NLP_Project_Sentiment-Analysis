@@ -1,0 +1,4 @@
+　房間(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　而且(C)　直接(Vi)　面對(Vt)　長江(N)　，(COMMACATEGORY)
+　景色(N)　很(ADV)　漂亮(Vi)　，(COMMACATEGORY)
+　不過(C)　附近(N)　好像(ADV)　吃飯(Vi)　地方(N)　少(Vi)　了(ASP)　點(ADV)　。(PERIODCATEGORY)

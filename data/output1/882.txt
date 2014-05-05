@@ -1,0 +1,7 @@
+　地理(N)　位置(N)　相當(ADV)　好(Vi)　，(COMMACATEGORY)
+　離(P)　海港城(N)　走路(Vi)　只(ADV)　需(Vt)　五(DET)　分鐘(M)　，(COMMACATEGORY)
+　酒店(N)　房間(N)　燈光(N)　明亮(Vi)　，(COMMACATEGORY)
+　液晶(N)　電視(N)　夠(ADV)　大(Vi)　，(COMMACATEGORY)
+　感覺(Vt)　很(ADV)　舒服(Vi)　。(PERIODCATEGORY)
+　惟獨(ADV)　酒店(N)　大堂(N)　小(Vi)　了(ASP)　點(ADV)　。(PERIODCATEGORY)
+　下(DET)　次(M)　我(N)　還是(ADV)　選擇(Vt)　這(DET)　酒店(N)　。(PERIODCATEGORY)

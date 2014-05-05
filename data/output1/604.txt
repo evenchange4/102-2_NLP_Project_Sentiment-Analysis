@@ -1,0 +1,2 @@
+　可能(ADV)　是(Vt)　建(Vt)　的(T)　時間(N)　比較(ADV)　早(Vi)　吧(T)　,(COMMACATEGORY)
+　感覺(N)　內部(N)　不(ADV)　是(Vt)　很(ADV)　突出(Vi)　了(T)　.(PERIODCATEGORY)

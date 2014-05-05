@@ -1,0 +1,3 @@
+　服務(Nv)　態度(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　但(C)　就是(C)　做(Vt)　事(N)　拖拉(Vt)　。(PERIODCATEGORY)
+　地段(N)　位置(N)　還(ADV)　比較(ADV)　方便(Vi)　。(PERIODCATEGORY)

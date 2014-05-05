@@ -1,0 +1,7 @@
+　酒店(N)　根本(ADV)　沒有(Vt)　裝修(Nv)　，(COMMACATEGORY)
+　屋子(N)　裡(N)　一(DET)　股(M)　霉味(N)　。(PERIODCATEGORY)
+　收費(Vt)　的(T)　寬帶(N)　，(COMMACATEGORY)
+　有的(DET)　房間(N)　還(ADV)　沒有(Vt)　。(PERIODCATEGORY)
+　餐廳(N)　一(DET)　他(N)　弧度(N)　。(PERIODCATEGORY)
+　沒有(Vt)　任何(DET)　值得(Vi)　推薦(Vt)　的(T)　地方(N)　。(PERIODCATEGORY)
+　強烈(Vi)　建議(Vt)　大家(N)　以後(N)　不要(ADV)　住(Vt)　這裡(N)　。(PERIODCATEGORY)

@@ -1,0 +1,5 @@
+　標準(N)　大(Vi)　床(N)　間(POST)　,(COMMACATEGORY)
+　面積(N)　較(ADV)　小(Vi)　.(PERIODCATEGORY)　寬帶(N)　每(DET)　天(M)　20(DET)　元(M)　((PARENTHESISCATEGORY)　其他(DET)　連鎖店(N)　一般(A)　免費(Vi)　)(PARENTHESISCATEGORY)　.(PERIODCATEGORY)　床墊(N)　上(POST)　只有(ADV)　很(ADV)　薄(Vi)　的(T)　床單(N)　有(Vt)　很(ADV)　硌(b)　的(T)　感覺(N)　.(PERIODCATEGORY)　服務生(N)　年齡(N)　一般(ADV)　都(ADV)　很(ADV)　大(Vi)　,(COMMACATEGORY)
+　老油條(N)　服務(Nv)　,(COMMACATEGORY)
+　較(ADV)　差(Vi)　.(PERIODCATEGORY)　步行(Vi)　到(P)　世紀(N)　公園(N)　站(Vi)　約(ADV)　5(DET)　分鐘(M)　.(PERIODCATEGORY)　如果(C)　參觀(Vt)　上海(N)　新(Vi)　展覽(Nv)　中心(N)　而(C)　入住(Vt)　該(DET)　店(N)　,(COMMACATEGORY)
+　性價(N)　比(P)　剛剛(ADV)　及格(Vi)　.(PERIODCATEGORY)

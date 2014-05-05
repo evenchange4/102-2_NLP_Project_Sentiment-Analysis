@@ -1,0 +1,4 @@
+　環境(N)　地理(N)　位置(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　交通(N)　方便(Vi)　。(PERIODCATEGORY)
+　房間(N)　舒適(Vi)　，(COMMACATEGORY)
+　服務(Vt)　很(ADV)　好(Vi)

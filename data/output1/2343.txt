@@ -1,0 +1,8 @@
+　簡直(ADV)　不(ADV)　知道(Vt)　攜程(N)　會(ADV)　選(Vt)　這(DET)　家(M)　店(N)　的(T)　，(COMMACATEGORY)
+　除了(P)　地段(N)　好(Vi)　以外(POST)　，(COMMACATEGORY)
+　簡直(ADV)　一無是處(Vi)　！(EXCLAMATIONCATEGORY)　房間(N)　舊(Vi)　，(COMMACATEGORY)
+　床墊(N)　的(T)　鋼絲(N)　都(ADV)　出來(Vi)　了(ASP)　，(COMMACATEGORY)
+　單號(N)　的(T)　房間(N)　在(P)　6月(N)　天(N)　開(Vt)　了(ASP)　空調(N)　溫度(N)　都(ADV)　在(P)　30(DET)　度(M)　以上(POST)　。(PERIODCATEGORY)
+　吃(Vt)　早餐(N)　沒(Vt)　空調(N)　。(PERIODCATEGORY)
+　小姐(N)　電話(N)　亂(Vi)　打(Vt)　，(COMMACATEGORY)
+　都(ADV)　在(P)　12(DET)　點(M)　左右(POST)　。(PERIODCATEGORY)

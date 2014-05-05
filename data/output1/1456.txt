@@ -1,0 +1,4 @@
+　總體(N)　服務(Vt)　不錯(Vi)　,(COMMACATEGORY)
+　就是(C)　房間(N)　隔音(A)　太(ADV)　差(Vi)　,(COMMACATEGORY)
+　走廊(N)　裡(N)　的(T)　聲音(N)　就(ADV)　像(Vt)　是(Vt)　在(P)　房間(N)　裡(N)　一樣(Vi)　,(COMMACATEGORY)
+　早餐(N)　也(ADV)　還可以(ADV)

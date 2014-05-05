@@ -1,0 +1,3 @@
+　不(ADV)　建議(Vt)　大家(N)　住(Vt)　該(DET)　酒店(N)　，(COMMACATEGORY)
+　我(N)　就是(C)　沒有(ADV)　看(Vt)　網(N)　上(N)　點評(N)　，(COMMACATEGORY)
+　入住(Vt)　後(POST)　很(ADV)　窩火(N)　。(PERIODCATEGORY)

@@ -1,0 +1,8 @@
+　香港(N)　馬(N)　可(ADV)　最(ADV)　吸引人(Vi)　的(T)　地方(N)　當然(ADV)　是(Vt)　她(N)　便利(Vt)　的(T)　條件(N)　啦(T)　；(SEMICOLONCATEGORY)　附近(N)　的(T)　美心(N)　酒樓(N)　早(Vi)　茶(N)　很(ADV)　不錯(Vi)　（(PARENTHESISCATEGORY)　就(ADV)　在(P)　文化(N)　中心(N)　裡頭(N)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　挺(ADV)　有(Vt)　特色(N)　的(T)　；(SEMICOLONCATEGORY)　馬(N)　可(ADV)　的(T)　服務(Nv)　有(Vt)　一(DET)　項(M)　細心(Vi)　體貼(Vt)　之(T)　處(N)　就是(C)　當(P)　我們(N)　辦理(Vt)　退房(Vi)　手續(N)　後(POST)　存包(N)　繼續(Vt)　逛街(Vi)　，(COMMACATEGORY)
+　當(P)　大(Vi)　包(Vt)　小(Vi)　包(Vt)　拎(Vt)　著(ASP)　回到(Vt)　酒店(N)　取(Vt)　行李(N)　時(POST)　，(COMMACATEGORY)
+　服務員(N)　很(ADV)　會心(A)　地(N)　把(P)　我們(N)　請到(Vt)　行李房(N)　最(ADV)　深處(N)　的(T)　一角(N)　，(COMMACATEGORY)
+　那裡(N)　有(Vt)　寬大(Vi)　的(T)　桌椅(N)　，(COMMACATEGORY)
+　讓(Vt)　你(N)　可以(ADV)　避免(Vt)　在(P)　酒店(N)　大堂(N)　中(N)　開箱(Vi)　、(PAUSECATEGORY)　合併(Vt)　、(PAUSECATEGORY)　裝袋(Vi)　的(T)　尷尬(Nv)　舉動(N)　，(COMMACATEGORY)
+　從容(Vi)　的(T)　把(P)　行李(N)　整理好(Vt)　再(ADV)　整潔(Vi)　的(T)　出門(Vi)　，(COMMACATEGORY)
+　真是(ADV)　一(DET)　項(M)　貼心(Vi)　之(T)　舉(N)　呀(T)　。(PERIODCATEGORY)

@@ -1,0 +1,4 @@
+　電視(N)　太(ADV)　小(Vi)　了(T)　，(COMMACATEGORY)
+　字幕(N)　都(ADV)　無法(ADV)　看清(Vt)　，(COMMACATEGORY)
+　服務(Nv)　人員(N)　還是(ADV)　很(ADV)　不錯(Vi)　的(T)　。(PERIODCATEGORY)
+　前台(N)　的(T)　MM(FW)　態度(N)　都(ADV)　很(ADV)　好(Vi)

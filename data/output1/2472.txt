@@ -1,0 +1,3 @@
+　不(ADV)　想(Vt)　多(ADV)　說(Vt)　，(COMMACATEGORY)
+　酒店(N)　所有(DET)　的(T)　條件(N)　都(ADV)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　以後(N)　再(ADV)　也(ADV)　不會(ADV)　入住(Vt)　該(DET)　酒店(N)　！(EXCLAMATIONCATEGORY)

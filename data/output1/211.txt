@@ -1,0 +1,5 @@
+　去(Vt)　的(T)　時候(N)　,(COMMACATEGORY)
+　酒店(N)　大廳(N)　和(C)　餐廳(N)　在(P)　裝修(Nv)　,(COMMACATEGORY)
+　感覺(Vt)　大廳(N)　有點(ADV)　擠(Vi)　.(PERIODCATEGORY)　由於(C)　餐廳(N)　裝修(Nv)　本來(ADV)　該(ADV)　享受(Vt)　的(T)　早飯(N)　,(COMMACATEGORY)
+　也(ADV)　沒有(ADV)　享受(Vt)　((PARENTHESISCATEGORY)　他們(N)　是(Vt)　8(DET)　點(M)　開始(Vt)　每(DET)　個(M)　房間(N)　送(Vt)　,(COMMACATEGORY)
+　但是(C)　我(N)　時間(N)　來不及(Vi)　了(T)　)(PARENTHESISCATEGORY)　不過(C)　前台(N)　服務員(N)　態度(N)　好(Vi)　!(EXCLAMATIONCATEGORY)

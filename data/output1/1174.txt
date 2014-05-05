@@ -1,0 +1,8 @@
+　位置(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　市中心(N)　，(COMMACATEGORY)
+　房間(N)　可以(ADV)　見到(Vt)　半島(N)　、(PAUSECATEGORY)　江面(N)　，(COMMACATEGORY)
+　餐飲(N)　（(PARENTHESISCATEGORY)　旋轉(Vt)　餐廳(N)　）(PARENTHESISCATEGORY)　非常(ADV)　好(Vi)　。(PERIODCATEGORY)
+　賓館(N)　反饋(Vt)　2008年(N)　8月(N)　7日(N)　：(COLONCATEGORY)　非常(A)　感謝(Vt)　您(N)　對(P)　我(N)　酒店(N)　的(T)　支持(Nv)　和(C)　厚愛(N)　，(COMMACATEGORY)
+　柳州(N)　賓館(N)　致力(Vt)　打造(Vt)　柳州(N)　性價(N)　比(P)　最(ADV)　高(Vi)　的(T)　酒店(N)　。(PERIODCATEGORY)
+　我(N)　賓館(N)　按(Vt)　五星級(N)　標準(N)　裝修(Vt)　的(T)　24(DET)　-(DASHCATEGORY)　26樓(N)　高層(N)　觀景(N)　客房(N)　即將(ADV)　竣工(Vi)　，(COMMACATEGORY)
+　期待(Vt)　您(N)　的(T)　光臨(Nv)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)

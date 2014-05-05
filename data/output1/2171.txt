@@ -1,0 +1,5 @@
+　訂(Vt)　了(ASP)　一(DET)　房間(N)　，(COMMACATEGORY)
+　保險(N)　鏈(N)　是(Vt)　壞(Vt)　的(T)　，(COMMACATEGORY)
+　叫(Vt)　了(ASP)　半(DET)　天(M)　沒(Vt)　人(N)　來(POST)　，(COMMACATEGORY)
+　還是(ADV)　自己(N)　修(Vt)　的(T)　！(EXCLAMATIONCATEGORY)　裡面(N)　的(T)　設施(N)　顯得(Vt)　舊(Vi)　了(ASP)　點(N)　！(EXCLAMATIONCATEGORY)　據說(ADV)　就(ADV)　要(ADV)　翻修(Vt)　成漢庭(N)　了(T)　，(COMMACATEGORY)
+　不會(ADV)　房價(N)　也(ADV)　要(ADV)　跟(P)　著(ASP)　漲(Vi)　吧(T)

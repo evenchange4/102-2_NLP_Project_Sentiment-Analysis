@@ -1,0 +1,5 @@
+　價廉物美(Vi)　的(T)　好(Vi)　選擇(Vt)　，(COMMACATEGORY)
+　晚上(N)　到(P)　機住(Vt)　十分(ADV)　合適(Vi)　，(COMMACATEGORY)
+　服務(Vt)　很(ADV)　熱情(Vi)　，(COMMACATEGORY)
+　房間(N)　沒(Vt)　地毯(N)　很(ADV)　清爽(Vi)　，(COMMACATEGORY)
+　海景(N)　很(ADV)　好看(Vi)

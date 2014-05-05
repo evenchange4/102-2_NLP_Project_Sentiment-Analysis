@@ -1,0 +1,4 @@
+　我(N)　經常(ADV)　住(Vt)　在(P)　西藏(N)　大廈(N)　，(COMMACATEGORY)
+　主要(ADV)　出差(Vi)　的(T)　方便(Vi)　，(COMMACATEGORY)
+　周圍(N)　的(T)　飯店(N)　也(ADV)　比較(ADV)　熟悉(Vt)　了(ASP)　，(COMMACATEGORY)
+　還(ADV)　有(Vt)　一(DET)　個(M)　物美大(N)　賣場(N)　；(SEMICOLONCATEGORY)　去(Vt)　首(DET)　場(M)　機場(N)　相對(Vi)　較(ADV)　方便(Vi)　。(PERIODCATEGORY)

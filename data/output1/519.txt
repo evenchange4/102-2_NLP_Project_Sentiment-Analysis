@@ -1,0 +1,5 @@
+　老(Vi)　五星級(N)　酒店(N)　，(COMMACATEGORY)
+　358(DET)　元(M)　標房(N)　，(COMMACATEGORY)
+　價格(N)　實惠(Vi)　，(COMMACATEGORY)
+　就是(C)　房間(N)　電視(N)　太(ADV)　小(Vi)　，(COMMACATEGORY)
+　其他(DET)　不錯(Vi)　。(PERIODCATEGORY)

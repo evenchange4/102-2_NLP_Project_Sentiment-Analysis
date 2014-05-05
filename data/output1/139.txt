@@ -1,0 +1,5 @@
+　因為(C)　工作(N)　關係(N)　,(COMMACATEGORY)
+　每(DET)　個(M)　月(N)　都(ADV)　會(ADV)　去(ADV)　住(Vt)　.(PERIODCATEGORY)　在(P)　金華(N)　市區(N)　400(DET)　左右(N)　是(Vt)　最好(Vi)　的(T)　選擇(N)　.(PERIODCATEGORY)　服務(Nv)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　早餐(N)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　離(P)　市中心(N)　也(ADV)　很(ADV)　近(Vi)　.(PERIODCATEGORY)　360(DET)　的(T)　標(N)　間(POST)　裝修(Vt)　風格(N)　稍(ADV)　舊(Vi)　但(C)　仍然(ADV)　整潔(Vi)　乾淨(Vi)　.(PERIODCATEGORY)　強烈(Vi)　推薦(Vt)　.(PERIODCATEGORY)　前台(N)　服務(Vt)　每(DET)　次(M)　給(Vt)　我(N)　感覺(Vt)　都(ADV)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　表揚(Vt)　.(PERIODCATEGORY)

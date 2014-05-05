@@ -1,0 +1,4 @@
+　各(DET)　項(M)　服務(Nv)　非常(ADV)　周到(Vi)　，(COMMACATEGORY)
+　前台(N)　人員(N)　熱情(Vi)　，(COMMACATEGORY)
+　樓層(N)　服務(Nv)　人員(N)　周到(Vi)　細緻(Vi)　，(COMMACATEGORY)
+　房間(N)　送(Vt)　餐(N)　服務(Nv)　快捷味(N)　美(Vi)　！(EXCLAMATIONCATEGORY)

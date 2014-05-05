@@ -1,0 +1,6 @@
+　房間(N)　挺(ADV)　小(Vi)　，(COMMACATEGORY)
+　不過(C)　香港(N)　的(T)　酒店(N)　幾乎(ADV)　都(ADV)　是(Vt)　如此(Vi)　。(PERIODCATEGORY)
+　前台(N)　服務(Nv)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　酒店(N)　地點(N)　也(ADV)　很(ADV)　好(Vi)　。(PERIODCATEGORY)
+　周圍(N)　是(Vt)　居民區(N)　，(COMMACATEGORY)
+　很(ADV)　安靜(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,4 @@
+　不(ADV)　值得(Vi)　這(DET)　個(M)　價(N)　裝修(Nv)　很(ADV)　一般(A)　酒店(N)　外(N)　是(Vt)　燒烤(Vt)　一(DET)　條(M)　街(N)　早餐(N)　非常(ADV)　簡陋(Vi)　，(COMMACATEGORY)
+　沒(Vt)　啥(DET)　吃(Vt)　的(T)　。(PERIODCATEGORY)
+　下(DET)　次(M)　決不(ADV)　選擇(Vt)　它(N)　。(PERIODCATEGORY)
+　連(C)　申請(Vt)　延遲(Vt)　退房(Vi)　都(ADV)　不(ADV)　肯(Vt)

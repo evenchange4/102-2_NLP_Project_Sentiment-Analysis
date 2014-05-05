@@ -1,0 +1,5 @@
+　不值(Vi)　房價(N)　，(COMMACATEGORY)
+　早餐(N)　太(ADV)　糟(Vi)　，(COMMACATEGORY)
+　也許(ADV)　我(N)　去(Vt)　的(T)　比較(ADV)　晚(Vi)　，(COMMACATEGORY)
+　九(DET)　點(M)　左右(POST)　，(COMMACATEGORY)
+　沒(Vt)　東西(N)　吃(Vt)

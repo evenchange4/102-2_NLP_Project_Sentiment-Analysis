@@ -1,0 +1,7 @@
+　非常(ADV)　不錯(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　依(P)　山傍水(N)　，(COMMACATEGORY)
+　裡面(N)　大(Vi)　片(M)　森林(N)　，(COMMACATEGORY)
+　散散步(Vi)　很(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　坐(Vi)　在(P)　湖(N)　邊(N)　也(ADV)　休息(Vi)　也(ADV)　是(Vt)　不錯(Vi)　的(T)　選擇(N)　；(SEMICOLONCATEGORY)　房間(N)　很(ADV)　幽靜(Vi)　，(COMMACATEGORY)
+　房間(N)　的(T)　設施(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　服務員(N)　態度(N)　也(ADV)　很(ADV)　好(Vi)　。(PERIODCATEGORY)

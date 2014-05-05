@@ -1,0 +1,7 @@
+　位置(N)　好(Vi)　火車(N)　，(COMMACATEGORY)
+　地鐵(N)　，(COMMACATEGORY)
+　機場(N)　大巴(N)　，(COMMACATEGORY)
+　汽車(N)　都(ADV)　很(ADV)　方便(Vi)　。(PERIODCATEGORY)
+　離(P)　恆基(N)　商城(N)　很(ADV)　近(Vi)　，(COMMACATEGORY)
+　可以(ADV)　逛街(Vi)　打法(N)　時光(N)　。(PERIODCATEGORY)
+　服務(Nv)　還(ADV)　行(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,6 @@
+　很(ADV)　滿意(Vt)　這(DET)　次(M)　的(T)　選擇(N)　。(PERIODCATEGORY)
+　金版納(N)　真是(ADV)　性價(N)　比(P)　極(ADV)　高(Vi)　。(PERIODCATEGORY)
+　離開(Vt)　市中心(N)　又(ADV)　很(ADV)　近(Vi)　，(COMMACATEGORY)
+　早餐(N)　也(ADV)　比較(ADV)　豐富(Vt)　。(PERIODCATEGORY)
+　別墅型(N)　的(T)　房屋(N)　讓(Vt)　人(N)　回歸(Vt)　自然(N)　。(PERIODCATEGORY)
+　這(DET)　個(M)　3星(N)　貨真價實(Vi)　的(T)

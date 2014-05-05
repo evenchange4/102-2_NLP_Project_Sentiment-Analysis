@@ -1,0 +1,8 @@
+　缺點(N)　：(COLONCATEGORY)　1(DET)　，(COMMACATEGORY)
+　小(Vi)　酒店(N)　，(COMMACATEGORY)
+　估計(Vt)　只(ADV)　租(Vt)　了(ASP)　幾(DET)　層(M)　做(Vt)　酒店(N)　用(Vt)　。(PERIODCATEGORY)
+　2(DET)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　吵(Vi)　，(COMMACATEGORY)
+　靠(P)　馬路(N)　那邊(N)　的(T)　。(PERIODCATEGORY)
+　3(DET)　，(COMMACATEGORY)
+　服務(Nv)　不(ADV)　怎麼樣(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,7 @@
+　房間(N)　一般(POST)　，(COMMACATEGORY)
+　隔音(A)　感覺(N)　不(ADV)　是(Vt)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　地理(N)　位置(N)　不錯(Vi)　，(COMMACATEGORY)
+　就(ADV)　在(P)　江(N)　邊(N)　，(COMMACATEGORY)
+　靠(P)　江(N)　的(T)　房間(N)　開穿(Vt)　遠眺(Vt)　就(ADV)　能(ADV)　看見(Vt)　大佛(N)　。(PERIODCATEGORY)
+　服務(Nv)　態度(N)　餐廳(N)　的(T)　比(P)　前台(N)　好(ADV)　很多(Vi)　，(COMMACATEGORY)
+　早餐(N)　品種(N)　少(Vi)　了(ASP)　點(ADV)　。(PERIODCATEGORY)

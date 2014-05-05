@@ -1,0 +1,3 @@
+　專門(Vt)　定(Vt)　的(T)　寬帶(N)　房(DM)　，(COMMACATEGORY)
+　竟然(ADV)　無法(ADV)　上網(Vi)　，(COMMACATEGORY)
+　酒店(N)　也(ADV)　沒有(Vt)　技術(N)　人員(N)

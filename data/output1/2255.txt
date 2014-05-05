@@ -1,0 +1,8 @@
+　房間(N)　奇型怪狀(N)　，(COMMACATEGORY)
+　環境(N)　一般(POST)　，(COMMACATEGORY)
+　廁所(N)　超大(Vi)　，(COMMACATEGORY)
+　床(N)　超(Vt)　小(Vi)　，(COMMACATEGORY)
+　價格(N)　較(ADV)　高(Vi)　，(COMMACATEGORY)
+　送(Vt)　餐(N)　居然(ADV)　還(ADV)　要(ADV)　收(Vt)　服務費(N)　，(COMMACATEGORY)
+　要不是(C)　如(P)　家(N)　客滿(Vi)　，(COMMACATEGORY)
+　我(N)　才(ADV)　不會(ADV)　去(ADV)　住(Vt)　。(PERIODCATEGORY)

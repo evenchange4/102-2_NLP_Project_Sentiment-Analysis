@@ -1,0 +1,4 @@
+　環境(N)　太(ADV)　吵(Vi)　，(COMMACATEGORY)
+　晚上(N)　有(Vt)　卡拉(N)　OK(FW)　，(COMMACATEGORY)
+　影響(N)　睡覺(Vi)　，(COMMACATEGORY)
+　服務(Nv)　人員(N)　服務(Nv)　態度(N)　較(ADV)　差(Vi)　。(PERIODCATEGORY)

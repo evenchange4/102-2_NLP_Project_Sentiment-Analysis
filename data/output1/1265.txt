@@ -1,0 +1,3 @@
+　本(DET)　次(M)　入住(Vt)　酒店(N)　的(T)　網絡(N)　不(ADV)　是(Vt)　很(ADV)　穩定(Vt)　，(COMMACATEGORY)
+　斷斷續續(Vi)　，(COMMACATEGORY)
+　希望(Vt)　能夠(ADV)　改進(Vt)　。(PERIODCATEGORY)

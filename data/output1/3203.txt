@@ -1,0 +1,5 @@
+　房間(N)　環境(N)　尚可(Vi)　,(COMMACATEGORY)
+　衛生(N)　讓(Vt)　人(N)　擔憂(Vt)　,(COMMACATEGORY)
+　床單(N)　圬跡(N)　斑斑(Vi)　!(EXCLAMATIONCATEGORY)　有(Vt)　騷擾(Nv)　電話(N)　補充(Vt)　點評(N)　2008年(N)　4月(N)　6日(N)　：(COLONCATEGORY)　停車場(N)　沒有(Vt)　燈(N)　,(COMMACATEGORY)
+　還(ADV)　污水(N)　滿(DET)　地(N)　留(Vt)　,(COMMACATEGORY)
+　建議(Vt)　取消(Vt)　該(DET)　店(N)

@@ -1,0 +1,8 @@
+　酒店(N)　工作(N)　人員(N)　有待(Vt)　培訓(Vt)　,(COMMACATEGORY)
+　自己(N)　都(ADV)　不(ADV)　知道(Vt)　自己(N)　酒店(N)　在(P)　哪裡(N)　,(COMMACATEGORY)
+　好容易(ADV)　找到(Vt)　了(ASP)　告訴(Vt)　我(N)　過(Vt)　了(ASP)　預訂(Vt)　時間(N)　取消(Vt)　了(ASP)　.(PERIODCATEGORY)　不過(C)　最後(N)　還是(ADV)　讓(Vt)　我(N)　住(Vt)　了(ASP)　.(PERIODCATEGORY)　房間(N)　有點(ADV)　舊(Vi)　,(COMMACATEGORY)
+　不過(C)　東西(N)　還是(ADV)　挺(Vt)　全(DET)　的(T)　,(COMMACATEGORY)
+　樓道(N)　也(ADV)　是(Vt)　有點(ADV)　味道(N)　,(COMMACATEGORY)
+　但(C)　按(P)　三星(N)　標準(N)　來(ADV)　說(Vt)　也(ADV)　還(ADV)　過得去(Vi)　.(PERIODCATEGORY)　位置(N)　不錯(Vi)　,(COMMACATEGORY)
+　周圍(N)　餐館(N)　很多(DET)　,(COMMACATEGORY)
+　銀川(N)　的(T)　老字號(N)　也(ADV)　都(ADV)　是(Vt)　步行(Vi)　10(DET)　分鐘(M)　之內(POST)　.(PERIODCATEGORY)

@@ -1,0 +1,5 @@
+　賓館(N)　服務(Nv)　非常(ADV)　好(Vi)　，(COMMACATEGORY)
+　環境(N)　也(ADV)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　但(C)　在(P)　賓館(N)　吃飯(Vi)　太(ADV)　貴(Vi)　了(T)　，(COMMACATEGORY)
+　地角(N)　很(ADV)　偏(Vi)　，(COMMACATEGORY)
+　交通(N)　很(ADV)　不(ADV)　方便(Vi)　。(PERIODCATEGORY)

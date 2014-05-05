@@ -1,0 +1,4 @@
+　房間(N)　還可以(Vi)　，(COMMACATEGORY)
+　樓下(N)　有(Vt)　食街(N)　，(COMMACATEGORY)
+　服務(Nv)　態度(N)　很(ADV)　好(Vi)　！(EXCLAMATIONCATEGORY)　不過(C)　網絡(N)　不(ADV)　太(ADV)　好(Vi)　，(COMMACATEGORY)
+　總是(ADV)　斷線(Vi)　；(SEMICOLONCATEGORY)　早餐(N)　一般(POST)　般(POST)　。(PERIODCATEGORY)

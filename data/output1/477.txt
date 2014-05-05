@@ -1,0 +1,7 @@
+　很(ADV)　老(Vi)　的(T)　五(DET)　星(N)　了(T)　,(COMMACATEGORY)
+　客觀(Vi)　的(T)　說(Vt)　也許(ADV)　曾經(ADV)　無愧(Vi)　於(P)　這(DET)　個(M)　頭銜(N)　,(COMMACATEGORY)
+　可(ADV)　現在(N)　看到(Vt)　的(T)　實在(ADV)　是(Vt)　有(Vt)　些(M)　落伍(Vi)　了(T)　,(COMMACATEGORY)
+　強烈(Vi)　建議(N)　重新(ADV)　裝修(Vt)　和(C)　更換(Vt)　新(Vi)　的(T)　設施(N)　了(T)　,(COMMACATEGORY)
+　不過(C)　服務(Nv)　還是(ADV)　很(ADV)　好(Vi)　的(T)　,(COMMACATEGORY)
+　當(P)　得知(Vt)　我們(N)　的(T)　不(ADV)　滿意(Vt)　後(POST)　,(COMMACATEGORY)
+　經理(N)　主動(Vi)　地(T)　給(Vt)　我們(N)　做(Vt)　了(ASP)　房間(N)　的(T)　升級(Nv)　.....(ETCCATEGORY)　服務(Nv)　很(ADV)　好(Vi)

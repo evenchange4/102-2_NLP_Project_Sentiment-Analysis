@@ -1,0 +1,7 @@
+　酒店(N)　的(T)　設施(N)　稍微(ADV)　老(Vi)　了(ASP)　一點(ADV)　，(COMMACATEGORY)
+　是(Vt)　四星級(N)　酒店(N)　的(T)　一(DET)　個(M)　附樓(N)　。(PERIODCATEGORY)
+　但是(C)　服務(Vt)　不錯(Vi)　，(COMMACATEGORY)
+　而且(C)　酒店(N)　的(T)　價格(N)　非常(ADV)　吸引人(Vi)　。(PERIODCATEGORY)
+　下(DET)　次(M)　還(ADV)　會(ADV)　入住(Vt)　的(T)　！(EXCLAMATIONCATEGORY)　補充(Vt)　點評(N)　2008年(N)　2月(N)　22日(N)　：(COLONCATEGORY)　我(N)　住(Vt)　的(T)　是(Vt)　150(DET)　的(T)　。(PERIODCATEGORY)
+　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　冬季(N)　裡(POST)　沒用(Vi)　霉味(N)　！(EXCLAMATIONCATEGORY)

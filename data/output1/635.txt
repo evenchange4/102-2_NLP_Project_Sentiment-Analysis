@@ -1,0 +1,4 @@
+　早餐(N)　品種(N)　太少(Vi)　，(COMMACATEGORY)
+　交通(N)　還(ADV)　算(Vt)　便利(Nv)　，(COMMACATEGORY)
+　服務(Nv)　態度(N)　不(ADV)　怎麼樣(Vi)　，(COMMACATEGORY)
+　問(Vt)　酒店(N)　買(Vt)　的(T)　地圖(N)　竟然(ADV)　就(ADV)　是(Vt)　舊(Vi)　的(T)　別的(DET)　客房(N)　拿(Vt)　的(T)

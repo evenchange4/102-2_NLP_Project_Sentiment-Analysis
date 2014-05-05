@@ -1,0 +1,6 @@
+　給(Vt)　我(N)　升級(Nv)　到(C)　「(PARENTHESISCATEGORY)　韓式房(N)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　進(Vt)　門(N)　脫鞋(Vi)　上(POST)　炕(N)　，(COMMACATEGORY)
+　炕(N)　上(POST)　只有(ADV)　兩(DET)　個(M)　大(Vi)　床(N)　墊子(N)　，(COMMACATEGORY)
+　感覺(Vt)　有(Vt)　些(M)　簡陋(Vi)　。(PERIODCATEGORY)
+　衛生間座(N)　便(ADV)　帶(Vt)　沖洗(Nv)　裝置(N)　，(COMMACATEGORY)
+　不錯(Vi)　！(EXCLAMATIONCATEGORY)

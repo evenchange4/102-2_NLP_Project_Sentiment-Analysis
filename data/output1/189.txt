@@ -1,0 +1,5 @@
+　對於(P)　自駕游(Vi)　,(COMMACATEGORY)
+　這(DET)　家(M)　酒店(N)　很(ADV)　合適(Vi)　，(COMMACATEGORY)
+　我們(N)　是(Vt)　住(Vt)　2(DET)　號(M)　樓頂層(N)　,(COMMACATEGORY)
+　風景(N)　及(C)　服務(Nv)　都(ADV)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　下(DET)　次(M)　去(ADV)　威海(N)　還(ADV)　住(Vt)　這(DET)　家(M)　酒店(N)　!(EXCLAMATIONCATEGORY)

@@ -1,0 +1,6 @@
+　性價(N)　比較(ADV)　高(Vi)　。(PERIODCATEGORY)
+　服務(Nv)　態度(N)　也(ADV)　還(ADV)　行(Vi)　。(PERIODCATEGORY)
+　房間(N)　小(Vi)　點(ADV)　。(PERIODCATEGORY)
+　比較(ADV)　難能可貴(Vi)　的(T)　是(Vt)　，(COMMACATEGORY)
+　在(P)　火車站(N)　附近(N)　的(T)　賓館(N)　晚上(N)　居然(ADV)　都(ADV)　沒有(Vt)　騷擾(Nv)　電話(N)　！(EXCLAMATIONCATEGORY)　值得(Vi)　表揚(Vt)　！(EXCLAMATIONCATEGORY)　早餐(N)　相對(Vi)　簡單(Vi)　，(COMMACATEGORY)
+　一般話(N)　。(PERIODCATEGORY)

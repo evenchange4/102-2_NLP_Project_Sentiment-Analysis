@@ -1,0 +1,1 @@
+　1(DET)　.(PERIODCATEGORY)　地理(N)　位置(N)　不錯(Vi)　2(DET)　.(PERIODCATEGORY)　早餐(N)　中等(A)　偏(Vt)　上(DET)　3(DET)　.(PERIODCATEGORY)　網速(N)　一般(ADV)　在(P)　長春(N)　還(ADV)　算(Vt)　物(N)　有所(Vt)　值(N)

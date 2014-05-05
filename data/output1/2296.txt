@@ -1,0 +1,7 @@
+　隔音(A)　太(ADV)　差(Vi)　，(COMMACATEGORY)
+　走廊(N)　有(Vt)　人(N)　說話(Vi)　就(ADV)　像(Vt)　在(P)　自己(N)　房間(N)　說話(Vi)　一樣(Vi)　。(PERIODCATEGORY)
+　房間門(N)　關閉(Vt)　不(ADV)　順暢(Vi)　，(COMMACATEGORY)
+　要(ADV)　用力(Vi)　推(Vt)　。(PERIODCATEGORY)
+　服務員(N)　愛理不理(Vi)　的(T)　，(COMMACATEGORY)
+　前台(N)　服務員(N)　連(C)　英語(N)　也(ADV)　不會(ADV)　說(Vt)　。(PERIODCATEGORY)
+　衛生(N)　一般(POST)　。(PERIODCATEGORY)

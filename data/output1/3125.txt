@@ -1,0 +1,2 @@
+　入住(Vt)　的(T)　時候(N)　剛(ADV)　裝修(Vt)　，(COMMACATEGORY)
+　味道(N)　很(ADV)　濃(Vi)　！(EXCLAMATIONCATEGORY)　房間(N)　內(N)　的(T)　床(N)　坐上去(Vi)　好像(ADV)　有點(ADV)　不(ADV)　穩(Vi)　！(EXCLAMATIONCATEGORY)

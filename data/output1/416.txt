@@ -1,0 +1,4 @@
+　早餐(N)　不(ADV)　太(ADV)　理想(Vi)　，(COMMACATEGORY)
+　都(ADV)　看到(Vt)　小(Vi)　蒼蠅(N)　叮(Vt)　在(P)　食物(N)　上(POST)　，(COMMACATEGORY)
+　真(ADV)　不(ADV)　敢(Vt)　想像(Vt)　。(PERIODCATEGORY)
+　其他(DET)　還可以(Vi)　。(PERIODCATEGORY)

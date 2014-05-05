@@ -1,0 +1,5 @@
+　房間(N)　的(T)　衛生間(N)　較(ADV)　差(Vi)　，(COMMACATEGORY)
+　不(ADV)　盡(ADV)　人意(N)　。(PERIODCATEGORY)
+　總(A)　的(T)　感覺(N)　不(ADV)　是(Vt)　很(ADV)　好(Vi)　。(PERIODCATEGORY)
+　但是(C)　個人(N)　用品(N)　的(T)　衛生(N)　還是(ADV)　很(ADV)　規範(Vt)　的(T)　，(COMMACATEGORY)
+　整潔(Vi)　而且(C)　包裝(Vt)　的(T)　很(ADV)　完整(Vi)　。(PERIODCATEGORY)

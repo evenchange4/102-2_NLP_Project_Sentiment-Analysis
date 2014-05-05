@@ -1,0 +1,6 @@
+　老掉牙(Vi)　的(T)　五(DET)　星(N)　酒店(N)　，(COMMACATEGORY)
+　我們(N)　入住(Vt)　的(T)　客房(N)　窗(N)　外(POST)　就(ADV)　是(Vt)　酒店(N)　的(T)　封閉(Nv)　露台(N)　，(COMMACATEGORY)
+　窗(N)　下(POST)　堆放(Vt)　疑似(Vt)　廢棄(Vt)　的(T)　棉被(N)　等(POST)　物品(N)　，(COMMACATEGORY)
+　還好(ADV)　就(ADV)　住(Vt)　一(DET)　天(M)　，(COMMACATEGORY)
+　拉上(Vt)　窗簾(N)　將(ADV)　就(P)　一(DET)　夜(N)　，(COMMACATEGORY)
+　第二(DET)　天(M)　就(ADV)　趕緊(ADV)　離店(N)　了(T)　。(PERIODCATEGORY)

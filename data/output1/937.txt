@@ -1,0 +1,3 @@
+　房間(N)　應該(ADV)　超出(Vt)　30(DET)　平米(M)　,(COMMACATEGORY)
+　是(Vt)　HK(FW)　同級(N)　酒店(N)　中(N)　少有(Vi)　的(T)　大(Vi)　;(SEMICOLONCATEGORY)　重裝(A)　之後(POST)　,(COMMACATEGORY)
+　設備(N)　也(ADV)　不錯(Vi)　.(PERIODCATEGORY)　房(N)

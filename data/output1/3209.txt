@@ -1,0 +1,4 @@
+　服務(Vt)　極(ADV)　差(Vi)　,(COMMACATEGORY)
+　價格(N)　高(Vi)　,(COMMACATEGORY)
+　地點(N)　環境(N)　偏(Vt)　,(COMMACATEGORY)
+　房間(N)　條件(N)　能(ADV)　有(Vt)　一(DET)　星(N)　..(ETCCATEGORY)

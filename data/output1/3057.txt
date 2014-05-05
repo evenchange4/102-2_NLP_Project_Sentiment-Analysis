@@ -1,0 +1,5 @@
+　我(N)　感覺(Vt)　不行(Vi)　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　性價(N)　比(P)　很(ADV)　差(Vi)　。(PERIODCATEGORY)
+　不(ADV)　知道(Vt)　是(Vt)　銀川(N)　都(ADV)　這樣(Vi)　還是(ADV)　怎麼(Vi)　的(T)　！(EXCLAMATIONCATEGORY)

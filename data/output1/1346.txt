@@ -1,0 +1,5 @@
+　房間(N)　乾淨(Vi)　舒服(Vi)　,(COMMACATEGORY)
+　空氣(N)　流動(Vi)　也(ADV)　很(ADV)　好(Vi)　。(PERIODCATEGORY)
+　沒有(ADV)　不良(Vi)　氣味(N)　...(ETCCATEGORY)　由於(C)　處於(Vt)　鬧(Vt)　市區(N)　,(COMMACATEGORY)
+　交通(N)　比較(ADV)　方便(Vi)　，(COMMACATEGORY)
+　但(C)　同時(N)　也(ADV)　有點(ADV)　嘈雜(Vi)　...(ETCCATEGORY)

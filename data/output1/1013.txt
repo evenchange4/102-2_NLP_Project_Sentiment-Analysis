@@ -1,0 +1,7 @@
+　酒店(N)　正在(ADV)　申定(N)　五(DET)　星(N)　中(POST)　，(COMMACATEGORY)
+　不過(C)　目前(N)　看來(ADV)　四星(N)　都(ADV)　有點(ADV)　勉強(Vi)　。(PERIODCATEGORY)
+　大堂(N)　很(ADV)　氣派(Vi)　，(COMMACATEGORY)
+　不過(C)　細節(N)　很(ADV)　粗糙(Vi)　。(PERIODCATEGORY)
+　硬件(N)　需要(Vt)　加強(Vt)　。(PERIODCATEGORY)
+　服務(Nv)　人員(N)　禮貌(N)　熱情(Vi)　。(PERIODCATEGORY)
+　酒店(N)　的(T)　房間(N)　和(C)　早餐(N)　都(ADV)　還(ADV)　不錯(Vi)　。(PERIODCATEGORY)

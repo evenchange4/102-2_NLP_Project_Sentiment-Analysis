@@ -1,0 +1,6 @@
+　最後(N)　調整(Vt)　到(P)　新翼樓(N)　，(COMMACATEGORY)
+　是(Vt)　他們(N)　新(Vi)　裝修(Vt)　的(T)　樓層(N)　。(PERIODCATEGORY)
+　還(ADV)　算(Vt)　不錯(Vi)　的(T)　，(COMMACATEGORY)
+　浴室(N)　面積(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　早餐(N)　比較(ADV)　豐富(Vt)　，(COMMACATEGORY)
+　但是(C)　挺(ADV)　貴(Vi)　的(T)　：(COLONCATEGORY)　）(PARENTHESISCATEGORY)

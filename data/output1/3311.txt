@@ -1,0 +1,4 @@
+　預定(Vt)　的(T)　房間(N)　給(Vt)　的(T)　是(Vt)　問題房(N)　，(COMMACATEGORY)
+　水泵(N)　聲音(N)　太(ADV)　吵(Vi)　，(COMMACATEGORY)
+　地段(N)　離(P)　風景點(N)　偏(Vt)　了(ASP)　點(ADV)　，(COMMACATEGORY)
+　蟲子(N)　很多(Vi)　。(PERIODCATEGORY)

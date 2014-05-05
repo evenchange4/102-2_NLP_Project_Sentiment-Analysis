@@ -1,0 +1,6 @@
+　服務(Vt)　太(ADV)　不(ADV)　到位(Vi)　了(T)　本來(ADV)　住(Vt)　一(DET)　天(M)　押金(N)　三百(DET)　,(COMMACATEGORY)
+　我們(N)　先(ADV)　交(Vt)　了(ASP)　三百(DET)　,(COMMACATEGORY)
+　但(C)　因故(ADV)　要(ADV)　多(ADV)　住(Vt)　一(DET)　天(M)　,(COMMACATEGORY)
+　早上(N)　也(ADV)　沒(ADV)　退房(Vi)　,(COMMACATEGORY)
+　去(Vt)　大堂(N)　領餐票(N)　時(POST)　也(ADV)　跟(P)　服務員(N)　說(Vt)　過(ASP)　,(COMMACATEGORY)
+　但(C)　服務員(N)　什麼(DET)　也(ADV)　沒(ADV)　說(Vt)　.(PERIODCATEGORY)　但(C)　當(Vt)　?(QUESTIONCATEGORY)

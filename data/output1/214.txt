@@ -1,0 +1,8 @@
+　總體(N)　感覺(N)　不錯(Vi)　，(COMMACATEGORY)
+　特別(Vi)　是(Vt)　體現(Vt)　在(P)　酒店(N)　的(T)　服務(Nv)　細節(N)　上(N)　。(PERIODCATEGORY)
+　晚上(N)　服務員(N)　送(Vt)　的(T)　牛奶(N)　，(COMMACATEGORY)
+　最後(N)　一(DET)　晚(M)　的(T)　擺放(Vt)　的(T)　鮮花(N)　，(COMMACATEGORY)
+　給(P)　阿拉(N)　的(T)　印象(N)　還(ADV)　蠻(ADV)　深(Vi)　的(T)　，(COMMACATEGORY)
+　當然(ADV)　，(COMMACATEGORY)
+　只要(C)　是(Vt)　心情(N)　不錯(Vi)　。(PERIODCATEGORY)
+　呵呵(ADV)

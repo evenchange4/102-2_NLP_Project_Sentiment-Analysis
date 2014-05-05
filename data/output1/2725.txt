@@ -1,0 +1,7 @@
+　非常(ADV)　糟糕(Vi)　,(COMMACATEGORY)
+　簡直(ADV)　不(ADV)　是(Vt)　人(N)　住(Vt)　的(T)　地方(N)　,(COMMACATEGORY)
+　無法(ADV)　兌現(Vt)　預定(Nv)　時(POST)　接機(Vi)　承諾(Vt)　,(COMMACATEGORY)
+　本人(N)　不得不(ADV)　在(P)　晚上(N)　11(DET)　點(M)　拖(Vt)　著(ASP)　行李(N)　步行(Vi)　近(ADV)　二(DET)　公里(M)　到達(Vt)　,(COMMACATEGORY)
+　服務(Nv)　態度(N)　差(Vi)　,(COMMACATEGORY)
+　房間(N)　過道(N)　既(C)　潮濕(Vi)　又(ADV)　充滿(Vt)　霉味(N)　,(COMMACATEGORY)
+　晚上(N)　頭頂(N)　有(Nv)　或(C)　明(N)　或(C)　暗(Vi)　綠燈(N)　閃爍(Vi)　((PARENTHESISCATEGORY)　太過(ADV)　頻繁(Vi)　)(PARENTHESISCATEGORY)　.(PERIODCATEGORY)　與(P)　我(N)　曾(ADV)　住(Vt)　過(ASP)　的(T)　其他(DET)　二(DET)　星(N)　相去(Vt)　甚(ADV)　遠(Vi)　.(PERIODCATEGORY)

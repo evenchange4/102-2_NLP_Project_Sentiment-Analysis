@@ -1,0 +1,4 @@
+　一(DET)　個(M)　晚上(N)　,(COMMACATEGORY)
+　要是(C)　能(ADV)　打死(Vt)　12(DET)　個(M)　山(N)　蚊子(N)　,(COMMACATEGORY)
+　有生以來(ADV)　第一(DET)　次(M)　.(PERIODCATEGORY)　而且(C)　賓館(N)　提供(Vt)　的(T)　電蚊香(N)　是(Vt)　不能(ADV)　使用(Vt)　的(T)　.(PERIODCATEGORY)　後果(N)　是(Vt)　:(COLONCATEGORY)　房間(N)　由於(C)　客戶(N)　打(Vt)　蚊子(N)　牆壁(N)　上(N)　血跡(N)　斑斑(Vi)　,(COMMACATEGORY)
+　非常(ADV)　恐怖(Vi)　.(PERIODCATEGORY)

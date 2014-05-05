@@ -1,0 +1,8 @@
+　某些(DET)　酒店(N)　人員(N)　對待(Vt)　顧客(N)　不(ADV)　誠懇(Vi)　。(PERIODCATEGORY)
+　說給(Vt)　你(N)　換(Vt)　房間(N)　，(COMMACATEGORY)
+　騙(Vt)　你(N)　說(Vt)　是(Vt)　價錢(N)　貴(Vi)　的(T)　房間(N)　。(PERIODCATEGORY)
+　其實(ADV)　是(Vt)　把(P)　你(N)　的(T)　房間(N)　檔次(N)　調低(Vt)　了(ASP)　。(PERIODCATEGORY)
+　沒有(Vt)　房間(N)　就(ADV)　實話實說(Vi)　，(COMMACATEGORY)
+　別(ADV)　騙人(Vi)　啊(T)　，(COMMACATEGORY)
+　什麼(DET)　態度(N)　。(PERIODCATEGORY)
+　有(Vt)　些(M)　房間(N)　的(T)　隱私性(N)　也(ADV)　不(ADV)　好(Vi)

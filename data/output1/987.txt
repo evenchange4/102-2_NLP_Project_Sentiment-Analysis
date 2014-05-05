@@ -1,0 +1,6 @@
+　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　就是(C)　旁邊(N)　在(P)　修橋(N)　，(COMMACATEGORY)
+　交通(N)　不便(Vi)　。(PERIODCATEGORY)
+　服務(Nv)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　早餐(N)　豐富(Vt)　，(COMMACATEGORY)
+　總體(N)　夠(Vi)　4星(N)　標準(N)　。(PERIODCATEGORY)

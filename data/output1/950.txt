@@ -1,0 +1,4 @@
+　房間(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　服務員(N)　的(T)　態度(N)　也(ADV)　很(ADV)　好(Vi)　。(PERIODCATEGORY)
+　只(ADV)　是(Vt)　商場(N)　在(P)　招商(Vi)　，(COMMACATEGORY)
+　不(ADV)　是(Vt)　很(ADV)　方便(Vi)　！(EXCLAMATIONCATEGORY)

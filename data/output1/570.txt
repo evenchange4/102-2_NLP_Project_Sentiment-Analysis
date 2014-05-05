@@ -1,0 +1,8 @@
+　我(N)　訂(Vt)　的(T)　是(Vt)　高級(Vi)　淑女房(N)　((PARENTHESISCATEGORY)　雙(A)　床(N)　)(PARENTHESISCATEGORY)　,(COMMACATEGORY)
+　房間(N)　還(ADV)　算(Vt)　乾淨(Vi)　整潔(Vi)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　還(ADV)　可以(ADV)　。(PERIODCATEGORY)
+　早餐(N)　的(T)　種類(N)　有點(ADV)　少(Vi)　，(COMMACATEGORY)
+　但(C)　味道(N)　還(ADV)　行(Vi)　。(PERIODCATEGORY)
+　辦理(Vt)　退房(Vi)　的(T)　速度(N)　很(ADV)　快(Vi)　。(PERIODCATEGORY)
+　總的來說(ADV)　，(COMMACATEGORY)
+　我(N)　和(C)　同事(N)　住(Vt)　得(T)　比較(ADV)　滿意(Vt)　。(PERIODCATEGORY)

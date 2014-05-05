@@ -1,0 +1,3 @@
+　交通(N)　方便(Vi)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　滿意(Vt)　，(COMMACATEGORY)
+　周圍(N)　環境(N)　也(ADV)　不錯(Vi)

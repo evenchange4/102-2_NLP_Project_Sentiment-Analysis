@@ -1,0 +1,3 @@
+　太(ADV)　差(Vi)　了(T)　是(Vt)　在(P)　沒(ADV)　見(Vt)　過(ASP)　這樣(Vi)　的(T)　4星級(N)　下車(Vi)　沒有(Vt)　門童(N)　幫(Vt)　著(ASP)　拿(Vt)　行李(N)　房間(N)　沒有(Vt)　冰箱(N)　沒有(ADV)　小(Vi)　吧檯(N)　沒有(Vt)　保險櫃(N)　洗手間(N)　的(T)　水(N)　是(Vt)　黃色(N)　的(T)　昨天(N)　晚上(N)　氣溫(N)　6(DET)　度(M)　房間(N)　沒有(Vt)　熱風(N)　半夜(N)　被(P)　凍(Vt)　醒(Vi)　。(PERIODCATEGORY)
+　實在(ADV)　不(ADV)　知道(Vt)　4星(N)　是(Vt)　怎麼(ADV)　得來(Vi)　的(T)　，(COMMACATEGORY)
+　永遠(ADV)　不會(ADV)　再(ADV)　去(ADV)　~(FW)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)

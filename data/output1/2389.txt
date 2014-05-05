@@ -1,0 +1,6 @@
+　標(N)　間(N)　面積(N)　實在(ADV)　太(ADV)　小(Vi)　，(COMMACATEGORY)
+　衛生間(N)　都(ADV)　轉(Vt)　不(ADV)　開(Vt)　身(N)　。(PERIODCATEGORY)
+　客房(N)　服務(Nv)　很(ADV)　一般(Vi)　，(COMMACATEGORY)
+　好在(ADV)　打電話(Vi)　後(POST)　態度(N)　尚可(Vi)　。(PERIODCATEGORY)
+　值得(Vi)　稱讚(Vt)　的(T)　是(Vt)　它(N)　家(N)　的(T)　咖啡廳(N)　環境(N)　不錯(Vi)　，(COMMACATEGORY)
+　中(N)　餐廳(N)　口味(N)　還好(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,5 @@
+　除了(P)　停車(Vi)　不(ADV)　是(Vt)　很(ADV)　方便(Vi)　，(COMMACATEGORY)
+　其他(DET)　的(T)　都(ADV)　還(ADV)　不錯(Vi)　的(T)　，(COMMACATEGORY)
+　服務(Nv)　質量(N)　也(ADV)　很(ADV)　高(Vi)　，(COMMACATEGORY)
+　市中心(N)　的(T)　環境(N)　也(ADV)　很(ADV)　吸引人(Vi)　，(COMMACATEGORY)
+　還(ADV)　不錯(Vi)　的(T)　！(EXCLAMATIONCATEGORY)

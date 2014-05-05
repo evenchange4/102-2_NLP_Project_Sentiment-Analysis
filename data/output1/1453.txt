@@ -1,0 +1,4 @@
+　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　應該(ADV)　比較(ADV)　符合(Vt)　三星級(N)　標準(N)　，(COMMACATEGORY)
+　不(ADV)　算(Vt)　太(ADV)　貴(Vi)　，(COMMACATEGORY)
+　可能(ADV)　是(Vt)　和(P)　攜程(N)　的(T)　簽約(Nv)　價格(N)　！(EXCLAMATIONCATEGORY)

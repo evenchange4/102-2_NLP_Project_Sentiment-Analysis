@@ -1,0 +1,4 @@
+　房間(N)　乾淨(Vi)　整潔(Vi)　，(COMMACATEGORY)
+　位置(N)　也好(T)　，(COMMACATEGORY)
+　就是(C)　缺少(Vt)　部(N)　電梯(N)　，(COMMACATEGORY)
+　有點(ADV)　遺憾(Vt)

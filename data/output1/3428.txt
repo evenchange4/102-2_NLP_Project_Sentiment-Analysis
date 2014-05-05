@@ -1,0 +1,4 @@
+　428(DET)　的(T)　房間(N)　連(C)　窗戶(N)　都(ADV)　沒有(Vt)　，(COMMACATEGORY)
+　房間(N)　隔音(A)　效果(N)　太(ADV)　差(Vi)　，(COMMACATEGORY)
+　晚上(N)　老(ADV)　聽見(Vt)　隔壁(N)　的(T)　說話聲(N)　和(C)　隔壁(N)　洗手間(N)　的(T)　沖(Vt)　水聲(N)　。(PERIODCATEGORY)
+　下(DET)　次(M)　不會(ADV)　再(ADV)　住(Vt)　了(ASP)　.(PERIODCATEGORY)

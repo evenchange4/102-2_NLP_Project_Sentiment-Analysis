@@ -1,0 +1,4 @@
+　環境(N)　優美(Vi)　，(COMMACATEGORY)
+　服務員(N)　熱情(Vi)　大方(Vi)　，(COMMACATEGORY)
+　有(Vt)　一(DET)　種(M)　賓至如歸(Vi)　的(T)　感覺(N)　，(COMMACATEGORY)
+　下(DET)　次(M)　去(Vt)　福州(N)　還(ADV)　住(Vt)　於(P)　山(N)　賓館(N)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　我(N)　到(P)　現在(N)　還(ADV)　忘不了(Vt)　那裡(N)　的(T)　早餐(N)　@(FW)　_(FW)　@(FW)

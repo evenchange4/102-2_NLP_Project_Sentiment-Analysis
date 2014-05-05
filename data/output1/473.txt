@@ -1,0 +1,2 @@
+　位置(N)　有點(ADV)　篇(N)　，(COMMACATEGORY)
+　有(Vt)　一些(DET)　民族(N)　風情(N)　！(EXCLAMATIONCATEGORY)　如果(C)　有(Vt)　機會(N)　可以(ADV)　去(ADV)　嘗試(Vt)　一下(N)

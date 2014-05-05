@@ -1,0 +1,2 @@
+　我(N)　住(Vt)　在(P)　6樓(N)　,(COMMACATEGORY)
+　3樓(N)　KTV(FW)　的(T)　聲音(N)　很(ADV)　吵(Vi)　!(EXCLAMATIONCATEGORY)　打電話(Vi)　到(P)　大堂(N)　投訴(Vi)　居然(ADV)　把(P)　電話(N)　掛掉(Vt)　就算(Vi)　了(T)　......(ETCCATEGORY)　以後(POST)　肯定(Vt)　不會(ADV)　再(ADV)　入住(Vt)　這(DET)　酒店(N)

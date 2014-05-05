@@ -1,0 +1,8 @@
+　真的(ADV)　差(Vi)　得(T)　沒(ADV)　話(N)　說(Vt)　，(COMMACATEGORY)
+　但(C)　說起來(ADV)　又(ADV)　有(Vt)　一(DET)　堆(M)　。(PERIODCATEGORY)
+　住(Vt)　進去(Vi)　的(T)　時候(N)　發現(Vt)　沒有(Vt)　浴巾(N)　，(COMMACATEGORY)
+　第二(DET)　天(M)　卻(ADV)　一直(ADV)　打電話(Vi)　說(Vt)　我們(N)　拿(Vt)　了(ASP)　那(DET)　兩(DET)　塊(M)　浴巾(N)　，(COMMACATEGORY)
+　害(Vt)　得(T)　我們(N)　6(DET)　個人(N)　一直(ADV)　在(P)　等(Vt)　所謂(Vt)　的(T)　經理(N)　出現(Vi)　解決(Vt)　這(DET)　兩(DET)　塊(M)　浴巾(N)　的(T)　事情(N)　。(PERIODCATEGORY)
+　環境(N)　還(ADV)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　住(Vt)　的(T)　房間(N)　又(ADV)　小(Vi)　又(ADV)　暗(Vi)　。(PERIODCATEGORY)
+　不要(ADV)　被(P)　它(N)　的(T)　外境(N)　給(Vt)　騙(Vt)　了(ASP)

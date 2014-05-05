@@ -1,0 +1,8 @@
+　總體(N)　來(ADV)　說(Vt)　不(ADV)　怎麼樣(Vi)　的(T)　，(COMMACATEGORY)
+　進入(Vt)　當天(N)　需要(Vt)　門童(N)　幫助(Vt)　拿(Vt)　行李(N)　也(ADV)　是(Vt)　很(ADV)　不(ADV)　情願(Vt)　的(T)　樣子(N)　，(COMMACATEGORY)
+　服務員(N)　比(P)　你(N)　還要(ADV)　早(Vi)　就(ADV)　洗好(Vt)　澡(N)　了(T)　，(COMMACATEGORY)
+　在(P)　你(N)　對面(N)　的(T)　房間(N)　看(Vt)　電視(N)　。(PERIODCATEGORY)
+　延(Vt)　住(Vt)　幾(DET)　天(M)　的(T)　衛生(N)　打掃(Vt)　也(ADV)　是(Vt)　很(ADV)　馬虎(Vi)　，(COMMACATEGORY)
+　第二(DET)　天(M)　覺得(Vt)　衛生間(N)　很(ADV)　臭(Vi)　還(ADV)　要(ADV)　請(Vt)　她們(N)　在(P)　你(N)　眼皮(N)　底下(N)　再(ADV)　打掃(Vt)　一(DET)　遍(M)　。(PERIODCATEGORY)
+　這(DET)　家(M)　酒店(N)　是(Vt)　原來(ADV)　對(P)　內(N)　的(T)　招待所(N)　改建(Vt)　、(PAUSECATEGORY)　擴大(Vt)　的(T)　所以(C)　很多(DET)　酒店(N)　該(DET)　有的(DET)　實施(Vt)　基本(N)　上(POST)　不(ADV)　具備(Vt)　的(T)　，(COMMACATEGORY)
+　出(Vt)　這(DET)　個(M)　價(N)　很(ADV)　不值(Vi)　的(T)　！(EXCLAMATIONCATEGORY)

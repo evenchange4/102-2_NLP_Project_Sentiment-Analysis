@@ -1,0 +1,1 @@
+　房間(N)　比較(ADV)　乾淨(Vi)　舒適(Vi)　！(EXCLAMATIONCATEGORY)　松江(N)　商務型(N)　酒店(N)　比較(ADV)　少(Vi)　！(EXCLAMATIONCATEGORY)　這(DET)　家(M)　酒店(N)　還(ADV)　可以(ADV)　！(EXCLAMATIONCATEGORY)

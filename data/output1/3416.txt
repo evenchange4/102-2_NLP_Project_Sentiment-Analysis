@@ -1,0 +1,4 @@
+　想(Vt)　延遲(Vt)　1(DET)　小時(M)　退房(Vi)　,(COMMACATEGORY)
+　被(P)　告知(Vt)　延遲(Vt)　退房(Vi)　按(P)　鐘點房(N)　收費(Nv)　,(COMMACATEGORY)
+　每(DET)　小時(N)　50(DET)　元(M)　,(COMMACATEGORY)
+　太(ADV)　沒有(Vt)　人性(N)　了(T)　.(PERIODCATEGORY)　不(ADV)　知道(Vt)　提前(Vi)　退房(Vi)　有沒有(ADV)　獎勵(Vt)

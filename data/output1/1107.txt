@@ -1,0 +1,6 @@
+　住(Vt)　了(ASP)　好多(DET)　次(M)　.(PERIODCATEGORY)　感覺(N)　不錯(Vi)　,(COMMACATEGORY)
+　寬帶(N)　速度(N)　很(ADV)　快(Vi)　,(COMMACATEGORY)
+　服務(Nv)　態度(N)　也(ADV)　可以(ADV)　,(COMMACATEGORY)
+　價錢(N)　也(ADV)　合理(Vi)　.(PERIODCATEGORY)　主要(A)　問題(N)　在於(Vt)　,(COMMACATEGORY)
+　酒店(N)　周圍(N)　環境(N)　不(ADV)　好(Vi)　,(COMMACATEGORY)
+　日本人(N)　實在(ADV)　太多(Vi)　.(PERIODCATEGORY)

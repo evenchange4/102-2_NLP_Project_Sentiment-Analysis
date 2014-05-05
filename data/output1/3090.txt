@@ -1,0 +1,5 @@
+　總(A)　台(N)　冷冰冰(Vi)　，(COMMACATEGORY)
+　酒店(N)　冷清清(Vi)　。(PERIODCATEGORY)
+　性價(N)　比(P)　不(ADV)　高(Vi)　，(COMMACATEGORY)
+　價格(N)　偏(ADV)　貴(Vi)　，(COMMACATEGORY)
+　不如(C)　住嘉利(N)　。(PERIODCATEGORY)

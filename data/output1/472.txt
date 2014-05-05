@@ -1,0 +1,3 @@
+　希望(Vt)　大家(N)　也(ADV)　能(ADV)　像(P)　我(N)　一樣(Vi)　，(COMMACATEGORY)
+　每(DET)　家(N)　酒店(N)　都(ADV)　能(ADV)　嘗試(Vt)　的(T)　住(Vt)　一下(N)　，(COMMACATEGORY)
+　因為(C)　每(DET)　個(M)　酒店(N)　都(ADV)　各(ADV)　有(Vt)　特色(N)

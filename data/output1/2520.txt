@@ -1,0 +1,6 @@
+　早餐(N)　不(ADV)　好(Vi)　,(COMMACATEGORY)
+　服務(Nv)　不(ADV)　到位(Vi)　,(COMMACATEGORY)
+　晚餐(N)　無(Vt)　西餐(N)　,(COMMACATEGORY)
+　早餐(N)　晚餐(N)　相同(Vi)　,(COMMACATEGORY)
+　房間(N)　條件(N)　不(ADV)　好(Vi)　,(COMMACATEGORY)
+　餐廳(N)　不(ADV)　分(Vt)　吸煙區(N)　.(PERIODCATEGORY)　房間(N)　不(ADV)　分有(Vt)　無煙房(N)　.(PERIODCATEGORY)

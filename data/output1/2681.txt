@@ -1,0 +1,1 @@
+　房間(N)　裡(N)　的(T)　設施(N)　沒有(Vt)　廣告(N)　中(POST)　理想(Vi)　！(EXCLAMATIONCATEGORY)　價格(N)　也(ADV)　沒有(Vt)　網(N)　上(POST)　所(ADV)　說(Vt)　的(T)　那樣(ADV)　分明(Vi)　清楚(Vi)　~(FW)　~(FW)

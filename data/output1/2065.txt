@@ -1,0 +1,6 @@
+　2月(N)　20日(N)　通過(Vt)　攜程(N)　訂(Vt)　的(T)　房(N)　,(COMMACATEGORY)
+　結果(ADV)　告(Vt)　之(T)　沒有(Vt)　普通(Vi)　標房(N)　只(ADV)　有(Vt)　行政(N)　標(N)　間(POST)　,(COMMACATEGORY)
+　入住(Vt)　後(POST)　發現(Vt)　什麼(DET)　行政(N)　標(N)　間(POST)　,(COMMACATEGORY)
+　根本(ADV)　就是(C)　普通(Vi)　標房(N)　嗎(T)　.(PERIODCATEGORY)　估計(Vt)　酒店(N)　和(C)　攜程(N)　在(P)　打馬虎眼(Vi)　,(COMMACATEGORY)
+　298(DET)　的(T)　價格(N)　實在(ADV)　不值(Vi)　.(PERIODCATEGORY)　後來(N)　逛街(Vi)　看見(Vt)　四星級(N)　的(T)　漳州(N)　大(Vi)　酒店(N)　,(COMMACATEGORY)
+　真(ADV)　後悔(Vt)　沒(ADV)　住(Vt)　那兒(N)　只(ADV)　不過(C)　貴(DET)　100(DET)　元(M)　.(PERIODCATEGORY)　還(ADV)　有(Vt)　退房(Vi)　時(POST)　居然(ADV)　以(P)　侄子(N)　流(Vt)　鼻血(N)　弄髒(Vt)　了(ASP)　被子(N)　為由(Vi)　要(ADV)　加收(Vt)　洗衣費(N)　.(PERIODCATEGORY)　鄙視(Vt)　~(FW)　~(FW)

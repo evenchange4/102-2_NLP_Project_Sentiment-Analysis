@@ -1,0 +1,3 @@
+　酒店(N)　周圍(N)　的(T)　環境(N)　不錯(Vi)　,(COMMACATEGORY)
+　去(Vt)　景點(N)　都(ADV)　很(ADV)　方便(Vi)　.(PERIODCATEGORY)　前台(N)　態度(N)　不錯(Vi)　,(COMMACATEGORY)
+　入住(Vt)　和(P)　退房(Vi)　的(T)　速度(N)　很(ADV)　快(Vi)　.(PERIODCATEGORY)

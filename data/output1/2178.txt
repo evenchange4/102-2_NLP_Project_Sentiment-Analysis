@@ -1,0 +1,6 @@
+　錦(N)　江(N)　貴賓(N)　樓(N)　房間(N)　裝修(Vt)　還(ADV)　可以(ADV)　，(COMMACATEGORY)
+　環境(N)　一般(POST)　，(COMMACATEGORY)
+　我(N)　認為(Vt)　本(DET)　次(M)　入住(Vt)　餐飲(N)　服務(Nv)　比較(ADV)　差(Vi)　，(COMMACATEGORY)
+　比如(P)　我(N)　點菜(Vi)　時(POST)　他(N)　告訴(Vt)　我(N)　68(DET)　元(M)　，(COMMACATEGORY)
+　但(C)　結帳(Vi)　時時(ADV)　98(DET)　元(M)　。(PERIODCATEGORY)
+　而且(C)　價格(N)　比較(ADV)　高(Vi)　。(PERIODCATEGORY)

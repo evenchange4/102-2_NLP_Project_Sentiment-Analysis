@@ -1,0 +1,7 @@
+　酒店(N)　環境(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　商務(N)　中心(N)　很(ADV)　熱情(Vi)　．(PERIODCATEGORY)　免費(Vi)　接送機(Vi)　服務(Vt)　很(ADV)　好(Vi)　．(PERIODCATEGORY)　房間(N)　設施(N)　尚可(Vi)　，(COMMACATEGORY)
+　但(C)　浴室(N)　條件(N)　稍(ADV)　差(Vi)　，(COMMACATEGORY)
+　沒有(Vt)　吹風機(N)　，(COMMACATEGORY)
+　熱水(N)　也(ADV)　要(ADV)　早(ADV)　７(DET)　：(COLONCATEGORY)　３０(DET)　時(M)　以後(POST)　才(ADV)　有(Vt)　．(PERIODCATEGORY)　而且(C)　總(ADV)　說(Vt)　線路(N)　繁忙(Vi)　不能(ADV)　刷卡(Vi)　，(COMMACATEGORY)
+　房(N)　費(N)　要(ADV)　付(Vt)　現金(N)　，(COMMACATEGORY)
+　不(ADV)　太(ADV)　理解(Vt)　．(PERIODCATEGORY)

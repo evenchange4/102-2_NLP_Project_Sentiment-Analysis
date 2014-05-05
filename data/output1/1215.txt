@@ -1,0 +1,5 @@
+　在(P)　甘肅(N)　能(ADV)　有(Vt)　這樣(Vi)　一(DET)　個(M)　酒店(N)　實(ADV)　屬(Vt)　不易(Vi)　，(COMMACATEGORY)
+　比(P)　陽光(N)　大廈(N)　好(ADV)　很多(Vi)　，(COMMACATEGORY)
+　無論(C)　從(P)　硬件(N)　設施(N)　還是(C)　服務(Nv)　水平(N)　都(ADV)　一流(Vi)　，(COMMACATEGORY)
+　建議(Vt)　：(COLONCATEGORY)　游泳池(N)　太(ADV)　冷(Vi)　，(COMMACATEGORY)
+　房(N)　費含上(N)　早餐(N)

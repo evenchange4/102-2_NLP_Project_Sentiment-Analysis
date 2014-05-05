@@ -1,0 +1,4 @@
+　酒店(N)　規模(N)　大(Vi)　，(COMMACATEGORY)
+　樓層(N)　沒有(Vt)　設置(Nv)　服務(Nv)　人員(N)　房間(N)　，(COMMACATEGORY)
+　所以(C)　找(Vt)　不(ADV)　到(Vt)　服務員(N)　；(SEMICOLONCATEGORY)　房間(N)　較(ADV)　冷(Vi)　（(PARENTHESISCATEGORY)　尤其(ADV)　是(Vt)　一(DET)　層(M)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　訂(Vt)　時務(N)　必要(Vi)　訂(Vt)　二(DET)　層(M)　以上(POST)　。(PERIODCATEGORY)

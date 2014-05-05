@@ -1,0 +1,4 @@
+　房間(N)　感覺(N)　一般(POST)　，(COMMACATEGORY)
+　沒有(ADV)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　但(C)　也(ADV)　談不上(Vt)　差(Vi)　。(PERIODCATEGORY)
+　我(N)　是(Vt)　因為(C)　那裡(N)　離開(Vt)　目的地(N)　近(ADV)　所以(C)　選(Vt)　的(T)

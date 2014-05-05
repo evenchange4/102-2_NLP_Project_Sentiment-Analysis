@@ -1,0 +1,3 @@
+　房間(N)　很(ADV)　舊(Vi)　，(COMMACATEGORY)
+　停車(Vi)　要(ADV)　收(Vt)　10(DET)　元(M)　一(DET)　晚(M)　，(COMMACATEGORY)
+　服務(Nv)　態度(N)　還可以(ADV)

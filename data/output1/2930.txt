@@ -1,0 +1,3 @@
+　酒店(N)　確實(ADV)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　而且(C)　價格(N)　很(ADV)　貴(Vi)　！(EXCLAMATIONCATEGORY)　山(N)　景房(N)　居然(ADV)　就(ADV)　是(Vt)　對(P)　著(ASP)　一(DET)　個(M)　小(Vi)　禿山(N)　，(COMMACATEGORY)
+　實在(ADV)　是(Vt)　無語(Vi)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)

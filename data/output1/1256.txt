@@ -1,0 +1,4 @@
+　管(Vt)　機場(N)　接送(Vt)　，(COMMACATEGORY)
+　住(Vt)　起來(ASP)　總體(N)　不錯(Vi)　，(COMMACATEGORY)
+　適合(Vi)　一般(A)　的(T)　客人(N)　，(COMMACATEGORY)
+　是(Vt)　那(DET)　種(M)　大體(N)　不會(ADV)　出(Vt)　什麼(DET)　問題(N)　的(T)　酒店(N)　。(PERIODCATEGORY)

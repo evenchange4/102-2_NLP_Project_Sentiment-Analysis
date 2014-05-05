@@ -1,0 +1,6 @@
+　房間(N)　裝修(Nv)　實在(ADV)　是(Vt)　不(ADV)　敢(Vt)　恭維(Vt)　,(COMMACATEGORY)
+　洗臉盆(N)　下面(N)　還(ADV)　漏水(Vi)　,(COMMACATEGORY)
+　還(ADV)　四星級(N)　,(COMMACATEGORY)
+　我(N)　看(Vt)　三(DET)　粒(M)　星(N)　可能(ADV)　是(Vt)　花錢(Vi)　買(Vt)　的(T)　,(COMMACATEGORY)
+　還不如(C)　錦江(N)　之(T)　星(N)　,(COMMACATEGORY)
+　如(P)　家(N)　快捷(Vi)　等(POST)　酒店(N)　.(PERIODCATEGORY)

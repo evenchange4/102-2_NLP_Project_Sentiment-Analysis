@@ -1,0 +1,4 @@
+　已經(ADV)　入住(Vt)　了(ASP)　很多(DET)　次(M)　尼盛萬麗(N)　酒店(N)　，(COMMACATEGORY)
+　但是(C)　感覺(N)　服務(Vt)　一(DET)　次(M)　比(P)　一(DET)　次(M)　差(Vi)　！(EXCLAMATIONCATEGORY)　作為(Vt)　一(DET)　個(M)　國際(N)　連鎖(A)　的(T)　品牌(N)　酒店(N)　，(COMMACATEGORY)
+　居然(ADV)　退房(Vi)　的(T)　時候(N)　要(ADV)　查房(Vi)　,(COMMACATEGORY)
+　感覺(N)　對(P)　客戶(N)　沒有(Vt)　一點(DET)　信任(Vt)　！(EXCLAMATIONCATEGORY)

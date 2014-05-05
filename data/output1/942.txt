@@ -1,0 +1,6 @@
+　酒店(N)　地理(N)　位置(N)　方便(Vi)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　而且(C)　我們(N)　訂(Vt)　的(T)　房間(N)　含(Vt)　接送(Vt)　車(N)　服務(Nv)　，(COMMACATEGORY)
+　很(ADV)　實惠(Vi)　。(PERIODCATEGORY)
+　缺點(N)　是(Vt)　房間(N)　偏(ADV)　小(Vi)　，(COMMACATEGORY)
+　而且(C)　下面(N)　就是(C)　香港(N)　殯儀館(N)

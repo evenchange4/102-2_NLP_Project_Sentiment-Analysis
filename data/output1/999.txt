@@ -1,0 +1,5 @@
+　總的來說(ADV)　可以(ADV)　，(COMMACATEGORY)
+　總是(ADV)　再(ADV)　這裡(N)　住(Vt)　，(COMMACATEGORY)
+　公司(N)　客人(N)　還(ADV)　算(Vt)　滿意(Vt)　。(PERIODCATEGORY)
+　就是(C)　離(P)　公司(N)　超(Vt)　近(Vi)　，(COMMACATEGORY)
+　上樓(Vi)　上班(Vi)　下樓(Vi)　回家(Vi)

@@ -1,0 +1,8 @@
+　儘管(C)　這(DET)　家(M)　酒店(N)　離(P)　市中心(N)　有點(ADV)　距離(N)　，(COMMACATEGORY)
+　但(C)　風景(N)　及(C)　服務(Nv)　特別(Vi)　好(Vi)　，(COMMACATEGORY)
+　酒店(N)　設施(N)　齊全(Vi)　，(COMMACATEGORY)
+　步行(Vi)　就(ADV)　能(ADV)　到(Vt)　海邊(N)　，(COMMACATEGORY)
+　酒店(N)　也(ADV)　能(ADV)　為(P)　你(N)　聯繫(Vt)　司機(N)　並(ADV)　將(P)　早飯(N)　提前(Vi)　送到(Vt)　房間(N)　，(COMMACATEGORY)
+　不(ADV)　另外(ADV)　收取(Vt)　費用(N)　。(PERIODCATEGORY)
+　酒店(N)　的(T)　餐飲(N)　口味(N)　也(ADV)　能(ADV)　基本(N)　上(POST)　滿足(Vt)　各(DET)　種(M)　要求(N)　，(COMMACATEGORY)
+　下(DET)　次(M)　來(POST)　威海(N)　還(ADV)　住(Vt)　這(DET)　家(M)　酒店(N)　。(PERIODCATEGORY)

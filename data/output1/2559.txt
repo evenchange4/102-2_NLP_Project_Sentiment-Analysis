@@ -1,0 +1,7 @@
+　酒店(N)　內(N)　有(Vt)　刺鼻(Vi)　的(T)　濃味(N)　，(COMMACATEGORY)
+　尤其(ADV)　是(Vt)　過道(N)　，(COMMACATEGORY)
+　不過(C)　該(DET)　酒店(N)　在(P)　裝修(Nv)　。(PERIODCATEGORY)
+　此外(C)　，(COMMACATEGORY)
+　入住(Vt)　前(POST)　跟(P)　酒店(N)　確認(Vt)　好(Vi)　的(T)　積分(N)　累計(Vt)　也(ADV)　事(N)　後(POST)　找(Vt)　借口(N)　，(COMMACATEGORY)
+　說(Vt)　房價(N)　太(ADV)　低(Vi)　而(C)　不予(Vt)　累計(Vt)　。(PERIODCATEGORY)
+　本人(N)　不(ADV)　推薦(Vt)　入住(Vt)　該(DET)　酒店(N)　。(PERIODCATEGORY)

@@ -1,0 +1,7 @@
+　真的(ADV)　是(Vt)　很(ADV)　普通(Vi)　的(T)　一(DET)　家(M)　酒店(N)　，(COMMACATEGORY)
+　不應該(ADV)　成為(Vt)　在(P)　香港(N)　的(T)　居住(Nv)　選擇(N)　。(PERIODCATEGORY)
+　因為(C)　：(COLONCATEGORY)　1(DET)　、(PAUSECATEGORY)　在(P)　一(DET)　個(M)　小巷(N)　裡(N)　，(COMMACATEGORY)
+　很(ADV)　難找(Vt)　；(SEMICOLONCATEGORY)　2(DET)　、(PAUSECATEGORY)　價格(N)　奇貴(Vi)　，(COMMACATEGORY)
+　且(C)　房間(N)　又(ADV)　小(Vi)　，(COMMACATEGORY)
+　也(ADV)　就是(C)　國內(N)　很(ADV)　小(Vi)　的(T)　單(A)　人間(N)　也(ADV)　敢(Vt)　叫(Vt)　標準(N)　間(POST)　；(SEMICOLONCATEGORY)　3(DET)　、(PAUSECATEGORY)　前台(N)　服務(Vt)　冷漠(Vi)　，(COMMACATEGORY)
+　老(ADV)　對(P)　大陸人(N)　翻白眼(Vi)　。(PERIODCATEGORY)

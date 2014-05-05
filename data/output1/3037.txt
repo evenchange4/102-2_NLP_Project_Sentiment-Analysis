@@ -1,0 +1,8 @@
+　很少(ADV)　上(POST)　來(ADV)　點評(N)　，(COMMACATEGORY)
+　但是(C)　為了(P)　讓(Vt)　大家(N)　有(Vt)　個(M)　正確(Vi)　地(T)　認識(Nv)　，(COMMACATEGORY)
+　我(N)　願意(Vt)　花(Vt)　點(M)　時間(N)　來(ADV)　點評(N)　下(N)　：(COLONCATEGORY)　我(N)　的(T)　建議(N)　是(Vt)　請(Vt)　你(N)　選擇(Vt)　別的(DET)　酒店(N)　，(COMMACATEGORY)
+　因為(C)　此(DET)　酒店(N)　較(ADV)　陳舊(Vi)　，(COMMACATEGORY)
+　最(ADV)　重要(Vi)　的(T)　是(Vt)　房間(N)　的(T)　隔音(A)　效果(N)　非常(ADV)　差(Vi)　，(COMMACATEGORY)
+　我(N)　本人(N)　非常(ADV)　的(T)　不(ADV)　適應(Vt)　，(COMMACATEGORY)
+　當然(ADV)　如果(C)　您(N)　對(P)　噪音(N)　覺得(Vt)　無所謂(Vi)　的(T)　話(N)　，(COMMACATEGORY)
+　此(DET)　酒店(N)　還是(ADV)　可以(ADV)　的(T)　。(PERIODCATEGORY)

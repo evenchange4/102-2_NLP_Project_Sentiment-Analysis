@@ -1,0 +1,4 @@
+　房間(N)　陰暗(Vi)　，(COMMACATEGORY)
+　有(Vt)　異味(N)　，(COMMACATEGORY)
+　總之(ADV)　非常(ADV)　失望(Vi)　，(COMMACATEGORY)
+　肯定(Vt)　不會(ADV)　再(ADV)　住(Vt)　了(ASP)　。(PERIODCATEGORY)

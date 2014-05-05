@@ -1,0 +1,8 @@
+　簡單(Vi)　的(T)　一(DET)　個(M)　字(N)　，(COMMACATEGORY)
+　差(Vi)　，(COMMACATEGORY)
+　就(ADV)　像(Vt)　是(Vt)　招待所(N)　，(COMMACATEGORY)
+　酒店(N)　比較(ADV)　偏(Vi)　，(COMMACATEGORY)
+　周邊(N)　沒有(ADV)　吃飯(Vi)　的(T)　地方(N)　，(COMMACATEGORY)
+　只(ADV)　有(Vt)　一(DET)　家(M)　酒店(N)　自己(N)　開(Vt)　的(T)　餐館(N)　，(COMMACATEGORY)
+　裡面(N)　的(T)　東西(N)　兩(DET)　個(M)　字(N)　，(COMMACATEGORY)
+　難吃(Vi)　。(PERIODCATEGORY)

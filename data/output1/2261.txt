@@ -1,0 +1,3 @@
+　1(DET)　、(PAUSECATEGORY)　大(Vi)　床(N)　房(N)　其實(ADV)　是(Vt)　一(DET)　個(M)　很(ADV)　小(Vi)　的(T)　房(N)　；(SEMICOLONCATEGORY)　2(DET)　、(PAUSECATEGORY)　新(Vi)　裝修(Vt)　的(T)　房(N)　其實(ADV)　一點(DET)　都(ADV)　不(ADV)　新(Vi)　，(COMMACATEGORY)
+　看起來(ADV)　挺(ADV)　舊(Vi)　的(T)　。(PERIODCATEGORY)
+　補充(Vt)　點評(N)　2008年(N)　5月(N)　23日(N)　：(COLONCATEGORY)　我(N)　入住(Vt)　的(T)　是(Vt)　新(Vi)　裝修(Vt)　的(T)　豪華房(N)

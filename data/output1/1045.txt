@@ -1,0 +1,5 @@
+　整(DET)　個(M)　酒店(N)　的(T)　環境(N)　、(PAUSECATEGORY)　設施(N)　等(POST)　都(ADV)　很(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　但(C)　讓(Vt)　服務員(N)　拿份(N)　地圖(N)　，(COMMACATEGORY)
+　卻(ADV)　一直(ADV)　沒(ADV)　拿來(Vt)　，(COMMACATEGORY)
+　價格(N)　好像(ADV)　比(P)　以前(N)　也(ADV)　高(Vi)　了(ASP)　一點(ADV)　。(PERIODCATEGORY)
+　不過(C)　性價(N)　比(P)　還是(ADV)　令(Vt)　人(N)　滿意(Vt)　的(T)　。(PERIODCATEGORY)

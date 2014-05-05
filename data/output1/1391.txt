@@ -1,0 +1,2 @@
+　非常(ADV)　不錯(Vi)　的(T)　一(DET)　家(M)　酒店(N)　。(PERIODCATEGORY)
+　沒有(Vt)　什麼(DET)　可以(ADV)　挑剔(Vt)　的(T)　了(T)　。(PERIODCATEGORY)

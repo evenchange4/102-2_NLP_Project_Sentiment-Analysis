@@ -1,0 +1,4 @@
+　前台(N)　的(T)　服務(Nv)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　10月(N)　1日(N)　的(T)　值班(Nv)　經理(N)　徐(N)　經理(N)　有意(Vt)　欺詐(Vt)　，(COMMACATEGORY)
+　將(P)　220(DET)　元(M)　一(DET)　晚(M)　的(T)　標準(N)　間(POST)　欺騙(Vt)　我(N)　成(Vt)　380(DET)　元(M)　的(T)　商務房(N)　，(COMMACATEGORY)
+　好在(ADV)　攜程地(N)　客服(N)　打電話(Vi)　給(Vt)　我(N)　確認(Vt)　才(ADV)　沒有(Vt)　上當(Vi)　。(PERIODCATEGORY)

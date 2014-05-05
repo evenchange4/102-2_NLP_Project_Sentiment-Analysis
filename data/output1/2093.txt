@@ -1,0 +1,6 @@
+　住(Vt)　過(ASP)　所有(DET)　三星(N)　酒店(N)　感覺(N)　最(ADV)　差(Vi)　的(T)　一(DET)　家(M)　.(PERIODCATEGORY)　1(DET)　,(COMMACATEGORY)
+　周邊(N)　環境(N)　極(ADV)　差(Vi)　,(COMMACATEGORY)
+　2.二(DET)　樓(N)　的(T)　卡啦(ADV)　OK(FW)　感覺(N)　很(ADV)　曖昧(Vi)　,(COMMACATEGORY)
+　電梯(N)　上(N)　有(Vt)　很(ADV)　"(FW)　職業(N)　"(FW)　的(T)　打扮(N)　怪異(Vi)　的(T)　女性(N)　出入(Vt)　.(PERIODCATEGORY)　3(DET)　,(COMMACATEGORY)
+　酒店(N)　有(Vt)　股(M)　發霉(Vi)　的(T)　味道(N)　.(PERIODCATEGORY)　4(DET)　,(COMMACATEGORY)
+　酒(N)

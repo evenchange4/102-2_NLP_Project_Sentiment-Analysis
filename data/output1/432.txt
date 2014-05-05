@@ -1,0 +1,4 @@
+　很(ADV)　超值(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　對得起(Vt)　這(DET)　個(M)　價格(N)　，(COMMACATEGORY)
+　但是(C)　上網(Nv)　步驟(N)　比較(ADV)　麻煩(Vt)　，(COMMACATEGORY)
+　網(N)　速(Vi)　一般(POST)　。(PERIODCATEGORY)

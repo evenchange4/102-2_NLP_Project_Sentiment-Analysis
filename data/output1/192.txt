@@ -1,0 +1,6 @@
+　7月(N)　19日(N)　入住(Vt)　酒店(N)　總體(N)　感覺(N)　較(ADV)　好(Vi)　不足(Vi)　之(T)　處(N)　如下(Vt)　1.一(DET)　號(M)　樓(N)　到(Vt)　二(DET)　號(M)　樓(N)　的(T)　指示(N)　標誌(N)　不(ADV)　明顯(Vi)　，(COMMACATEGORY)
+　而且(C)　要(ADV)　走(Vi)　很(ADV)　遠(Vi)　2(DET)　.(PERIODCATEGORY)　服務(Nv)　人員(N)　似乎(ADV)　不(ADV)　知道(Vt)　什麼(DET)　是(Vt)　主動(Vi)　見面(Vi)　打招呼(Vi)　，(COMMACATEGORY)
+　這(DET)　點(M)　比起(P)　海景(N)　花園(N)　酒店(N)　要(ADV)　差(Vi)　的(T)　遠(Vi)　。(PERIODCATEGORY)
+　我(N)　在(P)　酒店(N)　大廳(N)　、(PAUSECATEGORY)　走廊(N)　、(PAUSECATEGORY)　院子(N)　裡(POST)　，(COMMACATEGORY)
+　見到(Vt)　酒店(N)　各(DET)　個(M)　崗位(N)　的(T)　服務(Nv)　人員(N)　，(COMMACATEGORY)
+　大部分(DET)　都(ADV)　不(ADV)　知道(Vt)　應該(ADV)　主動(Vi)　和(C)　客人(N)　打招呼(Vi)　問好(Vi)

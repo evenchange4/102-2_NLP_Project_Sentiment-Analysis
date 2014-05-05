@@ -1,0 +1,4 @@
+　只(ADV)　能(ADV)　說(Vt)　...(ETCCATEGORY)　恐怖(Vi)　...(ETCCATEGORY)　,(COMMACATEGORY)
+　特價(N)　房(N)　裡面(N)　居然(ADV)　有(Vt)　兩(DET)　扇(M)　門(N)　，(COMMACATEGORY)
+　雖然(C)　大(Vi)　不(ADV)　太(ADV)　，(COMMACATEGORY)
+　但(C)　也(ADV)　讓(Vt)　你(N)　睡(Vi)　不(ADV)　好(Vi)　...(ETCCATEGORY)

@@ -1,0 +1,8 @@
+　大堂(N)　是(Vt)　喧鬧(Vi)　的(T)　，(COMMACATEGORY)
+　房間(N)　地毯(N)　是(Vt)　髒(Vi)　的(T)　，(COMMACATEGORY)
+　浴室(N)　淋浴(Nv)　龍頭(N)　是(Vt)　壞(Vt)　的(T)　，(COMMACATEGORY)
+　毛巾(N)　是(Vt)　黃(Vi)　顏色(N)　的(T)　。(PERIODCATEGORY)
+　補充(Vt)　點評(N)　2007年(N)　9月(N)　11日(N)　：(COLONCATEGORY)　雖然(C)　號稱(Vt)　是(Vt)　5星級(N)　酒店(N)　，(COMMACATEGORY)
+　但是(C)　感覺(Vt)　其(DET)　檔次(N)　很(ADV)　低(Vi)　。(PERIODCATEGORY)
+　很多(DET)　歡場(N)　女子(N)　出入(Vt)　其中(DET)　，(COMMACATEGORY)
+　讓(Vt)　人(N)　又(ADV)　不安(Vi)　的(T)　感覺(N)　。(PERIODCATEGORY)

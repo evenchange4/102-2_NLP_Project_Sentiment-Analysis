@@ -1,0 +1,4 @@
+　中(N)　煤(N)　大廈(N)　在(P)　同(DET)　價位(N)　的(T)　酒店(N)　中(POST)　，(COMMACATEGORY)
+　個人(N)　感覺(N)　性價(N)　比(P)　還(ADV)　可以(ADV)　。(PERIODCATEGORY)
+　只(ADV)　是(Vt)　我(N)　住(Vt)　的(T)　房間(N)　臨街(N)　，(COMMACATEGORY)
+　晚上(N)　比較(ADV)　吵(Vi)　。(PERIODCATEGORY)

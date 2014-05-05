@@ -1,0 +1,5 @@
+　上(DET)　個(M)　星期(N)　剛(ADV)　去(ADV)　住(Vt)　了(ASP)　一(DET)　個(M)　晚上(N)　,(COMMACATEGORY)
+　很(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　有(Vt)　重(Vi)　裝修(Vt)　過(ASP)　,(COMMACATEGORY)
+　現在(N)　己經(ADV)　不(ADV)　是(Vt)　三星(N)　的(T)　了(T)　,(COMMACATEGORY)
+　是(Vt)　四星(N)　的(T)　了(T)　.(PERIODCATEGORY)　房間(N)　裡(N)　看(Vt)　窗(N)　外(POST)　的(T)　景色(N)　相當(ADV)　不錯(Vi)　.(PERIODCATEGORY)　視野(N)　很(ADV)　開闊(Vt)　.(PERIODCATEGORY)

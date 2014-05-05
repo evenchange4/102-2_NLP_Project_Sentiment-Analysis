@@ -1,0 +1,3 @@
+　沒有(ADV)　比(P)　這(DET)　個(M)　更(ADV)　差勁(Vi)　的(T)　房間(N)　了(T)　，(COMMACATEGORY)
+　近(DET)　火車站(N)　。(PERIODCATEGORY)
+　服務(Vt)　一般(A)　般(POST)

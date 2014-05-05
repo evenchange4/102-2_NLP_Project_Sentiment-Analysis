@@ -1,0 +1,2 @@
+　是(Vt)　寧夏(N)　唯一(A)　可以(ADV)　住(Vt)　的(T)　酒店(N)　了(T)　，(COMMACATEGORY)
+　每(DET)　次(M)　都(ADV)　住(Vt)　在(P)　這裡(N)　。(PERIODCATEGORY)

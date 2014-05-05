@@ -1,0 +1,7 @@
+　作為(Vt)　一(DET)　家(M)　兩(DET)　星級(N)　酒店(N)　已經(ADV)　不錯(Vi)　了(T)　，(COMMACATEGORY)
+　我(N)　訂(Vt)　的(T)　是(Vt)　套房(N)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　乾淨(Vi)　也(ADV)　很(ADV)　寬敞(Vi)　，(COMMACATEGORY)
+　衛生間(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　還(ADV)　帶(Vt)　淋浴房(N)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　很(ADV)　到位(Vi)　，(COMMACATEGORY)
+　毛病(N)　就(ADV)　是(Vt)　服務員(N)　的(T)　普通話(N)　需要(Vt)　加強(Vt)

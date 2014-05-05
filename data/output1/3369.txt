@@ -1,0 +1,8 @@
+　春節(N)　去(ADV)　住(Vt)　了(ASP)　一(DET)　晚(M)　,(COMMACATEGORY)
+　進(Vt)　門(N)　就(ADV)　像(P)　到(Vt)　了(ASP)　一(DET)　個(M)　大(Vi)　市場(N)　,(COMMACATEGORY)
+　晚上(N)　快(Vi)　12(DET)　:(COLONCATEGORY)　00(DET)　了(T)　,(COMMACATEGORY)
+　竟然(ADV)　還(ADV)　人聲(N)　鼎沸(Vi)　,(COMMACATEGORY)
+　感覺(Vt)　很(ADV)　鬧(Vt)　.(PERIODCATEGORY)　房間(N)　進去(Vi)　後(POST)　感覺(Vt)　還(ADV)　可以(ADV)　,(COMMACATEGORY)
+　不過(C)　衛生間(N)　很(ADV)　差(Vi)　,(COMMACATEGORY)
+　淋浴(Vi)　沒有(Vt)　門(N)　,(COMMACATEGORY)
+　撒(Vt)　了(ASP)　一(DET)　屋(N)　的(T)　水(N)　.(PERIODCATEGORY)　整體(N)　感覺(N)　就(ADV)　是(Vt)　3星(N)　標準(N)　.(PERIODCATEGORY)　第2天(N)　換去(Vt)　香格里拉(N)　了(T)　.(PERIODCATEGORY)　以後(N)　也(ADV)　不會(ADV)　再(ADV)　去(T)　!(EXCLAMATIONCATEGORY)

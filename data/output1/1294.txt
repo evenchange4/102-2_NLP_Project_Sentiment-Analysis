@@ -1,0 +1,5 @@
+　名(A)　頭(N)　特別(Vi)　響亮(Vi)　，(COMMACATEGORY)
+　不過(C)　設施(N)　可(ADV)　不(ADV)　怎麼樣(Vi)　，(COMMACATEGORY)
+　尤其(ADV)　是(Vt)　單人(A)　大(Vi)　床(N)　房(N)　，(COMMACATEGORY)
+　居然(ADV)　沒有(Vt)　安靜(Vi)　的(T)　房間(N)　。(PERIODCATEGORY)
+　入住(Vt)　後(POST)　只好(ADV)　更換(Vt)　為(P)　雙(A)　人間(N)　。(PERIODCATEGORY)

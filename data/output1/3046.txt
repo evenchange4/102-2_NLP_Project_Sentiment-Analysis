@@ -1,0 +1,6 @@
+　總(A)　台(N)　服務(Vt)　還(ADV)　可以(ADV)　，(COMMACATEGORY)
+　房間(N)　實在(ADV)　不(ADV)　怎麼樣(Vi)　，(COMMACATEGORY)
+　空調(N)　很(ADV)　吵(Vi)　，(COMMACATEGORY)
+　床(N)　居然(ADV)　是(Vt)　一(DET)　邊(N)　高(Vi)　一(DET)　邊(N)　低(Vi)　的(T)　，(COMMACATEGORY)
+　這(DET)　個(M)　房價(N)　實在(ADV)　是(Vt)　不(ADV)　值得(Vi)　，(COMMACATEGORY)
+　下(DET)　次(M)　不會(ADV)　選擇(Vt)　。(PERIODCATEGORY)

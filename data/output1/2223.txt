@@ -1,0 +1,4 @@
+　有(Vt)　蟑螂(N)　！(EXCLAMATIONCATEGORY)　具(Vt)　可怕(Vi)　。(PERIODCATEGORY)
+　解決(Vt)　問題(N)　的(T)　方法(N)　是(Vt)　想(Vt)　送(Vt)　個(M)　果盤(N)　完事(Vi)　。(PERIODCATEGORY)
+　態度(N)　惡劣(Vi)　，(COMMACATEGORY)
+　只(ADV)　能(ADV)　拎(Vt)　包(Vt)　走人(Vi)　。(PERIODCATEGORY)

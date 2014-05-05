@@ -1,0 +1,4 @@
+　我(N)　入住(Vt)　的(T)　飯店(N)　裝修(Vt)　陳舊(Vi)　，(COMMACATEGORY)
+　中央(N)　空調(N)　晚上(N)　凍(Vt)　得(T)　還(ADV)　要(ADV)　給(Vt)　服務生(N)　要(Vt)　被子(N)　，(COMMACATEGORY)
+　害(Vt)　得(T)　我(N)　都(ADV)　感冒(Vi)　了(T)　。(PERIODCATEGORY)
+　四(DET)　星(N)　有名無實(Vi)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)

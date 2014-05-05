@@ -1,0 +1,2 @@
+　房間(N)　設施(N)　遠達(Vt)　不(ADV)　到(Vt)　四星(N)　水平(N)　,(COMMACATEGORY)
+　勉強(Vi)　也(ADV)　就是(C)　三星(N)　.(PERIODCATEGORY)

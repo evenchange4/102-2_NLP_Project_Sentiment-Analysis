@@ -1,0 +1,7 @@
+　房間(N)　打掃(Vt)　的(T)　不(ADV)　乾淨(Vi)　（(PARENTHESISCATEGORY)　桌(N)　下(POST)　竟然(ADV)　有(Vt)　一(DET)　隻(M)　髒(Vi)　襪子(N)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　設備(N)　比較(ADV)　舊(Vi)　，(COMMACATEGORY)
+　早餐(N)　太(ADV)　差(Vi)　，(COMMACATEGORY)
+　還(ADV)　有(Vt)　就是(C)　在(P)　洗澡(Vi)　時(POST)　洗(Vt)　一半(DET)　竟然(ADV)　沒(Vt)　冷水(N)　，(COMMACATEGORY)
+　差點(ADV)　燙傷(Vt)　，(COMMACATEGORY)
+　總的來說(ADV)　比較(ADV)　差(Vi)　，(COMMACATEGORY)
+　以後(N)　不會(ADV)　再(ADV)　選擇(Vt)　入住(Vt)　該(DET)　家(N)　酒店(N)

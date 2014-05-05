@@ -1,0 +1,4 @@
+　前台(N)　服務(Nv)　態度(N)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　不能(ADV)　替(P)　客戶(N)　考慮(Vt)　，(COMMACATEGORY)
+　賓館(N)　裝修(Nv)　，(COMMACATEGORY)
+　噪音(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)

@@ -1,0 +1,6 @@
+　比較(ADV)　滿意(Vt)　，(COMMACATEGORY)
+　位置(N)　不錯(Vi)　，(COMMACATEGORY)
+　門(N)　前(N)　路(N)　已經(ADV)　修好(Vt)　。(PERIODCATEGORY)
+　裝修(Nv)　、(PAUSECATEGORY)　設施(N)　均(ADV)　較(ADV)　新(Vi)　，(COMMACATEGORY)
+　細節(N)　服務(Nv)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　沒有(ADV)　接到(Vt)　騷擾(Nv)　電話(N)　。(PERIODCATEGORY)

@@ -1,0 +1,5 @@
+　酒店(N)　很(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　房間(N)　不錯(Vi)　，(COMMACATEGORY)
+　早餐(N)　一般(POST)　，(COMMACATEGORY)
+　但是(C)　周圍(N)　環境(N)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　基本(N)　上(N)　沒有(Vt)　什麼(DET)　可以(ADV)　吃飯(Vi)　的(T)　地方(N)　。(PERIODCATEGORY)

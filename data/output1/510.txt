@@ -1,0 +1,4 @@
+　房間(N)　設施(N)　\(FW)　裝修(Nv)　都(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　環境(N)　優雅(Vi)　,(COMMACATEGORY)
+　接待(Vt)　\(FW)　結帳(Vi)　服務(Vt)　不錯(Vi)　,(COMMACATEGORY)
+　夠(Vi)　星(N)　.(PERIODCATEGORY)

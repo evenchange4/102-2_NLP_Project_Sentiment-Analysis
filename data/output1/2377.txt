@@ -1,0 +1,7 @@
+　總體(N)　說來(ADV)　,(COMMACATEGORY)
+　應該(ADV)　是(Vt)　二(DET)　星級(N)　賓館(N)　.(PERIODCATEGORY)　因為(C)　定(Vt)　的(T)　時間(N)　比較(ADV)　晚(Vi)　,(COMMACATEGORY)
+　所以(C)　只有(C)　這(DET)　家(M)　酒店(N)　了(T)　.(PERIODCATEGORY)　入住(Vt)　時(POST)　,(COMMACATEGORY)
+　問(Vt)　前台(N)　一些(DET)　黃山(N)　城市(N)　的(T)　信息(N)　,(COMMACATEGORY)
+　她們(N)　說(Vt)　不(ADV)　知道(Vt)　.(PERIODCATEGORY)　一(DET)　個(M)　入住(Vt)　也(ADV)　要(ADV)　辦理(Vt)　二十幾(DET)　分鐘(M)　,(COMMACATEGORY)
+　而且(C)　就(ADV)　我們(N)　幾(DET)　個人(N)　.(PERIODCATEGORY)　房間(N)　的(T)　設施(N)　很(ADV)　陳舊(Vi)　,(COMMACATEGORY)
+　住(Vt)　的(T)　也(ADV)　不(ADV)　舒服(Vi)　.(PERIODCATEGORY)

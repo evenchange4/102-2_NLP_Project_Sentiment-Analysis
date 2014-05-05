@@ -1,0 +1,5 @@
+　房間(N)　巨(Vi)　小(Vi)　，(COMMACATEGORY)
+　電視(N)　成(Vt)　了(ASP)　擺設(Vt)　，(COMMACATEGORY)
+　開不了(Vt)　，(COMMACATEGORY)
+　服務員(N)　態度(N)　冷漠(Vi)　。(PERIODCATEGORY)
+　以後(N)　不會(ADV)　再(ADV)　進(Vt)　這(DET)　家(M)　酒店(N)

@@ -1,0 +1,8 @@
+　此(DET)　酒店(N)　設施(N)　陳舊(Vi)　，(COMMACATEGORY)
+　談不上(Vt)　是(Vt)　星級(N)　酒店(N)　，(COMMACATEGORY)
+　只(ADV)　能(ADV)　算是(Vt)　招待所(N)　級別(N)　。(PERIODCATEGORY)
+　房間(N)　小(Vi)　，(COMMACATEGORY)
+　走路(Vi)　地板(N)　搖動(Vt)　，(COMMACATEGORY)
+　總之(ADV)　，(COMMACATEGORY)
+　在(P)　我(N)　此(DET)　住(Vt)　印象(N)　一般(POST)　。(PERIODCATEGORY)
+　下(DET)　次(M)　不會(ADV)　再(ADV)　考慮(Vt)　！(EXCLAMATIONCATEGORY)

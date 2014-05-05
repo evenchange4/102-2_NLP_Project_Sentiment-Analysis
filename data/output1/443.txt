@@ -1,0 +1,8 @@
+　地板(N)　太(ADV)　滑(Vi)　，(COMMACATEGORY)
+　孩子(N)　洗澡(Vi)　出來(Vi)　摔(Vt)　了(ASP)　一(DET)　跤(N)　，(COMMACATEGORY)
+　幸(ADV)　無(Vt)　大礙(N)　。(PERIODCATEGORY)
+　賓館(N)　反饋(Vt)　2008年(N)　6月(N)　23日(N)　：(COLONCATEGORY)　您好(Vi)　,(COMMACATEGORY)
+　再次(ADV)　看到(Vt)　您(N)　的(T)　點評(N)　很(ADV)　開心(Vi)　,(COMMACATEGORY)
+　感謝(Vt)　您(N)　再次(ADV)　選擇(Vt)　國賓(N)　大(Vi)　酒店(N)　入住(Vt)　.(PERIODCATEGORY)　酒店(N)　非常(ADV)　重視(Vt)　您(N)　提出(Vt)　的(T)　寶貴(Vi)　意見(N)　,(COMMACATEGORY)
+　酒店(N)　會(ADV)　針對(P)　衛生間(N)　地板(N)　滑(Vi)　的(T)　問題(N)　研究(Nv)　解決(Nv)　方案(N)　.(PERIODCATEGORY)　希望(Vt)　下(DET)　次(M)　入住(Vt)　時(POST)　您(N)　能(ADV)　感受到(Vt)　我們(N)　的(T)　改進(Nv)　!(EXCLAMATIONCATEGORY)　我們(N)　期待(Vt)　您(N)　的(T)　再次(ADV)　光臨(Vt)　!(EXCLAMATIONCATEGORY)　祝(Vt)　心情(N)　舒暢(Vi)　,(COMMACATEGORY)
+　工作(N)　順利(Vi)　!(EXCLAMATIONCATEGORY)

@@ -1,0 +1,2 @@
+　房間(N)　檔次(N)　和(C)　環境(N)　絕對(ADV)　5星(N)　.(PERIODCATEGORY)　飯菜(N)　質量(N)　屬於(Vt)　上(N)　等(Vt)　.(PERIODCATEGORY)　只是(ADV)　離開(Vt)　市中心(N)　較(ADV)　遠(Vi)　.(PERIODCATEGORY)　不過(C)　酒店(N)　有(Vt)　班車(N)　.(PERIODCATEGORY)　如(C)　能(ADV)　搭上(Vt)　班車(N)　,(COMMACATEGORY)
+　則(ADV)　十全十美(Vi)　.(PERIODCATEGORY)

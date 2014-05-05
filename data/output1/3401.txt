@@ -1,0 +1,6 @@
+　旁(N)　樓(N)　的(T)　房間(N)　千萬(DET)　不能(ADV)　住(Vt)　，(COMMACATEGORY)
+　房間(N)　太(ADV)　差(Vi)　，(COMMACATEGORY)
+　洗手間(N)　居然(ADV)　發現(Vt)　蟑螂(N)　，(COMMACATEGORY)
+　價格(N)　也(ADV)　不(ADV)　便宜(Vi)　，(COMMACATEGORY)
+　很(ADV)　不(ADV)　爽(Vi)　，(COMMACATEGORY)
+　主樓(N)　的(T)　房間(N)　到(Vt)　還可以(ADV)

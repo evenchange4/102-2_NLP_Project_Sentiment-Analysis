@@ -1,0 +1,4 @@
+　外部(N)　環境(N)　不錯(Vi)　，(COMMACATEGORY)
+　但(C)　房間(N)　太(ADV)　舊(Vi)　了(T)　，(COMMACATEGORY)
+　晚上(N)　睡覺(Vi)　陽台門(N)　須(ADV)　用(P)　東西(N)　頂住(Vt)　。(PERIODCATEGORY)
+　性價(N)　比(P)　不(ADV)　高(Vi)　。(PERIODCATEGORY)

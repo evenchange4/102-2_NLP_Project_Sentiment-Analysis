@@ -1,0 +1,4 @@
+　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　就是(C)　能夠(ADV)　提供(Vt)　湖景(N)　大(Vi)　床(N)　房(N)　就(ADV)　好了(T)　，(COMMACATEGORY)
+　因為(C)　酒店(N)　是(Vt)　有(Vt)　這(DET)　種(M)　房間(N)　型號(N)　的(T)　，(COMMACATEGORY)
+　不(ADV)　知道(Vt)　為什麼(ADV)　攜程(N)　不(ADV)　提供(Vt)　！(EXCLAMATIONCATEGORY)

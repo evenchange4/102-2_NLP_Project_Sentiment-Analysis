@@ -1,0 +1,1 @@
+　前台(N)　服務(Nv)　人員(N)　的(T)　態度(N)　差(Vi)　到(Vt)　極點(N)　！(EXCLAMATIONCATEGORY)　下(DET)　次(M)　絕對(ADV)　不會(ADV)　再(ADV)　入住(Vt)　這(DET)　家(M)　酒店(N)　了(T)　。(PERIODCATEGORY)

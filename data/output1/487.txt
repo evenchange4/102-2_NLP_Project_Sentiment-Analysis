@@ -1,0 +1,3 @@
+　應該(ADV)　是(Vt)　濟南(N)　最好(Vi)　的(T)　酒店(N)　了(T)　，(COMMACATEGORY)
+　不過(C)　從(P)　檔次(N)　上來(Vi)　講(Vt)　房間(N)　不(ADV)　夠(ADV)　大(Vi)　，(COMMACATEGORY)
+　沒有(Vt)　自帶(N)　的(T)　商場(N)　是(Vt)　很(ADV)　大(Vi)　的(T)　遺憾(Nv)　！(EXCLAMATIONCATEGORY)

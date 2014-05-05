@@ -1,0 +1,2 @@
+　該(DET)　酒店(N)　最(ADV)　大(Vi)　的(T)　缺點(N)　就是(C)　：(COLONCATEGORY)　吵鬧(Vi)　！(EXCLAMATIONCATEGORY)　對面(N)　的(T)　大(Vi)　喇叭(N)　白天(N)　一直(ADV)　在(P)　放(Vt)　，(COMMACATEGORY)
+　裡面(N)　又(ADV)　有(Vt)　餐廳(N)　在(P)　吵(Vi)　！(EXCLAMATIONCATEGORY)　白天(N)　幾乎(ADV)　沒(ADV)　發(Vt)　休息(Vi)　！(EXCLAMATIONCATEGORY)

@@ -1,0 +1,7 @@
+　酒店(N)　是(Vt)　掛(Vt)　星(N)　四星(N)　，(COMMACATEGORY)
+　但(C)　也(ADV)　就(P)　二星(N)　水平(N)　，(COMMACATEGORY)
+　早餐(N)　花樣(N)　太少(Vi)　。(PERIODCATEGORY)
+　如果(C)　是(Vt)　四星(N)　就(ADV)　按(P)　四星(N)　去(ADV)　做(Vt)　，(COMMACATEGORY)
+　如果說(C)　房價(N)　低(Vi)　就(ADV)　不要(ADV)　掛(Vt)　四星(N)　，(COMMACATEGORY)
+　以後(N)　考慮(Vt)　換(Vt)　其它(DET)　酒店(N)　。(PERIODCATEGORY)
+　另外(C)　寬帶(N)　還(ADV)　得(ADV)　收(Vt)　20(DET)　塊(M)　。(PERIODCATEGORY)

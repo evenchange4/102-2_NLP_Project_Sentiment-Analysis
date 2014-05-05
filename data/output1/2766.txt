@@ -1,0 +1,7 @@
+　我(N)　第一(DET)　次(M)　入住(Vt)　如(P)　家(N)　，(COMMACATEGORY)
+　實際(Vi)　情況(N)　與(C)　現實(N)　相差(Vt)　太(ADV)　遠(Vi)　，(COMMACATEGORY)
+　屋子(N)　裡(N)　味道(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　打開(Vt)　窗戶(N)　換氣(Vi)　又(ADV)　很(ADV)　吵(Vi)　，(COMMACATEGORY)
+　衛生(N)　不(ADV)　敢(Vt)　恭維(Vt)　！(EXCLAMATIONCATEGORY)　入住(Vt)　時間(N)　不(ADV)　長(Vi)　就(ADV)　搬走(Vt)　。(PERIODCATEGORY)
+　而且(C)　位置(N)　也(ADV)　很(ADV)　偏(Vi)　，(COMMACATEGORY)
+　不(ADV)　知道(Vt)　為何(ADV)　在(P)　這裡(N)　選址(Vi)　！(EXCLAMATIONCATEGORY)　總之(ADV)　不會(ADV)　再(ADV)　住(Vt)　！(EXCLAMATIONCATEGORY)　樓下(N)　涮肉(N)　一般(Vi)　！(EXCLAMATIONCATEGORY)

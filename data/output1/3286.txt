@@ -1,0 +1,5 @@
+　總體(N)　感覺(N)　很(ADV)　差(Vi)　！(EXCLAMATIONCATEGORY)　房間(N)　設施(N)　、(PAUSECATEGORY)　服務(Nv)　，(COMMACATEGORY)
+　還(ADV)　有(Vt)　自助(Nv)　早餐(N)　非常(ADV)　差(Vi)　（(PARENTHESISCATEGORY)　品種(N)　少(Vi)　，(COMMACATEGORY)
+　本人(N)　曾(ADV)　問(Vt)　服務員(N)　怎麼(ADV)　沒有(Vt)　葷菜(N)　肉菜(N)　，(COMMACATEGORY)
+　答覆(Vt)　：(COLONCATEGORY)　雞蛋(N)　不(ADV)　是(Vt)　葷菜(N)　嗎(T)　？(QUESTIONCATEGORY)
+　）(PARENTHESISCATEGORY)

@@ -1,0 +1,6 @@
+　不錯(Vi)　的(T)　酒店(N)　,(COMMACATEGORY)
+　裝修(Nv)　和(C)　風格(N)　都(ADV)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　是(Vt)　鄭州(N)　最好(Vi)　的(T)　酒店(N)　了(T)　.(PERIODCATEGORY)　可惜(Vi)　沒有(Vt)　時間(N)　好好(Vi)　住(Vt)　,(COMMACATEGORY)
+　因為(C)　是(Vt)　晚上(N)　到(Vt)　了(ASP)　都(ADV)　一點(DET)　半(DET)　了(T)　.(PERIODCATEGORY)　早上(N)　八(DET)　點(M)　半(DET)　又(ADV)　開車(Vi)　走(Vi)　了(ASP)　,(COMMACATEGORY)
+　所以(C)　只(ADV)　覺得(Vt)　房間(N)　很(ADV)　舒服(Vi)　,(COMMACATEGORY)
+　早餐(N)　很(ADV)　好吃(Vi)　哈哈(ADV)　哈哈(ADV)　..(ETCCATEGORY)　.......(ETCCATEGORY)

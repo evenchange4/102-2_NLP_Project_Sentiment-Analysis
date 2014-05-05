@@ -1,0 +1,2 @@
+　這(DET)　是(Vt)　本人(N)　用(P)　攜程(N)　預定(Vt)　的(T)　最(ADV)　糟糕(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　建議(Vt)　取消(Vt)　該(DET)　酒店(N)　的(T)　合作(Nv)　。(PERIODCATEGORY)

@@ -1,0 +1,7 @@
+　我(N)　住(Vt)　的(T)　行政房(N)　是(Vt)　全新(Vi)　的(T)　，(COMMACATEGORY)
+　有(Vt)　五星級(N)　標準(N)　*(FW)　v(FW)　*(FW)　。(PERIODCATEGORY)
+　只(ADV)　可惜(Vi)　樓頂(N)　的(T)　中(N)　餐廳(N)　在(P)　停業(Nv)　裝修(Nv)　，(COMMACATEGORY)
+　我(N)　挺(ADV)　喜歡(Vt)　這(DET)　個(M)　餐廳(N)　的(T)　，(COMMACATEGORY)
+　正宗(N)　廣東菜(N)　，(COMMACATEGORY)
+　希望(Vt)　下(DET)　次(M)　來(Vi)　時(POST)　復業(Vi)　了(ASP)　。(PERIODCATEGORY)
+　似乎(ADV)　酒店(N)　花(Vt)　了(ASP)　很多(DET)　精力(N)　在(P)　裝修(Nv)　更新(Nv)　。(PERIODCATEGORY)

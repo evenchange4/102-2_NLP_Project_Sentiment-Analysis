@@ -1,0 +1,4 @@
+　環境(N)　和(C)　服務(Nv)　都(ADV)　比較(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　最(ADV)　大(Vi)　的(T)　缺憾(N)　是(Vt)　，(COMMACATEGORY)
+　早上(N)　打(Vt)　的(T)　的(T)　時候(N)　非常(ADV)　不(ADV)　方便(Vi)　。(PERIODCATEGORY)
+　往往(ADV)　需要(Vt)　等上(Vt)　10(DET)　分鐘(M)　時間(N)

@@ -1,0 +1,2 @@
+　住(Vt)　了(ASP)　一(DET)　天(M)　，(COMMACATEGORY)
+　簡直(ADV)　就(ADV)　像(Vt)　噩夢(N)　！(EXCLAMATIONCATEGORY)　沒有(Vt)　一點(DET)　讓(Vt)　我(N)　滿意(Vt)　的(T)　地方(N)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)

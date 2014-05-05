@@ -1,0 +1,7 @@
+　有(Vt)　可能(ADV)　是(Vt)　世界(N)　上(N)　最(ADV)　差(Vi)　的(T)　星級(N)　酒店(N)　，(COMMACATEGORY)
+　電視(N)　都(ADV)　沒有(Vt)　，(COMMACATEGORY)
+　床頭櫃(N)　只(ADV)　配(Vt)　一(DET)　個(M)　，(COMMACATEGORY)
+　如廁(Vi)　需(ADV)　經(P)　走廊(N)　......(ETCCATEGORY)　一(DET)　句(M)　話(N)　,(COMMACATEGORY)
+　爛(Vi)　尾樓(N)　改裝(Vt)　酒店(N)　,(COMMACATEGORY)
+　又(ADV)　不(ADV)　肯(Vt)　花錢(Vi)　,(COMMACATEGORY)
+　連(C)　民工(N)　出租(Vt)　屋(N)　都(ADV)　不如(Vt)　.(PERIODCATEGORY)

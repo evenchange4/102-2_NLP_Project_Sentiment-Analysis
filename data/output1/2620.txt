@@ -1,0 +1,1 @@
+　純粹(ADV)　就(ADV)　是(Vt)　國企(N)　招待所(N)　的(T)　作風(N)　和(C)　質量(N)　.(PERIODCATEGORY)　整(DET)　個(M)　酒店(N)　看上去(ADV)　顯得(Vt)　比較(ADV)　陳舊(Vi)　.(PERIODCATEGORY)

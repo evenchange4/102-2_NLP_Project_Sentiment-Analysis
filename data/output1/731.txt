@@ -1,0 +1,3 @@
+　前台(N)　服務(Nv)　態度(N)　很(ADV)　好(Vi)　很(ADV)　細心(Vi)　，(COMMACATEGORY)
+　但是(C)　硬件(N)　設施(N)　由於(C)　跟不上(Vt)　，(COMMACATEGORY)
+　老化(Vt)　。(PERIODCATEGORY)

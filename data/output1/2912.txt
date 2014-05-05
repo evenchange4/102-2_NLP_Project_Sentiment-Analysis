@@ -1,0 +1,7 @@
+　房間(N)　很(ADV)　一般(Vi)　，(COMMACATEGORY)
+　小(Vi)　，(COMMACATEGORY)
+　且(C)　讓(Vt)　人(N)　感覺(N)　髒(Vi)　，(COMMACATEGORY)
+　隔音(A)　效果(N)　差(Vi)　，(COMMACATEGORY)
+　能(ADV)　聽到(Vt)　走廊(N)　的(T)　人(N)　講話(Vi)　，(COMMACATEGORY)
+　走廊(N)　光線(N)　昏暗(Vi)　，(COMMACATEGORY)
+　旁邊(N)　沒有(Vt)　什麼(DET)　可(ADV)　吃(Vt)　?(QUESTIONCATEGORY)

@@ -1,0 +1,6 @@
+　07(DET)　年(M)　曾經(ADV)　住(Vt)　過(ASP)　一(DET)　次(M)　，(COMMACATEGORY)
+　感覺(N)　還可以(Vi)　。(PERIODCATEGORY)
+　這(DET)　次(M)　感覺(N)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　被子(N)　、(PAUSECATEGORY)　床單(N)　太(ADV)　、(PAUSECATEGORY)　太(ADV)　、(PAUSECATEGORY)　太舊(Vi)　了(T)　，(COMMACATEGORY)
+　早(ADV)　該(ADV)　換新(Vt)　的(T)　了(T)　。(PERIODCATEGORY)
+　其他(DET)　服務業(N)　都(ADV)　一般(Vi)　。(PERIODCATEGORY)

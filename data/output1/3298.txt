@@ -1,0 +1,3 @@
+　我(N)　不(ADV)　知道(Vt)　這裡(N)　的(T)　早餐(N)　餐具(N)　到底(ADV)　是否(ADV)　消毒(Vt)　，(COMMACATEGORY)
+　我(N)　看到(Vt)　服務生(N)　直接(Vi)　就(ADV)　拿(Vt)　收下來(Vi)　的(T)　餐具(N)　在(P)　水龍頭(N)　上手(Vi)　洗(Vt)　以後(POST)　又(ADV)　放回(Vt)　到(P)　了(ASP)　盤(N)　中(POST)　供(Vt)　客人(N)　取用(Vt)　。(PERIODCATEGORY)
+　想想(Vt)　真(ADV)　噁心(Vi)

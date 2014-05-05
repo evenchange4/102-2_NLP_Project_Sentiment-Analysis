@@ -1,0 +1,6 @@
+　酒店(N)　房間(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　這(DET)　是(Vt)　最(ADV)　大(Vi)　的(T)　優點(N)　。(PERIODCATEGORY)
+　設施(N)　不(ADV)　是(Vt)　很(ADV)　新(Vi)　，(COMMACATEGORY)
+　樓道(N)　的(T)　空調(N)　太(ADV)　冷(Vi)　了(T)　，(COMMACATEGORY)
+　只(ADV)　能(ADV)　把(P)　房間(N)　的(T)　空調(N)　關掉(Vt)　。(PERIODCATEGORY)
+　總體(N)　還(ADV)　是(Vt)　不錯(Vi)　的(T)

@@ -1,0 +1,5 @@
+　隔音(A)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　又(ADV)　難找(Vt)　，(COMMACATEGORY)
+　老(Vi)　廠房(N)　改造(Nv)　，(COMMACATEGORY)
+　門口(N)　接待(Vt)　小(Vi)　的(T)　差點(N)　找到(Vt)　隔壁(N)　的(T)　酒店(N)　，(COMMACATEGORY)
+　上海人(N)　的(T)　小氣(Vi)

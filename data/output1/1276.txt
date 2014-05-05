@@ -1,0 +1,3 @@
+　飯店(N)　有(Vt)　些(M)　舊(Vi)　但(C)　房間(N)　乾淨(Vi)　,(COMMACATEGORY)
+　住(Vt)　高層(N)　向(P)　北(N)　房間(N)　安靜(Vi)　,(COMMACATEGORY)
+　假如(C)　下(DET)　次(M)　再(ADV)　去(ADV)　大同(Vi)　會(ADV)　再(ADV)　住(Vt)　.(PERIODCATEGORY)

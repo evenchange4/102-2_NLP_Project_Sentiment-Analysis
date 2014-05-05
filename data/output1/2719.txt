@@ -1,0 +1,6 @@
+　入住(Vt)　前(POST)　的(T)　期待(Nv)　還是(ADV)　很(ADV)　高(Vi)　，(COMMACATEGORY)
+　不過(C)　到達(Vt)　後(POST)　感覺(N)　還是(ADV)　比較(ADV)　失望(Vi)　，(COMMACATEGORY)
+　這(DET)　個(M)　價值(N)　和(C)　七(DET)　斗(M)　星(N)　、(PAUSECATEGORY)　如(P)　家(N)　等(POST)　不(ADV)　到(Vt)　200(DET)　元(M)　房價(N)　的(T)　經濟型(N)　酒店(N)　還是(ADV)　有(Vt)　一定(A)　的(T)　差距(N)　，(COMMACATEGORY)
+　同(ADV)　去(Vt)　的(T)　同事(N)　的(T)　評價(N)　也(ADV)　不(ADV)　高(Vi)　，(COMMACATEGORY)
+　有點(ADV)　後悔(Vt)　沒(ADV)　要(Vt)　什麼(DET)　服務(Nv)　，(COMMACATEGORY)
+　這(DET)　方面(N)　不(ADV)　清楚(Vi)　退房(Vi)　速度(N)　還可以(ADV)

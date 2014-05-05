@@ -1,0 +1,3 @@
+　前台(N)　服務(Vt)　不錯(Vi)　,(COMMACATEGORY)
+　詢問(Vt)　旅遊(Nv)　事宜(N)　都(ADV)　詳細(Vi)　解答(N)　.(PERIODCATEGORY)　早餐(N)　不值(Vi)　三星級(N)　,(COMMACATEGORY)
+　房間(N)　暖氣(N)　不(ADV)　夠(Vi)　.(PERIODCATEGORY)

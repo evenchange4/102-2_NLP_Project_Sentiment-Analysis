@@ -1,0 +1,3 @@
+　萬(DET)　傑(N)　國際(N)　不能(ADV)　刷卡(Vi)　是(Vt)　件(M)　令(Vt)　人(N)　最(ADV)　難以(ADV)　接受(Vt)　的(T)　事情(N)　，(COMMACATEGORY)
+　房間(N)　電視(N)　時(POST)　長(Vi)　不能(ADV)　使用(Vt)　，(COMMACATEGORY)
+　網絡(N)　還(ADV)　收費(Vt)　更(ADV)　讓(Vt)　人(N)　難以(ADV)　接受(Vt)　。(PERIODCATEGORY)

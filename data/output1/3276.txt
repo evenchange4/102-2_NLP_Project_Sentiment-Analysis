@@ -1,0 +1,7 @@
+　這(DET)　是(Vt)　我(N)　住(Vt)　過(ASP)　的(T)　最(ADV)　差(Vi)　的(T)　星級(N)　酒店(N)　,(COMMACATEGORY)
+　連(C)　招待所(N)　都(ADV)　不如(Vt)　，(COMMACATEGORY)
+　房間(N)　小(Vi)　，(COMMACATEGORY)
+　潮濕(Vi)　，(COMMACATEGORY)
+　連張(N)　桌子(N)　都(ADV)　沒有(Vt)　，(COMMACATEGORY)
+　最多(Vi)　的(T)　就是(C)　蚊子(N)　.(PERIODCATEGORY)　還(ADV)　特(ADV)　毒(Vi)　.(PERIODCATEGORY)　叮(Vt)　的(T)　腿(N)　腫(Vi)　了(ASP)　一(DET)　個(M)　星期(N)　，(COMMACATEGORY)
+　我(N)　住(Vt)　的(T)　房間(N)　牆(N)　上(POST)　還(ADV)　留(Vt)　著(ASP)　沾(Vt)　著(ASP)　我(N)　鮮血(N)　的(T)　蚊子(N)　的(T)　屍體(N)　.(PERIODCATEGORY)　如果(C)　有(Vt)　奉獻(Nv)　精神(N)　的(T)　建議(Vt)　你(N)　住(Vt)　這裡(N)　.(PERIODCATEGORY)

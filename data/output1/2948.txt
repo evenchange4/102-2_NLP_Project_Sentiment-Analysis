@@ -1,0 +1,5 @@
+　酒店(N)　看起來(ADV)　設施(N)　都(ADV)　比較(ADV)　陳舊(Vi)　，(COMMACATEGORY)
+　房間(N)　裡(N)　居然(ADV)　沒有(Vt)　中(POST)　控(Vt)　，(COMMACATEGORY)
+　非常(ADV)　不(ADV)　方便(Vi)　。(PERIODCATEGORY)
+　熱水(N)　到(Vt)　還(ADV)　不錯(Vi)　。(PERIODCATEGORY)
+　前台(N)　態度(N)　一般(POST)　.(PERIODCATEGORY)

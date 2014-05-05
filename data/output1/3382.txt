@@ -1,0 +1,4 @@
+　實在(ADV)　比較(ADV)　差(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　強烈(Vi)　不(ADV)　推薦(Vt)　！(EXCLAMATIONCATEGORY)　CTRIP(FW)　現在(N)　也(ADV)　越來越(ADV)　不像話(Vi)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　定(Vt)　的(T)　還是(C)　豪標房(N)　，(COMMACATEGORY)
+　一(ADV)　進(Vt)　房間(N)　，(COMMACATEGORY)
+　居然(ADV)　兩(DET)　個(M)　床(N)　靠在(Vt)　一(DET)

@@ -1,0 +1,3 @@
+　房間(N)　比較(ADV)　差(Vi)　，(COMMACATEGORY)
+　尤其(ADV)　是(Vt)　洗手間(N)　，(COMMACATEGORY)
+　房間(N)　隔音(A)　和(C)　餐飲(N)　服務(Nv)　都(ADV)　不(ADV)　好(Vi)　。(PERIODCATEGORY)

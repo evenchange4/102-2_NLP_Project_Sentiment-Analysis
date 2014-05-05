@@ -1,0 +1,4 @@
+　硬件(N)　設施(N)　太(ADV)　舊(Vi)　,(COMMACATEGORY)
+　和(C)　房價(N)　不(ADV)　相符(Vi)　,(COMMACATEGORY)
+　價格(N)　還是(ADV)　貴(Vi)　了(ASP)　補充(Vt)　點評(N)　2008年(N)　7月(N)　29日(N)　：(COLONCATEGORY)　大(A)　床(N)　房(N)　的(T)　床(N)　太(ADV)　小(Vi)　,(COMMACATEGORY)
+　兩(DET)　人(N)　睡(Vi)　感覺(N)　不(ADV)　舒服(Vi)

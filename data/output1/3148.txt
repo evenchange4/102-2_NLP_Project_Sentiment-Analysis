@@ -1,0 +1,4 @@
+　條件(N)　一般(POST)　，(COMMACATEGORY)
+　就是(C)　地理(N)　位置(N)　不錯(Vi)　，(COMMACATEGORY)
+　離(P)　市中心(N)　比較(ADV)　近(Vi)　，(COMMACATEGORY)
+　出行(Vi)　還(ADV)　比較(ADV)　方便(Vi)　。(PERIODCATEGORY)

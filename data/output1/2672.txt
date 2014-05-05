@@ -1,0 +1,7 @@
+　不(ADV)　想(Vt)　多(ADV)　說(Vt)　，(COMMACATEGORY)
+　就(ADV)　一(DET)　句(M)　話(N)　，(COMMACATEGORY)
+　以後(N)　不會(ADV)　住(Vt)　了(ASP)　，(COMMACATEGORY)
+　不過(C)　前台(N)　的(T)　妹妹(N)　很(ADV)　漂亮(Vi)　。(PERIODCATEGORY)
+　賓館(N)　反饋(Vt)　2008年(N)　4月(N)　3日(N)　：(COLONCATEGORY)　尊敬(Vt)　的(T)　客戶(N)　：(COLONCATEGORY)　您好(Vi)　！(EXCLAMATIONCATEGORY)　如(P)　您(N)　在(P)　錦昌大(N)　酒店(N)　入住(Vt)　期間(N)　有(Vt)　不(ADV)　愉快(Vi)　，(COMMACATEGORY)
+　敬請(Vt)　您(N)　把(P)　您(N)　的(T)　意見(N)　和(C)　建議(N)　告訴(Vt)　我們(N)　，(COMMACATEGORY)
+　我們(N)　將(ADV)　為(P)　您(N)　提供(Vt)　更(ADV)　優質(A)　的(T)　服務(Nv)　！(EXCLAMATIONCATEGORY)　總經理(N)　：(COLONCATEGORY)　黃同金(N)　聯繫(Vt)　電話(N)　：(COLONCATEGORY)　0791(DET)　-(DASHCATEGORY)　2878108(DET)　錦昌大(N)　酒店(N)

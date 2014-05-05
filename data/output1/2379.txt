@@ -1,0 +1,1 @@
+　衛生(N)　條件(N)　、(PAUSECATEGORY)　服務(Nv)　水平(N)　和(C)　服務(Nv)　質量(N)　都(ADV)　只(ADV)　能(ADV)　用(P)　有(Vt)　差(Vi)　來(ADV)　形容(Vt)

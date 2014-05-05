@@ -1,0 +1,4 @@
+　酒店(N)　位置(N)　好(Vi)　，(COMMACATEGORY)
+　環境(N)　可以(ADV)　，(COMMACATEGORY)
+　房間(N)　就(ADV)　是(Vt)　小(Vi)　了(ASP)　點(ADV)　，(COMMACATEGORY)
+　不過(C)　出差(Vi)　住(Vt)　在(P)　這裡(N)　是(Vt)　很(ADV)　不錯(Vi)　的(T)　選擇(N)　。(PERIODCATEGORY)

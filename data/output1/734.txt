@@ -1,0 +1,4 @@
+　總體(N)　感覺(N)　不錯(Vi)　，(COMMACATEGORY)
+　就是(C)　房間(N)　的(T)　窗戶(N)　感覺(N)　不(ADV)　是(Vt)　很(ADV)　好(Vi)　使用(Vt)　，(COMMACATEGORY)
+　早餐(N)　一般(POST)　，(COMMACATEGORY)
+　但是(C)　還是(ADV)　值得(Vi)　一(ADV)　住(Vt)　！(EXCLAMATIONCATEGORY)

@@ -1,0 +1,7 @@
+　標準(N)　的(T)　三星(N)　標準(N)　,(COMMACATEGORY)
+　跟(P)　五(DET)　星(N)　標準(N)　是(Vt)　一樣(Vi)　的(T)　,(COMMACATEGORY)
+　只(ADV)　是(Vt)　檔次(N)　看(Vt)　著(ASP)　會(ADV)　低(Vi)　些(ADV)　,(COMMACATEGORY)
+　但是(C)　很(ADV)　乾淨(Vi)　.(PERIODCATEGORY)　房間(N)　也(ADV)　比較(ADV)　大(Vi)　.(PERIODCATEGORY)　有的(DET)　房間(N)　有(Vt)　小(Vi)　冰箱(N)　,(COMMACATEGORY)
+　有的(DET)　沒有(Vt)　.(PERIODCATEGORY)　服務(Nv)　很(ADV)　到位(Vi)　.(PERIODCATEGORY)　環境(N)　也(ADV)　不錯(Vi)　.(PERIODCATEGORY)　網速(N)　很(ADV)　快(Vi)　,(COMMACATEGORY)
+　而且(C)　不(ADV)　收錢(Vi)　.(PERIODCATEGORY)　可以(ADV)　預(ADV)　授權(Vt)　,(COMMACATEGORY)
+　結帳(Vi)　很(ADV)　快(Vi)　.(PERIODCATEGORY)

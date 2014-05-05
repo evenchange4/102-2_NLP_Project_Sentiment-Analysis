@@ -1,0 +1,6 @@
+　房間(N)　乾淨(Vi)　，(COMMACATEGORY)
+　還(ADV)　有(Vt)　淨水(N)　裝置(Nv)　，(COMMACATEGORY)
+　還(ADV)　有(Vt)　浴袍(N)　。(PERIODCATEGORY)
+　免費(Vi)　送(Vt)　的(T)　早餐(N)　也(ADV)　過(Vt)　的(T)　去(T)　。(PERIODCATEGORY)
+　性價(N)　比(P)　不錯(Vi)　。(PERIODCATEGORY)
+　唯一(A)　不足(Vi)　就(ADV)　是(Vt)　前台(N)　結帳(Vi)　的(T)　時間(N)　比較(ADV)　長(Vi)　！(EXCLAMATIONCATEGORY)

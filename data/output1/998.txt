@@ -1,0 +1,3 @@
+　房間(N)　乾淨(Vi)　舒適(Vi)　，(COMMACATEGORY)
+　是(Vt)　出差(Vi)　、(PAUSECATEGORY)　旅遊(Vi)　度假(Vi)　的(T)　理想(N)　之(T)　選(Vt)　。(PERIODCATEGORY)
+　服務業(N)　很(ADV)　不錯(Vi)　。(PERIODCATEGORY)

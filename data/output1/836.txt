@@ -1,0 +1,4 @@
+　幫(P)　家人(N)　訂(Vt)　的(T)　,(COMMACATEGORY)
+　沒(Vt)　什麼(DET)　好說(Vi)　的(T)　,(COMMACATEGORY)
+　香港(N)　的(T)　酒店(N)　嘛(T)　,(COMMACATEGORY)
+　有(Vt)　這樣(Vi)　的(T)　性價(N)　比(P)　就(ADV)　可以(ADV)　了(T)　.(PERIODCATEGORY)

@@ -1,0 +1,3 @@
+　這(DET)　酒店(N)　太(ADV)　舊(Vi)　了(T)　,(COMMACATEGORY)
+　大廳(N)　看上去(ADV)　還可以(Vi)　.(PERIODCATEGORY)　房間(N)　的(T)　設施(N)　成(Vt)　舊(Vi)　不堪(ADV)　!(EXCLAMATIONCATEGORY)　衛生間(N)　的(T)　馬桶(N)　真的(ADV)　都(ADV)　不(ADV)　走(Vi)　水(N)　的(T)　.(PERIODCATEGORY)　早餐(N)　太(ADV)　一般(Vi)　了(T)　.(PERIODCATEGORY)　要(ADV)　去(ADV)　入住(Vt)　的(T)　朋友(N)　要(ADV)　有(Vt)　思想(N)　準備(Nv)　,(COMMACATEGORY)
+　期望值(N)　不要(ADV)　太(ADV)　高(Vi)　.(PERIODCATEGORY)　400多(DET)　一(DET)　晚(M)　說(Vt)　實話(N)　不(ADV)　太(ADV)　值(Vi)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)

@@ -1,0 +1,7 @@
+　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　這(DET)　次(M)　入住(Vt)　酒店(N)　幫(P)　我(N)　免費(Vi)　升級(Vi)　為(Vt)　商務(N)　間(POST)　，(COMMACATEGORY)
+　說(Vt)　是(Vt)　給(P)　攜程(N)　的(T)　年終(N)　優惠(Nv)　，(COMMACATEGORY)
+　意外(N)　地(T)　滿意(Nv)　。(PERIODCATEGORY)
+　賓館(N)　反饋(Vt)　2008年(N)　1月(N)　16日(N)　：(COLONCATEGORY)　感謝(Vt)　您(N)　對(P)　大連(N)　銀帆(N)　賓館(N)　的(T)　滿意(Nv)　和(C)　支持(Nv)　！(EXCLAMATIONCATEGORY)　商務(N)　間(POST)　是(Vt)　比(P)　基礎(N)　房型(N)　豪華(Vi)　間高(N)　兩(DET)　個(M)　級別(N)　的(T)　全新(Vi)　房型(N)　，(COMMACATEGORY)
+　目前(N)　推出(Vt)　年終(N)　回饋(Vt)　498(DET)　元(M)　商務(N)　間(POST)　升級(Vi)　活動(N)　，(COMMACATEGORY)
+　希望(Vt)　大家(N)　更(ADV)　喜歡(Vt)　我們(N)　的(T)　新(Vi)　房間(N)　、(PAUSECATEGORY)　新(Vi)　銀帆(N)　！(EXCLAMATIONCATEGORY)　銀帆(N)　賓館(N)　歡迎(Vt)　您(N)　！(EXCLAMATIONCATEGORY)

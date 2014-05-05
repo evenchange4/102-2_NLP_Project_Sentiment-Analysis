@@ -1,0 +1,2 @@
+　跟住(Vt)　招待所(N)　沒(Vt)　什麼(DET)　太(ADV)　大(Vi)　區別(N)　。(PERIODCATEGORY)
+　絕對(ADV)　不會(ADV)　再(ADV)　住(Vt)　第2(DET)　次(M)　的(T)　酒店(N)　！(EXCLAMATIONCATEGORY)

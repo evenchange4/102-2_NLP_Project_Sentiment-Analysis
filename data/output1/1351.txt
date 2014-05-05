@@ -1,0 +1,3 @@
+　地理(N)　位置(N)　不錯(Vi)　,(COMMACATEGORY)
+　服務(Vt)　還可以(Vi)　吧(T)　,(COMMACATEGORY)
+　希望(Vt)　攜程(N)　的(T)　房價(N)　以後(POST)　更(ADV)　有(Vt)　競爭力(N)　一點(DET)

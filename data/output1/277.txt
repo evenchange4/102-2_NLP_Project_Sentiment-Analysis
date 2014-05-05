@@ -1,0 +1,5 @@
+　環境(N)　還(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　在(P)　西(N)　街頭(N)　上(N)　,(COMMACATEGORY)
+　又(ADV)　有(Vt)　相當(Vi)　的(T)　一段(N)　距離(N)　與(C)　吵鬧(Vi)　的(T)　西街(N)　隔離(Nv)　,(COMMACATEGORY)
+　非常(ADV)　安靜(Vi)　.(PERIODCATEGORY)　但是(C)　:(COLONCATEGORY)　1(DET)　.(PERIODCATEGORY)　不能(ADV)　上網(Vi)　,(COMMACATEGORY)
+　與(P)　四星(N)　水準(N)　不符(Vt)　;(SEMICOLONCATEGORY)　2(DET)　.(PERIODCATEGORY)　同(ADV)　去(Vt)　旅伴(N)　抱怨(Vt)　房(N)　內(N)　有(Vt)　霉味(N)

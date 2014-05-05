@@ -1,0 +1,2 @@
+　除了(P)　離(P)　機場(N)　近(Vi)　,(COMMACATEGORY)
+　沒(Vt)　什麼(DET)　可(ADV)　說(Vt)　的(T)　了(T)　.(PERIODCATEGORY)　應該(ADV)　沒有(Vt)　5星(N)　的(T)　.(PERIODCATEGORY)

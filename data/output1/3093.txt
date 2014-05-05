@@ -1,0 +1,7 @@
+　酒店(N)　服務(Nv)　非常(ADV)　差(Vi)　，(COMMACATEGORY)
+　設備(N)　一般(POST)　，(COMMACATEGORY)
+　加(Vt)　床(N)　是(Vt)　硬板(N)　床(N)　且(C)　收費(Nv)　很(ADV)　高(Vi)　，(COMMACATEGORY)
+　服務員(N)　態度(N)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　就(ADV)　像(Vt)　沒有(ADV)　經過(Vt)　培訓(Nv)　，(COMMACATEGORY)
+　業務(N)　也(ADV)　不(ADV)　熟練(Vi)　，(COMMACATEGORY)
+　根本(ADV)　不(ADV)　像(Vt)　三星級(N)　的(T)　酒店(N)　。(PERIODCATEGORY)

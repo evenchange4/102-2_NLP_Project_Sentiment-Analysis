@@ -1,0 +1,5 @@
+　感覺(N)　還(ADV)　不錯(Vi)　.(PERIODCATEGORY)　住(Vt)　的(T)　大(Vi)　床(N)　房(N)　.(PERIODCATEGORY)　房間(N)　小(Vi)　了(ASP)　點(ADV)　.(PERIODCATEGORY)　不過(C)　比較(ADV)　經濟(Vi)　實惠(Vi)　的(T)　.(PERIODCATEGORY)　床(N)　是(Vt)　塌塌米型(N)　的(T)　,(COMMACATEGORY)
+　可惜(Vi)　席夢絲(N)　可能(ADV)　不(ADV)　是(Vt)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　睡(Vi)　得(T)　人(N)　第二(DET)　天(M)　起來(Vi)　腰(N)　酸酸(Vi)　的(T)　.(PERIODCATEGORY)　送(Vt)　兩(DET)　瓶(M)　水(N)　,(COMMACATEGORY)
+　還(ADV)　有(Vt)　些(ADV)　小(Vi)　東西(N)　也(ADV)　不錯(Vi)　的(T)　.(PERIODCATEGORY)　在(P)　海寧(N)　的(T)　中心(N)　地段(N)　,(COMMACATEGORY)
+　還(ADV)　方便(Vi)　的(T)　.(PERIODCATEGORY)

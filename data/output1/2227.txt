@@ -1,0 +1,7 @@
+　酒店(N)　應該(ADV)　加強(Vt)　服務(Nv)　意識(N)　，(COMMACATEGORY)
+　配套(Vi)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　該(DET)　有的(DET)　服務(Nv)　沒有(Vt)　，(COMMACATEGORY)
+　環境(N)　比較(ADV)　舊(Vi)　，(COMMACATEGORY)
+　應該(ADV)　加以(ADV)　修葺(Nv)　，(COMMACATEGORY)
+　翻新(Vt)　，(COMMACATEGORY)
+　配套(Vi)　設施(N)　與(C)　服務(Nv)　應(ADV)　加強(Vt)　。(PERIODCATEGORY)

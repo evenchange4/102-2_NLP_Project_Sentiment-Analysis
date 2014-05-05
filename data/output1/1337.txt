@@ -1,0 +1,7 @@
+　10月(N)　16日(N)　入住(Vt)　該(DET)　酒店(N)　.(PERIODCATEGORY)　感覺(N)　不錯(Vi)　哦(T)　,(COMMACATEGORY)
+　離(P)　汽車站(N)　和(C)　火車站(N)　的(T)　距離(N)　都(ADV)　不(ADV)　是(Vt)　非常(ADV)　遠(Vi)　.(PERIODCATEGORY)　房間(N)　很(ADV)　乾淨(Vi)　,(COMMACATEGORY)
+　空間(N)　也(ADV)　非常(ADV)　大(Vi)　.(PERIODCATEGORY)　周邊(N)　的(T)　交通(N)　環境(N)　也好(T)　.(PERIODCATEGORY)　可能(ADV)　住(Vt)　的(T)　樓層(N)　比較(ADV)　高(Vi)　,(COMMACATEGORY)
+　也(ADV)　沒有(Vt)　任何(DET)　的(T)　噪音(N)　.(PERIODCATEGORY)　晚上(N)　有(Vt)　發生(Vt)　熱水(N)　管道(N)　出(Vt)　問題(N)　的(T)　小(Vi)　插曲(N)　,(COMMACATEGORY)
+　但(C)　服務(Nv)　態度(N)　良好(Vi)　,(COMMACATEGORY)
+　解決(Vt)　問題(N)　也(ADV)　很(ADV)　及時(ADV)　,(COMMACATEGORY)
+　絲毫(DET)　沒有(ADV)　影響到(Vt)　對(P)　酒店(N)　的(T)　好感(N)　.(PERIODCATEGORY)　主要(A)　是(Vt)　價格(N)　非常(ADV)　合理(Vi)　.(PERIODCATEGORY)　可以(ADV)　說(Vt)　對(P)　該(DET)　酒店(N)　非常(ADV)　滿意(Vt)　.(PERIODCATEGORY)　小(Vi)　缺點(N)　就是(C)　硬件(N)　?(QUESTIONCATEGORY)

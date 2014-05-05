@@ -1,0 +1,7 @@
+　裝修(Vt)　簡潔(Vi)　實用(Vi)　，(COMMACATEGORY)
+　但(C)　電源(N)　插口(Vi)　少(Vi)　，(COMMACATEGORY)
+　要(ADV)　配(Vt)　個(M)　接線器(N)　為(Vt)　好(Vi)　。(PERIODCATEGORY)
+　另外(C)　浴缸(N)　的(T)　hot(FW)　龍頭(N)　請(Vt)　配(Vt)　圖示(Vt)　，(COMMACATEGORY)
+　第一(DET)　次(M)　來(Vi)　的(T)　一定(ADV)　弄(Vt)　很(ADV)　久(Vi)　。(PERIODCATEGORY)
+　酒店(N)　lobby(FW)　太(ADV)　大(Vi)　，(COMMACATEGORY)
+　早餐(N)　要(ADV)　歷經(Vt)　磨難(N)

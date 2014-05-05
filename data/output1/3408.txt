@@ -1,0 +1,4 @@
+　房間(N)　設施(N)　太(ADV)　陳舊(Vi)　，(COMMACATEGORY)
+　缺少(Vt)　衣櫥(N)　，(COMMACATEGORY)
+　衛生間(N)　的(T)　瓷磚(N)　以及(C)　毛巾(N)　都(ADV)　發黃(Vi)　了(T)　，(COMMACATEGORY)
+　好像(ADV)　是(Vt)　別的(DET)　酒店(N)　淘汰(Vt)　下來(ASP)　的(T)　．(PERIODCATEGORY)　總(A)　的(T)　來(ADV)　講(Vt)　有點(ADV)　對不起(Vt)　２０９(DET)　元(M)　的(T)　房價(N)　．(PERIODCATEGORY)

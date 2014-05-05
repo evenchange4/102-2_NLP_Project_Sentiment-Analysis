@@ -1,0 +1,8 @@
+　可以(ADV)　說(Vt)　是(Vt)　比較(ADV)　差(Vi)　的(T)　一(DET)　個(M)　酒店(N)　，(COMMACATEGORY)
+　酒店(N)　走道(N)　昏暗(Vi)　，(COMMACATEGORY)
+　走道(N)　和(C)　房間(N)　內(N)　都(ADV)　有(Vt)　一(DET)　股(M)　濃濃(Vi)　的(T)　霉味(N)　，(COMMACATEGORY)
+　床單(N)　看上去(ADV)　摸上去(Vi)　也(ADV)　是(Vt)　不(ADV)　很(ADV)　乾淨(Vi)　的(T)　，(COMMACATEGORY)
+　衛生間(N)　味道(N)　更(ADV)　難(Vi)　聞(Vt)　，(COMMACATEGORY)
+　裡面(N)　的(T)　設施(N)　也(ADV)　是(Vt)　發霉(Vi)　的(T)　。(PERIODCATEGORY)
+　最(ADV)　惱人(Vi)　的(T)　是(Vt)　晚上(N)　樓下(N)　的(T)　KTV(FW)　的(T)　音樂聲(N)　，(COMMACATEGORY)
+　難以(ADV)　入睡(Vi)　。(PERIODCATEGORY)

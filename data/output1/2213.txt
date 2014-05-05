@@ -1,0 +1,5 @@
+　離(P)　泰山(N)　較(ADV)　遠(Vi)　，(COMMACATEGORY)
+　實際(Vi)　環境(N)　與(C)　價格(N)　不符(Vt)　，(COMMACATEGORY)
+　漂亮(Vi)　的(T)　外觀(N)　，(COMMACATEGORY)
+　陳舊(Vi)　破爛(Vi)　的(T)　內裡(N)　，(COMMACATEGORY)
+　隔音(A)　極(ADV)　差(Vi)

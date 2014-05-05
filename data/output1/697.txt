@@ -1,0 +1,4 @@
+　不能(ADV)　住(Vt)　靠(P)　馬路(N)　的(T)　房間(N)　,(COMMACATEGORY)
+　太(ADV)　吵(Vi)　,(COMMACATEGORY)
+　一(DET)　晚上(N)　沒(ADV)　睡好(Vi)　.(PERIODCATEGORY)　旁邊(N)　有(Vt)　個(M)　大(Vi)　超市(N)　,(COMMACATEGORY)
+　吃飯(Vi)　方便(Vi)

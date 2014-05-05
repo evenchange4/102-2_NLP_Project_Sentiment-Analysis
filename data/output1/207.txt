@@ -1,0 +1,7 @@
+　豪華(Vi)　商務房(N)　,(COMMACATEGORY)
+　面積(N)　非常(ADV)　大(Vi)　,(COMMACATEGORY)
+　但(C)　頗(ADV)　有(Vt)　大而無當(Vi)　之(T)　感(N)　,(COMMACATEGORY)
+　酒店(N)　的(T)　地毯(N)　很(ADV)　髒(Vi)　,(COMMACATEGORY)
+　污漬(N)　隨處(ADV)　可見(ADV)　,(COMMACATEGORY)
+　空氣(N)　裡面(N)　有(Vt)　揮之不去(Vi)　的(T)　酒氣(N)　.(PERIODCATEGORY)　建議(N)　攜程(N)　考察(Vt)　一(DET)　步(M)　之(T)　遙(Vi)　的(T)　華陽(N)　酒店(N)　,(COMMACATEGORY)
+　不少(DET)　當地(N)　的(T)　朋友(N)　都(ADV)　推薦(Vt)　我們(N)　入住(Vt)　華陽(N)　.(PERIODCATEGORY)

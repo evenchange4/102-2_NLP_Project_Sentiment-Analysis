@@ -1,0 +1,5 @@
+　房間(N)　比較(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　但是(C)　窗戶(N)　打(Vt)　不(ADV)　開(Vt)　，(COMMACATEGORY)
+　空氣(N)　不(ADV)　太(ADV)　好(Vi)　。(PERIODCATEGORY)
+　早餐(N)　很(ADV)　好(Vi)　。(PERIODCATEGORY)
+　總體(N)　不錯(Vi)　。(PERIODCATEGORY)

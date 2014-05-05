@@ -1,0 +1,7 @@
+　聽說(Vt)　是(Vt)　柳州(N)　最好(Vi)　的(T)　飯店(N)　了(T)　,(COMMACATEGORY)
+　原來(ADV)　是(Vt)　市政府(N)　的(T)　招待所(N)　.(PERIODCATEGORY)　靠近(Vt)　一(DET)　條(M)　河(N)　,(COMMACATEGORY)
+　景觀(N)　不錯(Vi)　.(PERIODCATEGORY)　出行(Vi)　交通(N)　也(ADV)　還可以(Vi)　.(PERIODCATEGORY)　房間(N)　沒有(ADV)　留下(Vt)　什麼(DET)　特別(Vi)　深(Vi)　的(T)　印象(N)　,(COMMACATEGORY)
+　但是(C)　覺得(Vt)　底樓(N)　中(N)　餐廳(N)　的(T)　服務員(N)　態度(N)　特別(Vi)　好(Vi)　,(COMMACATEGORY)
+　勤快(Vi)　,(COMMACATEGORY)
+　親切(Vi)　,(COMMACATEGORY)
+　吃(Vt)　頓(M)　飯(N)　送(Vt)　了(ASP)　好幾(DET)　次(M)　熱(Vt)　毛巾(N)　.(PERIODCATEGORY)

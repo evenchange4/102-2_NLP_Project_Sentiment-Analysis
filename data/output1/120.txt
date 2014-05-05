@@ -1,0 +1,3 @@
+　朋友(N)　對(P)　該(DET)　酒店(N)　的(T)　評價(N)　比較(ADV)　滿意(Vt)　，(COMMACATEGORY)
+　就是(C)　交通(N)　非常(ADV)　擁堵(N)　。(PERIODCATEGORY)
+　每(DET)　次(M)　進出(Vt)　都(ADV)　要(ADV)　花費(Vt)　很(ADV)　長(Vi)　的(T)　時間(N)　。(PERIODCATEGORY)

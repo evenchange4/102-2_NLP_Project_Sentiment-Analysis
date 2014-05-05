@@ -1,0 +1,4 @@
+　大(Vi)　床(N)　房(N)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　其他(DET)　的(T)　沒有(Vt)　看過(Vt)　。(PERIODCATEGORY)
+　位置(N)　很(ADV)　好(Vi)　。(PERIODCATEGORY)
+　希望(Vt)　菜(N)　做(Vt)　得(T)　更(ADV)　好吃(Vi)

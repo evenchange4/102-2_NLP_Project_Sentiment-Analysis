@@ -1,0 +1,7 @@
+　床(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　但(C)　房間(N)　靠(P)　大街(N)　，(COMMACATEGORY)
+　路燈(N)　通過(Vt)　衛生間(N)　的(T)　玻璃(N)　照到(Vt)　房間(N)　裡(N)　，(COMMACATEGORY)
+　影響(Vt)　睡眠(N)　。(PERIODCATEGORY)
+　空調(N)　裝(Vt)　在(P)　寫字檯(N)　的(T)　正(N)　上方(N)　，(COMMACATEGORY)
+　對(P)　著(ASP)　頭(N)　吹(Vt)　，(COMMACATEGORY)
+　無法(ADV)　工作(Vi)　。(PERIODCATEGORY)

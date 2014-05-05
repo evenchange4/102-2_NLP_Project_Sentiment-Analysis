@@ -1,0 +1,4 @@
+　住(Vt)　過(ASP)　的(T)　最(ADV)　差(Vi)　的(T)　4星級(N)　賓館(N)　，(COMMACATEGORY)
+　牆壁(N)　根本(ADV)　不(ADV)　隔音(A)　，(COMMACATEGORY)
+　晚上(N)　樓下(N)　卡拉(N)　ＯＫ(FW)　吵(Vt)　的(T)　沒法(ADV)　睡覺(Vi)　，(COMMACATEGORY)
+　早餐(N)　餐廳(N)　都(ADV)　是(Vt)　附近(N)　過來(Vi)　喝(Vt)　早茶(N)　的(T)　老頭(N)

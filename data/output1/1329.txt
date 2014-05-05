@@ -1,0 +1,8 @@
+　客戶(N)　來(ADV)　佛山(N)　工廠(N)　拜訪(Vt)　，(COMMACATEGORY)
+　安排(Vt)　在(P)　這(DET)　家(M)　老牌(Vi)　三星(N)　酒店(N)　，(COMMACATEGORY)
+　儘管(C)　客房(N)　設施(N)　稍(ADV)　顯(Vt)　成就(N)　，(COMMACATEGORY)
+　但(C)　價格(N)　也(ADV)　不(ADV)　貴(Vi)　，(COMMACATEGORY)
+　關鍵(N)　在(P)　地處(Vt)　市中心(N)　，(COMMACATEGORY)
+　購物(Vi)　吃飯(Vi)　都(ADV)　很(ADV)　方便(Vi)　。(PERIODCATEGORY)
+　對於(P)　這(DET)　個(M)　房價(N)　來(ADV)　說(Vt)　，(COMMACATEGORY)
+　還(ADV)　算(Vt)　可以(Vi)　吧(T)　。(PERIODCATEGORY)

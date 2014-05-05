@@ -1,0 +1,6 @@
+　我(N)　帶(Vt)　家人(N)　住(Vt)　過(ASP)　一(DET)　次(M)　，(COMMACATEGORY)
+　印象(N)　非常(ADV)　好(Vi)　，(COMMACATEGORY)
+　是(Vt)　度假(Vi)　好(Vi)　地方(N)　，(COMMACATEGORY)
+　晚餐(N)　星期一(N)　到(P)　五(DET)　買(Vt)　三(DET)　送(Vt)　一(DET)　，(COMMACATEGORY)
+　很(ADV)　划算(Vi)　。(PERIODCATEGORY)
+　我(N)　八月(N)　又(ADV)　準備(Vt)　去(ADV)　住(Vt)　了(ASP)　。(PERIODCATEGORY)

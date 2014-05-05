@@ -1,0 +1,1 @@
+　酒店(N)　房間(N)　沒有(Vt)　桌子(N)　第一(DET)　次(M)　遇到(Vt)　竟然(ADV)　還(ADV)　有(Vt)　蜘蛛(N)　嚇(Vt)　了(ASP)　我(N)　一(ADV)　跳(Vi)　房間(N)　設備(N)　比較(ADV)　老(Vi)

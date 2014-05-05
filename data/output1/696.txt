@@ -1,0 +1,4 @@
+　酒店(N)　位置(N)　比較(ADV)　好(Vi)　,(COMMACATEGORY)
+　設施(N)　比較(ADV)　新(Vi)　,(COMMACATEGORY)
+　房間(N)　比較(ADV)　寬敞(Vi)　，(COMMACATEGORY)
+　服務(Vt)　尚可(Vi)　。(PERIODCATEGORY)

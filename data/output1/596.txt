@@ -1,0 +1,5 @@
+　房間(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　設施(N)　也(ADV)　很(ADV)　新(Vi)　，(COMMACATEGORY)
+　總的來說(ADV)　還是(ADV)　很(ADV)　滿意(Vt)　的(T)　。(PERIODCATEGORY)
+　周圍(N)　的(T)　很(ADV)　方便(Vi)　，(COMMACATEGORY)
+　樓下(N)　隔壁(N)　都(ADV)　有(Vt)　商場(N)　。(PERIODCATEGORY)

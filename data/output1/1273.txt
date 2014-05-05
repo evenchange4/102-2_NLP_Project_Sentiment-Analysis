@@ -1,0 +1,7 @@
+　豪華(Vi)　雙人(N)　間(POST)　的(T)　床(N)　很(ADV)　大(Vi)　,(COMMACATEGORY)
+　一(DET)　張(M)　單人床(N)　已經(ADV)　有(Vt)　我(N)　在(P)　香港(N)　住(Vt)　的(T)　雙人(N)　大(Vi)　床(N)　那麼(ADV)　大(Vi)　,(COMMACATEGORY)
+　一些(DET)　細節(N)　也(ADV)　挺(ADV)　有意思(Vi)　的(T)　,(COMMACATEGORY)
+　象(N)　放(Vt)　在(P)　床頭(N)　的(T)　小(Vi)　信封(N)　會(ADV)　有(Vt)　一(DET)　顆(M)　糖果(N)　和(C)　會(ADV)　告訴(Vt)　你(N)　明天(N)　的(T)　天氣(N)　.(PERIODCATEGORY)　就(ADV)　是(Vt)　毛巾(N)　有點(ADV)　舊(Vi)　.(PERIODCATEGORY)　浴室(N)　裡(N)　也(ADV)　沒有(ADV)　可以(ADV)　晾(Vt)　衣服(N)　的(T)　線(N)　.(PERIODCATEGORY)　補充(Vt)　點評(N)　2007年(N)　2月(N)　28日(N)　：(COLONCATEGORY)　外面(N)　有點(ADV)　舊(Vi)　和(C)　髒(Vi)　,(COMMACATEGORY)
+　我們(N)　剛(ADV)　到(Vt)　的(T)　時候(N)　還(ADV)　猶豫(Vt)　著(ASP)　要不要(ADV)　換(Vt)　一(DET)　家(M)　呢(T)　,(COMMACATEGORY)
+　後來(N)　看到(Vt)　裡面(N)　還是(ADV)　不錯(Vi)　的(T)　,(COMMACATEGORY)
+　是(Vt)　時候(N)　該(ADV)　裝修(Vt)　一下(N)　外面(N)　了(T)

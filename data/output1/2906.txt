@@ -1,0 +1,4 @@
+　看(Vt)　了(ASP)　大家(N)　的(T)　評價(N)　不錯(Vi)　，(COMMACATEGORY)
+　才(ADV)　選擇(Vt)　這(DET)　家(M)　的(T)　。(PERIODCATEGORY)
+　房間(N)　無論如何(ADV)　不能(ADV)　說(Vt)　是(Vt)　三星(N)　的(T)　標準(N)　，(COMMACATEGORY)
+　個人(N)　感覺(Vt)　不如(Vt)　如(P)　家(N)　佈置(Vt)　得(T)　溫馨(Vi)　。(PERIODCATEGORY)

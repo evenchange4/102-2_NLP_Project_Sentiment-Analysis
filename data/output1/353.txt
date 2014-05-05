@@ -1,0 +1,4 @@
+　環境(N)　非常(ADV)　好(Vi)　，(COMMACATEGORY)
+　服務(Vt)　非常(ADV)　好(Vi)　，(COMMACATEGORY)
+　交通(N)　不(ADV)　方便(Vi)　，(COMMACATEGORY)
+　價格(N)　有點(ADV)　貴(Vi)

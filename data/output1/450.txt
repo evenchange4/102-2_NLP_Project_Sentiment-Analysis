@@ -1,0 +1,4 @@
+　在(P)　太原(N)　還(ADV)　算(Vt)　不錯(Vi)　的(T)　，(COMMACATEGORY)
+　個人(N)　認為(Vt)　要(ADV)　比(P)　山西(N)　大(Vi)　酒店(N)　好(Vi)　！(EXCLAMATIONCATEGORY)　國貿(N)　沒(ADV)　住(Vt)　過(ASP)　，(COMMACATEGORY)
+　價格(N)　太(ADV)　貴(Vi)　，(COMMACATEGORY)
+　呵呵(ADV)

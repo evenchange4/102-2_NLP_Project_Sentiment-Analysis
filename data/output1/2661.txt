@@ -1,0 +1,5 @@
+　服務(Nv)　真的(ADV)　很(ADV)　差(Vi)　,(COMMACATEGORY)
+　是(Vt)　我(N)　住(Vt)　過(ASP)　那麼多(DET)　酒店(N)　中(N)　最(ADV)　差(Vi)　的(T)　了(T)　,(COMMACATEGORY)
+　房間(N)　也(ADV)　很(ADV)　舊(Vi)　的(T)　,(COMMACATEGORY)
+　和(P)　招待所(N)　幾乎(ADV)　沒(Vt)　什麼(DET)　區別(N)　,(COMMACATEGORY)
+　住(Vt)　了(ASP)　很(ADV)　後悔(Vt)

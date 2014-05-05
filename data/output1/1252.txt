@@ -1,0 +1,4 @@
+　非常(ADV)　好(Vi)　!(EXCLAMATIONCATEGORY)　訂(Vt)　的(T)　是(Vt)　標房(N)　,(COMMACATEGORY)
+　入住(Vt)　當天(N)　升級(Vi)　為(P)　豪標(N)　.(PERIODCATEGORY)　房間(N)　乾淨(Vi)　,(COMMACATEGORY)
+　服務(Nv)　熱情(N)　.(PERIODCATEGORY)　如果(C)　房間(N)　的(T)　窗戶(N)　能(ADV)　打開(Vt)　((PARENTHESISCATEGORY)　透透氣(Vi)　)(PARENTHESISCATEGORY)　,(COMMACATEGORY)
+　就(ADV)　更(ADV)　好(Vi)　!(EXCLAMATIONCATEGORY)

@@ -1,0 +1,6 @@
+　我(N)　住(Vt)　的(T)　是(Vt)　商務(N)　標(N)　，(COMMACATEGORY)
+　房間(N)　不錯(Vi)　，(COMMACATEGORY)
+　很(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　服務(Vt)　也(ADV)　好(ADV)　！(EXCLAMATIONCATEGORY)　下(DET)　回(M)　還(ADV)　會(ADV)　住(Vt)　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)

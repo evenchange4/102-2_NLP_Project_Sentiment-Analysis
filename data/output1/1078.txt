@@ -1,0 +1,5 @@
+　很(ADV)　安靜(Vi)　，(COMMACATEGORY)
+　周圍(N)　環境(N)　不錯(Vi)　。(PERIODCATEGORY)
+　交通(N)　較(ADV)　便捷(Vi)　。(PERIODCATEGORY)
+　但(C)　周圍(N)　娛樂(N)　設施(N)　，(COMMACATEGORY)
+　或者(C)　飲食(N)　之(T)　處(N)　不(ADV)　多(Vi)　。(PERIODCATEGORY)

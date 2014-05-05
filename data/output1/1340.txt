@@ -1,0 +1,3 @@
+　這裡(N)　的(T)　服務員(N)　很(ADV)　是(Vt)　不錯(Vi)　，(COMMACATEGORY)
+　前(DET)　些(M)　次(M)　住宿(Nv)　過程(N)　中(POST)　給(Vt)　他們(N)　提出(Vt)　的(T)　問題(N)　都(ADV)　能(ADV)　及時(ADV)　糾正(Vt)　，(COMMACATEGORY)
+　讚揚(Vt)　一下(N)　。(PERIODCATEGORY)

@@ -1,0 +1,5 @@
+　價格(N)　還可以(Vi)　，(COMMACATEGORY)
+　位置(N)　也(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　就是(C)　房間(N)　裝修(Vt)　太(ADV)　舊(Vi)　了(T)　，(COMMACATEGORY)
+　也(ADV)　不(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　還(ADV)　有(Vt)　異味(N)　！(EXCLAMATIONCATEGORY)

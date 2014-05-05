@@ -1,0 +1,7 @@
+　位於(Vt)　西環(N)　，(COMMACATEGORY)
+　地處(Vt)　香港(N)　老(Vi)　城區(N)　，(COMMACATEGORY)
+　門口(N)　有(Vt)　巴士(N)　及(C)　電(N)　車站(N)　，(COMMACATEGORY)
+　交通(N)　比較(ADV)　便利(Vt)　，(COMMACATEGORY)
+　酒店(N)　環境(N)　一般(POST)　，(COMMACATEGORY)
+　但(C)　相對(Vi)　於(P)　390(DET)　元(M)　的(T)　價位(N)　來(ADV)　說(Vt)　，(COMMACATEGORY)
+　還是(ADV)　比較(ADV)　划算(Vi)　的(T)　。(PERIODCATEGORY)

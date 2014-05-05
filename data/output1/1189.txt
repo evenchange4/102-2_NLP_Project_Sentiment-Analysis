@@ -1,0 +1,4 @@
+　房間(N)　面積(N)　太(ADV)　大(Vi)　，(COMMACATEGORY)
+　導致(Vt)　小(Vi)　功率(N)　空調(N)　製冷(Vi)　制熱(N)　效果(N)　差(Vi)　，(COMMACATEGORY)
+　另外(C)　床(N)　與(C)　電視(N)　相距(Vt)　較(ADV)　遠(Vi)　，(COMMACATEGORY)
+　觀看(Vt)　起來(ASP)　相對(Vi)　比較(ADV)　費勁(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,8 @@
+　酒店(N)　房間(N)　太(ADV)　爛(Vi)　。(PERIODCATEGORY)
+　服務(Nv)　一般(POST)　。(PERIODCATEGORY)
+　地點(N)　也(ADV)　差(Vi)　。(PERIODCATEGORY)
+　房間(N)　小(Vi)　，(COMMACATEGORY)
+　衛生間(N)　小(Vi)　，(COMMACATEGORY)
+　居然(ADV)　還是(ADV)　蹲(Vi)　便(ADV)　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)

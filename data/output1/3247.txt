@@ -1,0 +1,5 @@
+　酒店(N)　只(ADV)　能(ADV)　用(P)　幾(DET)　個(M)　字(N)　來(ADV)　形容(Vt)　，(COMMACATEGORY)
+　髒亂(Vi)　差(Vi)　，(COMMACATEGORY)
+　半夜三更(N)　有(Vt)　按摩(Nv)　小姐(N)　騷擾(Vt)　你(N)　，(COMMACATEGORY)
+　讓(Vt)　你(N)　休息(Vi)　不(ADV)　好(Vi)　！(EXCLAMATIONCATEGORY)　如果(C)　你(N)　抗議(Vt)　，(COMMACATEGORY)
+　小姐(N)　會(ADV)　告訴(Vt)　你(N)　這(DET)　是(Vt)　他們(N)　的(T)　協議(N)　！(EXCLAMATIONCATEGORY)　不(ADV)　知道(Vt)　什麼(DET)　協議(N)　？(QUESTIONCATEGORY)

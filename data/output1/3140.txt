@@ -1,0 +1,7 @@
+　這(DET)　應該(ADV)　是(Vt)　我(N)　見(Vt)　過(ASP)　能(ADV)　稱為(Vt)　五(DET)　星(N)　最(ADV)　噁心(Vi)　的(T)　酒店(N)　了(T)　，(COMMACATEGORY)
+　服務(Vt)　不好(Vt)　，(COMMACATEGORY)
+　房間(N)　不好(Vt)　，(COMMACATEGORY)
+　早點(ADV)　不好(Vt)　，(COMMACATEGORY)
+　聽說(Vt)　是(Vt)　個(M)　沒(Vt)　老闆(N)　開(Vt)　的(T)　，(COMMACATEGORY)
+　太(ADV)　不(ADV)　講究(Vt)　了(T)　，(COMMACATEGORY)
+　好好(Vi)　改改(Vt)　吧(T)　！(EXCLAMATIONCATEGORY)　麻煩(Vt)　攜程(N)　推薦(Vt)　好(Vi)　的(T)　酒店(N)　！(EXCLAMATIONCATEGORY)

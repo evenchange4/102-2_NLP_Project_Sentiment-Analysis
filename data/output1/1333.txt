@@ -1,0 +1,7 @@
+　地址(N)　不錯(Vi)　,(COMMACATEGORY)
+　位於(Vt)　民族(N)　大道(N)　,(COMMACATEGORY)
+　由於(C)　我們(N)　是(Vt)　自(P)　駕車(Vi)　,(COMMACATEGORY)
+　所以(C)　比較(ADV)　容易(Vi)　找(Vt)　.(PERIODCATEGORY)　房間(N)　實在(ADV)　太(ADV)　小(Vi)　,(COMMACATEGORY)
+　簡陋(Vi)　了(ASP)　點(ADV)　.(PERIODCATEGORY)　一樓(N)　的(T)　餐廳(N)　很(ADV)　方便(Vi)　,(COMMACATEGORY)
+　我們(N)　在(P)　那(DET)　吃(Vt)　晚飯(N)　,(COMMACATEGORY)
+　感覺(N)　味道(N)　不錯(Vi)　.(PERIODCATEGORY)

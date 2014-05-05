@@ -1,0 +1,4 @@
+　地點(N)　位置(N)　，(COMMACATEGORY)
+　交通(N)　都(ADV)　不錯(Vi)　。(PERIODCATEGORY)
+　房間(N)　還可以(Vi)　，(COMMACATEGORY)
+　下(DET)　次(M)　再(ADV)　來(ADV)

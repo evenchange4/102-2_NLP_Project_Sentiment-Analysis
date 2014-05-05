@@ -1,0 +1,5 @@
+　交通(N)　便利(Nv)　，(COMMACATEGORY)
+　價錢(N)　算是(Vt)　國際(N)　展覽(Nv)　中心(N)　附近(N)　偏低(Vi)　的(T)　了(T)　，(COMMACATEGORY)
+　參加(Vt)　展覽會(N)　入住(Vt)　這裡(N)　還(ADV)　算(Vt)　合適(Vi)　。(PERIODCATEGORY)
+　就是(C)　酒店(N)　前台(N)　把(P)　我(N)　在(P)　Ctrip(FW)　的(T)　預定(Nv)　信息(N)　搞錯(Vt)　了(ASP)　還(ADV)　死(Vi)　也(ADV)　不(ADV)　承認(Vt)　，(COMMACATEGORY)
+　服務(Nv)　人員(N)　的(T)　素質(N)　差(Vi)　了(ASP)　點(ADV)　。(PERIODCATEGORY)

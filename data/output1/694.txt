@@ -1,0 +1,3 @@
+　房間(N)　還(ADV)　算(Vt)　可以(Vi)　，(COMMACATEGORY)
+　但(C)　硬件(N)　設施(N)　偏差(N)　，(COMMACATEGORY)
+　服務(Nv)　水平(N)　也(ADV)　很(ADV)　一般(Vi)　。(PERIODCATEGORY)

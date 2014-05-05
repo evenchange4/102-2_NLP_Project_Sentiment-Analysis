@@ -1,0 +1,7 @@
+　岱(b)　宗(M)　這(DET)　個(M)　三星(N)　領教(Vt)　一(DET)　次(M)　就(ADV)　夠(Vi)　了(T)　，(COMMACATEGORY)
+　是(Vt)　這樣(Vi)　的(T)　，(COMMACATEGORY)
+　這(DET)　種(M)　酒店(N)　應該(ADV)　馬上(ADV)　從(P)　攜程(N)　的(T)　合作(Nv)　客戶(N)　中(POST)　去掉(Vt)　，(COMMACATEGORY)
+　攜程(N)　應該(ADV)　給(Vt)　我們(N)　最好(ADV)　的(T)　推薦(Nv)　，(COMMACATEGORY)
+　而(C)　不(ADV)　是(Vt)　這(DET)　種(M)　所謂(Vt)　的(T)　三星(N)　，(COMMACATEGORY)
+　簡直(ADV)　是(Vt)　比(P)　招待所(N)　還不如(C)　，(COMMACATEGORY)
+　讓(Vt)　我們(N)　不(ADV)　敢(Vt)　相信(Vt)　攜程(N)　的(T)　推薦(Nv)　是(Vt)　很(ADV)　不(ADV)　值得(Vi)　的(T)　事情(N)　。(PERIODCATEGORY)

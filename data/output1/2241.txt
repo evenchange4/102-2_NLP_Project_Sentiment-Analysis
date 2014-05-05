@@ -1,0 +1,6 @@
+　房間(N)　差(Vi)　的(T)　不能(ADV)　想像(Vt)　,(COMMACATEGORY)
+　地毯(N)　髒(Vi)　的(T)　恐怖(Nv)　,(COMMACATEGORY)
+　天花板(N)　上面(N)　居然(ADV)　還(ADV)　掛(Vt)　著(ASP)　兩(DET)　大(Vi)　團(N)　多(DET)　年(M)　沒有(ADV)　打掃(Vt)　的(T)　蜘蛛網(N)　疑似(Vt)　的(T)　東西(N)　,(COMMACATEGORY)
+　可能(ADV)　十(DET)　年(M)　前(POST)　評(Vt)　的(T)　四星(N)　吧(T)　,(COMMACATEGORY)
+　現在(N)　評(Vt)　他(N)　兩(DET)　星(N)　都(ADV)　閒(Vi)　多(ADV)　建議(Vt)　中國(N)　的(T)　飯店(N)　星級(N)　全部(DET)　取消(Vt)　吧(T)　,(COMMACATEGORY)
+　騙人(Vi)　的(T)　東西(N)

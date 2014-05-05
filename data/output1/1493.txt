@@ -1,0 +1,4 @@
+　這(DET)　次(M)　入住(Vt)　發現(Vt)　在(P)　服務(Vt)　上下(Vt)　了(ASP)　工夫(N)　.(PERIODCATEGORY)　比如(P)　在(P)　走道(N)　上(POST)　,(COMMACATEGORY)
+　洗手間(N)　放(Vt)　了(ASP)　報紙(N)　.(PERIODCATEGORY)　餐廳(N)　早餐(N)　自助餐(N)　服務(Nv)　,(COMMACATEGORY)
+　電梯(N)　服務(Nv)　都(ADV)　很(ADV)　周到(Vi)　.(PERIODCATEGORY)　其實(ADV)　賓館(N)　服務(Nv)　硬件(N)　不一定(ADV)　要(ADV)　很(ADV)　豪華(Vi)　,(COMMACATEGORY)
+　但(C)　要(ADV)　真心(Vi)　對待(Vt)　客人(N)　.(PERIODCATEGORY)　希望(Vt)　堅持(Vt)　.(PERIODCATEGORY)

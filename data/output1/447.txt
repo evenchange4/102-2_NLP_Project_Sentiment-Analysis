@@ -1,0 +1,7 @@
+　每(DET)　次(M)　去(Vt)　太原(N)　，(COMMACATEGORY)
+　都(ADV)　住(Vt)　這(DET)　家(M)　酒店(N)　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　就(P)　太原市(N)　的(T)　水平(N)　來(ADV)　看(Vt)　還是(ADV)　不錯(Vi)　的(T)　；(SEMICOLONCATEGORY)　但是(C)　橫向(ADV)　比較(Vt)　其他(DET)　城市(N)　，(COMMACATEGORY)
+　這(DET)　個(M)　價位(N)　的(T)　性價(N)　比(Vt)　，(COMMACATEGORY)
+　顯然(ADV)　不足(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,4 @@
+　據說(ADV)　是(Vt)　青島(N)　最(ADV)　貴(Vi)　的(T)　酒店(N)　之(T)　一(DET)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　溫馨(Vi)　，(COMMACATEGORY)
+　但(C)　衛生間(N)　感覺(Vt)　好像(ADV)　有(Vt)　些(M)　舊(Vi)　。(PERIODCATEGORY)
+　其他(DET)　都(ADV)　還好(Vi)　。(PERIODCATEGORY)

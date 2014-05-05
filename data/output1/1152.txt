@@ -1,0 +1,3 @@
+　協(Vi)　程(N)　價格(N)　比較(ADV)　好(Vi)　。(PERIODCATEGORY)
+　下(DET)　次(M)　出差(Vi)　還(ADV)　會(ADV)　住(Vt)　這裡(N)　。(PERIODCATEGORY)
+　房間(N)　還(ADV)　不錯(Vi)　。(PERIODCATEGORY)

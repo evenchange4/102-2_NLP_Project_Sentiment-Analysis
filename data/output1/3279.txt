@@ -1,0 +1,8 @@
+　我們(N)　四(DET)　人(N)　到(Vt)　太原(N)　辦事(Vi)　,(COMMACATEGORY)
+　2007(DET)　-(DASHCATEGORY)　5(DET)　-(DASHCATEGORY)　14(DET)　入住(Vt)　時(POST)　,(COMMACATEGORY)
+　兩(DET)　位(M)　男(N)　同事(N)　給(Vt)　了(ASP)　一(DET)　間(M)　大(Vi)　床(N)　房(N)　,(COMMACATEGORY)
+　折騰(Vt)　半(DET)　天才(N)　搞清楚(Vt)　.(PERIODCATEGORY)　17(DET)　日(M)　同事(N)　退房(Vi)　時(POST)　,(COMMACATEGORY)
+　前台(N)　說(Vt)　房間(N)　少(Vi)　了(ASP)　一(DET)　條(M)　睡褲(N)　,(COMMACATEGORY)
+　我(N)　真(ADV)　無法(ADV)　想像(Vt)　.(PERIODCATEGORY)　我(N)　相信(Vt)　我(N)　的(T)　同事(N)　她(N)　連(C)　睡衣(N)　放(Vt)　在(P)　什麼(DET)　位置(N)　都(ADV)　不(ADV)　知道(Vt)　.(PERIODCATEGORY)　嗨(T)　,(COMMACATEGORY)
+　爭論(Vt)　半(DET)　天(M)　飯店(N)　態度(N)　及(C)　差(Vi)　,(COMMACATEGORY)
+　我(N)　真的(ADV)　很(ADV)　是(Vt)　失望(Vi)　.(PERIODCATEGORY)　請(Vt)　要(ADV)　入住(Vt)　該(DET)　酒店(N)　的(T)　朋友(N)　們(N)　入住(Vt)　時(POST)　一定(ADV)　要(ADV)　清點(Vt)　你(N)　房間(N)　的(T)　消費(N)　物品(N)　.(PERIODCATEGORY)

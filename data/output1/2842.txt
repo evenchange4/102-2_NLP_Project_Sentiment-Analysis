@@ -1,0 +1,8 @@
+　真是(ADV)　可笑(Vi)　,(COMMACATEGORY)
+　入住(Vt)　該(DET)　酒店(N)　結帳(Vi)　時(POST)　要(ADV)　多(ADV)　付(Vt)　一(DET)　袋(M)　開心果(N)　的(T)　費用(N)　,(COMMACATEGORY)
+　他們(N)　點(Vt)　不(ADV)　清(Vt)　自己(N)　的(T)　物品(N)　數量(N)　,(COMMACATEGORY)
+　出(Vt)　了(ASP)　差錯(N)　,(COMMACATEGORY)
+　埋(Vt)　單(A)　的(T)　竟是(Vt)　消費者(N)　.(PERIODCATEGORY)　請問(Vt)　各(DET)　位(M)　:(COLONCATEGORY)　這樣(DET)　的(T)　地方(N)　你們(N)　敢(Vt)　去(T)　嗎(T)　?(QUESTIONCATEGORY)　我(N)　選擇(Vt)　堅決(Vi)　不再(ADV)　去(Vt)　.(PERIODCATEGORY)　如果(C)　要(ADV)　我(N)　給(Vt)　該(DET)　酒店(N)　評分(Vi)　,(COMMACATEGORY)
+　我(N)　給(Vt)　它(N)　0(DET)　分(M)　,(COMMACATEGORY)
+　他們(N)　的(T)　服務(Nv)　給(Vt)　客戶(N)　的(T)　好感(N)　全(DET)　被(P)　結帳(Vi)　時(POST)　愚蠢(Vi)　的(T)　舉動(N)　所(ADV)　抹殺(Vt)　.(PERIODCATEGORY)　補充(Vt)　點評(N)　2008年(N)　4月(N)　15日(N)　：(COLONCATEGORY)　建議(N)　大家(N)　到(P)　日照(N)　時(POST)　選擇(Vt)　其他(DET)　酒店(N)　,(COMMACATEGORY)
+　祝(Vt)　大家(N)　在(P)　日照(N)　開心(Vi)　.(PERIODCATEGORY)

@@ -1,0 +1,7 @@
+　1(DET)　.(PERIODCATEGORY)　早餐(N)　很(ADV)　差(Vi)　。(PERIODCATEGORY)
+　2(DET)　.(PERIODCATEGORY)　服務(Nv)　態度(N)　很(ADV)　差(Vi)　。(PERIODCATEGORY)
+　3(DET)　.(PERIODCATEGORY)　地理(N)　位置(N)　也(ADV)　不(ADV)　好(Vi)　。(PERIODCATEGORY)
+　周圍(N)　沒有(Vt)　什麼(DET)　吃(Vt)　的(T)　。(PERIODCATEGORY)
+　綜合(A)　來(ADV)　說(Vt)　，(COMMACATEGORY)
+　很(ADV)　差(Vi)　。(PERIODCATEGORY)
+　我(N)　是(Vt)　2008年(N)　4月(N)　28日(N)　入住(Vt)　的(T)　。(PERIODCATEGORY)

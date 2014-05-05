@@ -1,0 +1,3 @@
+　酒店(N)　地理(N)　位置(N)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　交通(N)　比較(ADV)　便利(Vt)　。(PERIODCATEGORY)
+　但(C)　酒店(N)　外觀(N)　、(PAUSECATEGORY)　房間(N)　設施(N)　比較(ADV)　陳舊(Vi)　。(PERIODCATEGORY)

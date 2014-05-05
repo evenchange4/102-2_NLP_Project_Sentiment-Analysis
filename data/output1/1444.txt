@@ -1,0 +1,5 @@
+　自然(N)　環境(N)　一流(Vi)　，(COMMACATEGORY)
+　賓館(N)　內部(N)　裝飾(Vt)　（(PARENTHESISCATEGORY)　附樓(N)　）(PARENTHESISCATEGORY)　也(ADV)　相當(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　說不上(Vt)　豪華(Vi)　，(COMMACATEGORY)
+　但是(C)　很(ADV)　整潔(Vi)　清爽(Vi)　。(PERIODCATEGORY)
+　總體(N)　感覺(N)　是(Vt)　寧靜(Vi)　寫意(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,8 @@
+　裝修(Vt)　比較(ADV)　新(Vi)　，(COMMACATEGORY)
+　離(P)　購物點(N)　有點(ADV)　距離(N)　，(COMMACATEGORY)
+　要(ADV)　出門(Vi)　拐(Vt)　右(N)　，(COMMACATEGORY)
+　第一(DET)　條(M)　馬路(N)　再(ADV)　拐(Vt)　左(N)　，(COMMACATEGORY)
+　大約(ADV)　走(Vi)　15(DET)　分鐘(M)　才(ADV)　到(P)　購物(Nv)　中心(N)　。(PERIODCATEGORY)
+　周圍(N)　有(Vt)　2(DET)　家(M)　電器(N)　賣場(N)　，(COMMACATEGORY)
+　馬路(N)　對面(N)　就(ADV)　是(Vt)　藥店(N)　，(COMMACATEGORY)
+　可(ADV)　買(Vt)　片仔黃(N)　或(C)　茵膽平肝(N)　膠囊(N)

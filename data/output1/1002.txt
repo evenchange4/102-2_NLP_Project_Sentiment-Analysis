@@ -1,0 +1,4 @@
+　總的來說(ADV)　，(COMMACATEGORY)
+　這樣(Vi)　的(T)　酒店(N)　配(Vt)　這樣(Vi)　的(T)　價格(N)　還(ADV)　算(Vt)　可以(Vi)　，(COMMACATEGORY)
+　希望(Vt)　他(N)　趕快(ADV)　裝修(Vt)　，(COMMACATEGORY)
+　給(Vt)　我(N)　的(T)　客人(N)　留(Vt)　些(M)　好(Vi)　的(T)　印象(N)

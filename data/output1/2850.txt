@@ -1,0 +1,6 @@
+　很(ADV)　一般(Vi)　，(COMMACATEGORY)
+　位置(N)　超爛(Vi)　，(COMMACATEGORY)
+　設施(N)　很(ADV)　舊(Vi)　，(COMMACATEGORY)
+　我(N)　2(DET)　號(M)　住(Vt)　的(T)　，(COMMACATEGORY)
+　花(Vt)　了(ASP)　我(N)　500(DET)　大洋(N)　，(COMMACATEGORY)
+　心疼(Vt)　ing(FW)

@@ -1,0 +1,8 @@
+　服務(Nv)　態度(N)　比較(ADV)　好(Vi)　，(COMMACATEGORY)
+　願意(Vt)　聽取(Vt)　客戶(N)　所(ADV)　提出(Vt)　意見(N)　，(COMMACATEGORY)
+　290(DET)　元(M)　的(T)　房間(N)　設施(N)　還(ADV)　可以(ADV)　，(COMMACATEGORY)
+　房間(N)　空間(N)　稍微(ADV)　小(Vi)　了(ASP)　些(ADV)　，(COMMACATEGORY)
+　早餐(N)　比較(ADV)　一般(Vi)　，(COMMACATEGORY)
+　按(P)　道理(N)　4星級(N)　應該(ADV)　會(ADV)　好些(Vi)　，(COMMACATEGORY)
+　別的(DET)　4星級(N)　也(ADV)　住(Vt)　過(ASP)　，(COMMACATEGORY)
+　?(QUESTIONCATEGORY)

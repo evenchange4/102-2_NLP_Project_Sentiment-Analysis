@@ -1,0 +1,8 @@
+　有沒有(ADV)　搞錯(Vt)　,(COMMACATEGORY)
+　我(N)　的(T)　點評(N)　為什麼(ADV)　不(ADV)　登出來(Vi)　.(PERIODCATEGORY)　你們(N)　網站(N)　只(ADV)　維護(Vt)　酒店(N)　的(T)　利益(N)　就(ADV)　不管(C)　客戶(N)　的(T)　感受(N)　嗎(T)　?(QUESTIONCATEGORY)　我(N)　現在(N)　還(ADV)　感冒(Vi)　著(ASP)　呢(T)　!(EXCLAMATIONCATEGORY)　這(DET)　是(Vt)　什麼(DET)　世道(N)　....(ETCCATEGORY)　補充(Vt)　點評(N)　2008年(N)　3月(N)　13日(N)　：(COLONCATEGORY)　對(Vt)　這(DET)　家(M)　酒店(N)　的(T)　服務(Vt)　我(N)
+　只(ADV)　有(Vt)　兩(DET)　個(M)　形容(Vt)　,(COMMACATEGORY)
+　太(ADV)　差(Vi)　.(PERIODCATEGORY)　服務員(N)　的(T)　素質(N)　:(COLONCATEGORY)　一(ADV)　分(Vt)　.(PERIODCATEGORY)　暖氣(N)　小(Vi)　到(P)　我(N)　感冒(Vi)　到(P)　現在(N)　還(ADV)　沒有(Vt)　好(Vi)　.(PERIODCATEGORY)　賓館(N)　反饋(Vt)　2008年(N)　5月(N)　20日(N)　：(COLONCATEGORY)　您(N)　在(P)　入住(Vt)　酒店(N)　期間(N)　有(Vt)　不(ADV)　愉快(Vi)　的(T)　經歷(Nv)　，(COMMACATEGORY)
+　我們(N)　非常(ADV)　抱歉(Vt)　。(PERIODCATEGORY)
+　我們(N)　會(ADV)　努力(Vi)　改正(Vt)　您(N)　提出(Vt)　的(T)　意見(N)　，(COMMACATEGORY)
+　加強(Vt)　員工(N)　的(T)　教育(N)　，(COMMACATEGORY)
+　真誠(Vi)　希望(Vt)　您(N)　的(T)　再次(ADV)　光臨(Vt)　！(EXCLAMATIONCATEGORY)

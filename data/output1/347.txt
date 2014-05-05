@@ -1,0 +1,3 @@
+　威海(N)　合慶(N)　飯店(N)　的(T)　服務(Nv)　特別(Vi)　周到(Vi)　,(COMMACATEGORY)
+　特別(Vi)　人性化(Vt)　的(T)　服務(Nv)　.(PERIODCATEGORY)　走(Vi)　南闖(Vt)　北(N)　住(Vt)　過(ASP)　很多(DET)　酒店(N)　,(COMMACATEGORY)
+　但是(C)　從來(ADV)　沒有(Vt)　1(DET)　家(M)　象(N)　威海(N)　合慶(N)　飯店(N)　這樣(Vi)　體貼(Vt)　周到(Vi)　的(T)　服務(Nv)　.(PERIODCATEGORY)

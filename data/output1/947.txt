@@ -1,0 +1,6 @@
+　地理(N)　位置(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　在(P)　南湖(N)　旁邊(N)　，(COMMACATEGORY)
+　透過(P)　房間(N)　的(T)　窗戶(N)　就(ADV)　能(ADV)　看到(Vt)　南湖(N)　，(COMMACATEGORY)
+　很(ADV)　是(Vt)　寫意(Vi)　。(PERIODCATEGORY)
+　酒店(N)　的(T)　服務(Nv)　也(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　就是(C)　酒店(N)　的(T)　地毯(N)　看上去(ADV)　太(ADV)　髒(Vi)　了(T)

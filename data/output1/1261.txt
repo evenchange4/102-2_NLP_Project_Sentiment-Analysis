@@ -1,0 +1,5 @@
+　價格(N)　適中(Vi)　，(COMMACATEGORY)
+　總體(N)　感覺(N)　還(ADV)　可以(ADV)　。(PERIODCATEGORY)
+　地理(N)　位置(N)　上(POST)　稍微(ADV)　難找(Vt)　一點(DET)　（(PARENTHESISCATEGORY)　因為(C)　不(ADV)　是(Vt)　靠(P)　大(Vi)　路邊(N)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　但(C)　離(P)　商業街(N)　北京(N)　路(N)　很(ADV)　近(Vi)　，(COMMACATEGORY)
+　酒店門(N)　外(POST)　就(ADV)　有(Vt)　一(DET)　條(M)　小食街(N)　。(PERIODCATEGORY)

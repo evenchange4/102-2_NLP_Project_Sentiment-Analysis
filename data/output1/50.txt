@@ -1,0 +1,8 @@
+　地理(N)　位置(N)　很(ADV)　方便(Vi)　，(COMMACATEGORY)
+　就(ADV)　在(P)　中山(N)　廣場(N)　邊(N)　上(N)　，(COMMACATEGORY)
+　去(Vt)　景區(N)　均(ADV)　有(Vt)　公交(N)　，(COMMACATEGORY)
+　打(Vt)　車(N)　去(ADV)　也(ADV)　就(ADV)　十(DET)　多元(A)　錢(N)　，(COMMACATEGORY)
+　我們(N)　在(P)　11樓(N)　，(COMMACATEGORY)
+　窗戶(N)　邊(N)　能(ADV)　看到(Vt)　中山(N)　廣場(N)　美麗(Vi)　夜景(N)　。(PERIODCATEGORY)
+　只(ADV)　是(Vt)　房(N)　內(N)　設施(N)　較(ADV)　舊(Vi)　，(COMMACATEGORY)
+　不能(ADV)　上網(Vi)

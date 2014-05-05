@@ -1,0 +1,3 @@
+　CBD(FW)　中心(N)　,(COMMACATEGORY)
+　周圍(N)　沒(Vt)　什麼(DET)　店舖(N)　,(COMMACATEGORY)
+　說(Vt)　5星(N)　有點(ADV)　勉強(Vi)　.(PERIODCATEGORY)　不(ADV)　知道(Vt)　為什麼(ADV)　衛生間(N)　沒有(Vt)　電(N)　吹風(Vi)

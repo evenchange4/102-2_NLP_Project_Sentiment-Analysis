@@ -1,0 +1,4 @@
+　房間(N)　很(ADV)　小(Vi)　，(COMMACATEGORY)
+　洗手間(N)　有(Vt)　異味(N)　，(COMMACATEGORY)
+　酒店(N)　外觀(N)　陳舊(Vi)　，(COMMACATEGORY)
+　yi(FW)　以後(POST)　不會(ADV)　再(ADV)　住(Vt)

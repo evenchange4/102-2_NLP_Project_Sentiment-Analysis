@@ -1,0 +1,6 @@
+　條件(N)　根本(ADV)　夠(Vi)　不(ADV)　上星級(N)　，(COMMACATEGORY)
+　只有(C)　價格(N)　不(ADV)　讓(Vt)　三星(N)　，(COMMACATEGORY)
+　老(Vi)　房子(N)　、(PAUSECATEGORY)　老(Vi)　設施(N)　、(PAUSECATEGORY)　老(Vi)　裝修(Nv)　，(COMMACATEGORY)
+　房間(N)　非常(ADV)　陳舊(Vi)　，(COMMACATEGORY)
+　建議(Vt)　攜程(N)　在(P)　預定(Vt)　的(T)　時候(N)　能夠(ADV)　說明(Vt)　房間(N)　情況(N)　，(COMMACATEGORY)
+　以後(N)　肯定(Vt)　不會(ADV)　住到(Vt)　這裡(N)　。(PERIODCATEGORY)

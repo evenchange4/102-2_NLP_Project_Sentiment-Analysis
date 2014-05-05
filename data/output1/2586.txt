@@ -1,0 +1,4 @@
+　酒店(N)　位置(N)　還好(Vi)　，(COMMACATEGORY)
+　設施(N)　太(ADV)　陳舊(Vi)　，(COMMACATEGORY)
+　太(ADV)　老(Vi)　了(T)　！(EXCLAMATIONCATEGORY)　房間(N)　面積(N)　太(ADV)　小(Vi)　，(COMMACATEGORY)
+　硬件(N)　的(T)　設施(N)　糟糕(Vi)　！(EXCLAMATIONCATEGORY)　枕頭(N)　太(ADV)　低(Vi)　！(EXCLAMATIONCATEGORY)　床墊(N)　也(ADV)　硬(Vi)　！(EXCLAMATIONCATEGORY)

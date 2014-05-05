@@ -1,0 +1,6 @@
+　交通(N)　方便(Vi)　服務(Vt)　周到(Vi)　，(COMMACATEGORY)
+　很(ADV)　不錯(Vi)　的(T)　酒店(N)　。(PERIODCATEGORY)
+　唯一(A)　不(ADV)　滿意(Vt)　的(T)　是(Vt)　價格(N)　沒有(Vt)　競爭力(N)　，(COMMACATEGORY)
+　比(P)　漢庭(N)　的(T)　普通(Vi)　會員(N)　還(ADV)　貴(Vi)　。(PERIODCATEGORY)
+　而且(C)　沒有(Vt)　早餐(N)　送(Vt)　，(COMMACATEGORY)
+　比較(ADV)　遺憾(Vt)　。(PERIODCATEGORY)

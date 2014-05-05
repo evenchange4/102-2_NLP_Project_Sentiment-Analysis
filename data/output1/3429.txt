@@ -1,0 +1,2 @@
+　幫(P)　朋友(N)　訂(Vt)　的(T)　，(COMMACATEGORY)
+　反饋(Vt)　說(Vt)　不(ADV)　好(Vi)　！(EXCLAMATIONCATEGORY)　所以(C)　咯(T)　下(DET)　次(M)　不再(ADV)　訂(Vt)　這(DET)　個(M)　酒店(N)　了(T)　！(EXCLAMATIONCATEGORY)

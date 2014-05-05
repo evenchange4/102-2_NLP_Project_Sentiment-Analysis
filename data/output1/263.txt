@@ -1,0 +1,3 @@
+　環境(N)　不錯(Vi)　，(COMMACATEGORY)
+　但是(C)　當(P)　我(N)　下午(N)　去(ADV)　住(Vt)　的(T)　時候(N)　，(COMMACATEGORY)
+　居然(ADV)　訂(Vt)　的(T)　三(DET)　間(M)　房(N)　一(DET)　間(M)　都(ADV)　沒(ADV)　打掃(Vt)　。(PERIODCATEGORY)

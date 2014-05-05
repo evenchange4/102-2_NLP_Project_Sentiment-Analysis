@@ -1,0 +1,7 @@
+　優點(N)　:(COLONCATEGORY)　靠近(Vt)　商業(N)　中心(N)　,(COMMACATEGORY)
+　離(P)　火車站(N)　不遠(Vi)　,(COMMACATEGORY)
+　價格(N)　還(ADV)　算(Vt)　公道(N)　缺點(N)　:(COLONCATEGORY)　房間(N)　設備(N)　差(Vi)　,(COMMACATEGORY)
+　幾乎(ADV)　就(ADV)　是(Vt)　招待所(N)　的(T)　標準(N)　,(COMMACATEGORY)
+　周圍(N)　環境(N)　髒亂(Vi)　差(Vi)　,(COMMACATEGORY)
+　噪音(N)　大(Vi)　.(PERIODCATEGORY)　燒烤(Vt)　氣味(N)　刺鼻(Vi)　.(PERIODCATEGORY)　免費(Vi)　註冊(Nv)　網站(N)　導航(Nv)　賓館(N)　索引(N)　服務(Nv)　說明(N)　關於(P)　攜程(N)　誠聘(Vt)　英才(N)　代理(Nv)　合作(Nv)　廣告(N)　業務(N)　聯繫(Vt)　我們(N)　Copyright(FW)　?(QUESTIONCATEGORY)　1999(DET)　-(DASHCATEGORY)　2008(DET)　,(COMMACATEGORY)
+　ctrip.com(FW)　.(PERIODCATEGORY)　a(FW)

@@ -1,0 +1,3 @@
+　單(A)　人間(N)　太(ADV)　小(Vi)　了(T)　，(COMMACATEGORY)
+　居然(ADV)　要(ADV)　350(DET)　元(M)　/(FW)　天(M)　，(COMMACATEGORY)
+　殺(Vt)　豬(N)　呀(T)　！(EXCLAMATIONCATEGORY)

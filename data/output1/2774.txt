@@ -1,0 +1,2 @@
+　1(DET)　.(PERIODCATEGORY)　客房(N)　服務(Nv)　態度(N)　較(ADV)　好(Vi)　2(DET)　.(PERIODCATEGORY)　早餐(N)　還(ADV)　算(Vt)　不錯(Vi)　.(PERIODCATEGORY)　3(DET)　.(PERIODCATEGORY)　就(ADV)　是(Vt)　房間(N)　的(T)　燈光(N)　,(COMMACATEGORY)
+　太(ADV)　不(ADV)　滿意(Vt)　~(FW)　~(FW)

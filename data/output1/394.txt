@@ -1,0 +1,8 @@
+　酒店(N)　服務(Nv)　態度(N)　好(Vi)　，(COMMACATEGORY)
+　入住(Vt)　時(POST)　有(Vt)　大型(N)　會議(N)　在(P)　此(DET)　召開(Vt)　，(COMMACATEGORY)
+　房間(N)　無(Vt)　騷擾(Nv)　電話(N)　，(COMMACATEGORY)
+　靠近(Vt)　江(N)　邊(N)　，(COMMACATEGORY)
+　步行(Vi)　十(DET)　分鐘(M)　即可(ADV)　吃到(Vt)　當地(N)　有名(Vi)　的(T)　三江魚(N)　、(PAUSECATEGORY)　坨坨(DET)　魚(N)　、(PAUSECATEGORY)　西壩(N)　豆腐(N)　等(POST)　特色菜(N)　。(PERIODCATEGORY)
+　下(DET)　次(M)　還(ADV)　住(Vt)　這裡(N)　。(PERIODCATEGORY)
+　打(Vt)　車(N)　十分(ADV)　方便(Vi)　，(COMMACATEGORY)
+　附近(N)　司機(N)　無(Vt)　人(N)　不(ADV)　知(Vt)　此(DET)　酒店(N)　。(PERIODCATEGORY)

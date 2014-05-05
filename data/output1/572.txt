@@ -1,0 +1,6 @@
+　主要(ADV)　是(Vt)　房間(N)　非常(ADV)　好(Vi)　，(COMMACATEGORY)
+　協(Vi)　程定(N)　了(T)　還(ADV)　不(ADV)　到(Vt)　400(DET)　的(T)　豪華(Vi)　間(POST)　，(COMMACATEGORY)
+　還(ADV)　送(Vt)　了(ASP)　一(DET)　水果盤(N)　。(PERIODCATEGORY)
+　唯一(A)　不足(Vi)　的(T)　就是(C)　房間(N)　有點(ADV)　老(Vi)　。(PERIODCATEGORY)
+　據說(ADV)　周邊(N)　新(Vi)　開(Vt)　了(ASP)　個(M)　香格里拉(N)　，(COMMACATEGORY)
+　所以(C)　應該(ADV)　會(ADV)　有(Vt)　比較(ADV)　實惠(Vi)　的(T)　價格(N)　來(ADV)　吸引人(Vi)　的(T)　。(PERIODCATEGORY)

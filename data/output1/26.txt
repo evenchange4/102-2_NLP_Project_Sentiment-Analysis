@@ -1,0 +1,3 @@
+　非常(ADV)　好(Vi)　。(PERIODCATEGORY)
+　國內(N)　最好(Vi)　的(T)　酒店(N)　之(T)　一(DET)　。(PERIODCATEGORY)
+　各(DET)　方面(N)　都(ADV)　不錯(Vi)　。(PERIODCATEGORY)

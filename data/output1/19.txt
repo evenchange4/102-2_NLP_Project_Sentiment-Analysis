@@ -1,0 +1,3 @@
+　非常(ADV)　好(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　四(DET)　星(N)　的(T)　標準(N)　完全(ADV)　超值(Vi)　的(T)　享受(Nv)　，(COMMACATEGORY)
+　服務(Vt)　非常(ADV)　好(Vi)

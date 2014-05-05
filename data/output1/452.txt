@@ -1,0 +1,3 @@
+　交通(N)　位置(N)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　服務(Nv)　設施(N)　還可以(Vi)　.(PERIODCATEGORY)　但(C)　價格(N)　有點(ADV)　高(Vi)　,(COMMACATEGORY)
+　可能(ADV)　太原(N)　的(T)　酒店(N)　價格(N)　普通(Vi)　比較(ADV)　高(Vi)　的(T)　原因(N)　吧(T)　!(EXCLAMATIONCATEGORY)

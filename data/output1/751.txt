@@ -1,0 +1,5 @@
+　國際(N)　大(Vi)　酒店(N)　訂(Vt)　不(ADV)　到(Vt)　房間(N)　，(COMMACATEGORY)
+　抱(Vt)　著(ASP)　試試(Vt)　的(T)　態度(N)　訂(Vt)　了(ASP)　這(DET)　家(M)　感覺(N)　還是(ADV)　很(ADV)　不錯(Vi)　的(T)　，(COMMACATEGORY)
+　環境(N)　也(ADV)　不錯(Vi)　尤其(ADV)　床(N)　和(C)　被子(N)　，(COMMACATEGORY)
+　真的(ADV)　很(ADV)　舒服(Vi)　，(COMMACATEGORY)
+　比(P)　國際(N)　的(T)　好(Vi)　得多(ADV)　唯一(Vi)　的(T)　缺點(N)　是(Vt)　地點(N)　有點(ADV)　偏(Vt)

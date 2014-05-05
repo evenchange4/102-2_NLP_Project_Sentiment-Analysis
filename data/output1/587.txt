@@ -1,0 +1,5 @@
+　酒店(N)　比較(ADV)　老(Vi)　，(COMMACATEGORY)
+　但是(C)　房間(N)　還好(Vi)　。(PERIODCATEGORY)
+　酒店(N)　雖(C)　不(ADV)　在(P)　市中心(N)　，(COMMACATEGORY)
+　但(C)　離(P)　我(N)　出差(Vi)　的(T)　公司(N)　較(ADV)　近(Vi)　，(COMMACATEGORY)
+　所以(C)　住(Vt)　過(ASP)　幾(DET)　次(M)　。(PERIODCATEGORY)

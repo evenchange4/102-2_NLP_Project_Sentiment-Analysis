@@ -1,0 +1,2 @@
+　房間(N)　裝修(Vt)　差(Vi)　設施(N)　也(ADV)　不(ADV)　好(Vi)　,(COMMACATEGORY)
+　早餐(N)　很(ADV)　一般(Vi)　.(PERIODCATEGORY)　位置(N)　偏僻(Vi)　.(PERIODCATEGORY)

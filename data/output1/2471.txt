@@ -1,0 +1,7 @@
+　房間(N)　不錯(Vi)　,(COMMACATEGORY)
+　但(C)　服務(Nv)　質素(N)　極(ADV)　低(Vi)　,(COMMACATEGORY)
+　服務員(N)　態度(N)　生硬(Vi)　,(COMMACATEGORY)
+　冷淡(Vi)　.(PERIODCATEGORY)　入住(Vt)　兩(DET)　晚(M)　,(COMMACATEGORY)
+　雖然(C)　大部份(DET)　時間(N)　都(ADV)　在(P)　外(N)　遊玩(Vi)　,(COMMACATEGORY)
+　但(C)　也(ADV)　沒(ADV)　少(ADV)　看(Vt)　服務員(N)　白眼(N)　,(COMMACATEGORY)
+　好像(ADV)　咨詢(Vt)　下(POST)　的(T)　士(N)　的(T)　狀況(N)　也(ADV)　打擾(Vt)　了(ASP)　該(DET)　酒店(N)　高貴(Vi)　的(T)　服務員(N)　.(PERIODCATEGORY)

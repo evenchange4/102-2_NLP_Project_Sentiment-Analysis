@@ -1,0 +1,8 @@
+　嗯(T)　嗯(T)　，(COMMACATEGORY)
+　基本(A)　滿意(Nv)　，(COMMACATEGORY)
+　只(ADV)　是(Vt)　對(P)　和(P)　我(N)　同(ADV)　去(Vt)　的(T)　老外(N)　分到(Vt)　的(T)　房間(N)　就(ADV)　比(P)　我(N)　N(FW)　大(Vi)　有點(ADV)　不(ADV)　爽(Vi)　。(PERIODCATEGORY)
+　浴缸(N)　的(T)　落水(Vi)　壞掉(Vi)　了(T)　，(COMMACATEGORY)
+　只(ADV)　能(ADV)　淋浴(Vi)　。(PERIODCATEGORY)
+　不過(C)　來(ADV)　修(Vt)　的(T)　倒是(ADV)　挺(ADV)　快(Vi)　，(COMMACATEGORY)
+　雖然(C)　米(N)　有(Vt)　完全(ADV)　解決(Vt)　問題(N)　，(COMMACATEGORY)
+　至少(ADV)　還是(ADV)　很(ADV)　積極(Vi)　滴(Vt)　。(PERIODCATEGORY)

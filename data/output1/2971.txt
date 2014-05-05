@@ -1,0 +1,4 @@
+　1(DET)　房間(N)　很(ADV)　小(Vi)　，(COMMACATEGORY)
+　地毯(N)　很(ADV)　髒(Vi)　，(COMMACATEGORY)
+　白(Vi)　毛巾(N)　顯(Vt)　黑色(N)　2(DET)　中央(N)　空調(N)　有異(Vi)　響(Vi)　，(COMMACATEGORY)
+　後(N)　半夜(N)　只好(ADV)　關掉(Vt)　3(DET)　洗澡水(N)　忽(ADV)　冷忽(Vi)　熱(Vt)

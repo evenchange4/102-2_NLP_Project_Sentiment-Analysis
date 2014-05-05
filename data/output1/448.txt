@@ -1,0 +1,5 @@
+　開始(Vt)　住(Vt)　的(T)　六(DET)　層(M)　的(T)　房子(N)　不(ADV)　是(Vt)　特別(Vi)　好(Vi)　，(COMMACATEGORY)
+　後來(N)　調到(Vt)　10(DET)　層(M)　後(POST)　房間(N)　不錯(Vi)　。(PERIODCATEGORY)
+　大小(N)　合適(Vi)　，(COMMACATEGORY)
+　雖然(C)　價格(N)　比較(ADV)　貴(Vi)　，(COMMACATEGORY)
+　但是(C)　4星級(N)　還是(ADV)　可以(ADV)　的(T)　。(PERIODCATEGORY)

@@ -1,0 +1,2 @@
+　絕對(ADV)　是(Vt)　超值(Vi)　的(T)　一(DET)　家(M)　酒店(N)　.(PERIODCATEGORY)　如果(C)　不(ADV)　是(Vt)　要求(Vt)　豪華(Vi)　享受(Vt)　,(COMMACATEGORY)
+　這(DET)　家(M)　酒店(N)　的(T)　每(DET)　一(DET)　部分(DET)　都(ADV)　絕對(ADV)　可以(ADV)　令(Vt)　人(N)　滿意(Vt)　.(PERIODCATEGORY)　((PARENTHESISCATEGORY)　AvlNtTy(FW)　)(PARENTHESISCATEGORY)

@@ -1,0 +1,3 @@
+　這(DET)　是(Vt)　我(N)　住(Vt)　過(ASP)　香港(N)　最(ADV)　爛(Vi)　的(T)　酒店(N)　.(PERIODCATEGORY)　房間(N)　小(Vi)　得(T)　超出(Vt)　我(N)　的(T)　想像(N)　,(COMMACATEGORY)
+　電視機(N)　是(Vt)　14(DET)　寸(M)　的(T)　,(COMMACATEGORY)
+　床(N)　與(C)　電視機(N)　的(T)　距離(N)　只(ADV)　有(Vt)　60(DET)　厘米(M)　.(PERIODCATEGORY)　整(DET)　個(M)　客房(N)　包括(Vt)　衛生間(N)　不(ADV)　超過(Vt)　8(DET)　平方(N)　.(PERIODCATEGORY)　暈死(Vi)　!(EXCLAMATIONCATEGORY)

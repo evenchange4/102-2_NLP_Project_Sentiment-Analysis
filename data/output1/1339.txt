@@ -1,0 +1,4 @@
+　晚上(N)　蚊子(N)　很多(Vi)　，(COMMACATEGORY)
+　本人(N)　及(C)　住(Vt)　在(P)　另(DET)　一(DET)　間(M)　房(N)　的(T)　朋友(N)　都(ADV)　被(P)　蚊子(N)　咬(Vt)　醒(Vi)　，(COMMACATEGORY)
+　在(P)　房間(N)　內(N)　找(Vt)　不(ADV)　到(Vt)　驅(Vt)　蚊香(N)　。(PERIODCATEGORY)
+　:(COLONCATEGORY)　((PARENTHESISCATEGORY)

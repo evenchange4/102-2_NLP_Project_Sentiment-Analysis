@@ -1,0 +1,2 @@
+　來(ADV)　江門(N)　出差(Vi)　一直(ADV)　都(ADV)　住(Vt)　這(DET)　個(M)　酒店(N)　，(COMMACATEGORY)
+　覺得(Vt)　性價(N)　比(P)　還可以(ADV)

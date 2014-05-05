@@ -1,0 +1,7 @@
+　打(Vt)　車(N)　到(P)　客運(N)　站(Vi)　需要(Vt)　12(DET)　元(M)　（(PARENTHESISCATEGORY)　加(Vt)　1(DET)　元(M)　燃油(N)　費(Vt)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　要(ADV)　的(T)　是(Vt)　經濟(N)　間(POST)　，(COMMACATEGORY)
+　所以(C)　勉強(Vi)　一些(DET)　算(Vt)　滿意(Vt)　吧(T)　，(COMMACATEGORY)
+　主要(ADV)　是(Vt)　價位(N)　擺(Vt)　在(P)　那裡(N)　的(T)　，(COMMACATEGORY)
+　如果(C)　有(Vt)　機會(N)　還(ADV)　會(ADV)　取得(Vt)　。(PERIODCATEGORY)
+　主要(ADV)　是(Vt)　靠近(Vt)　山東省(N)　內(N)　最(ADV)　大(Vi)　的(T)　遊樂園(N)　富華(N)　遊樂園(N)　比較(ADV)　好(Vi)　，(COMMACATEGORY)
+　玩(Vt)　得(T)　方便(Vi)　。(PERIODCATEGORY)

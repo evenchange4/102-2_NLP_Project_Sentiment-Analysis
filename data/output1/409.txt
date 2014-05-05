@@ -1,0 +1,6 @@
+　3星(N)　的(T)　硬件(N)　,(COMMACATEGORY)
+　4(DET)　星(N)　的(T)　外觀(N)　,(COMMACATEGORY)
+　5(DET)　星(N)　的(T)　服務(Nv)　房間(N)　設施(N)　比較(ADV)　陳舊(Vi)　,(COMMACATEGORY)
+　但(C)　服務(Vt)　非常(ADV)　的(T)　好(Vi)　,(COMMACATEGORY)
+　頭(DET)　一(DET)　次(M)　碰到(Vt)　3星(N)　的(T)　酒店(N)　裡(N)　任何(DET)　一(DET)　個(M)　服務(Nv)　人員(N)　見到(Vt)　你(N)　都(ADV)　會(ADV)　微笑(Vi)　問好(Vi)　的(T)　,(COMMACATEGORY)
+　如果(C)　設施(N)　再(ADV)　好些(DET)　是(Vt)　個(M)　不錯(Vi)　的(T)　酒店(N)

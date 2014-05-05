@@ -1,0 +1,7 @@
+　特價(N)　房間(N)　根本(ADV)　沒有(Vt)　窗戶(N)　，(COMMACATEGORY)
+　空氣(N)　十分(ADV)　差(Vi)　，(COMMACATEGORY)
+　房間(N)　設施(N)　也(ADV)　十分(ADV)　差(Vi)　，(COMMACATEGORY)
+　是(Vt)　原來(A)　飯館(N)　包房(N)　改造(Vt)　的(T)　，(COMMACATEGORY)
+　預定(Vt)　時(POST)　，(COMMACATEGORY)
+　攜(Vt)　程(N)　根本(ADV)　沒有(ADV)　對(P)　此(DET)　情況(N)　進行(Vt)　告知(Vt)　，(COMMACATEGORY)
+　十分(ADV)　氣憤(Vi)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)

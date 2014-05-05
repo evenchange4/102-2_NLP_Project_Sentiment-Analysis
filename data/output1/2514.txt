@@ -1,0 +1,3 @@
+　地方(N)　不(ADV)　好(Vi)　找(Vt)　,(COMMACATEGORY)
+　其實(ADV)　就(ADV)　是(Vt)　國際(N)　青年(N)　旅社(N)　.(PERIODCATEGORY)　環境(N)　一般(POST)　,(COMMACATEGORY)
+　設施(N)　簡陋(Vi)　到(Vt)　地鐵站(N)　要(ADV)　走(Vi)　10多(DET)　分鐘(M)　.(PERIODCATEGORY)

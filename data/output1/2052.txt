@@ -1,0 +1,4 @@
+　肯定(Vt)　我(N)　不會(ADV)　再(ADV)　住(Vt)　這裡(N)　了(T)　,(COMMACATEGORY)
+　太(ADV)　陳舊(Vi)　了(T)　,(COMMACATEGORY)
+　霉味(N)　太(ADV)　重(Vi)　,(COMMACATEGORY)
+　感覺(N)　不好(Vt)　!(EXCLAMATIONCATEGORY)

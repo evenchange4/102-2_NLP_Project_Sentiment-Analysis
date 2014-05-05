@@ -1,0 +1,7 @@
+　餐廳(N)　的(T)　服務員(N)　態度(N)　不(ADV)　友好(Vi)　,(COMMACATEGORY)
+　免費(Vi)　提供(Vt)　的(T)　早餐(N)　有的(DET)　在(P)　早上(N)　八(DET)　點(M)　就(ADV)　沒有(ADV)　供應(Vt)　了(ASP)　((PARENTHESISCATEGORY)　蒸(Vt)　雞蛋(N)　和(C)　炒(Vt)　米粉(N)　)(PARENTHESISCATEGORY)　,(COMMACATEGORY)
+　小妹(N)　與(C)　服務員(N)　交涉(Vt)　兩(DET)　次(M)　未果(Vi)　,(COMMACATEGORY)
+　早餐(N)　供應(Vt)　時間(N)　是(Vt)　到(P)　上午(N)　九(DET)　點(M)　結束(Vt)　的(T)　.(PERIODCATEGORY)　希望(Vt)　該(DET)　酒店(N)　應對(Nv)　早餐(N)　供應(Vt)　有所(Vt)　改善(Nv)　.(PERIODCATEGORY)　對(P)　客房(N)　服務員(N)　要(ADV)　進行(Vt)　培訓(Nv)　,(COMMACATEGORY)
+　當(P)　客人(N)　房門(N)　門鎖(N)　上(N)　掛(Vt)　了(ASP)　"(FW)　請(Vt)　勿(ADV)　打擾(Vt)　"(FW)　的(T)　字樣(N)　,(COMMACATEGORY)
+　希望(Vt)　不要(ADV)　再(ADV)　擅自(ADV)　進入(Vt)　客房(N)　,(COMMACATEGORY)
+　這(DET)　是(Vt)　對(P)　客人(N)　的(T)　尊重(Nv)　.(PERIODCATEGORY)

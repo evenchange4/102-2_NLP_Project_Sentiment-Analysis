@@ -1,0 +1,5 @@
+　很(ADV)　好(Vi)　的(T)　酒店(N)　,(COMMACATEGORY)
+　很(ADV)　規範(N)　植(Vt)　得(T)　一(DET)　住(Vt)　.(PERIODCATEGORY)　餐廳(N)　一般(ADV)　不應該(ADV)　的(T)　,(COMMACATEGORY)
+　不(ADV)　知道(Vt)　為什麼(ADV)　.(PERIODCATEGORY)　賓館(N)　反饋(Vt)　2008年(N)　4月(N)　17日(N)　：(COLONCATEGORY)　餐廳(N)　現已(ADV)　重新(ADV)　裝修(Vt)　，(COMMACATEGORY)
+　用餐(Nv)　環境(N)　較(P)　以前(N)　要好(Vi)　的(T)　多(Vi)　。(PERIODCATEGORY)
+　謝謝(Vt)　您(N)　的(T)　寶貴(Vi)　意見(N)　！(EXCLAMATIONCATEGORY)

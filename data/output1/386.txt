@@ -1,0 +1,7 @@
+　環境(N)　還是(ADV)　挺(ADV)　不錯(Vi)　的(T)　，(COMMACATEGORY)
+　工作(N)　人員(N)　也(ADV)　比較(ADV)　熱情(Vi)　，(COMMACATEGORY)
+　晚上(N)　保安(N)　巡邏(Vi)　發現(Vt)　窗戶(N)　沒(ADV)　關(Vt)　還(ADV)　電話(N)　提醒(Vt)　我們(N)　，(COMMACATEGORY)
+　贊(Vt)　一(DET)　個(M)　！(EXCLAMATIONCATEGORY)　早餐(N)　略顯(Vi)　一般(Vi)　！(EXCLAMATIONCATEGORY)　酒店(N)　門口(N)　就(ADV)　是(Vt)　峨眉(N)　特色(N)　小吃(N)　！(EXCLAMATIONCATEGORY)　離(P)　旅遊(Nv)　車站(N)　非常(ADV)　近(Vi)　，(COMMACATEGORY)
+　線路(N)　方便(Vi)　！(EXCLAMATIONCATEGORY)　房間(N)　設施(N)　雖(C)　達(Vt)　不(ADV)　到(Vt)　四星(N)　的(T)　標準(N)　，(COMMACATEGORY)
+　但(C)　在(P)　景區(N)　也(ADV)　還(ADV)　不錯(Vi)　了(T)　。(PERIODCATEGORY)
+　可以(ADV)　推薦(Vt)　！(EXCLAMATIONCATEGORY)

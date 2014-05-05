@@ -1,0 +1,8 @@
+　房間(N)　很(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　設施(N)　還(ADV)　行(Vi)　，(COMMACATEGORY)
+　傢俱(N)　稍微(ADV)　有(Vt)　些(M)　舊(Vi)　。(PERIODCATEGORY)
+　商務(N)　間(POST)　的(T)　樓層(N)　前台(N)　不錯(Vi)　，(COMMACATEGORY)
+　不過(C)　清潔工(N)　很(ADV)　一般(Vi)　，(COMMACATEGORY)
+　住(Vt)　的(T)　時間(N)　比較(ADV)　長(Vi)　，(COMMACATEGORY)
+　好幾(DET)　次(M)　都(ADV)　沒有(ADV)　放(Vt)　新(Vi)　拖鞋(N)　。(PERIODCATEGORY)
+　不過(C)　4星(N)　裡(POST)　他(N)　家(N)　的(T)　價位(N)　算是(Vt)　比較(ADV)　低(Vi)　的(T)　了(T)　。(PERIODCATEGORY)

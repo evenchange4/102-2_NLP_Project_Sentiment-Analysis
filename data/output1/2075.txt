@@ -1,0 +1,6 @@
+　唉(T)　，(COMMACATEGORY)
+　怎麼說(Vi)　呢(T)　，(COMMACATEGORY)
+　這(DET)　是(Vt)　我(N)　住(Vt)　過(ASP)　的(T)　最(ADV)　差(Vi)　的(T)　的(T)　四星(N)　的(T)　酒店(N)　，(COMMACATEGORY)
+　還是(C)　貴賓(N)　樓(N)　，(COMMACATEGORY)
+　暈(Vi)　！(EXCLAMATIONCATEGORY)　硬件(N)　設施(N)　估計(Vt)　只有(C)　二星(N)　的(T)　標準(N)　。(PERIODCATEGORY)
+　性價(N)　比(P)　太(ADV)　低(Vi)　！(EXCLAMATIONCATEGORY)

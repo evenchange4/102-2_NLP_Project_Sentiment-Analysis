@@ -1,0 +1,4 @@
+　不管(C)　是(Vt)　服務(Nv)　還是(C)　硬件(N)　都(N)　絕對(ADV)　夠(Vi)　不(ADV)　上(Vt)　四星級(N)　，(COMMACATEGORY)
+　儘管(C)　前台(N)　確實(ADV)　掛(Vt)　著(ASP)　四(DET)　星(N)　的(T)　牌子(N)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　依(P)　我(N)　看(Vt)　，(COMMACATEGORY)
+　就(P)　3星(N)　還(ADV)　不(ADV)　到(Vt)　。(PERIODCATEGORY)
+　不過(C)　價格(N)　也(ADV)　步態(N)　四星級(N)　。(PERIODCATEGORY)

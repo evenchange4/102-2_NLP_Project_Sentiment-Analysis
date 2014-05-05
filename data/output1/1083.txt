@@ -1,0 +1,7 @@
+　我(N)　已經(ADV)　住(Vt)　過(ASP)　兩(DET)　次(M)　了(T)　。(PERIODCATEGORY)
+　比較(ADV)　滿意(Vt)　，(COMMACATEGORY)
+　特別(Vi)　是(Vt)　接機(Vi)　服務(Vt)　，(COMMACATEGORY)
+　一(DET)　個人(N)　也(ADV)　接(Vt)　，(COMMACATEGORY)
+　及時(ADV)　周到(Vi)　。(PERIODCATEGORY)
+　寬帶(N)　速度(N)　也(ADV)　比較(ADV)　快(Vi)　。(PERIODCATEGORY)
+　但是(C)　沒有(Vt)　大家(N)　說(Vt)　的(T)　免費(Vi)　果盤(N)　。(PERIODCATEGORY)

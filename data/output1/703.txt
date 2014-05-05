@@ -1,0 +1,4 @@
+　只(ADV)　可惜(Vi)　硬件(N)　設施(N)　不(ADV)　完備(Vi)　，(COMMACATEGORY)
+　加上(C)　路邊(N)　的(T)　噪音(N)　，(COMMACATEGORY)
+　給(P)　本來(ADV)　應(ADV)　是(Vt)　很(ADV)　完美(Vi)　的(T)　酒店(N)　留下(Vt)　了(ASP)　一點(DET)　遺憾(Nv)　，(COMMACATEGORY)
+　希望(Vt)　如(P)　家(N)　的(T)　加盟店(N)　更(ADV)　上(Vt)　一(DET)　層(M)　樓(N)　。(PERIODCATEGORY)

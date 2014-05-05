@@ -1,0 +1,5 @@
+　要不是(C)　飛機(N)　到達(Vt)　時間(N)　22(DET)　點(M)　才(ADV)　不會(ADV)　選擇(Vt)　此(DET)　酒店(N)　,(COMMACATEGORY)
+　外面(N)　飛機(N)　的(T)　聲音(N)　很(ADV)　大(Vi)　,(COMMACATEGORY)
+　隔音(A)　效果(N)　很(ADV)　差(Vi)　,(COMMACATEGORY)
+　房間(N)　也(ADV)　一般(Vi)　.(PERIODCATEGORY)　晚上(N)　有(Vt)　騷擾(Nv)　電話(N)　,(COMMACATEGORY)
+　下(DET)　次(M)　不會(ADV)　選擇(Vt)　.(PERIODCATEGORY)

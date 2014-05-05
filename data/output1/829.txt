@@ -1,0 +1,5 @@
+　賓館(N)　周圍(N)　環境(N)　不錯(Vi)　，(COMMACATEGORY)
+　離(P)　商業區(N)　很(ADV)　近(Vi)　，(COMMACATEGORY)
+　而且(C)　幽靜(Vi)　。(PERIODCATEGORY)
+　不過(C)　賓館(N)　有(Vt)　些(M)　老(Vi)　了(T)　，(COMMACATEGORY)
+　裝修(Vt)　都(ADV)　過時(Vi)　了(T)　。(PERIODCATEGORY)

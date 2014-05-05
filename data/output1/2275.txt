@@ -1,0 +1,5 @@
+　太(ADV)　舊(Vi)　了(T)　，(COMMACATEGORY)
+　房間(N)　設施(N)　也(ADV)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　我(N)　還(ADV)　在(P)　洗手間(N)　看到(Vt)　了(ASP)　蟑螂(N)　。(PERIODCATEGORY)
+　而且(C)　酒店(N)　內(N)　有(Vt)　KTV(FW)　，(COMMACATEGORY)
+　晚上(N)　睡覺(Vi)　非常(ADV)　吵(Vi)　！(EXCLAMATIONCATEGORY)

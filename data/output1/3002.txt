@@ -1,0 +1,6 @@
+　前台(N)　check(FW)　in(FW)　花(Vt)　了(ASP)　20(DET)　分鐘(M)　，(COMMACATEGORY)
+　check(FW)　out(FW)　25(DET)　分鐘(M)　，(COMMACATEGORY)
+　這(DET)　是(Vt)　服務(Nv)　態度(N)　和(C)　沒有(ADV)　做到(Vt)　位(M)　。(PERIODCATEGORY)
+　信用卡(N)　刷(Vt)　了(ASP)　好幾(DET)　次(M)　，(COMMACATEGORY)
+　不(ADV)　願意(Vt)　用(P)　手工(N)　打電話(Vi)　授權(Vt)　。(PERIODCATEGORY)
+　典型(Vi)　國營(Vi)　企業(N)　的(T)　極(ADV)　差(Vi)　的(T)　服務(Nv)　態度(N)　。(PERIODCATEGORY)

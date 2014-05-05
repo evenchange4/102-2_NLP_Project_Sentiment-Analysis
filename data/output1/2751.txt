@@ -1,0 +1,3 @@
+　服務(Nv)　有(Vt)　出錯(Vi)　，(COMMACATEGORY)
+　讓(Vt)　人(N)　大跌(Vi)　眼鏡(N)　的(T)　那(DET)　種(M)　，(COMMACATEGORY)
+　房(N)　卡(N)　會(ADV)　被(P)　搞錯(Vt)　！(EXCLAMATIONCATEGORY)

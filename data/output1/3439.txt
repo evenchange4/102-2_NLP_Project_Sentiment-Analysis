@@ -1,0 +1,2 @@
+　早餐(N)　很(ADV)　差勁(Vi)　,(COMMACATEGORY)
+　不過(C)　一般(ADV)　這(DET)　種(M)　地方(N)　的(T)　四星(N)　也(ADV)　差不多(ADV)　就(ADV)　這樣(Vi)　了(T)　.(PERIODCATEGORY)

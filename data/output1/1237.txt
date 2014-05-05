@@ -1,0 +1,8 @@
+　服務生(N)　很(ADV)　周到(Vi)　，(COMMACATEGORY)
+　攜(Vt)　程(N)　和(C)　酒店(N)　的(T)　合作(Nv)　應該(ADV)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　有(Vt)　水果(N)　送(Vt)　，(COMMACATEGORY)
+　又(ADV)　可以(ADV)　免費(Vi)　洗燙(Vt)　2(DET)　件(M)　衣服(N)　，(COMMACATEGORY)
+　而且(C)　速度(N)　很(ADV)　快(Vi)　。(PERIODCATEGORY)
+　就是(C)　酒店(N)　的(T)　網速(N)　有待(Vt)　提高(Vt)　,(COMMACATEGORY)
+　網絡(N)　遊戲(N)　不能(ADV)　玩(Vt)　真(ADV)　是(Vt)　遺憾(Vt)　啊(T)　.(PERIODCATEGORY)　前台(N)　服務(Nv)　很(ADV)　周到(Vi)　,(COMMACATEGORY)
+　表揚(Vt)　下(POST)

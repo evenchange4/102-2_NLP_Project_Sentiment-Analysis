@@ -1,0 +1,2 @@
+　香港(N)　的(T)　酒店(N)　在(P)　面積(N)　方面(N)　就(ADV)　不(ADV)　需要(Vt)　強求(Vt)　什麼(DET)　了(T)　﹗(EXCLAMATIONCATEGORY)　這(DET)　家(M)　酒店(N)　設施(N)　已經(ADV)　比較(ADV)　陳舊(Vi)　了(T)　，(COMMACATEGORY)
+　不過(C)　交通(N)　比較(ADV)　方便(Vi)　的(T)　﹗(EXCLAMATIONCATEGORY)　服務(Nv)　方面(N)　尚可(Vi)　﹗(EXCLAMATIONCATEGORY)

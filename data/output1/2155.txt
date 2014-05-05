@@ -1,0 +1,7 @@
+　酒店(N)　在(P)　沙田(N)　的(T)　河邊(N)　，(COMMACATEGORY)
+　風景(N)　不錯(Vi)　。(PERIODCATEGORY)
+　但是(C)　似乎(ADV)　因為(C)　都(ADV)　是(Vt)　大陸人(N)　入住(Vt)　的(T)　原因(N)　，(COMMACATEGORY)
+　服務員(N)　的(T)　態度(N)　十分(ADV)　惡劣(Vi)　。(PERIODCATEGORY)
+　我(N)　晚上(N)　問(Vt)　他們(N)　要求(Vt)　上網(Vi)　，(COMMACATEGORY)
+　有(Vt)　個(M)　服務員(N)　騙(Vt)　我(N)　到(Vt)　外面(N)　買(Vt)　上網卡(N)　，(COMMACATEGORY)
+　後來(N)　投訴(Vi)　也(ADV)　不理(Vt)　我(N)　。(PERIODCATEGORY)

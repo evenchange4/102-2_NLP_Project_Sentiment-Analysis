@@ -1,0 +1,6 @@
+　酒店(N)　設施(N)　老化(Vt)　，(COMMACATEGORY)
+　服務(Nv)　互相(ADV)　推委(N)　，(COMMACATEGORY)
+　沒有(Vt)　4星(N)　的(T)　設施(N)　怎能(ADV)　享受(Vt)　4星(N)　的(T)　服務(Nv)　，(COMMACATEGORY)
+　連(C)　空調(N)　都(ADV)　不能(ADV)　用(Vt)　的(T)　4星(N)　，(COMMACATEGORY)
+　餐飲(N)　就(ADV)　是(Vt)　大眾(N)　食堂(N)　的(T)　標準(N)　，(COMMACATEGORY)
+　價格(N)　是(Vt)　`(FW)　`(FW)　`(FW)　`(FW)　`(FW)　`(FW)　`(FW)　`(FW)　`(FW)

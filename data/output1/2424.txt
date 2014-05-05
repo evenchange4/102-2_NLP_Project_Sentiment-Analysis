@@ -1,0 +1,6 @@
+　位置(N)　沒有(Vt)　攜程(N)　說(Vt)　的(T)　那麼(ADV)　中心(N)　，(COMMACATEGORY)
+　距離(P)　天河(N)　購物(Vi)　中心(N)　開車(Vi)　約(ADV)　6(DET)　-(DASHCATEGORY)　7(DET)　分鐘(M)　，(COMMACATEGORY)
+　走路(Vi)　的(T)　話(N)　就(ADV)　免(Vt)　了(ASP)　吧(T)　。(PERIODCATEGORY)
+　酒店(N)　設施(N)　和(C)　裝修(Nv)　很(ADV)　一般(Vi)　，(COMMACATEGORY)
+　最多(ADV)　一(DET)　個(M)　三星(N)　標準(N)　。(PERIODCATEGORY)
+　不會(ADV)　再(ADV)　選擇(Vt)　這(DET)　個(M)　地方(N)　住(Vt)　。(PERIODCATEGORY)

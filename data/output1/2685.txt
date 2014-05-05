@@ -1,0 +1,2 @@
+　特價(N)　房(N)　內(N)　一(DET)　股(M)　霉味(N)　,(COMMACATEGORY)
+　門面(N)　不(ADV)　像(P)　攜程拍(Vt)　的(T)　那麼(ADV)　漂亮(Vi)　.(PERIODCATEGORY)

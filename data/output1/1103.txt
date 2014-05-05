@@ -1,0 +1,4 @@
+　酒店(N)　服務(Nv)　意識(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　很(ADV)　熱情(Vi)　，(COMMACATEGORY)
+　主動(Vi)　介紹(Vt)　酒店(N)　的(T)　特色(N)　。(PERIODCATEGORY)
+　感覺(N)　不錯(Vi)　。(PERIODCATEGORY)

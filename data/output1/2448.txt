@@ -1,0 +1,4 @@
+　還(ADV)　有(Vt)　，(COMMACATEGORY)
+　早餐(N)　稍(ADV)　晚(Vi)　點(ADV)　，(COMMACATEGORY)
+　就(ADV)　沒(Vt)　什麼(DET)　可(ADV)　吃(Vt)　的(T)　了(T)　，(COMMACATEGORY)
+　做(Vt)　的(T)　也(ADV)　很(ADV)　一般(A)

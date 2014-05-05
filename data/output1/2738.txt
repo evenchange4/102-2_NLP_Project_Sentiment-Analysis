@@ -1,0 +1,5 @@
+　這(DET)　酒店(N)　太(ADV)　黑(Vi)　，(COMMACATEGORY)
+　要求(Vt)　開通(Vi)　寬帶(N)　，(COMMACATEGORY)
+　服務生(N)　送來(Vt)　網線(N)　，(COMMACATEGORY)
+　叫(Vt)　你(N)　簽名(Vi)　，(COMMACATEGORY)
+　沒有(Vt)　任何(DET)　文字(N)

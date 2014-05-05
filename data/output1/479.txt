@@ -1,0 +1,2 @@
+　很(ADV)　一般(A)　的(T)　五星級(N)　酒店(N)　，(COMMACATEGORY)
+　周邊(N)　的(T)　環境(N)　感覺(N)　很(ADV)　亂(Vi)

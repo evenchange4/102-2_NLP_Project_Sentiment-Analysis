@@ -1,0 +1,3 @@
+　酒店(N)　位置(N)　在(P)　很(ADV)　市中心(N)　的(T)　地方(N)　,(COMMACATEGORY)
+　房間(N)　也(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　旁邊(N)　有(Vt)　一(DET)　個(M)　府山(N)　公園(N)　.(PERIODCATEGORY)　早餐(N)　品種(N)　不(ADV)　是(Vt)　很(ADV)　豐富(Vt)　.(PERIODCATEGORY)

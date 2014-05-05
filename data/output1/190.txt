@@ -1,0 +1,5 @@
+　酒店(N)　環境(N)　,(COMMACATEGORY)
+　房間(N)　檔次(N)　都(N)　很(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　服務(Nv)　水平(N)　專業(Vi)　.(PERIODCATEGORY)　住(Vt)　了(ASP)　兩(DET)　天(M)　,(COMMACATEGORY)
+　感覺(N)　確實(ADV)　比較(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　二樓(N)　自助(Vi)　燒烤(Vt)　給(Vt)　人(N)　賓至如歸(Vi)　的(T)　感覺(N)

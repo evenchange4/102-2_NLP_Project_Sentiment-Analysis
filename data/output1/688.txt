@@ -1,0 +1,2 @@
+　一般(A)　設施(N)　不錯(Vi)　，(COMMACATEGORY)
+　其他(DET)　一般(A)　早餐(N)　也(ADV)　不錯(Vi)

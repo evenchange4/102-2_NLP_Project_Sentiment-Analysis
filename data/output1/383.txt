@@ -1,0 +1,3 @@
+　網(N)　上(POST)　講(Vt)　的(T)　房間(N)　是(Vt)　24(DET)　平米(M)　，(COMMACATEGORY)
+　實際(Vi)　沒有(ADV)　那麼(ADV)　大(Vi)　。(PERIODCATEGORY)
+　另外(C)　房(N)　的(T)　空調(N)　也(ADV)　不(ADV)　是(Vt)　很(ADV)　涼快(Vi)　!(EXCLAMATIONCATEGORY)

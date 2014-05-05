@@ -1,0 +1,7 @@
+　我們(N)　是(Vt)　今年(N)　五一(DET)　期間(N)　入住(Vt)　酒店(N)　的(T)　標(N)　間(POST)　，(COMMACATEGORY)
+　衛生(N)　一般(POST)　，(COMMACATEGORY)
+　房間(N)　有點(ADV)　異味(N)　。(PERIODCATEGORY)
+　酒店(N)　對面(N)　有(Vt)　個(M)　超市(N)　，(COMMACATEGORY)
+　要(ADV)　買(Vt)　東東(N)　要(ADV)　趕早(ADV)　，(COMMACATEGORY)
+　好像(ADV)　晚上(N)　8(DET)　點(M)　多(POST)　就(ADV)　關門(Vi)　了(T)　。(PERIODCATEGORY)
+　晚上(N)　路邊(N)　小吃(Vt)　很多(DET)　。(PERIODCATEGORY)

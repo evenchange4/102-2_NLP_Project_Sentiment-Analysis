@@ -1,0 +1,3 @@
+　很(ADV)　破(Vt)　的(T)　賓館(N)　，(COMMACATEGORY)
+　號稱(Vt)　四星(N)　不過(C)　實際(Vi)　的(T)　情況(N)　比(P)　好(Vi)　一點(ADV)　的(T)　2(DET)　星(N)　都(ADV)　差(Vi)　，(COMMACATEGORY)
+　早飯(N)　也(ADV)　是(Vt)　慘不忍睹(Vi)　。(PERIODCATEGORY)

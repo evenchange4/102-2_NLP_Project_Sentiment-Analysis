@@ -1,0 +1,4 @@
+　除了(P)　地段(N)　可(ADV)　以(P)　，(COMMACATEGORY)
+　其他(DET)　是(Vt)　一塌糊塗(Vi)　，(COMMACATEGORY)
+　慘不忍睹(Vi)　。(PERIODCATEGORY)
+　和(P)　招待所(N)　差不多(Vi)　。(PERIODCATEGORY)

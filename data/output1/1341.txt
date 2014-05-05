@@ -1,0 +1,6 @@
+　前台(N)　服務(Nv)　挺(ADV)　熱情(Vi)　的(T)　，(COMMACATEGORY)
+　周圍(N)　交通(N)　也(ADV)　還(ADV)　方便(Vi)　。(PERIODCATEGORY)
+　只(ADV)　是(Vt)　酒店(N)　衛生間(N)　相臨(N)　的(T)　地毯(N)　潮濕(Vi)　，(COMMACATEGORY)
+　有點(ADV)　發霉(Vi)　。(PERIODCATEGORY)
+　但是(C)　價格(N)　便宜(Vi)　，(COMMACATEGORY)
+　性價(N)　比(P)　還(ADV)　過得去(Vi)　。(PERIODCATEGORY)

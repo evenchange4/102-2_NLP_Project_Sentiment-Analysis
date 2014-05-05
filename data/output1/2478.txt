@@ -1,0 +1,4 @@
+　感覺(Vt)　相當(ADV)　差勁(Vi)　，(COMMACATEGORY)
+　異味(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　性價(N)　比(P)　太(ADV)　低(Vi)　，(COMMACATEGORY)
+　絕不(ADV)　會(ADV)　再(ADV)　入住(Vt)　。(PERIODCATEGORY)

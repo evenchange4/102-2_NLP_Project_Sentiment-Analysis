@@ -1,0 +1,5 @@
+　環境(N)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　我(N)　姐(N)　她們(N)　指定(Vt)　住(Vt)　的(T)　地方(N)　，(COMMACATEGORY)
+　住(Vt)　過(ASP)　很多(DET)　次(M)　了(T)　喜歡(Vt)　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)

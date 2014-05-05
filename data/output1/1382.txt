@@ -1,0 +1,3 @@
+　比較(ADV)　舊(Vi)　了(T)　，(COMMACATEGORY)
+　但(C)　整體(N)　感覺(N)　還(ADV)　行(Vi)　。(PERIODCATEGORY)
+　服務(Nv)　也(ADV)　還(ADV)　可以(ADV)　。(PERIODCATEGORY)

@@ -1,0 +1,6 @@
+　非常(ADV)　一般(A)　的(T)　酒店(N)　，(COMMACATEGORY)
+　服務台(N)　上(N)　掛(Vt)　的(T)　特色(N)　賓館(N)　牌子(N)　一點(DET)　不能(ADV)　得到(Vt)　體現(Nv)　，(COMMACATEGORY)
+　服務(Nv)　態度(N)　也(ADV)　冷淡(Vi)　。(PERIODCATEGORY)
+　環境(N)　也(ADV)　相當(ADV)　一般(Vi)　，(COMMACATEGORY)
+　完全(ADV)　麼(T)　有(Vt)　傳說(N)　中(POST)　養眼(Vi)　的(T)　出現(Vi)　，(COMMACATEGORY)
+　不值(Vi)

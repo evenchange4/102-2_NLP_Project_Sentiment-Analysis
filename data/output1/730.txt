@@ -1,0 +1,3 @@
+　酒店(N)　很(ADV)　好(Vi)　可以(ADV)　免費(Vi)　打(Vt)　長途(A)　，(COMMACATEGORY)
+　隨便(Vi)　打(Vt)　都(ADV)　不要(ADV)　錢(N)　，(COMMACATEGORY)
+　這(DET)　點(M)　比較(ADV)　吸引人(Vi)

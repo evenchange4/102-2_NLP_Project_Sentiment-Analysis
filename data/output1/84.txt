@@ -1,0 +1,8 @@
+　朋友(N)　推薦(Vt)　的(T)　酒店(N)　，(COMMACATEGORY)
+　位置(N)　不錯(Vi)　，(COMMACATEGORY)
+　交通(N)　很(ADV)　方便(Vi)　，(COMMACATEGORY)
+　酒店(N)　的(T)　服務(Nv)　也(ADV)　很(ADV)　貼心(Vi)　，(COMMACATEGORY)
+　入住(Vt)　時(POST)　前台(N)　適時(ADV)　地(T)　送上(Vt)　一(DET)　杯(M)　冰(N)　檸檬茶(N)　，(COMMACATEGORY)
+　讓(Vt)　人(N)　感受到(Vt)　酒店(N)　的(T)　細心(Nv)　服務(Nv)　，(COMMACATEGORY)
+　夏日(N)　的(T)　夜晚(N)　坐(Vi)　在(P)　露天(N)　啤酒(N)　花園(N)　喝(Vt)　著(ASP)　啤酒(N)　，(COMMACATEGORY)
+　與(C)　朋友(N)　暢談(Vt)　很(ADV)　是(Vt)　愜意(Vi)　。(PERIODCATEGORY)

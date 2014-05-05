@@ -1,0 +1,6 @@
+　酒店(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　服務(Vt)　太(ADV)　差(Vi)　，(COMMACATEGORY)
+　Ａ(FW)　樓(N)　房間(N)　也(ADV)　老(Vi)　，(COMMACATEGORY)
+　下(DET)　次(M)　再(ADV)　也(ADV)　不(ADV)　住(Vt)　了(T)　。(PERIODCATEGORY)
+　環境(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　打(Vt)　高爾夫(N)　的(T)　或許(ADV)　可以(ADV)　忍忍(Vi)　吧(T)　。(PERIODCATEGORY)

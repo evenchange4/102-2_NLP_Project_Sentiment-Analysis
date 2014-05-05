@@ -1,0 +1,3 @@
+　酒店(N)　就(ADV)　是(Vt)　離(P)　市區(N)　太(ADV)　遠(Vi)　。(PERIODCATEGORY)
+　離(P)　新(Vi)　國際(N)　展會(N)　也(ADV)　不(ADV)　近(Vi)　。(PERIODCATEGORY)
+　我(N)　的(T)　客人(N)　還(ADV)　算(Vt)　滿意(Vt)　。(PERIODCATEGORY)

@@ -1,0 +1,5 @@
+　相當於(Vt)　五(DET)　星(N)　的(T)　服務(Nv)　，(COMMACATEGORY)
+　好(Vi)　於(P)　四星(N)　的(T)　早餐(N)　，(COMMACATEGORY)
+　差不多(Vi)　三星(N)　的(T)　房價(N)　就(ADV)　是(Vt)　要(ADV)　借(Vt)　東西(N)　補充(Vt)　點評(N)　2008年(N)　5月(N)　12日(N)　：(COLONCATEGORY)　有(ADV)　個(M)　印度(N)　啊(T)　三(DET)　，(COMMACATEGORY)
+　很(ADV)　有(Vt)　派頭(N)　，(COMMACATEGORY)
+　服務(Nv)　熱情(N)

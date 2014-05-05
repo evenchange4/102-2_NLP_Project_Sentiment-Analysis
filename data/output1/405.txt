@@ -1,0 +1,4 @@
+　房間(N)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　古典(Vi)　而(C)　又(ADV)　現代(Vi)　！(EXCLAMATIONCATEGORY)　前台(N)　服務(Nv)　一般(POST)　，(COMMACATEGORY)
+　基本(A)　見不著(Vt)　笑容(N)　！(EXCLAMATIONCATEGORY)　地理(N)　位置(N)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　尤其(ADV)　是(Vt)　喜歡(Vt)　數碼(N)　產品(N)　的(T)　年輕人(N)　！(EXCLAMATIONCATEGORY)

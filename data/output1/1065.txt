@@ -1,0 +1,3 @@
+　性價(N)　比較(ADV)　高(Vi)　，(COMMACATEGORY)
+　硬件(N)　設施(N)　比(P)　過去(N)　更加(ADV)　改善(Vt)　。(PERIODCATEGORY)
+　滿意(Vt)　！(EXCLAMATIONCATEGORY)

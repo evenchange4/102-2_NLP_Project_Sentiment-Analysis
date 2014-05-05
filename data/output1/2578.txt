@@ -1,0 +1,8 @@
+　上(DET)　次(M)　去(ADV)　住(Vt)　想(Vt)　起來(ASP)　還是(ADV)　很(ADV)　不(ADV)　高興(Vt)　,(COMMACATEGORY)
+　根本(ADV)　沒有星(N)　,(COMMACATEGORY)
+　好(ADV)　舊(Vi)　的(T)　酒店(N)　,(COMMACATEGORY)
+　除了(P)　房間(N)　大(Vi)　,(COMMACATEGORY)
+　東西(N)　舊(Vi)　得(T)　嚇人(Vi)　,(COMMACATEGORY)
+　毛巾(N)　在(P)　面盆(N)　裡(N)　洗(Vt)　了(ASP)　三(DET)　次(M)　,(COMMACATEGORY)
+　還是(ADV)　很(ADV)　混(Vi)　的(T)　水(N)　,(COMMACATEGORY)
+　再(ADV)　也(ADV)　不(ADV)　住(Vt)　了(ASP)

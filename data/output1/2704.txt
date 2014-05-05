@@ -1,0 +1,5 @@
+　我(N)　定(Vt)　的(T)　大(Vi)　床(N)　房(N)　，(COMMACATEGORY)
+　房間(N)　靠(P)　主幹道(N)　加上(Vt)　隔音(A)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　吵(Vt)　得(T)　要命(Vi)　，(COMMACATEGORY)
+　我(N)　整(DET)　晚(M)　都(ADV)　沒(ADV)　睡著(Vi)　，(COMMACATEGORY)
+　如果(C)　睡眠(N)　不(ADV)　好(Vi)　的(T)　朋友(N)　要(ADV)　考慮(Vt)　一下(N)　！(EXCLAMATIONCATEGORY)

@@ -1,0 +1,5 @@
+　酒店(N)　周邊(N)　環境(N)　尚可(Vi)　,(COMMACATEGORY)
+　離(P)　火車站(N)　5(DET)　公里(M)　左右(POST)　,(COMMACATEGORY)
+　算(Vt)　遠(Vi)　,(COMMACATEGORY)
+　房間(N)　空氣(N)　不行(Vi)　,(COMMACATEGORY)
+　較(ADV)　舊(Vi)　.(PERIODCATEGORY)　不(ADV)　推薦(Vt)　.(PERIODCATEGORY)

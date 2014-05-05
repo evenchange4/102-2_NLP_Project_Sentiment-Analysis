@@ -1,0 +1,2 @@
+　不(ADV)　像(P)　三星(N)　的(T)　酒店(N)　，(COMMACATEGORY)
+　根本(ADV)　就(ADV)　是(Vt)　一(DET)　個(M)　2(DET)　星(N)　的(T)　酒店(N)　啊(T)

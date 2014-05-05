@@ -1,0 +1,6 @@
+　一(DET)　個(M)　字(N)　,(COMMACATEGORY)
+　爛(Vi)　,(COMMACATEGORY)
+　二(DET)　個(M)　字(N)　,(COMMACATEGORY)
+　特(ADV)　爛(Vi)　,(COMMACATEGORY)
+　三(DET)　個(M)　字(N)　,(COMMACATEGORY)
+　特別(Vi)　爛(Vi)　.(PERIODCATEGORY)　這樣(Vi)　的(T)　賓館(N)　四星級(N)　?(QUESTIONCATEGORY)　請(Vt)　攜程別(N)　為了(P)　回扣(N)　向(P)　我們(N)　推薦(Vt)　垃圾(N)　賓館(N)　.(PERIODCATEGORY)

@@ -1,0 +1,6 @@
+　房間(N)　新(Vi)　裝修(Vt)　的(T)　,(COMMACATEGORY)
+　作為(Vt)　萬豪(N)　的(T)　金卡(N)　會員(N)　,(COMMACATEGORY)
+　給(Vt)　我(N)　升級(Vi)　免費(Vi)　寬帶(N)　和(C)　免費(Vi)　早餐(N)　,(COMMACATEGORY)
+　這(DET)　點(M)　比(P)　無錫(N)　萬怡(N)　好(ADV)　很多(Vi)　了(T)　.(PERIODCATEGORY)　前台(N)　的(T)　笑臉(N)　不(ADV)　多(Vi)　,(COMMACATEGORY)
+　但(C)　和(P)　之前(N)　相比(Vi)　的(T)　話(N)　,(COMMACATEGORY)
+　進步(Vi)　很多(Vi)　了(T)　.(PERIODCATEGORY)　鼓勵(Vt)　一下(N)　.(PERIODCATEGORY)

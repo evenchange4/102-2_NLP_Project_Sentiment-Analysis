@@ -1,0 +1,5 @@
+　還(ADV)　不錯(Vi)　的(T)　酒店(N)　,(COMMACATEGORY)
+　地點(N)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　就(ADV)　在(P)　火車站(N)　出來(Vi)　.(PERIODCATEGORY)　一樓(N)　有點(ADV)　吵(Vi)　,(COMMACATEGORY)
+　有(Vt)　旅行團(N)　也(ADV)　有(Vt)　來(ADV)　吃飯(Vi)　的(T)　客人(N)　,(COMMACATEGORY)
+　不過(C)　不(ADV)　影響(Vt)　住宿(Nv)

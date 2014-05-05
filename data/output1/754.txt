@@ -1,0 +1,8 @@
+　388(DET)　元(M)　的(T)　B(FW)　標準(N)　間(N)　房間(N)　很(ADV)　好(Vi)　的(T)　！(EXCLAMATIONCATEGORY)　設備(N)　不錯(Vi)　！(EXCLAMATIONCATEGORY)　但是(C)　淋浴房(N)　缺少(Vt)　一(DET)　個(M)　放(Vt)　東西(N)　的(T)　支架(N)　，(COMMACATEGORY)
+　不(ADV)　是(Vt)　很(ADV)　方便(Vi)　。(PERIODCATEGORY)
+　服務(Vt)　很(ADV)　好(Vi)　的(T)　！(EXCLAMATIONCATEGORY)　出門(Vi)　也(ADV)　方便(Vi)　，(COMMACATEGORY)
+　停車(Nv)　安全(Nv)　。(PERIODCATEGORY)
+　液晶(N)　電視(N)　！(EXCLAMATIONCATEGORY)　裝修(Vt)　比較(ADV)　新(Vi)　！(EXCLAMATIONCATEGORY)　但是(C)　房間(N)　比較(ADV)　小(Vi)　！(EXCLAMATIONCATEGORY)　據說(ADV)　開業(Nv)　時間(N)　早(Vi)　，(COMMACATEGORY)
+　無法(ADV)　改變(Vt)　。(PERIODCATEGORY)
+　面臨(Vt)　很(ADV)　大(Vi)　的(T)　黃山湖(N)　公園(N)　，(COMMACATEGORY)
+　環境(N)　保護(Vt)　的(T)　很(ADV)　好(Vi)　的(T)　！(EXCLAMATIONCATEGORY)

@@ -1,0 +1,6 @@
+　酒店(N)　設施(N)　陳舊(Vi)　，(COMMACATEGORY)
+　浴缸(N)　排水(Nv)　不(ADV)　暢(Vi)　，(COMMACATEGORY)
+　入住(Vt)　無房(N)　，(COMMACATEGORY)
+　一(DET)　間(M)　16(DET)　：(COLONCATEGORY)　00(DET)　，(COMMACATEGORY)
+　一(DET)　間(M)　22(DET)　：(COLONCATEGORY)　00(DET)　，(COMMACATEGORY)
+　早餐(N)　差(Vi)

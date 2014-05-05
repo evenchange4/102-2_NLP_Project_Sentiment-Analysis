@@ -1,0 +1,4 @@
+　比較(ADV)　老(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　服務(Vt)　比較(ADV)　好(Vi)　，(COMMACATEGORY)
+　早餐(N)　品種(N)　不(ADV)　多(Vi)　。(PERIODCATEGORY)
+　但是(C)　去(ADV)　海邊(N)　很(ADV)　方便(Vi)　。(PERIODCATEGORY)

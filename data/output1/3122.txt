@@ -1,0 +1,5 @@
+　房間(N)　很(ADV)　大(Vi)　味道(N)　，(COMMACATEGORY)
+　服務(Vt)　差(Vi)　，(COMMACATEGORY)
+　態度(N)　差(Vi)　，(COMMACATEGORY)
+　房(N)　單(A)　設施(N)　差(Vi)　~(FW)　~(FW)　永遠(ADV)　不會(ADV)　再(ADV)　去(Vt)　了(ASP)　。(PERIODCATEGORY)
+　差(Vi)　就(ADV)　一(DET)　個(M)　字(N)

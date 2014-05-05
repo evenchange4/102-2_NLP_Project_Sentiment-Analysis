@@ -1,0 +1,4 @@
+　沒有(ADV)　見(Vt)　過(ASP)　這麼(ADV)　小(Vi)　的(T)　房間(N)　兩(DET)　人(N)　在(P)　房間(N)　走動(Vi)　的(T)　話(N)　需要(Vt)　讓來讓去(Vi)　的(T)　，(COMMACATEGORY)
+　酒店(N)　服務員(N)　態度(N)　都(ADV)　是(Vt)　冷冰冰(Vi)　的(T)　從來(ADV)　沒(ADV)　見(Vt)　過(ASP)　他們(N)　笑(Vi)　過(ASP)　或(C)　主動(Vi)　和(C)　你(N)　打招呼(Vi)　，(COMMACATEGORY)
+　離(P)　地鐵(N)　東湧線(N)　距離(N)　還(ADV)　可以(ADV)　。(PERIODCATEGORY)
+　酒店(N)　周圍(N)　環境(N)　不(ADV)　怎麼樣(Vi)　都(ADV)　是(Vt)　居民區(N)　（(PARENTHESISCATEGORY)　當然(ADV)　不(ADV)　是(Vt)　有錢人(N)　住(Vt)　的(T)　）(PARENTHESISCATEGORY)　下(DET)　次(M)　去(ADV)　的(T)　話(N)　堅決(Vi)　不會(ADV)　再(ADV)　住(Vt)　這(DET)　家(M)　了(T)　也(ADV)　不(ADV)　推薦(Vt)

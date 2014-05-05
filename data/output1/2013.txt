@@ -1,0 +1,4 @@
+　房間(N)　裝修(Vt)　陳舊(Vi)　，(COMMACATEGORY)
+　下(DET)　水管(N)　堵塞(Vt)　，(COMMACATEGORY)
+　晚上(N)　折騰(Vt)　了(ASP)　2(DET)　個(M)　多(POST)　小時(N)　，(COMMACATEGORY)
+　還是(ADV)　沒有(ADV)　修好(Vt)　。(PERIODCATEGORY)

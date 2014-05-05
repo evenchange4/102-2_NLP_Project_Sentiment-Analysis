@@ -1,0 +1,4 @@
+　感覺(N)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　液晶(N)　電視(N)　，(COMMACATEGORY)
+　配有(Vt)　電腦(N)　。(PERIODCATEGORY)
+　位置(N)　很(ADV)　好(Vi)

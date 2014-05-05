@@ -1,0 +1,4 @@
+　酒店(N)　服務(Nv)　意識(N)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　餐廳(N)　不能(ADV)　簽單(N)　，(COMMACATEGORY)
+　說(Vt)　是(Vt)　怕(Vt)　消費(N)　的(T)　高於(Vt)　預(ADV)　授權(Vt)　。(PERIODCATEGORY)
+　服務生(N)　明顯(Vi)　沒有(ADV)　經過(Vt)　培訓(Nv)　。(PERIODCATEGORY)

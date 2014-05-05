@@ -1,0 +1,8 @@
+　我(N)　住(Vt)　的(T)　是(Vt)　大(Vi)　床(N)　間(POST)　，(COMMACATEGORY)
+　房子(N)　不(ADV)　算(Vt)　乾淨(Vi)　，(COMMACATEGORY)
+　衛生間(N)　比較(ADV)　簡陋(Vi)　，(COMMACATEGORY)
+　早餐(N)　品種(N)　太少(Vi)　，(COMMACATEGORY)
+　飯店(N)　上菜(Vi)　太(ADV)　慢(Vi)　，(COMMACATEGORY)
+　衛生(N)　也(ADV)　是(Vt)　問題(N)　，(COMMACATEGORY)
+　不停(ADV)　有(Vt)　蒼蠅(N)　轉來轉去(Vi)　。(PERIODCATEGORY)
+　下(DET)　次(M)　不會(ADV)　再(ADV)　住(Vt)　了(ASP)　。(PERIODCATEGORY)

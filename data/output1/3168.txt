@@ -1,0 +1,6 @@
+　環境(N)　很(ADV)　髒(Vi)　，(COMMACATEGORY)
+　不(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　床單(N)　好像(ADV)　很(ADV)　久(Vi)　沒(ADV)　換(Vt)　過(ASP)　，(COMMACATEGORY)
+　破舊(Vi)　不堪(Vt)　賓館(N)　反饋(Vt)　2008年(N)　6月(N)　29日(N)　：(COLONCATEGORY)　謝謝(Vt)　您(N)　提(Vt)　的(T)　寶貴(Vi)　意見(N)　，(COMMACATEGORY)
+　我們(N)　設施(N)　設備(N)　現已(ADV)　全面(ADV)　更換(Vt)　，(COMMACATEGORY)
+　歡迎(Vt)　您(N)　的(T)　下(DET)　次(M)　入住(Vt)　！(EXCLAMATIONCATEGORY)

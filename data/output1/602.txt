@@ -1,0 +1,6 @@
+　酒店(N)　位置(N)　非常(ADV)　的(T)　好(Vi)　，(COMMACATEGORY)
+　客人(N)　每(DET)　次(M)　都(ADV)　要(ADV)　點名(Vi)　入住(Vt)　。(PERIODCATEGORY)
+　只是(ADV)　不(ADV)　知道(Vt)　為什麼(ADV)　每(DET)　次(M)　前台(N)　都(ADV)　為了(P)　吸煙區(N)　和(C)　非(A)　吸煙區(N)　和(C)　你(N)　搗糨糊(N)　，(COMMACATEGORY)
+　即便(C)　你(N)　預定(Vt)　時(POST)　已經(ADV)　強調(Vt)　而且(C)　也(ADV)　得到(Vt)　了(ASP)　確認(Vt)　，(COMMACATEGORY)
+　前台(N)　也(ADV)　要(ADV)　試探(Vt)　著(ASP)　給(Vt)　你(N)　換成(Vt)　吸煙區(N)　做(Vt)　無煙(Vi)　處理(Vt)　，(COMMACATEGORY)
+　真真(Vi)　被(P)　打敗(Vt)　了(T)　！(EXCLAMATIONCATEGORY)

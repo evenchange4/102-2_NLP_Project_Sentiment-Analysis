@@ -1,0 +1,7 @@
+　入住(Vt)　此(DET)　酒店(N)　：(COLONCATEGORY)　軟件(N)　及(C)　硬件(N)　比較(ADV)　好(Vi)　，(COMMACATEGORY)
+　價格(N)　合理(Vi)　。(PERIODCATEGORY)
+　但(C)　停車(Vi)　的(T)　車庫(N)　不能(ADV)　直接(Vi)　進入(Vt)　酒店(N)　，(COMMACATEGORY)
+　要(ADV)　出(Vt)　車庫(N)　從(P)　正門(N)　進入(Vt)　，(COMMACATEGORY)
+　不(ADV)　是(Vt)　很(ADV)　方便(Vi)　。(PERIODCATEGORY)
+　不過(C)　下(DET)　次(M)　來(Vi)　太原(N)　，(COMMACATEGORY)
+　她(N)　是(Vt)　首選(N)　。(PERIODCATEGORY)

@@ -1,0 +1,6 @@
+　環境(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　花園(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　服務生(N)　態度(N)　也(ADV)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　距離(P)　機場(N)　很(ADV)　近(Vi)　很(ADV)　方便(Vi)　，(COMMACATEGORY)
+　不錯(Vi)　，(COMMACATEGORY)
+　下(DET)　次(M)　考慮(Vt)　再次(ADV)　入住(Vt)

@@ -1,0 +1,6 @@
+　可以(ADV)　說(Vt)　是(Vt)　金華(N)　最好(Vi)　的(T)　賓館(N)　了(T)　，(COMMACATEGORY)
+　但(C)　不(ADV)　是(Vt)　性價(N)　比(P)　最(ADV)　高(Vi)　的(T)　。(PERIODCATEGORY)
+　金華(N)　沒有(ADV)　比(P)　它(N)　好(Vi)　的(T)　，(COMMACATEGORY)
+　但是(C)　同(DET)　星級(N)　的(T)　不(ADV)　是(Vt)　最好(Vi)　，(COMMACATEGORY)
+　還(ADV)　過(Vt)　的(T)　去(Vt)　吧(T)　，(COMMACATEGORY)
+　價格(N)　高(Vi)　了(ASP)　點(M)

@@ -1,0 +1,3 @@
+　很(ADV)　一般(A)　的(T)　設施(N)　,(COMMACATEGORY)
+　很(ADV)　陳舊(Vi)　.(PERIODCATEGORY)　服務(Nv)　也(ADV)　很(ADV)　一般(Vi)　,(COMMACATEGORY)
+　價格(N)　和(C)　設施(N)　是(Vt)　完全(ADV)　不(ADV)　相關(Vi)　的(T)　一(DET)　個(M)　酒店(N)　.(PERIODCATEGORY)　不會(ADV)　再(ADV)　考慮(Vt)　去(ADV)　入住(Vt)　.(PERIODCATEGORY)

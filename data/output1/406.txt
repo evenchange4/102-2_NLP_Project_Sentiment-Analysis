@@ -1,0 +1,4 @@
+　環境(N)　不錯(Vi)　,(COMMACATEGORY)
+　交通(N)　也(ADV)　很(ADV)　方便(Vi)　,(COMMACATEGORY)
+　購物(Vi)　吃飯(Vi)　也(ADV)　方便(Vi)　,(COMMACATEGORY)
+　公司(N)　來(Vi)　天津(N)　出差(Vi)　都(ADV)　是(Vt)　入住(Vt)　這(DET)　個(M)　酒店(N)　!(EXCLAMATIONCATEGORY)

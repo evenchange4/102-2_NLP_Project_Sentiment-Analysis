@@ -1,0 +1,2 @@
+　幫(P)　日本客人(N)　訂(Vt)　的(T)　酒店(N)　,(COMMACATEGORY)
+　五星級(N)　這(DET)　個(M)　價位(N)　算(Vt)　很(ADV)　便宜(Vi)　.(PERIODCATEGORY)　至於(P)　環境(N)　和(C)　服務(Nv)　設施(N)　等(POST)　應該(ADV)　很(ADV)　不錯(Vi)　吧(T)　.(PERIODCATEGORY)

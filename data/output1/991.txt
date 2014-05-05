@@ -1,0 +1,7 @@
+　絕對(ADV)　是(Vt)　超(Vt)　三星(N)　標準(N)　，(COMMACATEGORY)
+　地處(Vt)　商業區(N)　，(COMMACATEGORY)
+　購物(Vi)　還是(ADV)　很(ADV)　方便(Vi)　的(T)　，(COMMACATEGORY)
+　對門(N)　有(Vt)　家(M)　羊(N)　雜店(N)　，(COMMACATEGORY)
+　絕對(Vi)　正宗(N)　。(PERIODCATEGORY)
+　除了(P)　價格(N)　稍(ADV)　貴(Vi)　，(COMMACATEGORY)
+　總體(N)　還是(ADV)　很(ADV)　滿意(Vt)　的(T)

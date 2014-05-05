@@ -1,0 +1,7 @@
+　是(Vt)　衝(Vi)　著(ASP)　萬(DET)　豪(Vi)　的(T)　名氣(N)　去(T)　的(T)　,(COMMACATEGORY)
+　但(C)　有點(ADV)　失望(Vi)　,(COMMACATEGORY)
+　酒店(N)　出(Vt)　了(ASP)　位置(N)　不錯(Vi)　以外(POST)　,(COMMACATEGORY)
+　其他(DET)　都(ADV)　表現(Vt)　平平(Vi)　,(COMMACATEGORY)
+　特別(Vi)　是(Vt)　房間(N)　的(T)　裝修(Nv)　已(ADV)　顯(Vt)　老態(N)　,(COMMACATEGORY)
+　希望(Vt)　酒店(N)　當局(N)　早點(ADV)　更新(Vt)　,(COMMACATEGORY)
+　不然(C)　很(ADV)　對不起(Vt)　那(DET)　八百多(DET)　一(DET)　晚(M)　的(T)　房價(N)　((PARENTHESISCATEGORY)　還(ADV)　沒有(Vt)　早餐(N)　)(PARENTHESISCATEGORY)　.(PERIODCATEGORY)

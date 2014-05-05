@@ -1,0 +1,3 @@
+　設施(N)　雖(C)　稍(ADV)　陳舊(Vi)　一些(DET)　,(COMMACATEGORY)
+　但(C)　良好(Vi)　的(T)　服務(Nv)　給(Vt)　人(N)　溫暖(Vt)　.(PERIODCATEGORY)　酒店(N)　所(N)　處(N)　地理(N)　位置(N)　和(C)　環境(N)　極好(Vi)　.(PERIODCATEGORY)　對(P)　年齡(N)　較(ADV)　大(Vi)　的(T)　個人(N)　旅遊(Nv)　者(N)　而言(Vt)　,(COMMACATEGORY)
+　入住(Vt)　該(DET)　酒店(N)　不失為(Vt)　較(ADV)　佳(Vi)　選擇(Vt)　.(PERIODCATEGORY)

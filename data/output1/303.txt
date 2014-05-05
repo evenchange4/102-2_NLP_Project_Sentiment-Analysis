@@ -1,0 +1,5 @@
+　這(DET)　次(M)　去(Vt)　泉州(N)　有(Vt)　三(DET)　個(M)　國外(N)　客人(N)　一起(ADV)　同行(Vi)　,(COMMACATEGORY)
+　還是(ADV)　入住(Vt)　了(ASP)　泉酒(N)　.(PERIODCATEGORY)　大堂(N)　有(Vt)　水仙花(N)　裝飾(N)　,(COMMACATEGORY)
+　有(Vt)　一(DET)　股(M)　清香(Vi)　.(PERIODCATEGORY)　環境(N)　很(ADV)　好(Vi)　.(PERIODCATEGORY)　以(P)　390(DET)　元(M)　的(T)　價格(N)　入住(Vt)　,(COMMACATEGORY)
+　超值(Vi)　.(PERIODCATEGORY)　客人(N)　稱讚(Vt)　酒店(N)　很(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　我(N)　想(Vt)　這(DET)　是(Vt)　每(DET)　個(M)　入住(Vt)　客人(N)　的(T)　同感(N)　.(PERIODCATEGORY)

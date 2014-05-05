@@ -1,0 +1,3 @@
+　房間(N)　太(ADV)　小(Vi)　,(COMMACATEGORY)
+　到(P)　總台拿(N)　房間(N)　居然(ADV)　說(Vt)　我(N)　沒有(ADV)　預定(Vt)　,(COMMACATEGORY)
+　還(ADV)　要(ADV)　在(P)　打電話(Vi)　到(P)　攜程(N)　去(ADV)　確認(Vt)　!(EXCLAMATIONCATEGORY)

@@ -1,0 +1,5 @@
+　味道(N)　太(ADV)　重(Vi)　了(T)　，(COMMACATEGORY)
+　晚上(N)　睡不(N)　著(Vt)　，(COMMACATEGORY)
+　希望(Vt)　邯鄲(N)　賓館(N)　有點(ADV)　公德心(N)　，(COMMACATEGORY)
+　裝修(Vt)　剛好(ADV)　就(ADV)　開始(Vt)　營業(Vi)　，(COMMACATEGORY)
+　想(Vt)　毒死(Vt)　人(N)　啊(T)　！(EXCLAMATIONCATEGORY)

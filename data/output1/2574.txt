@@ -1,0 +1,7 @@
+　太(ADV)　差(Vi)　,(COMMACATEGORY)
+　根本(ADV)　達(Vt)　不(ADV)　到(Vt)　5(DET)　星(N)　標準(N)　,(COMMACATEGORY)
+　房間(N)　舊(Vi)　裝修(Vt)　很(ADV)　久(Vi)　的(T)　了(T)　,(COMMACATEGORY)
+　桌子(N)　都(ADV)　是(Vt)　壞(Vt)　的(T)　,(COMMACATEGORY)
+　唯一(A)　的(T)　是(Vt)　賓館(N)　裡(N)　的(T)　環境(N)　還(ADV)　可以(ADV)　,(COMMACATEGORY)
+　標準(N)　間(N)　裡(N)　就(ADV)　太(ADV)　糟糕(Vi)　了(ASP)　免費(Vi)　註冊(Nv)　網站(N)　導航(Nv)　賓館(N)　索引(N)　服務(Nv)　說明(N)　關於(P)　攜程(N)　誠聘(Vt)　英才(N)　代理(Nv)　合作(Nv)　廣告(N)　業務(N)　聯繫(Vt)　我們(N)　Copyright(FW)　?(QUESTIONCATEGORY)　1999(DET)　-(DASHCATEGORY)　2008(DET)　,(COMMACATEGORY)
+　ctrip.com(FW)　.(PERIODCATEGORY)　all(FW)　rights(FW)　reserved(FW)　.(PERIODCATEGORY)

@@ -1,0 +1,4 @@
+　替(P)　兩(DET)　個(M)　同事(N)　訂(Vt)　的(T)　，(COMMACATEGORY)
+　比較(ADV)　滿意(Vt)　，(COMMACATEGORY)
+　但(C)　覺得(Vt)　價格(N)　偏(ADV)　高(Vi)　，(COMMACATEGORY)
+　在(P)　這樣(Vi)　的(T)　西部(N)　小(Vi)　城市(N)　像(Vt)　這樣(Vi)　的(T)　賓館(N)　300(DET)　-(DASHCATEGORY)　350(DET)　元(M)　含早(N)　比較(ADV)　合理(Vi)　。(PERIODCATEGORY)

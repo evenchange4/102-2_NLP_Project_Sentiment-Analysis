@@ -1,0 +1,7 @@
+　還(ADV)　算(Vt)　馬馬虎虎(Vi)　的(T)　的(T)　3星(N)　賓館(N)　嗎(T)　，(COMMACATEGORY)
+　地理(N)　位置(N)　還(ADV)　可以(ADV)　，(COMMACATEGORY)
+　和(P)　廣場(N)　很(ADV)　近(Vi)　。(PERIODCATEGORY)
+　可是(C)　周邊(N)　環境(N)　太(ADV)　差(Vi)　，(COMMACATEGORY)
+　很(ADV)　吵(Vi)　。(PERIODCATEGORY)
+　而且(C)　門口(N)　沒有(Vt)　出租車(N)　，(COMMACATEGORY)
+　外出(Vi)　很(ADV)　不(ADV)　方便(Vi)　。(PERIODCATEGORY)

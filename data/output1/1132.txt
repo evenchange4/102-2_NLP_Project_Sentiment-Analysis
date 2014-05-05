@@ -1,0 +1,5 @@
+　在(P)　副樓(N)　的(T)　房間(N)　有(Vt)　老舊(Vi)　了(ASP)　些(ADV)　,(COMMACATEGORY)
+　實有(Vt)　必要(N)　再(ADV)　整修(Vt)　了(ASP)　,(COMMACATEGORY)
+　尤其(ADV)　在(P)　地毯(N)　部份(DET)　,(COMMACATEGORY)
+　不然(C)　整體(N)　上(N)　是(Vt)　不錯(Vi)　的(T)　的(T)　.(PERIODCATEGORY)　在(P)　早餐(N)　的(T)　服務(Nv)　上(POST)　還是(ADV)　可以(ADV)　的(T)　,(COMMACATEGORY)
+　仍(ADV)　有(Vt)　著(ASP)　水準(N)　.(PERIODCATEGORY)

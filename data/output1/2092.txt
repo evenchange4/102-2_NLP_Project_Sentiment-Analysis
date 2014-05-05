@@ -1,0 +1,5 @@
+　夜景(N)　不錯(Vi)　，(COMMACATEGORY)
+　房間(N)　不錯(Vi)　，(COMMACATEGORY)
+　早餐(N)　很(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　離(P)　海邊(N)　和(P)　商業區(N)　有點(ADV)　距離(N)　，(COMMACATEGORY)
+　服務(Vt)　滿意度(N)　也(ADV)　有(Vt)　些(M)　距離(N)　。(PERIODCATEGORY)

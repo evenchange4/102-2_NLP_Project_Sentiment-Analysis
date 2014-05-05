@@ -1,0 +1,4 @@
+　山莊(N)　很(ADV)　安靜(Vi)　,(COMMACATEGORY)
+　空氣(N)　非常(ADV)　好(Vi)　,(COMMACATEGORY)
+　交通(N)　也(ADV)　方便(Vi)　,(COMMACATEGORY)
+　房間(N)　空調(N)　不(ADV)　太(ADV)　涼(Vi)

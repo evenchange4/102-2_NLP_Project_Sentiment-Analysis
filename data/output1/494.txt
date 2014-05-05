@@ -1,0 +1,6 @@
+　有(Vt)　很(ADV)　長(Vi)　時間(N)　沒有(ADV)　在(P)　西藏(N)　大廈(N)　住(Vt)　了(ASP)　，(COMMACATEGORY)
+　以前(N)　去(Vt)　北京(N)　在(P)　這裡(N)　住(Vt)　的(T)　較(ADV)　多(Vi)　。(PERIODCATEGORY)
+　這(DET)　次(M)　住進來(Vi)　發現(Vt)　換(Vt)　了(ASP)　液晶(N)　電視(N)　，(COMMACATEGORY)
+　但(C)　網絡(N)　不(ADV)　是(Vt)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　他們(N)　自己(N)　說(Vt)　是(Vt)　收費(Vt)　的(T)　原因(N)　造成(Vt)　的(T)　。(PERIODCATEGORY)
+　其它(DET)　還好(Vi)　。(PERIODCATEGORY)

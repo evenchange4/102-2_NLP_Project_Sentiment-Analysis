@@ -1,0 +1,5 @@
+　國慶(N)　頭一天(N)　去(ADV)　住(Vt)　，(COMMACATEGORY)
+　門(N)　市價(N)　和(C)　攜程(N)　的(T)　價(N)　一樣(Vi)　，(COMMACATEGORY)
+　豪華房(N)　672(DET)　元(M)　還(ADV)　不(ADV)　包(Vt)　早餐(N)　。(PERIODCATEGORY)
+　房間(N)　設施(N)　挺(ADV)　舊(Vi)　得(Vt)　了(ASP)　，(COMMACATEGORY)
+　感覺(Vt)　很(ADV)　一般(Vi)　。(PERIODCATEGORY)

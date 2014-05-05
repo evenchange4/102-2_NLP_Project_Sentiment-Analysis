@@ -1,0 +1,6 @@
+　環境(N)　安靜(Vi)　，(COMMACATEGORY)
+　離(P)　火車站(N)　近(Vi)　。(PERIODCATEGORY)
+　房間(N)　佈置(Vt)　不錯(Vi)　，(COMMACATEGORY)
+　早餐(N)　以(P)　中餐(N)　為主(Vi)　，(COMMACATEGORY)
+　豐富(Vt)　。(PERIODCATEGORY)
+　下(DET)　次(M)　接著(ADV)　住(Vt)

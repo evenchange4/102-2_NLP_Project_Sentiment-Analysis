@@ -1,0 +1,3 @@
+　這(DET)　個(M)　酒店(N)　的(T)　設備(N)　很(ADV)　老(Vi)　，(COMMACATEGORY)
+　不(ADV)　像(P)　3星(N)　酒店(N)　。(PERIODCATEGORY)
+　房間(N)　的(T)　設施(N)　像(P)　80年代(N)　的(T)　。(PERIODCATEGORY)

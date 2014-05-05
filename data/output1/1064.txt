@@ -1,0 +1,3 @@
+　在(P)　桐鄉(N)　是(Vt)　不錯(Vi)　的(T)　選擇(N)　，(COMMACATEGORY)
+　大堂(N)　很(ADV)　大(Vi)　。(PERIODCATEGORY)
+　打(Vt)　車(N)　方便(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,3 @@
+　入住(Vt)　的(T)　時候(N)　禮賓(N)　在(P)　哪裡(N)　?(QUESTIONCATEGORY)　房間(N)　裡(N)　的(T)　花盆(N)　特別(Vi)　象(N)　90年代(N)　初期(N)　的(T)　田園(N)　花盆(N)　,(COMMACATEGORY)
+　極為(ADV)　難看(Vi)　.(PERIODCATEGORY)　更(ADV)　可怕(Vi)　的(T)　是(Vt)　入住(Vt)　的(T)　時候(N)　門口(N)　不管(C)　客人(N)　,(COMMACATEGORY)
+　照常(Vi)　做(Vt)　大(Vi)　範圍(N)　清潔(Vi)　.(PERIODCATEGORY)

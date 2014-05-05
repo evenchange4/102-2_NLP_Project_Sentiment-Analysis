@@ -1,0 +1,8 @@
+　開始(Vt)　看(Vt)　了(ASP)　2005年(N)　的(T)　幾(DET)　位(M)　朋友(N)　的(T)　評價(N)　，(COMMACATEGORY)
+　都(ADV)　不(ADV)　敢(Vt)　去(ADV)　入住(Vt)　。(PERIODCATEGORY)
+　沒想到(ADV)　現在(N)　改觀(Vi)　了(ASP)　很多(DET)　，(COMMACATEGORY)
+　房間(N)　雖(C)　小(Vi)　，(COMMACATEGORY)
+　但(C)　很(ADV)　整潔(Vi)　。(PERIODCATEGORY)
+　下(DET)　次(M)　再(ADV)　來(ADV)　的(T)　話(N)　，(COMMACATEGORY)
+　還(ADV)　會(ADV)　選擇(Vt)　這(DET)　個(M)　酒店(N)　。(PERIODCATEGORY)
+　只是(ADV)　希望(Vt)　寬帶(N)　能(ADV)　一直(ADV)　免費(Vi)　！(EXCLAMATIONCATEGORY)

@@ -1,0 +1,5 @@
+　總體(N)　感覺(N)　還(ADV)　不錯(Vi)　。(PERIODCATEGORY)
+　房間(N)　很(ADV)　乾淨(Vi)　、(PAUSECATEGORY)　簡潔(Vi)　。(PERIODCATEGORY)
+　網(N)　上(POST)　所(ADV)　披露(Vt)　的(T)　位於(Vt)　海河(N)　最(ADV)　美(Vi)　的(T)　一段(N)　，(COMMACATEGORY)
+　特意(ADV)　要(Vt)　了(ASP)　6(DET)　層(M)　的(T)　房間(N)　，(COMMACATEGORY)
+　可是(C)　卻(ADV)　沒(ADV)　看到(Vt)　海河(N)　的(T)　影子(N)　……(ETCCATEGORY)

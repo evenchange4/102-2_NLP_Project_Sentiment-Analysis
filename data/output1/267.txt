@@ -1,0 +1,4 @@
+　環境(N)　很(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　地理(N)　位置(N)　好(Vi)　。(PERIODCATEGORY)
+　客人(N)　每(DET)　次(M)　都(ADV)　住(Vt)　這裡(N)　的(T)　。(PERIODCATEGORY)
+　應該(ADV)　是(Vt)　挺(ADV)　滿意(Vt)　的(T)　了(T)　。(PERIODCATEGORY)

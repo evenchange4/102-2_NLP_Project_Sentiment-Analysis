@@ -1,0 +1,3 @@
+　該(DET)　酒店(N)　裝修(Vt)　比較(ADV)　成(Vt)　舊(Vi)　。(PERIODCATEGORY)
+　我(N)　房間(N)　的(T)　浴室(N)　出水(Vi)　很(ADV)　小(Vi)　，(COMMACATEGORY)
+　洗澡(Vi)　很(ADV)　不(ADV)　方便(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,7 @@
+　地理(N)　位置(N)　是(Vt)　公認(Vt)　的(T)　不錯(Vi)　，(COMMACATEGORY)
+　但是(C)　缺點(N)　也(ADV)　不少(Vi)　，(COMMACATEGORY)
+　主要(ADV)　是(Vt)　電梯(N)　慢(Vi)　，(COMMACATEGORY)
+　走廊(N)　狹窄(Vi)　，(COMMACATEGORY)
+　房間(N)　設施(N)　有(Vt)　些(M)　陳舊(Vi)　了(T)　，(COMMACATEGORY)
+　臨時(N)　住(Vt)　一(DET)　晚(M)　可以(Vi)　，(COMMACATEGORY)
+　時間(N)　長(Vt)　了(ASP)　不(ADV)　建議(Vt)　入住(Vt)　。(PERIODCATEGORY)

@@ -1,0 +1,7 @@
+　原來(ADV)　去(Vt)　重慶(N)　出差(Vi)　一直(ADV)　住(Vt)　這(DET)　個(M)　酒店(N)　,(COMMACATEGORY)
+　早餐(N)　雖然(C)　差點(ADV)　也(ADV)　就(ADV)　算了(Vi)　,(COMMACATEGORY)
+　但是(C)　最近(N)　一(DET)　次(M)　,(COMMACATEGORY)
+　他們(N)　的(T)　行為(N)　讓(Vt)　我(N)　實在(ADV)　不(ADV)　敢(Vt)　恭維(Vt)　.(PERIODCATEGORY)　明明(N)　我(N)　沒有(Vt)　消費(N)　的(T)　東西(N)　,(COMMACATEGORY)
+　硬說(Vt)　是(Vt)　我(N)　消費(Vi)　的(T)　,(COMMACATEGORY)
+　讓(Vt)　我(N)　很(ADV)　不(ADV)　爽(Vi)　,(COMMACATEGORY)
+　以後(N)　不(ADV)　住(Vt)　了(T)　.(PERIODCATEGORY)

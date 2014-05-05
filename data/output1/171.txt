@@ -1,0 +1,6 @@
+　位置(N)　非常(ADV)　好(Vi)　，(COMMACATEGORY)
+　去(Vt)　煙台山(N)　、(PAUSECATEGORY)　東(N)　炮台(N)　、(PAUSECATEGORY)　張裕(N)　葡萄酒(N)　博物館(N)　非常(ADV)　近(Vi)　，(COMMACATEGORY)
+　海邊(N)　步行街(N)　很(ADV)　漂亮(Vi)　，(COMMACATEGORY)
+　音樂(N)　噴泉(N)　也(ADV)　不錯(Vi)　。(PERIODCATEGORY)
+　缺點(N)　：(COLONCATEGORY)　商務(N)　標(N)　間(POST)　（(PARENTHESISCATEGORY)　6601(DET)　）(PARENTHESISCATEGORY)　中央(N)　空調(N)　的(T)　風機盤管(N)　保溫(Vi)　做(Vt)　的(T)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　導致(Vt)　結露(N)　發霉(Vi)　；(SEMICOLONCATEGORY)　另外(C)　免費(Vi)　提供(Vt)　的(T)　拖鞋(N)　沾水(Vi)　後(POST)　極(ADV)　滑(Vi)　!(EXCLAMATIONCATEGORY)

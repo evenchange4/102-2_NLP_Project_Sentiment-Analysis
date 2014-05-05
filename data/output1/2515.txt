@@ -1,0 +1,6 @@
+　押金(N)　和(C)　結賬(Vi)　都(ADV)　不能(ADV)　刷卡(Vi)　，(COMMACATEGORY)
+　要(ADV)　交(Vt)　現金(N)　；(SEMICOLONCATEGORY)　雙人房(N)　的(T)　兩(DET)　張(M)　床(N)　都(ADV)　是(Vt)　靠(P)　牆(N)　的(T)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　小(Vi)　，(COMMACATEGORY)
+　設施(N)　很(ADV)　陳舊(Vi)　，(COMMACATEGORY)
+　簡直(ADV)　就(ADV)　是(Vt)　一(DET)　間(M)　招待所(N)　,(COMMACATEGORY)
+　以後(N)　都(ADV)　不會(ADV)　住(Vt)　這裡(N)　了(T)　.(PERIODCATEGORY)

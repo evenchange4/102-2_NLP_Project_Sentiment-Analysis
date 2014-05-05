@@ -1,0 +1,7 @@
+　酒店(N)　員工(N)　比較(ADV)　s(FW)　板(N)　，(COMMACATEGORY)
+　也許(ADV)　我們(N)　用(P)　攜程(N)　的(T)　緣故(N)　，(COMMACATEGORY)
+　反正(ADV)　以後(N)　不(ADV)　去(Vt)　了(T)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　賓館(N)　反饋(Vt)　2008年(N)　7月(N)　24日(N)　：(COLONCATEGORY)　尊敬(Vt)　的(T)　賓客(N)　,(COMMACATEGORY)
+　感謝(Vt)　您(N)　的(T)　點評(N)　.(PERIODCATEGORY)　希望(Vt)　在(P)　您(N)　方便(Vi)　的(T)　情況(N)　下(POST)　,(COMMACATEGORY)
+　將(P)　意見(N)　和(C)　建議(N)　反映給(Vt)　酒店(N)　的(T)　大堂(N)　副理(N)　,(COMMACATEGORY)
+　我們(N)　將(ADV)　盡力(Vi)　改善(Vt)　,(COMMACATEGORY)
+　謝謝(Vt)　!(EXCLAMATIONCATEGORY)

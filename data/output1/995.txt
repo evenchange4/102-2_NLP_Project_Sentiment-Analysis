@@ -1,0 +1,6 @@
+　前台(N)　服務(Nv)　較(ADV)　差(Vi)　，(COMMACATEGORY)
+　不(ADV)　為(Vt)　客戶(N)　著想(Vi)　。(PERIODCATEGORY)
+　房間(N)　有(Vt)　朋友(N)　來(ADV)　需要(Vt)　打掃(Vt)　，(COMMACATEGORY)
+　呼叫(Vt)　了(ASP)　兩(DET)　個(M)　小時(N)　也(ADV)　未(ADV)　打掃(Vt)　。(PERIODCATEGORY)
+　房間(N)　下水道(N)　臭氣(N)　熏(Vt)　天(M)　，(COMMACATEGORY)
+　衛生間(N)　漏水(Vi)　堵(Vt)　水(N)　。(PERIODCATEGORY)

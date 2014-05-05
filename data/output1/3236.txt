@@ -1,0 +1,7 @@
+　8(DET)　月份(N)　為(Vt)　簽證(N)　，(COMMACATEGORY)
+　入住(Vt)　該(DET)　旅館(N)　，(COMMACATEGORY)
+　也許(ADV)　是(Vt)　首都(N)　北京(N)　吧(T)　，(COMMACATEGORY)
+　260(DET)　元(M)　一(DET)　夜(N)　，(COMMACATEGORY)
+　只(ADV)　會(ADV)　想(Vt)　住(Vt)　一(DET)　次(M)　的(T)　，(COMMACATEGORY)
+　一切(DET)　都(ADV)　是(Vt)　那麼(ADV)　舊(Vi)　，(COMMACATEGORY)
+　好像(ADV)　260(DET)　元(M)　錢(N)　不(ADV)　是(Vt)　錢(N)　似的(POST)　。(PERIODCATEGORY)

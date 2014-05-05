@@ -1,0 +1,8 @@
+　環境(N)　一流(Vi)　，(COMMACATEGORY)
+　庭院(N)　深深(Vi)　，(COMMACATEGORY)
+　小(Vi)　橋(N)　流水(N)　，(COMMACATEGORY)
+　枯(Vi)　籐老樹昏鴉(N)　。(PERIODCATEGORY)
+　多(DET)　次(M)　入住(Vt)　。(PERIODCATEGORY)
+　只(ADV)　是(Vt)　早餐(N)　極其(ADV)　慘淡(Vi)　，(COMMACATEGORY)
+　無論(C)　中西(A)　，(COMMACATEGORY)
+　希望(Vt)　改進(Vt)　。(PERIODCATEGORY)

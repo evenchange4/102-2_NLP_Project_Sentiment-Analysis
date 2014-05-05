@@ -1,0 +1,6 @@
+　最好(ADV)　別(ADV)　去(Vt)　,(COMMACATEGORY)
+　很(ADV)　差(Vi)　,(COMMACATEGORY)
+　看完(Vt)　很(ADV)　差(Vi)　想(Vt)　換(Vt)　酒店(N)　,(COMMACATEGORY)
+　他們(N)　竟(ADV)　跟(P)　我(N)　要(ADV)　服務費(N)　.(PERIODCATEGORY)　也(ADV)　沒(ADV)　待(P)　那(DET)　房間(N)　2(DET)　分(M)　種(M)　,(COMMACATEGORY)
+　居然(ADV)　解決(Vt)　了(ASP)　問題(N)　,(COMMACATEGORY)
+　可(ADV)　覺(Vt)　的(T)　下(DET)　次(M)　不能(ADV)　去(Vt)　的(T)　,(COMMACATEGORY)

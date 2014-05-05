@@ -1,0 +1,4 @@
+　替(P)　朋友(N)　訂(Vt)　的(T)　房間(N)　，(COMMACATEGORY)
+　據說(ADV)　還(ADV)　不錯(Vi)　啦(T)　，(COMMACATEGORY)
+　一下(N)　回(Vt)　，(COMMACATEGORY)
+　自己(N)　去(ADV)　試試(Vt)　。(PERIODCATEGORY)

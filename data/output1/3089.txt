@@ -1,0 +1,8 @@
+　酒店(N)　在(P)　路邊(N)　，(COMMACATEGORY)
+　但是(C)　很多(DET)　司機(N)　都(ADV)　不(ADV)　認識(Vt)　，(COMMACATEGORY)
+　可能(ADV)　是(Vt)　靠近(Vt)　雲龍湖(N)　比較(ADV)　偏(Vi)　吧(T)　。(PERIODCATEGORY)
+　酒(N)　點(N)　的(T)　單(A)　人間(N)　實在(ADV)　太(ADV)　小(Vi)　了(T)　，(COMMACATEGORY)
+　床(N)　的(T)　一(DET)　邊(N)　竟然(ADV)　靠在(Vt)　牆(N)　邊(N)　，(COMMACATEGORY)
+　把(P)　窗簾(N)　都(ADV)　壓住(Vt)　了(ASP)　，(COMMACATEGORY)
+　電視(N)　都(ADV)　要(ADV)　斜(Vi)　著(ASP)　才(ADV)　能(ADV)　看(Vt)　，(COMMACATEGORY)
+　11月(N)　份(M)　了(ASP)　中央(N)　空調(N)　還(ADV)　沒有(Vt)　暖風(N)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　冷(Vi)　啊(T)　。(PERIODCATEGORY)

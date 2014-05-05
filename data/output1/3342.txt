@@ -1,0 +1,5 @@
+　這(DET)　個(M)　酒店(N)　根本(ADV)　不(ADV)　是(Vt)　5星(N)　，(COMMACATEGORY)
+　騙人(Vi)　，(COMMACATEGORY)
+　他們(N)　的(T)　服務(Nv)　和(C)　設備(N)　都(ADV)　是(Vt)　最(ADV)　差(Vi)　的(T)　，(COMMACATEGORY)
+　尤其(ADV)　是(Vt)　服務(Nv)　態度(N)　極端(ADV)　惡劣(Vi)　，(COMMACATEGORY)
+　請(Vt)　大家(N)　不要(ADV)　住(Vt)　這(DET)　個(M)　酒店(N)　。(PERIODCATEGORY)

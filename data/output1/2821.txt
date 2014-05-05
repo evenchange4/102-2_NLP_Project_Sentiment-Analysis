@@ -1,0 +1,3 @@
+　位置(N)　不錯(Vi)　,(COMMACATEGORY)
+　在(P)　市中心(N)　,(COMMACATEGORY)
+　而且(C)　離(P)　周邊(N)　幾(DET)　家(M)　4,　5(DET)　星(N)　酒店(N)　都(ADV)　只有(ADV)　10(DET)　分鐘(M)　路程(N)　.(PERIODCATEGORY)

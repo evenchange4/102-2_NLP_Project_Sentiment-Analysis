@@ -1,0 +1,2 @@
+　1(DET)　：(COLONCATEGORY)　地毯(N)　很(ADV)　髒(Vi)　，(COMMACATEGORY)
+　用具(N)　如(P)　水壺(N)　和(C)　馬桶(N)　老化(Vt)　啦(T)　2(DET)　：(COLONCATEGORY)　服務(Vt)　非常(ADV)　好(Vi)　3(DET)　：(COLONCATEGORY)　地熱(N)　礦泉水(N)　挺(ADV)　好(Vi)　的(T)

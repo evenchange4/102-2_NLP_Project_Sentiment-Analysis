@@ -1,0 +1,3 @@
+　酒店(N)　的(T)　位置(N)　很(ADV)　方便(Vi)　，(COMMACATEGORY)
+　小(Vi)　套房(N)　的(T)　房間(N)　比較(ADV)　寬敞(Vi)　和(C)　舒適(Vi)　，(COMMACATEGORY)
+　住(Vt)　酒店(N)　停車(Vi)　過夜(Vi)　要(ADV)　收費(Vt)　40(DET)　元(M)　。(PERIODCATEGORY)

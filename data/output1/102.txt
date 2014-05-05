@@ -1,0 +1,6 @@
+　前台(N)　樓層(N)　服務員(N)　都(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　房間(N)　安靜(Vi)　整潔(Vi)　，(COMMACATEGORY)
+　交通(N)　方便(Vi)　，(COMMACATEGORY)
+　吃(Vt)　的(T)　周圍(N)　也(ADV)　挺(ADV)　多(Vi)　．(PERIODCATEGORY)　唯一(A)　不足(Vi)　，(COMMACATEGORY)
+　衛生間(N)　地(T)　漏(Nv)　設計(N)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　導致(Vt)　少量(DET)　積水(Vi)　．(PERIODCATEGORY)

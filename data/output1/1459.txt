@@ -1,0 +1,7 @@
+　我(N)　是(Vt)　初二(N)　晚上(N)　到(Vt)　的(T)　這(DET)　家(M)　酒店(N)　,(COMMACATEGORY)
+　酒店(N)　環境(N)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　後山(N)　就(ADV)　是(Vt)　旅遊區(N)　，(COMMACATEGORY)
+　前面(N)　是(Vt)　五一(DET)　廣場(N)　，(COMMACATEGORY)
+　房間(N)　設施(N)　一般(POST)　，(COMMACATEGORY)
+　但(C)　服務(Vt)　很(ADV)　熱情(Vi)　，(COMMACATEGORY)
+　還(ADV)　有(Vt)　水果(N)　送(Vt)　。(PERIODCATEGORY)

@@ -1,0 +1,6 @@
+　本人(N)　通過(Vt)　攜程(N)　預訂(Vt)　8月(N)　13日(N)　入住(Vt)　並(ADV)　確認(Vt)　接機(Vi)　，(COMMACATEGORY)
+　晚上(N)　9點45(DET)　分到(Vt)　機場(N)　後(POST)　一(DET)　個(M)　小時(N)　沒(Vt)　人(N)　接機(Vi)　。(PERIODCATEGORY)
+　聯繫(Vt)　攜程(N)　工作(N)　人員(N)　時(POST)　他們(N)　還(ADV)　說(Vt)　酒店(N)　已(ADV)　派(Vt)　人(N)　來(ADV)　接(Vt)　只是(ADV)　搞錯(Vt)　了(ASP)　我(N)　的(T)　手機(N)　號碼(N)　，(COMMACATEGORY)
+　笑話(Vt)　哪(DET)　家(M)　酒店(N)　接機(Vi)　是(Vt)　不用(ADV)　舉(Vt)　牌(N)　而是(C)　用(P)　手機(N)　聯繫(Vt)　的(T)　？(QUESTIONCATEGORY)
+　而且(C)　之前(N)　幾(DET)　次(M)　入住(Vt)　該(DET)　酒店(N)　都(ADV)　是(Vt)　舉(Vt)　牌(N)　接機(Vi)　的(T)　，(COMMACATEGORY)
+　工作(N)　失誤(N)　不可(ADV)　怕(Vt)　只是(C)　攜程(N)　和(C)　酒店(N)　的(T)　人員(N)　一起(ADV)　來(ADV)　欺騙(Vt)　客戶(N)　把(P)　客戶(N)　當(Vt)　傻瓜(N)　實在(ADV)　是(Vt)　缺乏(Vt)　最(ADV)　基本(A)　的(T)　職業(N)　道德(N)　。(PERIODCATEGORY)

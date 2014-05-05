@@ -1,0 +1,8 @@
+　就(ADV)　沒有(ADV)　見(Vt)　過(ASP)　這樣(Vi)　的(T)　酒店(N)　,(COMMACATEGORY)
+　價格(N)　不(ADV)　便宜(Vi)　,(COMMACATEGORY)
+　設備(N)　特別(Vi)　陳舊(Vi)　,(COMMACATEGORY)
+　房間(N)　昏暗(Vi)　,(COMMACATEGORY)
+　外部(N)　內部(N)　都(ADV)　特(ADV)　髒(Vi)　,(COMMACATEGORY)
+　上面(N)　寫有(Vt)　寬貸(Vt)　竟然(ADV)　還(ADV)　要(ADV)　20(DET)　元(M)　錢(N)　,(COMMACATEGORY)
+　要(ADV)　錢(N)　也(ADV)　罷了(T)　,(COMMACATEGORY)
+　IP(FW)　地址(N)　都(ADV)　不能(ADV)　自動(Vi)　獲取(Vt)　.(PERIODCATEGORY)

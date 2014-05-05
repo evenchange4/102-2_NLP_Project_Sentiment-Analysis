@@ -1,0 +1,5 @@
+　知道(Vt)　網線(N)　接口(ADV)　在(P)　哪兒(N)　嗎(T)　？(QUESTIONCATEGORY)
+　比高(N)　家莊(b)　的(T)　地道(N)　口(N)　還(ADV)　隱蔽(Vi)　。(PERIODCATEGORY)
+　在(P)　床頭櫃(N)　後面(N)　！(EXCLAMATIONCATEGORY)　想(Vt)　不(ADV)　道(Vt)　吧(T)　？(QUESTIONCATEGORY)
+　看(Vt)　你(N)　怎麼(ADV)　用(Vt)　。(PERIODCATEGORY)
+　1(DET)　：(COLONCATEGORY)　自(ADV)　帶(Vt)　4(DET)　米(M)　以上(POST)　網線(N)　；(SEMICOLONCATEGORY)　2(DET)　：(COLONCATEGORY)　自(ADV)　帶(Vt)　小(Vi)　板凳(N)　：(COLONCATEGORY)　3(DET)　：(COLONCATEGORY)　房間(N)　的(T)　垃圾桶(N)　可(ADV)　翻過來(Vi)　坐(Vi)　......(ETCCATEGORY)

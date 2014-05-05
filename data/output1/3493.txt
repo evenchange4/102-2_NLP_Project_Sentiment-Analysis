@@ -1,0 +1,6 @@
+　如果(C)　你(N)　想(Vt)　一(DET)　個(M)　晚上(N)　不(ADV)　睡覺(Vi)　想(Vt)　心事(N)　,(COMMACATEGORY)
+　強烈(Vi)　推薦(Vt)　入住(Vt)　該(DET)　賓館(N)　。(PERIODCATEGORY)
+　同樣(Vi)　是(Vt)　高架(N)　邊(N)　的(T)　飯店(N)　，(COMMACATEGORY)
+　其他(DET)　賓館(N)　都(ADV)　採用(Vt)　隔音(A)　玻璃(N)　，(COMMACATEGORY)
+　而(C)　陝西(N)　大廈(N)　卻(ADV)　沒有(ADV)　採用(Vt)　，(COMMACATEGORY)
+　夜深人靜(Vi)　的(T)　時候(N)　就(ADV)　聽到(Vt)　高架(N)　上(N)　滾滾(Vi)　的(T)　車流聲(N)　！(EXCLAMATIONCATEGORY)

@@ -1,0 +1,7 @@
+　大堂(N)　的(T)　服務(Nv)　的(T)　入住(Vt)　登記(Vt)　與(C)　離店(N)　付款(Nv)　很(ADV)　慢(Vi)　，(COMMACATEGORY)
+　服務員(N)　回答(Vt)　問題(N)　愛(Vt)　搭(Vt)　不理(Vt)　，(COMMACATEGORY)
+　房間(N)　內(N)　的(T)　IC(FW)　卡(N)　電源(N)　是(Vt)　壞(Vt)　的(T)　，(COMMACATEGORY)
+　電子(N)　控制(Vt)　毛病(N)　多多(Vi)　，(COMMACATEGORY)
+　洗澡盆(N)　的(T)　下水(Vi)　不(ADV)　暢(Vi)　，(COMMACATEGORY)
+　早餐(N)　要(ADV)　7(DET)　點(M)　以後(POST)　......(ETCCATEGORY)　。(PERIODCATEGORY)
+　不會(ADV)　再(ADV)　去(Vt)　了(ASP)　。(PERIODCATEGORY)

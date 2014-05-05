@@ -1,0 +1,6 @@
+　這(DET)　家(M)　酒店(N)　的(T)　設施(N)　真的(ADV)　非常(ADV)　不錯(Vi)　.(PERIODCATEGORY)　地理(N)　位置(N)　也(ADV)　方便(Vi)　,(COMMACATEGORY)
+　大堂(N)　氣派(Vi)　.(PERIODCATEGORY)　由於(C)　沒有(Vt)　我(N)　預訂(Vt)　的(T)　那(DET)　種(M)　房型(N)　,(COMMACATEGORY)
+　到(P)　前台(N)　的(T)　時候(N)　,(COMMACATEGORY)
+　酒店(N)　給(Vt)　升級(Vi)　到(P)　高級房(N)　,(COMMACATEGORY)
+　總體(N)　來(ADV)　說(Vt)　,(COMMACATEGORY)
+　是(Vt)　很(ADV)　滿意(Vt)　的(T)　.(PERIODCATEGORY)

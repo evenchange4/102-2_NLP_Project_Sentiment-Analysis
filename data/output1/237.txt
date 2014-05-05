@@ -1,0 +1,2 @@
+　房間(N)　保養(Vt)　不錯(Vi)　.(PERIODCATEGORY)　前台(N)　服務(Nv)　也(ADV)　算(Vt)　不錯(Vi)　.(PERIODCATEGORY)　房間(N)　送(Vt)　餐(N)　服務(Nv)　非常(ADV)　好(Vi)　,(COMMACATEGORY)
+　味道(N)　也(ADV)　很(ADV)　地道(Vi)　.(PERIODCATEGORY)

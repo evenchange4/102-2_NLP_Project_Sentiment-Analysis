@@ -1,0 +1,5 @@
+　總而言之(ADV)　一(DET)　句(M)　話(N)　，(COMMACATEGORY)
+　很(ADV)　差(Vi)　！(EXCLAMATIONCATEGORY)　早餐(N)　基本(N)　上(POST)　沒有(ADV)　能(ADV)　吃(Vt)　的(T)　東西(N)　，(COMMACATEGORY)
+　房間(N)　也(ADV)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　附近(N)　交通(N)　也(ADV)　不(ADV)　方便(Vi)　。(PERIODCATEGORY)
+　配套(Vi)　以及(C)　服務(Nv)　都(ADV)　很(ADV)　一般(A)

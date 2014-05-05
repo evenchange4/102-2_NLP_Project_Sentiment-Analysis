@@ -1,0 +1,6 @@
+　酒店(N)　比較(ADV)　舊(Vi)　，(COMMACATEGORY)
+　聽說(Vt)　有(Vt)　十幾(DET)　年(M)　的(T)　歷史(N)　，(COMMACATEGORY)
+　房間(N)　也(ADV)　比較(ADV)　小(Vi)　。(PERIODCATEGORY)
+　一(DET)　個(M)　所謂(Vt)　三星(N)　酒店(N)　連(C)　一次性(N)　的(T)　剃鬚刀(N)　都(ADV)　不(ADV)　提供(Vt)　，(COMMACATEGORY)
+　要(ADV)　另外(ADV)　花(Vt)　15(DET)　塊(M)　錢(N)　買(Vt)　。(PERIODCATEGORY)
+　總體(N)　上(POST)　還不如(C)　火車站(N)　周邊(N)　的(T)　商務(N)　酒店(N)　。(PERIODCATEGORY)

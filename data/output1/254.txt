@@ -1,0 +1,7 @@
+　非常(ADV)　好(Vi)　的(T)　地理(N)　位置(N)　，(COMMACATEGORY)
+　住(Vt)　的(T)　是(Vt)　豪華(Vi)　海景房(N)　，(COMMACATEGORY)
+　打開(Vt)　窗戶(N)　就(ADV)　可以(ADV)　看見(Vt)　棧橋(N)　和(C)　海景(N)　。(PERIODCATEGORY)
+　記得(Vt)　很(ADV)　早(Vi)　以前(POST)　也(ADV)　住(Vt)　過(ASP)　，(COMMACATEGORY)
+　現在(N)　重新(ADV)　裝修(Vt)　了(ASP)　。(PERIODCATEGORY)
+　總的來說(ADV)　比較(ADV)　滿意(Vt)　，(COMMACATEGORY)
+　以後(N)　還(ADV)　會(ADV)　住(Vt)

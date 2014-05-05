@@ -1,0 +1,5 @@
+　推薦(Vt)　這裡(N)　的(T)　日式(A)　大(Vi)　床(N)　房(N)　,(COMMACATEGORY)
+　很(ADV)　舒服(Vi)　!(EXCLAMATIONCATEGORY)　千萬(DET)　不要(ADV)　住(Vt)　沒有(Vt)　窗戶(N)　的(T)　房間(N)　啊(T)　,(COMMACATEGORY)
+　很(ADV)　悶(Vi)　,(COMMACATEGORY)
+　最好(ADV)　住(Vt)　在(P)　五(DET)　層(M)　,(COMMACATEGORY)
+　三(DET)　層(M)　的(T)　空中(N)　花園(N)　會(ADV)　引來(Vt)　不少(DET)　蟲子(N)　.(PERIODCATEGORY)

@@ -1,0 +1,4 @@
+　酒店(N)　週末(N)　都(ADV)　系(N)　學生(N)　情侶(N)　入住(Vt)　，(COMMACATEGORY)
+　噪音(N)　實在(ADV)　恐怖(Vi)　，(COMMACATEGORY)
+　發現(Vt)　很多(DET)　學生(N)　在(P)　前台(N)　的(T)　價格系(N)　120(DET)　元(M)　哦(T)　.(PERIODCATEGORY)　環境(N)　，(COMMACATEGORY)
+　設施(N)　實在(ADV)　系(N)　太(ADV)　差(Vi)　了(T)　!(EXCLAMATIONCATEGORY)　不(ADV)　建議(Vt)　住(Vt)

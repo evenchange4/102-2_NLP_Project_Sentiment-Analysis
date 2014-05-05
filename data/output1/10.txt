@@ -1,0 +1,5 @@
+　房間(N)　內(N)　環境(N)　還(ADV)　是(Vt)　不錯(Vi)　的(T)　,(COMMACATEGORY)
+　就是(C)　上網(Vi)　有點(ADV)　貴(Vi)　,(COMMACATEGORY)
+　12(DET)　塊(M)　一(DET)　個(M)　小時(N)　,(COMMACATEGORY)
+　還(ADV)　有(Vt)　門口(N)　修路(Vi)　,(COMMACATEGORY)
+　門(N)　前(N)　環境(N)　不(ADV)　好(Vi)

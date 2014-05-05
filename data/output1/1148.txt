@@ -1,0 +1,5 @@
+　整體(N)　感覺(N)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　去(ADV)　商業街(N)　也(ADV)　比較(ADV)　方便(Vi)　。(PERIODCATEGORY)
+　早餐(N)　總類(N)　還(ADV)　算(Vt)　豐富(Vt)　，(COMMACATEGORY)
+　就是(C)　煎(Vt)　雞蛋(N)　的(T)　服務生(N)　態度(N)　還(ADV)　需(ADV)　改進(Vt)　，(COMMACATEGORY)
+　讓(Vt)　他(N)　煎(Vt)　個(M)　雞蛋(N)　也(ADV)　不(ADV)　應(ADV)　一(DET)　聲(M)　。(PERIODCATEGORY)

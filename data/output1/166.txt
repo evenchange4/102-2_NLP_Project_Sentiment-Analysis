@@ -1,0 +1,4 @@
+　房間(N)　設施(N)　比較(ADV)　陳舊(Vi)　，(COMMACATEGORY)
+　空調(N)　聲音(N)　也(ADV)　比較(ADV)　大(Vi)　游泳池(N)　對(P)　高級房(N)　的(T)　住客(N)　收費(Nv)　，(COMMACATEGORY)
+　而且(C)　和(P)　外面(N)　收費(Vt)　一樣(Vi)　高(Vi)　，(COMMACATEGORY)
+　覺得(Vt)　難以(ADV)　接受(Vt)　游泳池(N)　水(N)　太(ADV)　深(Vi)　跟(P)　裡面(N)　的(T)　服務員(N)　說(Vt)　了(ASP)　也(ADV)　沒(ADV)　人(N)　理(Vt)　早餐(N)　一般(POST)

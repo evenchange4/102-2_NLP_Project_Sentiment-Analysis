@@ -1,0 +1,8 @@
+　很(ADV)　滿意(Vt)　的(T)　一(DET)　家(M)　酒店(N)　，(COMMACATEGORY)
+　裝修(Vt)　不錯(Vi)　，(COMMACATEGORY)
+　那(DET)　天(M)　住下(Vi)　晚上(N)　房間(N)　的(T)　網絡(N)　出(Vt)　了(ASP)　問題(N)　，(COMMACATEGORY)
+　負責(Vt)　網絡(N)　的(T)　人(N)　又(ADV)　下班(Vi)　了(ASP)　，(COMMACATEGORY)
+　服務員(N)　很(ADV)　熱心(Vt)　的(T)　帶(Vt)　我(N)　到(Vt)　樓下(N)　商務(N)　中心(N)　免費(Vi)　上網(Nv)　。(PERIODCATEGORY)
+　送(Vt)　機(N)　服務(Nv)　也(ADV)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　總之(ADV)　很(ADV)　滿意(Vt)　，(COMMACATEGORY)
+　以後(N)　去(Vt)　昆明(N)　就(ADV)　住(Vt)　經貿(N)　了(T)　！(EXCLAMATIONCATEGORY)

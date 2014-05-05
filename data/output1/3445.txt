@@ -1,0 +1,8 @@
+　不(ADV)　知道(Vt)　天津(N)　賓館(N)　都(ADV)　這樣(Vi)　，(COMMACATEGORY)
+　還是(C)　這裡(N)　確實(ADV)　差(Vi)　,(COMMACATEGORY)
+　總的來說(ADV)　，(COMMACATEGORY)
+　如果(C)　有(Vt)　選擇(N)　，(COMMACATEGORY)
+　我(N)　絕對(ADV)　不會(ADV)　住(Vt)　這裡(N)　了(T)　再(ADV)　,(COMMACATEGORY)
+　弄髒(Vt)　東西(N)　還(ADV)　要(ADV)　自己(N)　付費(Vi)　,(COMMACATEGORY)
+　難道(ADV)　他們(N)　平時(N)　都(ADV)　不(ADV)　換(Vt)　床單(N)　,(COMMACATEGORY)
+　如果(C)　你(N)　不(ADV)　弄髒(Vt)　的(T)　話(N)　?(QUESTIONCATEGORY)

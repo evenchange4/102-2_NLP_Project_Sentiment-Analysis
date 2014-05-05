@@ -1,0 +1,8 @@
+　從(P)　總體(N)　來(ADV)　說(Vt)　，(COMMACATEGORY)
+　酒店(N)　的(T)　服務(Nv)　設施(N)　及(C)　服務(Nv)　人員(N)　的(T)　態度(N)　都(ADV)　是(Vt)　比較(ADV)　不錯(Vi)　的(T)　，(COMMACATEGORY)
+　但是(C)　預定(Vt)　酒店(N)　時(POST)　所(ADV)　說(Vt)　的(T)　提供(Vt)　免費(Vi)　寬帶(N)　卻(ADV)　是(Vt)　沒有(Vt)　的(T)　，(COMMACATEGORY)
+　所以(C)　，(COMMACATEGORY)
+　專門(Vt)　帶(Vt)　的(T)　筆記本(N)　也(ADV)　沒有(ADV)　用上(Vt)　。(PERIODCATEGORY)
+　結帳(Vi)　時(POST)　想(Vt)　使用(Vt)　信用卡(N)　支付(Vt)　，(COMMACATEGORY)
+　卻(ADV)　被(P)　告知(Vt)　當天(N)　不能(ADV)　刷卡(Vi)　。(PERIODCATEGORY)
+　建議(Vt)　在(P)　這(DET)　方面(N)　的(T)　信息(N)　需要(Vt)　再(ADV)　準確(Vi)　些(ADV)　。(PERIODCATEGORY)

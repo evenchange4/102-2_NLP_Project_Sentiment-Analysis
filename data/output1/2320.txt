@@ -1,0 +1,5 @@
+　掛(Vt)　的(T)　是(Vt)　三星(N)　的(T)　牌牌(N)　，(COMMACATEGORY)
+　但(C)　室內(N)　、(PAUSECATEGORY)　用具(N)　、(PAUSECATEGORY)　環境(N)　及(C)　性價(N)　比(P)　還是(ADV)　差(Vi)　太多(Vi)　，(COMMACATEGORY)
+　現在(N)　可能(ADV)　是(Vt)　哈(ADV)　市(N)　的(T)　旅遊(Nv)　旺季(N)　，(COMMACATEGORY)
+　因為(C)　是(Vt)　冰雪(N)　的(T)　季節(N)　嗎(T)　？(QUESTIONCATEGORY)
+　房間(N)　內(N)　有(Vt)　股(M)　汗味(N)　讓(Vt)　人(N)　實在(ADV)　受不了(Vt)　！(EXCLAMATIONCATEGORY)

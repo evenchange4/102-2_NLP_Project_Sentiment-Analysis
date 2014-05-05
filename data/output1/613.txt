@@ -1,0 +1,2 @@
+　確實(ADV)　很(ADV)　有(Vt)　商務型(N)　酒店(N)　的(T)　特點(N)　,(COMMACATEGORY)
+　但是(C)　缺乏(Vt)　周到(Vi)　的(T)　五(DET)　星(N)　的(T)　服務(Nv)　.(PERIODCATEGORY)

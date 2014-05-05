@@ -1,0 +1,6 @@
+　服務(Vt)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　進(Vt)　房間(N)　服務員(N)　會(ADV)　給(Vt)　你(N)　倒(Vt)　一(DET)　杯(M)　茶水(N)　，(COMMACATEGORY)
+　很(ADV)　溫馨(Vi)　，(COMMACATEGORY)
+　硬件(N)　雖然(C)　差(Vi)　一些(DET)　，(COMMACATEGORY)
+　但(C)　性價(N)　比(P)　很(ADV)　高(Vi)　，(COMMACATEGORY)
+　下(DET)　次(M)　去(ADV)　還(ADV)　住(Vt)　山水(N)

@@ -1,0 +1,5 @@
+　已經(ADV)　去(Vt)　過(ASP)　一(DET)　次(M)　了(T)　，(COMMACATEGORY)
+　這(DET)　次(M)　也(ADV)　是(Vt)　從(P)　攜程(N)　訂(Vt)　的(T)　房間(N)　，(COMMACATEGORY)
+　但是(C)　好像(ADV)　跟(P)　前台(N)　溝通(Vt)　的(T)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　到(Vt)　了(ASP)　居然(ADV)　找(Vt)　不(ADV)　到(Vt)　我們(N)　的(T)　名字(N)　，(COMMACATEGORY)
+　奇怪(Vt)

@@ -1,0 +1,4 @@
+　該(DET)　灑店(N)　設施(N)　不全(Vi)　且(C)　不(ADV)　潔淨(Vi)　,(COMMACATEGORY)
+　讓(Vt)　客戶(N)　感覺(N)　不(ADV)　太(ADV)　敢(Vt)　放心(Vt)　使用(Vt)　,(COMMACATEGORY)
+　且(C)　服務(Nv)　人員(N)　態度(N)　不(ADV)　是(Vt)　太(ADV)　好(Vi)　,(COMMACATEGORY)
+　早上(N)　入住(Vt)　客人(N)　收拾(Vt)　房間(N)　的(T)　速度(N)　太(ADV)　慢(Vi)

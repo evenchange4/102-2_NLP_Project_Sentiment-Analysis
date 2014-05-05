@@ -1,0 +1,4 @@
+　廣大(Vi)　攜程(N)　會員(N)　請(Vt)　注意(Vt)　:(COLONCATEGORY)　此(DET)　酒店(N)　旁邊(N)　在(P)　造(Vt)　地鐵(N)　之類(POST)　的(T)　施工(Nv)　,(COMMACATEGORY)
+　有(Vt)　噪音(N)　和(C)　灰塵(N)　.(PERIODCATEGORY)　等(P)　完工(Vi)　還(ADV)　有(Vt)　一段(N)　日期(N)　.(PERIODCATEGORY)　出門(Vi)　叫(Vt)　出租車(N)　也(ADV)　不(ADV)　方便(Vi)　.(PERIODCATEGORY)　入住(Vt)　請(Vt)　考慮(Vt)　這些(DET)　方面(N)　因素(N)　.(PERIODCATEGORY)　客房(N)　裡(N)　的(T)　茶葉(N)　不(ADV)　是(Vt)　免費(Vi)　的(T)　,(COMMACATEGORY)
+　是(Vt)　要(ADV)　收錢(Vi)　啦(T)　,(COMMACATEGORY)
+　也(ADV)　要(ADV)　注意(Vt)　.(PERIODCATEGORY)

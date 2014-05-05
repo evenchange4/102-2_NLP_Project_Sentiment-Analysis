@@ -1,0 +1,3 @@
+　以前(N)　我們(N)　的(T)　客人(N)　入住(Vt)　該(DET)　酒店(N)　，(COMMACATEGORY)
+　一直(ADV)　對(P)　酒店(N)　印象(N)　不錯(Vi)　，(COMMACATEGORY)
+　但是(C)　這(DET)　次(M)

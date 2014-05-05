@@ -1,0 +1,3 @@
+　感覺(N)　一般(POST)　，(COMMACATEGORY)
+　就是(C)　各(DET)　方面(N)　都(ADV)　一般(Vi)　，(COMMACATEGORY)
+　在(P)　三門峽(N)　這(DET)　種(M)　地方(N)　住(Vt)　住(Vt)　還是(ADV)　可以(Vi)　的(T)

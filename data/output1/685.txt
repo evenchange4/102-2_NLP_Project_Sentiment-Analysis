@@ -1,0 +1,5 @@
+　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　還(ADV)　會(ADV)　再次(ADV)　入住(Vt)　。(PERIODCATEGORY)
+　晚上(N)　有(Vt)　鋼琴(N)　演奏(Nv)　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)

@@ -1,0 +1,6 @@
+　酒店(N)　環境(N)　還好(Vi)　，(COMMACATEGORY)
+　在(P)　當地(N)　算是(Vt)　很(ADV)　好(Vi)　的(T)　了(T)　，(COMMACATEGORY)
+　房間(N)　比較(ADV)　大(Vi)　，(COMMACATEGORY)
+　但(C)　設備(N)　就(ADV)　一般(Vi)　了(T)　。(PERIODCATEGORY)
+　免費(Vi)　註冊(Nv)　網站(N)　導航(Nv)　賓館(N)　索引(N)　服務(Nv)　說明(N)　關於(P)　攜程(N)　誠聘(Vt)　英才(N)　代理(Nv)　合作(Nv)　廣告(N)　業務(N)　聯繫(Vt)　我們(N)　Copyright(FW)　?(QUESTIONCATEGORY)　1999(DET)　-(DASHCATEGORY)　2008(DET)　,(COMMACATEGORY)
+　ctrip.com(FW)　.(PERIODCATEGORY)　all(FW)　rights(FW)　reserved(FW)　.(PERIODCATEGORY)

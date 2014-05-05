@@ -1,0 +1,6 @@
+　我(N)　的(T)　朋友(N)　來(Vi)　北京(N)　多數(DET)　住(Vt)　這裡(N)　.(PERIODCATEGORY)　感覺(N)　套房(N)　向(P)　南(N)　方向(N)　的(T)　還(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　其他(DET)　朝向(Vt)　的(T)　很(ADV)　不(ADV)　好(Vi)　,(COMMACATEGORY)
+　價格(N)　應(ADV)　降低(Vt)　一(DET)　個(M)　檔次(N)　.(PERIODCATEGORY)　特別(Vi)　是(Vt)　兩(DET)　頭(M)　的(T)　,(COMMACATEGORY)
+　特別(Vi)　不(ADV)　好(Vi)　.(PERIODCATEGORY)　我(N)　的(T)　朋友(N)　很(ADV)　不(ADV)　滿意(Vt)　.(PERIODCATEGORY)　另外(C)　,(COMMACATEGORY)
+　停車(Vi)　費(Vt)　極(ADV)　貴(Vi)　,(COMMACATEGORY)
+　吃(Vt)　一(DET)　次(M)　飯(N)　就(ADV)　得(Vt)　10多(DET)　元(M)　.(PERIODCATEGORY)　應該(ADV)　住宿(Vi)　的(T)　停車(Nv)　免費(Vi)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)

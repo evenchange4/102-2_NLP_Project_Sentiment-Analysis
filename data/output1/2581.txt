@@ -1,0 +1,3 @@
+　酒店(N)　設施(N)　陳舊(Vi)　，(COMMACATEGORY)
+　服務員(N)　態度(N)　生硬(Vi)　，(COMMACATEGORY)
+　位置(N)　也(ADV)　較(ADV)　偏僻(Vi)　。(PERIODCATEGORY)

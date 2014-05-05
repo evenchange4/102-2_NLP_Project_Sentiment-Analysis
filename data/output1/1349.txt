@@ -1,0 +1,8 @@
+　入住(Vt)　金泉(N)　總體(N)　感覺(N)　不錯(Vi)　，(COMMACATEGORY)
+　整潔(Vi)　乾淨(Vi)　，(COMMACATEGORY)
+　寬帶(N)　上網(Vi)　特快(Vi)　，(COMMACATEGORY)
+　價格(N)　比較(ADV)　超值(Vi)　，(COMMACATEGORY)
+　附近(N)　有(Vt)　沃爾馬(N)　的(T)　超市(N)　，(COMMACATEGORY)
+　交通(N)　非常(ADV)　便利(Vt)　，(COMMACATEGORY)
+　服務(Vt)　到位(Vi)　，(COMMACATEGORY)
+　下(DET)　次(M)　還(ADV)　住(Vt)　。(PERIODCATEGORY)

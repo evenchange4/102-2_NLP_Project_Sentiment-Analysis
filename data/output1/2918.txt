@@ -1,0 +1,5 @@
+　酒店(N)　位置(N)　比較(ADV)　偏僻(Vi)　，(COMMACATEGORY)
+　交通(N)　也(ADV)　非常(ADV)　不(ADV)　方便(Vi)　，(COMMACATEGORY)
+　而且(C)　酒店(N)　居然(ADV)　是(Vt)　沒有(Vt)　電梯(N)　的(T)　，(COMMACATEGORY)
+　不(ADV)　太(ADV)　適合(Vi)　帶(Vt)　著(ASP)　行李(N)　出遊(Vi)　的(T)　，(COMMACATEGORY)
+　也(ADV)　不(ADV)　適合(Vi)　行動(N)　不便(Vi)　的(T)　人(N)　。(PERIODCATEGORY)

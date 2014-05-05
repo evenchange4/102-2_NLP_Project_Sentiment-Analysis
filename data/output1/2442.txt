@@ -1,0 +1,4 @@
+　位置(N)　不(ADV)　很(ADV)　方便(Vi)　，(COMMACATEGORY)
+　周圍(N)　亂哄哄(Vi)　的(T)　，(COMMACATEGORY)
+　衛生(N)　條件(N)　也(ADV)　不如(Vt)　其他(DET)　如(P)　家(N)　的(T)　店(N)　。(PERIODCATEGORY)
+　以後(N)　絕不(ADV)　會(ADV)　再(ADV)　住(Vt)　在(P)　這裡(N)　。(PERIODCATEGORY)

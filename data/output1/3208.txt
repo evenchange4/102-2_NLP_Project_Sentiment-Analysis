@@ -1,0 +1,4 @@
+　一(DET)　個(M)　字(N)　,(COMMACATEGORY)
+　差(Vi)　啊(T)　,(COMMACATEGORY)
+　冷(Vi)　啊(T)　,(COMMACATEGORY)
+　暖氣(N)　沒有(Vt)　.(PERIODCATEGORY)　空調(N)　太(ADV)　差(Vi)　!(EXCLAMATIONCATEGORY)

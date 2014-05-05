@@ -1,0 +1,2 @@
+　優點(N)　:(COLONCATEGORY)　1(DET)　.(PERIODCATEGORY)　環境(N)　優雅(Vi)　,(COMMACATEGORY)
+　綠化(Vt)　很(ADV)　好(Vi)　2(DET)　.(PERIODCATEGORY)　服務員(N)　很(ADV)　熱情(Vi)　3(DET)　.(PERIODCATEGORY)　免費(Vi)　接送機(Vi)　服務(Vt)　缺點(N)　:(COLONCATEGORY)　1(DET)　.(PERIODCATEGORY)　按摩(Vt)　電話(N)　太多(Vi)　2(DET)　.(PERIODCATEGORY)　沒有(Vt)　瓶裝(A)　礦泉水(N)　建議(Vt)　:(COLONCATEGORY)　1(DET)　.(PERIODCATEGORY)　首(DET)　次(M)　入住(Vt)　提供(Vt)　水果(N)　2(DET)　.(PERIODCATEGORY)　提供(Vt)　免費(Vi)　瓶裝(A)　礦泉水(N)

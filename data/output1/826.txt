@@ -1,0 +1,8 @@
+　在(P)　沙田(N)　,(COMMACATEGORY)
+　地理(N)　位置(N)　也(ADV)　不(ADV)　算(Vt)　壞(Vt)　,(COMMACATEGORY)
+　只(ADV)　是(Vt)　離(P)　地鐵站(N)　略微(ADV)　遠(Vi)　了(ASP)　些(ADV)　,(COMMACATEGORY)
+　環境(N)　也(ADV)　還好(Vi)　,(COMMACATEGORY)
+　服務(Vt)　不錯(Vi)　,(COMMACATEGORY)
+　前台(N)　的(T)　check(FW)　in/check(FW)　out(FW)　都(ADV)　很(ADV)　快(Vi)　.(PERIODCATEGORY)　房間(N)　嘛(T)　,(COMMACATEGORY)
+　不(ADV)　像(Vt)　傳說(N)　中(N)　香港(N)　酒店(N)　房間(N)　那麼(ADV)　小(Vi)　,(COMMACATEGORY)
+　感覺(N)　足夠(Vi)　大(Vi)　了(T)　.(PERIODCATEGORY)　哈(T)　.(PERIODCATEGORY)　很(ADV)　舒服(Vi)　的(T)　.(PERIODCATEGORY)

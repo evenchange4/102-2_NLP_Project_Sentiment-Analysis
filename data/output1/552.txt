@@ -1,0 +1,7 @@
+　地理(N)　位置(N)　好(Vi)　，(COMMACATEGORY)
+　環境(N)　不錯(Vi)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　但是(C)　早餐(N)　不如(Vt)　過去(N)　豐盛(Vi)　，(COMMACATEGORY)
+　整體(N)　感覺(N)　不錯(Vi)　。(PERIODCATEGORY)
+　特別(Vi)　強調(Vt)　，(COMMACATEGORY)
+　服務(Vt)　好(Vi)　！(EXCLAMATIONCATEGORY)

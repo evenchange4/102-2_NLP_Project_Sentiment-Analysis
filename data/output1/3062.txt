@@ -1,0 +1,5 @@
+　晚餐(N)　吃(Vt)　出(Vt)　長(Vi)　頭髮(N)　，(COMMACATEGORY)
+　服務員(N)　竟(ADV)　不以為然(Vi)　！(EXCLAMATIONCATEGORY)　洗完(Vt)　澡(N)　時(POST)　，(COMMACATEGORY)
+　發現(Vt)　浴巾(N)　上(POST)　竟(ADV)　也(ADV)　有(Vt)　長(Vi)　頭髮(N)　！(EXCLAMATIONCATEGORY)　如(P)　家(N)　在(P)　我(N)　心目中(N)　一直(ADV)　是(Vt)　快捷(Vi)　酒店(N)　的(T)　楷模(N)　，(COMMACATEGORY)
+　但(C)　這(DET)　次(M)　入住(Vt)　北京(N)　團結(Vt)　湖店(N)　，(COMMACATEGORY)
+　令(Vt)　人(N)　大跌(Vi)　眼鏡(N)　。(PERIODCATEGORY)

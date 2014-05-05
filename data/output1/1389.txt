@@ -1,0 +1,3 @@
+　酒店(N)　的(T)　交通(N)　不(ADV)　很(ADV)　方便(Vi)　，(COMMACATEGORY)
+　電梯(N)　特別(Vi)　慢(Vi)　，(COMMACATEGORY)
+　其餘(DET)　還是(ADV)　如(P)　家(N)　特色(N)　。(PERIODCATEGORY)

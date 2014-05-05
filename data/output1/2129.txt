@@ -1,0 +1,3 @@
+　最(ADV)　濫(A)　的(T)　酒店(N)　什麼(DET)　都(ADV)　不行(Vi)　。(PERIODCATEGORY)
+　這(DET)　種(M)　酒店(N)　千萬(DET)　別(N)　去(T)　。(PERIODCATEGORY)
+　80年代(N)　的(T)　3星(N)

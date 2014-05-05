@@ -1,0 +1,3 @@
+　位置(N)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　房間(N)　和(C)　設施(N)　很(ADV)　舊(Vi)　.(PERIODCATEGORY)　服務(Vt)　1(DET)　*(FW)　.(PERIODCATEGORY)　結帳(Vi)　時(POST)　還(ADV)　經歷(Vt)　前台(N)　服務員(N)　凶(Vi)　客人(N)　.(PERIODCATEGORY)　補充(Vt)　點評(N)　2007年(N)　12月(N)　9日(N)　：(COLONCATEGORY)　攜(Vt)　程(N)　為什麼(ADV)　不(ADV)　把(P)　對面(N)　的(T)　香格里拉(N)　發展(N)　為(Vt)　夥伴(N)　呢(T)　?(QUESTIONCATEGORY)　下(DET)　次(M)　去(ADV)　住(Vt)　香格里拉(N)　,(COMMACATEGORY)
+　可能(ADV)　要(ADV)　通過(Vt)　億龍網定(N)　了(T)　.(PERIODCATEGORY)

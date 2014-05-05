@@ -1,0 +1,4 @@
+　服務(Vt)　很(ADV)　好(Vi)　！(EXCLAMATIONCATEGORY)　員工(N)　很(ADV)　禮貌(Vi)　！(EXCLAMATIONCATEGORY)　房間(N)　很(ADV)　乾淨(Vi)　就(ADV)　是(Vt)　小(Vi)　了(ASP)　點(N)　！(EXCLAMATIONCATEGORY)　房間(N)　不能(ADV)　直接(Vi)　通話(Vi)　，(COMMACATEGORY)
+　需要(Vt)　總(A)　機轉(N)　，(COMMACATEGORY)
+　不(ADV)　方便(Vi)　！(EXCLAMATIONCATEGORY)　在(P)　我(N)　看來(Vt)　：(COLONCATEGORY)　只(ADV)　能(ADV)　是(Vt)　准(Vt)　四星級(N)　酒店(N)　，(COMMACATEGORY)
+　在(P)　黃山(N)　只(ADV)　能(ADV)　算(Vt)　三星級(N)　酒店(N)　！(EXCLAMATIONCATEGORY)

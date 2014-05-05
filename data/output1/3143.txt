@@ -1,0 +1,8 @@
+　這(DET)　家(M)　酒店(N)　絕對(ADV)　沒有(Vt)　四星級(N)　,(COMMACATEGORY)
+　而且(C)　房間(N)　的(T)　隔音(A)　太(ADV)　差(Vi)　,(COMMACATEGORY)
+　馬路(N)　上(N)　的(T)　車聲(N)　\(FW)　樓上(N)　的(T)　亂七八糟(Vi)　的(T)　聲音(N)　,(COMMACATEGORY)
+　硬是(ADV)　讓(Vt)　我(N)　一(DET)　晚上(N)　沒(ADV)　睡著(Vi)　.(PERIODCATEGORY)　強烈(Vi)　建議(N)　攜程(N)　取消(Vt)　這(DET)　家(M)　.(PERIODCATEGORY)　大堂(N)　餐廳(N)　承包給(Vt)　了(ASP)　個人(N)　，(COMMACATEGORY)
+　所以(C)　自助(Nv)　早餐(N)　只(ADV)　能(ADV)　在(P)　大堂(N)　咖啡廳(N)　內(N)　，(COMMACATEGORY)
+　設施(N)　不(ADV)　完善(Vi)　，(COMMACATEGORY)
+　品種(N)　也(ADV)　少(Vi)　。(PERIODCATEGORY)
+　強烈(Vi)　建議(N)　攜程(N)　取消(Vt)　該(DET)　酒店(N)　的(T)　推薦(Nv)　。(PERIODCATEGORY)

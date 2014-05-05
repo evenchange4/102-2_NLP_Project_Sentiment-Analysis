@@ -1,0 +1,5 @@
+　房間(N)　很(ADV)　差(Vi)　,(COMMACATEGORY)
+　感覺(N)　像(Vt)　有(Vt)　鬼(N)　一樣(Vi)　,(COMMACATEGORY)
+　服務(Nv)　也(ADV)　很(ADV)　差(Vi)　,(COMMACATEGORY)
+　水(N)　要(ADV)　自己(N)　要(ADV)　才(ADV)　給(Vt)　,(COMMACATEGORY)
+　總之(ADV)　這(DET)　個(M)　酒店(N)　絕對(ADV)　不(ADV)　推薦(Vt)　!(EXCLAMATIONCATEGORY)

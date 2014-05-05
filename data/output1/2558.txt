@@ -1,0 +1,7 @@
+　房價(N)　要(ADV)　四百多(DET)　，(COMMACATEGORY)
+　但(C)　感到(Vt)　非常(ADV)　失望(Vi)　，(COMMACATEGORY)
+　陳舊(Vi)　，(COMMACATEGORY)
+　髒(Vi)　，(COMMACATEGORY)
+　比(P)　錦江(N)　之(T)　星(N)　還(ADV)　差(Vi)　。(PERIODCATEGORY)
+　以後(N)　肯定(Vt)　不會(ADV)　再(ADV)　去(Vt)　了(ASP)　。(PERIODCATEGORY)
+　這樣(Vi)　的(T)　硬件(N)　設施(N)　和(C)　服務(Nv)　怎麼(ADV)　吸引(Vt)　客人(N)　呢(T)　。(PERIODCATEGORY)

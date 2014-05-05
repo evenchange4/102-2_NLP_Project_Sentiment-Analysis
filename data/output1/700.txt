@@ -1,0 +1,8 @@
+　如(P)　家(N)　的(T)　標準(N)　裝潢(N)　，(COMMACATEGORY)
+　沒(Vt)　的(T)　說(Vt)　，(COMMACATEGORY)
+　不過(C)　還(ADV)　和(P)　樓下(N)　的(T)　一樣(Vi)　的(T)　老(Vi)　問題(N)　，(COMMACATEGORY)
+　水溫(N)　是(Vt)　確實(Vi)　的(T)　忽冷忽熱(N)　，(COMMACATEGORY)
+　隔音(A)　也(ADV)　是(Vt)　確實(Vi)　的(T)　慘(Vi)　了(ASP)　點(ADV)　。(PERIODCATEGORY)
+　不過(C)　這(DET)　個(M)　價位(N)　要求(Vt)　也(ADV)　不能(ADV)　太多(Vi)　了(T)　，(COMMACATEGORY)
+　但(C)　好歹(ADV)　下(DET)　次(M)　搞定(Vt)　水溫(N)　吧(T)　，(COMMACATEGORY)
+　這(DET)　個(M)　應該(ADV)　不(ADV)　難(Vi)　....(ETCCATEGORY)

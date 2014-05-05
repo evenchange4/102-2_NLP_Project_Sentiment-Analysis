@@ -1,0 +1,6 @@
+　優點(N)　：(COLONCATEGORY)　位置(N)　佳(Vi)　，(COMMACATEGORY)
+　房間(N)　大(Vi)　，(COMMACATEGORY)
+　網(N)　速(Vi)　快(Vi)　缺點(N)　：(COLONCATEGORY)　不(ADV)　太(ADV)　清潔(Vi)　((PARENTHESISCATEGORY)　衛生間(N)　及(C)　餐廳(N)　地上(N)　均(ADV)　發現(Vt)　小強(N)　)(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　整理(Vt)　房間(N)　方面(N)　有(Vt)　些(M)　疏忽(Nv)　((PARENTHESISCATEGORY)　沐浴液(N)　用光(Vt)　沒(ADV)　補充(Vt)　、(PAUSECATEGORY)　熱(Vt)　水壺(N)　內(N)　的(T)　水(N)　已(ADV)　有(Vt)　一段(N)　時間(N)　無(Vt)　清理(Vt)　)(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　外面(N)　比較(ADV)　嘈雜(Vi)　但(C)　房間(N)　隔音(A)　差(Vi)　，(COMMACATEGORY)
+　離開(Vt)　辦生續(Vt)　時(POST)　用(Vt)　了(ASP)　20(DET)　分鐘(M)　。(PERIODCATEGORY)

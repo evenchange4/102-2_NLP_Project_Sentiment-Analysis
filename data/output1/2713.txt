@@ -1,0 +1,1 @@
+　酒店(N)　位置(N)　還可以(Vi)　價格(N)　也(ADV)　勉強(Vi)　房間(N)　比較(ADV)　陳舊(Vi)　衛生(N)　狀況(N)　也(ADV)　不(ADV)　太(ADV)　近(Vi)　人意(N)　總之(ADV)　不(ADV)　像(Vt)　三星級(N)　酒店(N)

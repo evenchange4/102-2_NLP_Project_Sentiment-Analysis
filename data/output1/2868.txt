@@ -1,0 +1,5 @@
+　價格(N)　在(P)　貴陽(N)　算(Vt)　便宜(Vi)　的(T)　，(COMMACATEGORY)
+　不過(C)　房間(N)　太(ADV)　舊(Vi)　，(COMMACATEGORY)
+　夠(ADV)　大(Vi)　，(COMMACATEGORY)
+　空調(N)　暖風(N)　白天(N)　不(ADV)　開(Vt)　，(COMMACATEGORY)
+　生氣(Vi)　！(EXCLAMATIONCATEGORY)

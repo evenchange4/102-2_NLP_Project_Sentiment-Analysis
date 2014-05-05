@@ -1,0 +1,7 @@
+　太(ADV)　吵鬧(Vi)　。(PERIODCATEGORY)
+　服務(Vt)　不好(Vt)　。(PERIODCATEGORY)
+　房間(N)　隔音(A)　不好(Vt)　。(PERIODCATEGORY)
+　總之(ADV)　很(ADV)　不好(Vt)　。(PERIODCATEGORY)
+　以後(N)　不會(ADV)　住(Vt)　了(ASP)　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　55555555(DET)

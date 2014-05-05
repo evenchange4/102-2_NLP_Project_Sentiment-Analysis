@@ -1,0 +1,2 @@
+　還可以(Vi)　吧(T)　，(COMMACATEGORY)
+　價格(N)　實惠(Vi)　賓館(N)　反饋(Vt)　2008年(N)　4月(N)　17日(N)　：(COLONCATEGORY)　謝謝(Vt)　！(EXCLAMATIONCATEGORY)　歡迎(Vt)　再次(ADV)　入住(Vt)　其(DET)　士大(N)　酒店(N)　。(PERIODCATEGORY)

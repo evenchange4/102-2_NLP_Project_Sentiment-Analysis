@@ -1,0 +1,3 @@
+　房間(N)　不錯(Vi)　，(COMMACATEGORY)
+　下(DET)　次(M)　有(Vt)　機會(N)　還(ADV)　會(ADV)　繼續(Vt)　入住(Vt)　的(T)　。(PERIODCATEGORY)
+　價格(N)　能(ADV)　再(ADV)　便宜(Vi)　寫(Vt)　就(ADV)　更加(ADV)　ok(FW)　了(T)　。(PERIODCATEGORY)

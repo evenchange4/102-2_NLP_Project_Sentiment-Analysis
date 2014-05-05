@@ -1,0 +1,3 @@
+　不(ADV)　太(ADV)　好(Vi)　，(COMMACATEGORY)
+　晚上(N)　被(P)　卡拉(N)　OK(FW)　的(T)　聲音(N)　干擾到(Vt)　很(ADV)　晚(Vi)　。(PERIODCATEGORY)
+　樓下(N)　的(T)　飯店(N)　也(ADV)　搞出(Vt)　很多(DET)　污染(Nv)　。(PERIODCATEGORY)

@@ -1,0 +1,4 @@
+　交通(N)　方便(Vi)　,(COMMACATEGORY)
+　去(Vt)　南京(N)　步行街(N)　是(Vt)　上選(A)　.(PERIODCATEGORY)　但是(C)　餐廳(N)　的(T)　營業(Nv)　時間(N)　((PARENTHESISCATEGORY)　尤其(ADV)　是(Vt)　中(N)　餐廳(N)　)(PARENTHESISCATEGORY)　有(Vt)　些(M)　不便(Vi)　,(COMMACATEGORY)
+　中午(N)　二(DET)　點(M)　半(POST)　到(Vt)　已經(ADV)　沒有(Vt)　午餐(N)　了(T)　.(PERIODCATEGORY)　要(ADV)　知道(Vt)　,(COMMACATEGORY)
+　這(DET)　家(M)　的(T)　中餐(N)　是(Vt)　小(Vi)　有(Vt)　名氣(N)　的(T)　.(PERIODCATEGORY)

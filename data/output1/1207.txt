@@ -1,0 +1,5 @@
+　服務(Nv)　態度(N)　不錯(Vi)　,(COMMACATEGORY)
+　遇到(Vt)　的(T)　每(DET)　一(DET)　位(M)　服務(Nv)　人員(N)　都(ADV)　能(ADV)　主動(Vi)　問好(Vi)　,(COMMACATEGORY)
+　老外(N)　很多(Vi)　,(COMMACATEGORY)
+　這(DET)　個(M)　酒店(N)　可能(ADV)　有(Vt)　不同(Vi)　層面(N)　的(T)　客房(N)　,(COMMACATEGORY)
+　下(DET)　次(M)　咱(N)　得(ADV)　換(Vt)　個(M)　房間(N)　住住(Vt)　。(PERIODCATEGORY)

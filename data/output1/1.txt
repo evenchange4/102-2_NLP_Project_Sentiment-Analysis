@@ -1,0 +1,4 @@
+　距離(P)　川沙(N)　公路(N)　較(ADV)　近(Vi)　,(COMMACATEGORY)
+　但是(C)　公交(N)　指示(Vt)　不(ADV)　對(Vi)　,(COMMACATEGORY)
+　如果(C)　是(Vt)　"(FW)　蔡陸線(N)　"(FW)　的(T)　話(N)　,(COMMACATEGORY)
+　會(ADV)　非常(ADV)　麻煩(Vt)　.(PERIODCATEGORY)　建議(N)　用(P)　別的(DET)　路線(N)　.(PERIODCATEGORY)　房間(N)　較為(ADV)　簡單(Vi)　.(PERIODCATEGORY)

@@ -1,0 +1,3 @@
+　這(DET)　個(M)　如(P)　家(N)　實在(ADV)　是(Vt)　太(ADV)　小(Vi)　了(T)　,(COMMACATEGORY)
+　房間(N)　很(ADV)　小(Vi)　很(ADV)　小(Vi)　,(COMMACATEGORY)
+　就(ADV)　不(ADV)　舒服(Vi)　了(T)

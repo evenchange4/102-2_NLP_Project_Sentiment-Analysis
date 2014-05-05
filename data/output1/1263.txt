@@ -1,0 +1,3 @@
+　目前(N)　在(P)　江門(N)　的(T)　4星級(N)　酒店(N)　中性價(N)　比較(ADV)　高(Vi)　的(T)　。(PERIODCATEGORY)
+　周邊(N)　吃飯(Vi)　購物(Vi)　都(ADV)　比較(ADV)　方便(Vi)　。(PERIODCATEGORY)
+　酒店(N)　設施(N)　比較(ADV)　舊(Vi)　。(PERIODCATEGORY)

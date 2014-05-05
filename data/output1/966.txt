@@ -1,0 +1,4 @@
+　酒店(N)　位置(N)　不錯(Vi)　,(COMMACATEGORY)
+　不過(C)　靠近(Vt)　馬路(N)　有點(ADV)　吵鬧(Vi)　,(COMMACATEGORY)
+　因為(C)　窗戶(N)　不(ADV)　是(Vt)　雙層(A)　的(T)　服務員(N)　比較(ADV)　熱情(Vi)　,(COMMACATEGORY)
+　當時(N)　要(ADV)　一(DET)　個(M)　電熱(A)　壺(N)　很(ADV)　快(Vi)　就(ADV)　送到(Vt)　房間(N)　裡(N)　了(T)　建議(Vt)　酒店(N)　注意(Nv)　枕套(N)　的(T)　乾淨(Vi)　程度(N)

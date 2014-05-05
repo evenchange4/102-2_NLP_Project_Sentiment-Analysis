@@ -1,0 +1,1 @@
+　房間(N)　稍微(ADV)　小(Vi)　了(ASP)　點(M)　其他(DET)　沒有(Vt)　問題(N)　很(ADV)　不錯(Vi)　上(DET)　次(M)　和(C)　一(DET)　日本客人(N)　一起(ADV)　住(Vt)　的(T)　對方(N)　很(ADV)　中意(Vt)　因為(C)　竟然(ADV)　有(Vt)　NHK(FW)

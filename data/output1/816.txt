@@ -1,0 +1,6 @@
+　房間(N)　很(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　到底(ADV)　是(Vt)　在(P)　比較(ADV)　偏僻(Vi)　的(T)　九龍城(N)　，(COMMACATEGORY)
+　所以(C)　房間(N)　就(ADV)　是(Vt)　比(P)　市區(N)　裡面(N)　的(T)　大上(Vt)　好多(DET)　。(PERIODCATEGORY)
+　如果(C)　不(ADV)　是(Vt)　時間(N)　很(ADV)　趕(Vi)　的(T)　遊客(N)　，(COMMACATEGORY)
+　推薦(Vt)　這(DET)　家(M)　酒店(N)　。(PERIODCATEGORY)
+　就是(C)　要(ADV)　考慮到(Vt)　每(DET)　天(M)　都(ADV)　會(ADV)　增加(Vt)　12(DET)　元(M)　港幣(N)　的(T)　小巴(N)　費用(N)　。(PERIODCATEGORY)

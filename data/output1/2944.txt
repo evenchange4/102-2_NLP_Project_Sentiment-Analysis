@@ -1,0 +1,7 @@
+　酒店(N)　離開(Vt)　市區(N)　挺(ADV)　遠(Vi)　，(COMMACATEGORY)
+　很(ADV)　不(ADV)　方便(Vi)　。(PERIODCATEGORY)
+　除了(P)　大堂(N)　氣派(Vi)　，(COMMACATEGORY)
+　房間(N)　根本(ADV)　沒有(Vt)　五(DET)　星(N)　，(COMMACATEGORY)
+　充其量(ADV)　較(ADV)　差(Vi)　的(T)　四星(N)　，(COMMACATEGORY)
+　更(ADV)　莫名其妙(Vi)　的(T)　是(Vt)　房間(N)　竟然(ADV)　沒有(Vt)　暖(Vi)　空調(N)　，(COMMACATEGORY)
+　下(DET)　次(M)　決不(ADV)　考慮(Vt)　入住(Vt)　。(PERIODCATEGORY)

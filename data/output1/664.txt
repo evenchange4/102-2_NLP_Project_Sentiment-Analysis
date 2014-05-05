@@ -1,0 +1,3 @@
+　房間(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　早餐(N)　100多(DET)　其實(ADV)　沒(Vt)　什麼(DET)　吃(Vt)　的(T)　，(COMMACATEGORY)
+　早餐(N)　很(ADV)　差(Vi)　。(PERIODCATEGORY)

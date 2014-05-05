@@ -1,0 +1,4 @@
+　總體(N)　感覺(N)　一般(POST)　，(COMMACATEGORY)
+　結賬(Vi)　的(T)　時候(N)　等候(Nv)　時間(N)　太(ADV)　長(Vi)　，(COMMACATEGORY)
+　很(ADV)　慢(Vi)　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)

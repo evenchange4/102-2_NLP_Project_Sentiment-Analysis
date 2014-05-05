@@ -1,0 +1,7 @@
+　酒店(N)　還可以(Vi)　，(COMMACATEGORY)
+　房(N)　內(N)　有(Vt)　電腦(N)　，(COMMACATEGORY)
+　數字(N)　電視(N)　。(PERIODCATEGORY)
+　早餐(N)　一般(Vi)　啦(T)　。(PERIODCATEGORY)
+　隔音(A)　效果(N)　比較(ADV)　差(Vi)　，(COMMACATEGORY)
+　下面(N)　是(Vt)　商業街(N)　，(COMMACATEGORY)
+　不(ADV)　太(ADV)　安靜(Vi)　。(PERIODCATEGORY)

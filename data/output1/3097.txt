@@ -1,0 +1,6 @@
+　如果(C)　不(ADV)　是(Vt)　因為(C)　他(N)　是(Vt)　4星(N)　不會(ADV)　入住(Vt)　，(COMMACATEGORY)
+　但(C)　入住(Vt)　後(POST)　才(ADV)　知道(Vt)　上當(Vi)　了(T)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　舊(Vi)　，(COMMACATEGORY)
+　只(ADV)　有(Vt)　高級房(N)　才能(N)　提供(Vt)　上網(Nv)　，(COMMACATEGORY)
+　早餐(N)　品種(N)　很少(Vi)　，(COMMACATEGORY)
+　服務員(N)　服務(Nv)　質量(N)　很(ADV)　差(Vi)　。(PERIODCATEGORY)

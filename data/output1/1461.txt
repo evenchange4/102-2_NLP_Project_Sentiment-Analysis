@@ -1,0 +1,4 @@
+　沒(Vt)　過(ASP)　幾(DET)　天(M)　我(N)　還是(ADV)　選擇(Vt)　住(Vt)　這(DET)　個(M)　賓館(N)　,(COMMACATEGORY)
+　怎麼辦(Vi)　呢(T)　,(COMMACATEGORY)
+　忘不了(Vt)　這裡(N)　的(T)　早餐(N)　好(Vi)　滋味(N)　呀(T)　,(COMMACATEGORY)
+　個(M)　方便(Vi)　都(ADV)　挺(ADV)　好(Vi)　的(T)　~(FW)

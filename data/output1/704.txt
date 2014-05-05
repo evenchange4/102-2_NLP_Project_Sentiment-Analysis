@@ -1,0 +1,3 @@
+　我(N)　覺得(Vt)　這(DET)　是(Vt)　我(N)　在(P)　如(P)　家(N)　服務(Vt)　最好(Vi)　的(T)　酒店(N)　了(T)　..(ETCCATEGORY)　交通(N)　方便(Vi)　,(COMMACATEGORY)
+　就是(C)　不(ADV)　好(Vi)　訂到(Vt)　房間(N)　,(COMMACATEGORY)
+　要(ADV)　住(Vt)　的(T)　朋友(N)　最好(ADV)　提前(Vi)　幾(DET)　天(M)　訂(Vt)　哦(T)

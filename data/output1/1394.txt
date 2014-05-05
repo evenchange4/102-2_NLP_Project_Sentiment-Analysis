@@ -1,0 +1,7 @@
+　很(ADV)　不錯(Vi)　的(T)　一(DET)　家(M)　5星級(N)　酒店(N)　。(PERIODCATEGORY)
+　房間(N)　也(ADV)　很(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　就(ADV)　是(Vt)　電視(N)　太(ADV)　小(Vi)　，(COMMACATEGORY)
+　而且(C)　離(P)　床(N)　比較(ADV)　遠(Vi)　，(COMMACATEGORY)
+　看(Vt)　不(ADV)　太(ADV)　清楚(Vi)　。(PERIODCATEGORY)
+　服務(Nv)　人員(N)　態度(N)　也(ADV)　很(ADV)　好(Vi)　。(PERIODCATEGORY)
+　下(DET)　次(M)　一定(ADV)　會(ADV)　再(ADV)　住(Vt)　。(PERIODCATEGORY)

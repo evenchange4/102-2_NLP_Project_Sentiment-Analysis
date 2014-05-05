@@ -1,0 +1,8 @@
+　我(N)　住(Vt)　的(T)　158(DET)　的(T)　房(N)　,(COMMACATEGORY)
+　覺得(Vt)　還可以(Vi)　,(COMMACATEGORY)
+　房間(N)　正(ADV)　對(P)　酒店(N)　大門(N)　口(N)　的(T)　馬路(N)　,(COMMACATEGORY)
+　隔音(A)　還可以(Vi)　,(COMMACATEGORY)
+　不(ADV)　吵(Vt)　.(PERIODCATEGORY)　衛生間(N)　也(ADV)　不(ADV)　是(Vt)　太少(Vi)　,(COMMACATEGORY)
+　就是(C)　設計(N)　不(ADV)　太(ADV)　合理(Vi)　,(COMMACATEGORY)
+　洗澡(Vi)　的(T)　龍頭(N)　力道(N)　太(ADV)　大(Vi)　,(COMMACATEGORY)
+　水(N)　打(Vt)　在(P)　身(N)　上(POST)　都(ADV)　疼(Vi)　.(PERIODCATEGORY)　綜合(A)　來(ADV)　說(Vt)　還(ADV)　可以(ADV)　.(PERIODCATEGORY)

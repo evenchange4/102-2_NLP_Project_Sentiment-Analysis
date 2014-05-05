@@ -1,0 +1,4 @@
+　房間(N)　和(C)　服務(Nv)　都(ADV)　還(ADV)　可以(ADV)　,(COMMACATEGORY)
+　後面(N)　有(Vt)　比較(ADV)　大(Vi)　的(T)　停車場(N)　,(COMMACATEGORY)
+　非常(ADV)　方便(Vi)　駕車(Vi)　者(N)　;(SEMICOLONCATEGORY)　對於(P)　旅行(Nv)　者(N)　來(ADV)　說(Vt)　,(COMMACATEGORY)
+　可能(ADV)　經常(ADV)　打(Vt)　的(T)　士(N)　了(T)　.(PERIODCATEGORY)

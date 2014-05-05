@@ -1,0 +1,6 @@
+　完全(ADV)　達(Vt)　不(ADV)　到(Vt)　四星(N)　標準(N)　,(COMMACATEGORY)
+　前台(N)　小姐(N)　臭(Vi)　著(ASP)　一(DET)　張(M)　臉(N)　,(COMMACATEGORY)
+　南樓(N)　的(T)　服務(Nv)　小姐(N)　還是(ADV)　瞞(Vt)　熱情(Vi)　的(T)　.(PERIODCATEGORY)　被子(N)　有(Vt)　一(DET)　股(M)　怪(Vi)　味(N)　,(COMMACATEGORY)
+　洗手間(N)　地板(N)　不(ADV)　整潔(Vi)　,(COMMACATEGORY)
+　電視(N)　沒有(Vt)　國際台(N)　,(COMMACATEGORY)
+　半夜(N)　還(ADV)　接到(Vt)　按摩(Nv)　小姐(N)　的(T)　電話(N)　.(PERIODCATEGORY)　唯一(A)　覺得(Vt)　還(ADV)　可以(ADV)　的(T)　是(Vt)　中(N)　餐廳(N)　的(T)　菜(N)　還可以(Vi)　.(PERIODCATEGORY)　用餐(Vi)　也(ADV)　不(ADV)　貴(Vi)　.(PERIODCATEGORY)

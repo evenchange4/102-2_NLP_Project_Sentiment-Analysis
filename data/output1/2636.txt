@@ -1,0 +1,8 @@
+　預訂(Vt)　的(T)　是(Vt)　錢塘江(N)　景標房(N)　，(COMMACATEGORY)
+　一(DET)　進門(N)　就(ADV)　聞到(Vt)　了(ASP)　濃烈(Vi)　的(T)　煙味(N)　，(COMMACATEGORY)
+　所謂(Vt)　的(T)　江景(N)　舉目(ADV)　望去(Vi)　基本(N)　上(POST)　只有(ADV)　2(DET)　層(M)　高(Vi)　的(T)　野草(N)　；(SEMICOLONCATEGORY)　最(ADV)　不能(ADV)　忍受(Vt)　的(T)　是(Vt)　房間(N)　裡(N)　有(Vt)　跳蚤(N)　，(COMMACATEGORY)
+　以致於(C)　我們(N)　一(DET)　個(M)　晚上(N)　只(ADV)　能(ADV)　穿(Vt)　長衣(N)　長褲(N)　帶好(Vt)　帽子(N)　睡覺(Vi)　，(COMMACATEGORY)
+　但是(C)　身(N)　上(POST)　還是(ADV)　時(POST)　不時(ADV)　的(T)　紅腫(Vi)　瘙癢(Vi)　。(PERIODCATEGORY)
+　軟件(N)　服務(Vt)　不錯(Vi)　。(PERIODCATEGORY)
+　我(N)　想(Vt)　我(N)　不會(ADV)　再(ADV)　選擇(Vt)　開元(N)　之(T)　江(N)　了(T)　，(COMMACATEGORY)
+　出門(Vi)　在(P)　外(N)　衛生(N)　安全(Nv)　問題(N)　是(Vt)　很(ADV)　重要(Vi)　的(T)　。(PERIODCATEGORY)

@@ -1,0 +1,4 @@
+　地點(N)　很(ADV)　方便(Vi)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　舒服(Vi)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　就是(C)　價格(N)　不(ADV)　便宜(Vi)　啊(T)　！(EXCLAMATIONCATEGORY)

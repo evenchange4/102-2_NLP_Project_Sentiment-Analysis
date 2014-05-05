@@ -1,0 +1,7 @@
+　這(DET)　個(M)　飯店(N)　的(T)　位置(N)　非常(ADV)　好(Vi)　,(COMMACATEGORY)
+　我(N)　來(ADV)　出差(Vi)　辦事(Vi)　,(COMMACATEGORY)
+　無論(C)　是(Vt)　去(Vt)　行政(N)　機關(N)　,(COMMACATEGORY)
+　還是(ADV)　去(Vt)　客戶(N)　公司(N)　都(ADV)　很(ADV)　方便(Vi)　.(PERIODCATEGORY)　員工(N)　的(T)　服務(Nv)　態度(N)　也(ADV)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　效率(N)　很(ADV)　高(Vi)　.(PERIODCATEGORY)　我(N)　認為(Vt)　這(DET)　個(M)　飯店(N)　很(ADV)　新(Vi)　,(COMMACATEGORY)
+　可(ADV)　它(N)　仍(ADV)　在(P)　不斷(Vi)　的(T)　裝修(Nv)　完善(Vi)　,(COMMACATEGORY)
+　足可(ADV)　見(Vt)　飯店(N)　的(T)　重視(Nv)　和(C)　集團(N)　的(T)　雄厚(Vi)　實力(N)　.(PERIODCATEGORY)

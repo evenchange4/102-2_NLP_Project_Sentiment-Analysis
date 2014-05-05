@@ -1,0 +1,4 @@
+　網(N)　上(N)　評價(N)　不錯(Vi)　，(COMMACATEGORY)
+　但是(C)　實際(Vi)　情況(N)　並(ADV)　不(ADV)　盡如人意(Vi)　，(COMMACATEGORY)
+　與(P)　2(DET)　-(DASHCATEGORY)　3星(N)　的(T)　水平(N)　差不多(Vi)　~(FW)　~(FW)　總的來說(ADV)　，(COMMACATEGORY)
+　性價(N)　比(P)　不(ADV)　高(Vi)　！(EXCLAMATIONCATEGORY)

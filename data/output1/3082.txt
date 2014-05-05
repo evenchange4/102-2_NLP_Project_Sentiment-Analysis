@@ -1,0 +1,3 @@
+　這(DET)　是(Vt)　我(N)　在(P)　攜程定過(Vt)　的(T)　酒店(N)　中(N)　最(ADV)　差(Vi)　的(T)　，(COMMACATEGORY)
+　價錢(N)　又(ADV)　貴(Vi)　，(COMMACATEGORY)
+　以後(N)　不會(ADV)　再(ADV)　住(Vt)　了(ASP)　。(PERIODCATEGORY)

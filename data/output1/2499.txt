@@ -1,0 +1,6 @@
+　最近(N)　變成(Vt)　了(ASP)　四(DET)　星(N)　，(COMMACATEGORY)
+　好像(ADV)　房間(N)　裝修(Vt)　過(ASP)　了(T)　。(PERIODCATEGORY)
+　餐廳(N)　也(ADV)　裝修(Vt)　過(ASP)　了(T)　。(PERIODCATEGORY)
+　早餐(N)　不錯(Vi)　。(PERIODCATEGORY)
+　呵呵(ADV)　，(COMMACATEGORY)
+　繼續(Vt)　努力(Vi)　哦(T)

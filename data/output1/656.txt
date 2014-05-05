@@ -1,0 +1,5 @@
+　酒店(N)　的(T)　環境(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　但(C)　因為(C)　周邊(N)　修路(Vi)　的(T)　緣故(N)　，(COMMACATEGORY)
+　進出(Vt)　市區(N)　堵(Vt)　的(T)　比較(ADV)　厲害(Vi)　。(PERIODCATEGORY)
+　房間(N)　內(N)　的(T)　設施(N)　不錯(Vi)　，(COMMACATEGORY)
+　但(C)　個別(A)　細節(N)　的(T)　維護(Nv)　還(ADV)　需要(Vt)　提高(Vt)　。(PERIODCATEGORY)

@@ -1,0 +1,2 @@
+　總體(N)　而言(Vt)　衛生(N)　尚佳(Vi)　!(EXCLAMATIONCATEGORY)　但(C)　不能(ADV)　自己(N)　燒水(Vi)　,(COMMACATEGORY)
+　不(ADV)　含(Vt)　早餐(N)　的(T)　房價(N)　顯得(Vt)　偏(ADV)　高(Vi)　.(PERIODCATEGORY)　地理(N)　位置(N)　還好(Vi)　.(PERIODCATEGORY)　建議(N)　住客(N)　到(Vt)　酒店(N)　對面(N)　的(T)　一(DET)　個(M)　早餐店(N)　去(T)　!(EXCLAMATIONCATEGORY)

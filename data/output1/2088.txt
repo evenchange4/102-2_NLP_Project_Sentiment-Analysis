@@ -1,0 +1,4 @@
+　第一(DET)　次(M)　，(COMMACATEGORY)
+　也(ADV)　是(Vt)　最後(N)　一(DET)　次(M)　，(COMMACATEGORY)
+　服務(Nv)　與(C)　星級(N)　不成(Vi)　正比(N)　，(COMMACATEGORY)
+　房間(N)　設施(N)　也(ADV)　非常(ADV)　一般(Vi)　！(EXCLAMATIONCATEGORY)

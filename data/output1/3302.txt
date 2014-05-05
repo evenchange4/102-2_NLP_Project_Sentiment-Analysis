@@ -1,0 +1,2 @@
+　還是(C)　房價(N)　貴(Vi)　了(ASP)　點(ADV)　，(COMMACATEGORY)
+　如果(C)　房價(N)　在(P)　200(DET)　就(ADV)　可以(ADV)　了(T)　。(PERIODCATEGORY)

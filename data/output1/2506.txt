@@ -1,0 +1,4 @@
+　該(DET)　酒店(N)　達(Vt)　不(ADV)　到(Vt)　五(DET)　星(N)　水準(N)　。(PERIODCATEGORY)
+　價格(N)　高(Vi)　，(COMMACATEGORY)
+　環境(N)　差(Vi)　，(COMMACATEGORY)
+　服務(Vt)　一般(A)

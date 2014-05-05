@@ -1,0 +1,7 @@
+　性價(N)　比(P)　不錯(Vi)　的(T)　酒店(N)　,(COMMACATEGORY)
+　交通(N)　也(ADV)　很(ADV)　方便(Vi)　,(COMMACATEGORY)
+　值得(Vi)　一(ADV)　提(Vt)　是(Vt)　,(COMMACATEGORY)
+　賓館(N)　斜對面(N)　走(Vi)　不(ADV)　多(ADV)　遠(Vi)　就(ADV)　是(Vt)　海鮮(N)　一(DET)　條(M)　街(N)　,(COMMACATEGORY)
+　很(ADV)　便宜(Vi)　,(COMMACATEGORY)
+　很(ADV)　實惠(Vi)　,(COMMACATEGORY)
+　下(DET)　次(M)　去(Vt)　深圳(N)　還(ADV)　住廣(N)　深(Vi)　.(PERIODCATEGORY)

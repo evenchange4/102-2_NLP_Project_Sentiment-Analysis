@@ -1,0 +1,4 @@
+　我(N)　在(P)　6月(N)　19(DET)　-(DASHCATEGORY)　21(DET)　號(M)　又(ADV)　入住(Vt)　了(ASP)　該(DET)　酒店(N)　,(COMMACATEGORY)
+　還是(ADV)　一(DET)　副(M)　老樣子(N)　,(COMMACATEGORY)
+　問(Vt)　前台(N)　能否(ADV)　換樓塵(N)　老是(ADV)　回答(Vt)　要(ADV)　等(Vt)　半(DET)　小時(N)　,(COMMACATEGORY)
+　不(ADV)　知(Vt)　為何(ADV)　?(QUESTIONCATEGORY)　望(P)　酒店(N)　在(P)　各(DET)　方方(Vi)　面面(DET)　有待(Vt)　提高(Vt)　!(EXCLAMATIONCATEGORY)

@@ -1,0 +1,6 @@
+　酒店(N)　設施(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　很(ADV)　周到(Vi)　，(COMMACATEGORY)
+　尤其(ADV)　是(Vt)　前台(N)　，(COMMACATEGORY)
+　和(C)　迎賓(N)　，(COMMACATEGORY)
+　很(ADV)　熱情(Vi)　，(COMMACATEGORY)
+　謝謝(Vt)　他們(N)　！(EXCLAMATIONCATEGORY)

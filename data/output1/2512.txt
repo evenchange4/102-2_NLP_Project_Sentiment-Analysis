@@ -1,0 +1,8 @@
+　房間(N)　破舊(Vi)　，(COMMACATEGORY)
+　電視(N)　無法(ADV)　正常(Vi)　觀看(Vt)　，(COMMACATEGORY)
+　衛生間(N)　連(Vt)　廁紙(N)　都(ADV)　不(ADV)　給(Vt)　準備(Nv)　，(COMMACATEGORY)
+　還要(ADV)　自備(Vt)　。(PERIODCATEGORY)
+　空調(N)　沒有(Vt)　遙控器(N)　，(COMMACATEGORY)
+　就(ADV)　是(Vt)　個(M)　擺設(N)　，(COMMACATEGORY)
+　晚上(N)　要(ADV)　穿(Vt)　衣服(N)　睡覺(Vi)　。(PERIODCATEGORY)
+　服務(Nv)　質量(N)　很(ADV)　差(Vi)　！(EXCLAMATIONCATEGORY)

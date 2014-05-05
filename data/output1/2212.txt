@@ -1,0 +1,2 @@
+　晚上(N)　有(Vt)　搔擾(Vt)　電話(N)　比較(ADV)　煩(Vt)　。(PERIODCATEGORY)
+　飯菜(N)　質量(N)　也(ADV)　不(ADV)　好(Vi)　價格(N)　也(ADV)　與(P)　實際(Vi)　不(ADV)　相(ADV)　符合(Vt)

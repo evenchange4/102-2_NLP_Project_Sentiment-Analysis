@@ -1,0 +1,6 @@
+　酒店(N)　比較(ADV)　老(Vi)　,(COMMACATEGORY)
+　但是(C)　設備(N)　維護(Vt)　的(T)　還是(ADV)　不錯(Vi)　.(PERIODCATEGORY)　服務(Vt)　不錯(Vi)　,(COMMACATEGORY)
+　比較(ADV)　細心(Vi)　周圍(N)　,(COMMACATEGORY)
+　晚上(N)　回來(Vi)　開(Vt)　了(ASP)　夜床(N)　,(COMMACATEGORY)
+　感覺(Vt)　很(ADV)　好(Vi)　.(PERIODCATEGORY)　樓下(N)　商場(N)　據說(ADV)　算(Vt)　濟南(N)　最好(Vi)　的(T)　，(COMMACATEGORY)
+　感覺(N)　不錯(Vi)　~(FW)　~(FW)　`(FW)　下(DET)　次(M)　還(ADV)　住(Vt)　這裡(N)

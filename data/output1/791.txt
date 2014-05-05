@@ -1,0 +1,4 @@
+　相對(Vi)　價錢(N)　,(COMMACATEGORY)
+　酒店(N)　真的(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　交通(N)　方便(Vi)　,(COMMACATEGORY)
+　乾淨(Vi)　整潔(Vi)　,(COMMACATEGORY)

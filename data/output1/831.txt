@@ -1,0 +1,6 @@
+　青海(N)　賓館(N)　在(P)　西寧(N)　還(ADV)　算(Vt)　不錯(Vi)　，(COMMACATEGORY)
+　大(Vi)　床(N)　房床離門(N)　非常(ADV)　近(Vi)　，(COMMACATEGORY)
+　隔音(A)　不(ADV)　算(Vt)　太(ADV)　好(Vi)　，(COMMACATEGORY)
+　電視(N)　小(Vi)　且(C)　舊(Vi)　，(COMMACATEGORY)
+　不過(C)　酒店(N)　環境(N)　還(ADV)　可以(ADV)　，(COMMACATEGORY)
+　早餐(N)　也(ADV)　不錯(Vi)　。(PERIODCATEGORY)

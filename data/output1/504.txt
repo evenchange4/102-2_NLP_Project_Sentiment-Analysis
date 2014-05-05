@@ -1,0 +1,5 @@
+　說(Vt)　是(Vt)　五(DET)　星(N)　，(COMMACATEGORY)
+　房間(N)　比較(ADV)　小(Vi)　，(COMMACATEGORY)
+　網絡(N)　還(ADV)　是(Vt)　有(Vt)　問題(N)　，(COMMACATEGORY)
+　但是(C)　服務(Nv)　人員(N)　業務(N)　能力(N)　比較(ADV)　強(Vi)　，(COMMACATEGORY)
+　很(ADV)　快(Vi)　搞定(Vt)

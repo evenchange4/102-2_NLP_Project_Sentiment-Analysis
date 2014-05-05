@@ -1,0 +1,4 @@
+　酒店(N)　的(T)　大堂(N)　環境(N)　比(P)　以前(N)　有所(Vt)　提高(Vt)　,(COMMACATEGORY)
+　可能(ADV)　是(Vt)　因為(C)　鮮花(N)　擺放(Vt)　的(T)　原因(N)　.(PERIODCATEGORY)　房間(N)　的(T)　設施(N)　乾淨(Vi)　,(COMMACATEGORY)
+　清爽(Vi)　,(COMMACATEGORY)
+　很(ADV)　舒適(Vi)　.(PERIODCATEGORY)

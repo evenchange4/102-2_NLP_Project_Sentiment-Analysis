@@ -1,0 +1,4 @@
+　印象(N)　最(ADV)　深(Vi)　的(T)　是(Vt)　,(COMMACATEGORY)
+　拉開(Vt)　窗簾(N)　時(POST)　的(T)　感覺(N)　--(DASHCATEGORY)　外面(N)　是(Vt)　一(DET)　高爾夫(N)　球場(N)　--(DASHCATEGORY)　很(ADV)　愜意(Vi)　!(EXCLAMATIONCATEGORY)　房間(N)　也(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　就是(C)　停車(Vi)　不(ADV)　太(ADV)　方便(Vi)　--(DASHCATEGORY)　太(ADV)　遠(Vi)　了(T)　,(COMMACATEGORY)
+　剛好(ADV)　又(ADV)　碰到(Vt)　下雨(Vi)　.(PERIODCATEGORY)

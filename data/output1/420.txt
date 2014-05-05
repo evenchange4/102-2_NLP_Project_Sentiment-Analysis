@@ -1,0 +1,4 @@
+　酒店(N)　各(DET)　方面(N)　設施(N)　完善(Vi)　，(COMMACATEGORY)
+　服務(Vt)　各(DET)　方面(N)　也(ADV)　較(ADV)　好(Vi)　，(COMMACATEGORY)
+　就是(C)　位置(N)　比較(ADV)　偏(Vi)　。(PERIODCATEGORY)
+　離(P)　市中心(N)　較(ADV)　遠(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,5 @@
+　環境(N)　比較(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　做為(Vt)　柳州(N)　本(DET)　地(N)　升級(Vi)　上來(Vi)　的(T)　四(DET)　星(N)　酒店(N)　來(ADV)　說(Vt)　，(COMMACATEGORY)
+　還是(ADV)　比較(ADV)　不錯(Vi)　的(T)　！(EXCLAMATIONCATEGORY)　並且(C)　服務員(N)　的(T)　態度(N)　也(ADV)　是(Vt)　非常(ADV)　好(Vi)　的(T)　，(COMMACATEGORY)
+　在(P)　房間(N)　中(N)　撥打(Vt)　國內(N)　長途(A)　免費(Vi)　，(COMMACATEGORY)
+　這(DET)　是(Vt)　只(ADV)　有(Vt)　柳州(N)　地區(N)　才(ADV)　有(Vt)　的(T)　！(EXCLAMATIONCATEGORY)　較為(ADV)　有(Vt)　特色(N)　！(EXCLAMATIONCATEGORY)

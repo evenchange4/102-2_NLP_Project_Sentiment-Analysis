@@ -1,0 +1,6 @@
+　週末(N)　住(Vt)　了(ASP)　一(DET)　晚(M)　，(COMMACATEGORY)
+　酒店(N)　周邊(N)　還是(ADV)　可以(ADV)　的(T)　，(COMMACATEGORY)
+　出行(Vi)　很(ADV)　方便(Vi)　~(FW)　週日(N)　去(Vt)　花果(N)　山景區(N)　，(COMMACATEGORY)
+　打(Vt)　車(N)　25(DET)　元(M)　就(ADV)　可以(ADV)　到(Vt)　；(SEMICOLONCATEGORY)　房間(N)　的(T)　話(N)　設施(N)　老(Vi)　了(T)　，(COMMACATEGORY)
+　空調(N)　漏(Vi)　了(ASP)　一(DET)　個(M)　晚上(N)　的(T)　水(N)　！(EXCLAMATIONCATEGORY)　單(A)　人間(N)　衛生間(N)　很(ADV)　簡陋(Vi)　~(FW)　20(DET)　元(M)　的(T)　自助(Nv)　早餐(N)　也(ADV)　就(ADV)　5(DET)　元(M)　的(T)　水平(N)　~(FW)　總體(N)　來(ADV)　說(Vt)　，(COMMACATEGORY)
+　要求(Vt)　不(ADV)　高(Vi)　的(T)　話(N)　就(ADV)　只(ADV)　能(ADV)　隨便(Vi)　住(Vt)　住(Vt)　的(T)　地(N)　。(PERIODCATEGORY)

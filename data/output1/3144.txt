@@ -1,0 +1,8 @@
+　住(Vt)　過(ASP)　差(Vi)　的(T)　，(COMMACATEGORY)
+　但(C)　沒有(ADV)　住(Vt)　過(ASP)　這麼(ADV)　差(Vi)　的(T)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　昨晚(N)　00(DET)　：(COLONCATEGORY)　00(DET)　，(COMMACATEGORY)
+　一(DET)　少婦(N)　在(P)　裡面(N)　捉(Vt)　丈夫(N)　奸(Vi)　在(P)　房(N)　，(COMMACATEGORY)
+　大喊(Vt)　大鬧(Vi)　，(COMMACATEGORY)
+　要(ADV)　死(Vi)　要(ADV)　活(Vi)　，(COMMACATEGORY)
+　炒(Vt)　得(T)　大家(N)　一(DET)　晚(M)　沒有(ADV)　睡好(Vi)　。(PERIODCATEGORY)
+　提醒(Vt)　大家(N)　，(COMMACATEGORY)
+　酒店(N)　的(T)　保密(Nv)　工作(N)　很(ADV)　好(Vi)　！(EXCLAMATIONCATEGORY)　住(Vt)　起(ASP)　很(ADV)　放心(Vt)　。(PERIODCATEGORY)

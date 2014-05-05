@@ -1,0 +1,6 @@
+　幫(P)　朋友(N)　訂(Vt)　過(ASP)　,(COMMACATEGORY)
+　大家(N)　反映(Vt)　還(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　住宿(Nv)　條件(N)　滿(ADV)　好(Vi)　的(T)　.(PERIODCATEGORY)　房價(N)　不(ADV)　貴(Vi)　,(COMMACATEGORY)
+　早餐(N)　品種(N)　還(ADV)　算(Vt)　豐富(Vt)　,(COMMACATEGORY)
+　中午(N)　自助(Vi)　相當(ADV)　便宜(Vi)　,(COMMACATEGORY)
+　建議(Vt)　有(Vt)　機會(N)　可以(ADV)　去(ADV)　嘗嘗(Vt)　.(PERIODCATEGORY)　下(DET)　次(M)　還是(ADV)　會(ADV)　住(Vt)　的(T)　.(PERIODCATEGORY)

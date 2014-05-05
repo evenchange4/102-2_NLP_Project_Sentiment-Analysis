@@ -1,0 +1,6 @@
+　地理(N)　位置(N)　還(ADV)　算(Vt)　可以(Vi)　，(COMMACATEGORY)
+　酒店(N)　房間(N)　有點(ADV)　舊(Vi)　，(COMMACATEGORY)
+　但(C)　不(ADV)　影響(Vt)　什麼(DET)　。(PERIODCATEGORY)
+　只(ADV)　是(Vt)　房間(N)　的(T)　隔音(A)　比較(ADV)　差(Vi)　，(COMMACATEGORY)
+　旁邊(N)　的(T)　進出(Vt)　房間(N)　和(C)　說話(Vi)　都(ADV)　聽(Vt)　得(T)　很(ADV)　清楚(Vi)　。(PERIODCATEGORY)
+　有時(ADV)　會(ADV)　影響(Vt)　睡覺(Vi)　。(PERIODCATEGORY)

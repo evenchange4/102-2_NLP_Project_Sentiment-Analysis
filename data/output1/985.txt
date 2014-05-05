@@ -1,0 +1,4 @@
+　性價(N)　比較(ADV)　高(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　服務(Nv)　態度(N)　和(C)　房間(N)　的(T)　配套(Vi)　都(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　被褥(N)　都(ADV)　是(Vt)　特別(Vi)　的(T)　乾淨(Vi)　~(FW)　就(ADV)　是(Vt)　地毯(N)　比較(ADV)　髒(Vi)　，(COMMACATEGORY)
+　有待(Vt)　提高(Vt)

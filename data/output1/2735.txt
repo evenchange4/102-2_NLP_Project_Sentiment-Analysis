@@ -1,0 +1,4 @@
+　房間(N)　舊(Vi)　了(ASP)　點(ADV)　，(COMMACATEGORY)
+　有(Vt)　一(DET)　次(M)　讓(Vt)　我(N)　感覺(Vt)　有點(ADV)　失望(Vi)　，(COMMACATEGORY)
+　另外(C)　不(ADV)　含(Vt)　早餐(N)　，(COMMACATEGORY)
+　在(P)　二樓(N)　單點(N)　比較(ADV)　貴(Vi)

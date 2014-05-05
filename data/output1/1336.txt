@@ -1,0 +1,6 @@
+　地理(N)　位置(N)　不錯(Vi)　，(COMMACATEGORY)
+　但是(C)　設施(N)　已經(ADV)　非常(ADV)　陳舊(Vi)　了(T)　。(PERIODCATEGORY)
+　其他(DET)　的(T)　也(ADV)　還(ADV)　可以(ADV)　。(PERIODCATEGORY)
+　看見(Vt)　上面(N)　有(Vt)　人(N)　說(Vt)　可以(ADV)　免費(Vi)　打(Vt)　長途(A)　，(COMMACATEGORY)
+　可(ADV)　我(N)　打(Vt)　了(ASP)　兩(DET)　個(M)　市話(N)　，(COMMACATEGORY)
+　結賬(Vi)　時(POST)　還(ADV)　收(Vt)　了(ASP)　我(N)　2(DET)　元(M)　的(T)　市話(N)　費(Vt)　。(PERIODCATEGORY)

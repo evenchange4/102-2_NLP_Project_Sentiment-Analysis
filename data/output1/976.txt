@@ -1,0 +1,5 @@
+　繼續(Vt)　再次(ADV)　點評(N)　，(COMMACATEGORY)
+　其他(DET)　都(ADV)　跟(P)　以前(N)　一樣(Vi)　，(COMMACATEGORY)
+　只(ADV)　是(Vt)　對於(P)　前台(N)　的(T)　服務(Nv)　速度(N)　希望(Vt)　再(ADV)　快(Vi)　一點(ADV)　，(COMMACATEGORY)
+　多(ADV)　給(Vt)　人(N)　一點(DET)　笑臉(N)　！(EXCLAMATIONCATEGORY)　親和力(N)　不(ADV)　夠(Vi)　！(EXCLAMATIONCATEGORY)　其他(DET)　沒(Vt)　什麼(DET)　，(COMMACATEGORY)
+　還是(ADV)　值得(Vi)　推薦(Vt)　！(EXCLAMATIONCATEGORY)

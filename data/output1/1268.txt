@@ -1,0 +1,4 @@
+　很少(ADV)　去(Vt)　宜昌(N)　，(COMMACATEGORY)
+　聽(Vt)　同事(N)　介紹(Vt)　的(T)　，(COMMACATEGORY)
+　性價(N)　比(P)　不錯(Vi)　，(COMMACATEGORY)
+　在(P)　宜昌市(N)　算是(Vt)　比較(ADV)　好(Vi)　的(T)　酒店(N)　了(T)　。(PERIODCATEGORY)

@@ -1,0 +1,4 @@
+　酒店(N)　的(T)　設施(N)　和(C)　環境(N)　都(ADV)　不錯(Vi)　的(T)　,(COMMACATEGORY)
+　就是(C)　周圍(N)　沒有(Vt)　什麼(DET)　集市(N)　和(C)　超市(N)　,(COMMACATEGORY)
+　在(P)　房間(N)　的(T)　陽台(N)　上(POST)　就(ADV)　能(ADV)　看到(Vt)　一望無際(Vi)　的(T)　大海(N)　,(COMMACATEGORY)
+　真的(ADV)　心情(N)　非常(ADV)　的(T)　不錯(Vi)　.(PERIODCATEGORY)　唯一(A)　的(T)　就是(C)　每(DET)　天(M)　的(T)　早餐(N)　都(ADV)　是(Vt)　一樣(Vi)　的(T)　東西(N)　.(PERIODCATEGORY)　離(P)　機場(N)　和(C)　市區(N)　也(ADV)　不(ADV)　是(Vt)　太(ADV)　遠(Vi)　.(PERIODCATEGORY)　((PARENTHESISCATEGORY)　30(DET)　元(M)　內(POST)　都(ADV)　能(ADV)　搞定(Vt)　)(PARENTHESISCATEGORY)　.(PERIODCATEGORY)

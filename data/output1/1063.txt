@@ -1,0 +1,1 @@
+　不錯(Vi)　的(T)　酒店(N)　!(EXCLAMATIONCATEGORY)　房間(N)　較(ADV)　大(Vi)　並(ADV)　舒適(Vi)　!(EXCLAMATIONCATEGORY)　因為(C)　是(Vt)　住(Vt)　21(DET)　層(M)　很(ADV)　安靜(Vi)　!(EXCLAMATIONCATEGORY)　1樓(N)　餐廳(N)　菜餚(N)　價廉物美(Vi)　就(ADV)　是(Vt)　品種(N)　很少(Vi)　!(EXCLAMATIONCATEGORY)　是(Vt)　桐鄉(N)　很(ADV)　好(Vi)　的(T)　酒店(N)　!(EXCLAMATIONCATEGORY)

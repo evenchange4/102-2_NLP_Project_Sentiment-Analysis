@@ -1,0 +1,2 @@
+　酒店(N)　服務(Vt)　特別(Vi)　到位(Vi)　,(COMMACATEGORY)
+　時刻(N)　為(Vt)　顧客(N)　著想(Vi)　.(PERIODCATEGORY)　房間(N)　乾淨(Vi)　.(PERIODCATEGORY)　下(DET)　次(M)　還(ADV)　會(ADV)　入住(Vt)　.(PERIODCATEGORY)　補充(Vt)　點評(N)　2008年(N)　7月(N)　2日(N)　：(COLONCATEGORY)　閆蕾(N)　小姐(N)　的(T)　服務(Nv)　非常(ADV)　好(Vi)　。(PERIODCATEGORY)

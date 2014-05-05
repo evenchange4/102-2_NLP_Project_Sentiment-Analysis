@@ -1,0 +1,2 @@
+　管理(N)　非常(ADV)　好(Vi)　！(EXCLAMATIONCATEGORY)　細節(N)　服務(Nv)　非常(ADV)　到位(Vi)　，(COMMACATEGORY)
+　值得(Vi)　推薦(Vt)　！(EXCLAMATIONCATEGORY)　感覺得到(Vt)　是(Vt)　一(DET)　個(M)　老牌(Vi)　的(T)　酒店(N)　．(PERIODCATEGORY)

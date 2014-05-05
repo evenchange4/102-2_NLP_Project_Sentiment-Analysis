@@ -1,0 +1,5 @@
+　房間(N)　很(ADV)　小(Vi)　，(COMMACATEGORY)
+　與(C)　行政(N)　間(POST)　的(T)　名字(N)　不符(Vt)　。(PERIODCATEGORY)
+　另外(C)　這(DET)　家(M)　酒店(N)　的(T)　按摩(Nv)　可(ADV)　千萬(DET)　不能(ADV)　叫(Vt)　，(COMMACATEGORY)
+　超級(A)　黑(Vi)　！(EXCLAMATIONCATEGORY)　結帳(Vi)　時(POST)　居然(ADV)　會(ADV)　有(Vt)　打手(N)　上來(Vi)　，(COMMACATEGORY)
+　請(Vt)　大家(N)　注意(Vt)　！(EXCLAMATIONCATEGORY)　決不(ADV)　會(ADV)　再(ADV)　入住(Vt)　此(DET)　酒店(N)　。(PERIODCATEGORY)

@@ -1,0 +1,2 @@
+　酒店(N)　真的(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　就是(C)　早餐(N)　都(ADV)　是(Vt)　韓式(N)　的(T)　有點(ADV)　怪(Vi)　。(PERIODCATEGORY)

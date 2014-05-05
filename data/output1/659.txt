@@ -1,0 +1,4 @@
+　地理(N)　位置(N)　優越(Vi)　，(COMMACATEGORY)
+　房間(N)　挺(ADV)　溫馨(Vi)　，(COMMACATEGORY)
+　服務(Vt)　不錯(Vi)　。(PERIODCATEGORY)
+　商(N)　旅(N)　選擇(Vt)　。(PERIODCATEGORY)

@@ -1,0 +1,4 @@
+　各(DET)　方面(N)　都(ADV)　很(ADV)　一般(Vi)　，(COMMACATEGORY)
+　像(Vt)　個(M)　小(Vi)　旅店(N)　，(COMMACATEGORY)
+　也(ADV)　沒(Vt)　什麼(DET)　太(ADV)　出(Vt)　格(N)　缺陷(N)　，(COMMACATEGORY)
+　價格(N)　略(ADV)　貴(Vi)　啊(T)　。(PERIODCATEGORY)

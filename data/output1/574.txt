@@ -1,0 +1,2 @@
+　門(N)　童(N)　好像(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　其他(DET)　不(ADV)　記得(Vt)　了(ASP)　晚上(N)　睡(Vi)　得(T)　還可以(ADV)

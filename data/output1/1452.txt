@@ -1,0 +1,3 @@
+　房間(N)　乾淨(Vi)　整齊(Vi)　,(COMMACATEGORY)
+　服務員(N)　態度(N)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　不過(C)　餐廳(N)　一般(POST)　.(PERIODCATEGORY)　給(Vt)　我(N)　的(T)　早餐券(N)　上(N)　的(T)　套餐(N)　與(C)　餐廳(N)　的(T)　套餐(N)　不符(Vt)

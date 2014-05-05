@@ -1,0 +1,5 @@
+　酒店(N)　有(Vt)　些(M)　老(Vi)　，(COMMACATEGORY)
+　設施(N)　一般(POST)　，(COMMACATEGORY)
+　早餐(N)　一般(POST)　。(PERIODCATEGORY)
+　位置(N)　位於(Vt)　火車站(N)　附近(N)　，(COMMACATEGORY)
+　但是(C)　周邊(N)　環境(N)　有(Vt)　些(M)　亂(Vi)　。(PERIODCATEGORY)

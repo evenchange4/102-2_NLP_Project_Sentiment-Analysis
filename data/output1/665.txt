@@ -1,0 +1,5 @@
+　當時(N)　由於(C)　原先(ADV)　預定(Vt)　的(T)　標準(N)　間(POST)　沒有(Vt)　房間(N)　，(COMMACATEGORY)
+　酒店(N)　人員(N)　免費(Vi)　將(P)　2(DET)　個(M)　房間(N)　全部(DET)　升級(Vi)　到(P)　行政(N)　間(POST)　，(COMMACATEGORY)
+　前台(N)　服務(Nv)　人員(N)　態度(N)　非常(ADV)　好(Vi)　，(COMMACATEGORY)
+　對了(Vi)　我(N)　強烈(Vi)　推薦(Vt)　大家(N)　去(Vt)　頂樓(N)　的(T)　旋轉(Nv)　自助餐廳(N)　，(COMMACATEGORY)
+　那裡(N)　的(T)　環境(N)　很(ADV)　靈(Vi)　的(T)　。(PERIODCATEGORY)

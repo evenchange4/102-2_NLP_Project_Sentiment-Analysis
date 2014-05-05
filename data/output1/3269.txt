@@ -1,0 +1,3 @@
+　無(Vt)　寬帶(N)　成為(Vt)　最(ADV)　大(Vi)　問題(N)　，(COMMACATEGORY)
+　周邊(N)　無(Vt)　工商(N)　銀行(N)　成為(Vt)　第二(DET)　問題(N)　。(PERIODCATEGORY)
+　補充(Vt)　點評(N)　2007年(N)　1月(N)　13日(N)　：(COLONCATEGORY)　無可(ADV)　吃(Vt)　的(T)　早餐(N)　吃(Vt)　成為(Vt)　不可(ADV)　原諒(Vt)　問題(N)　。(PERIODCATEGORY)

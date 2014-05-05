@@ -1,0 +1,6 @@
+　住(Vt)　的(T)　房間(N)　靠近(Vt)　馬路(N)　，(COMMACATEGORY)
+　比較(ADV)　吵(Vi)　。(PERIODCATEGORY)
+　房間(N)　有(Vt)　股(M)　味道(N)　。(PERIODCATEGORY)
+　不如(C)　錦江(N)　乾淨(Vi)　。(PERIODCATEGORY)
+　不(ADV)　推薦(Vt)　入住(Vt)　，(COMMACATEGORY)
+　早飯(N)　還可以(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,4 @@
+　還(ADV)　行(Vi)　,(COMMACATEGORY)
+　房間(N)　小(Vi)　是(Vt)　不可以(ADV)　抱怨(Vt)　的(T)　，(COMMACATEGORY)
+　因為(C)　這(DET)　是(Vt)　在(P)　香港(N)　,(COMMACATEGORY)
+　如果(C)　是(Vt)　來(ADV)　購物(Vi)　的(T)　話(N)　是(Vt)　個(M)　不錯(Vi)　的(T)　選擇(N)　!(EXCLAMATIONCATEGORY)

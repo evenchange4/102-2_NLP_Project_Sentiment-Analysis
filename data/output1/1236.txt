@@ -1,0 +1,8 @@
+　酒店(N)　剛剛(ADV)　裝修(Vt)　好(Vi)　時(POST)　我(N)　就(ADV)　去(ADV)　住(Vt)　過(ASP)　，(COMMACATEGORY)
+　時隔(Vt)　一(DET)　年(M)　，(COMMACATEGORY)
+　已經(ADV)　顯得(Vt)　有(Vt)　些(M)　舊(Vi)　了(T)　，(COMMACATEGORY)
+　可能(ADV)　維護(Vt)　不(ADV)　夠(Vi)　。(PERIODCATEGORY)
+　服務(Nv)　人員(N)　態度(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　不過(C)　硬件(N)　是(Vt)　差(Vi)　一點兒(DET)　。(PERIODCATEGORY)
+　在(P)　鄭州(N)　這(DET)　種(M)　地方(N)　不(ADV)　算是(Vt)　便宜(Vi)　了(T)　。(PERIODCATEGORY)
+　早餐(N)　不(ADV)　夠(ADV)　豐富(Vt)　。(PERIODCATEGORY)

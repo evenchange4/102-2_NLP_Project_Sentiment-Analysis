@@ -1,0 +1,3 @@
+　酒店(N)　設施(N)　老化(Vt)　嚴重(Vi)　。(PERIODCATEGORY)
+　作為(Vt)　一(DET)　家(M)　五星級(N)　酒店(N)　，(COMMACATEGORY)
+　居然(ADV)　沒有(Vt)　無煙(Vi)　樓層(N)　（(PARENTHESISCATEGORY)　這(DET)　是(Vt)　前台(N)　登記(Vt)　的(T)　時候(N)　酒店(N)　服務員(N)　說(Vt)　的(T)　）(PARENTHESISCATEGORY)

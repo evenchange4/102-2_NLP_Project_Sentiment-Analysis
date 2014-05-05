@@ -1,0 +1,6 @@
+　地理(N)　位置(N)　不錯(Vi)　，(COMMACATEGORY)
+　房間(N)　環境(N)　也(ADV)　可以(ADV)　，(COMMACATEGORY)
+　洗衣(Vi)　速度(N)　快(Vi)　，(COMMACATEGORY)
+　值得(Vi)　稱讚(Vt)　，(COMMACATEGORY)
+　唯一(A)　不足(Vi)　就(ADV)　是(Vt)　裝修(Vt)　期間(N)　，(COMMACATEGORY)
+　很多(DET)　樓層(N)　亂亂(Vi)　的(T)　。(PERIODCATEGORY)
