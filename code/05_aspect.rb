@@ -11,10 +11,13 @@ regexp4 = /([[:space:]]*)(.*)([[:space:]]+)(?<ADV>(\p{Han}+))\(ADV\)[[:space:]](
 
 
 
-f1 = File.open("../data/regexp1.txt", "w")
-f2 = File.open("../data/regexp2.txt", "w")
-f3 = File.open("../data/regexp3.txt", "w")
-f4 = File.open("../data/regexp4.txt", "w")
+f5 = File.open("../data/regexp5.txt", "w")
+
+# dic = []
+# File.open("../data/neg_dic.txt", "rb").each do |t|
+# 	dic << t
+# end
+dic = ["不","沒", "未", "別", "非", "休", "莫", "甭", "無"]
 
 (1..3500).each do |i|
 	next if i >= 1501 and i <= 2000
@@ -22,22 +25,44 @@ f4 = File.open("../data/regexp4.txt", "w")
 	File.open("../data/output1/#{i}.txt").each do |l|
 		if regexp1.match(l)
 			temp = regexp1.match(l)
-			f1 << "#{i} #{temp["aspect"]} #{temp["ADV"]} #{temp["opinion"]}\n"
+			flag = false
+			dic.each do |t|
+				# p "ADV: #{temp["ADV"].encoding}"
+				# p "t: #{t.encoding}"
+				# test = temp["ADV"].force_encoding("UTF-8")
+				if temp["ADV"].include?(t)
+					p "#{temp["ADV"]}#{temp["opinion"]}"
+					f5 << "#{temp["aspect"]} #{temp["ADV"]}#{temp["opinion"]}\n"
+					flag = true
+					break
+				end
+			end
+			if !flag
+				f5 << "#{temp["aspect"]} #{temp["opinion"]}\n"
+			end
 		elsif regexp2.match(l)
 			temp = regexp2.match(l)
-			f2 << "#{i} #{temp["aspect"]} #{temp["opinion"]}\n"
+			f5 << "#{temp["aspect"]} #{temp["opinion"]}\n"
 		end
 
 		if regexp4.match(l)
 			temp = regexp4.match(l)
-			f3 << "#{i} #{temp["ADV"]} #{temp["opinion"]} #{temp["aspect"]}\n"
+			flag = false
+			dic.each do |t|
+				# test = temp["ADV"].force_encoding("UTF-8")
+				if temp["ADV"].include?(t)
+					f5 << "#{temp["aspect"]} #{temp["ADV"]}#{temp["opinion"]} \n"
+					flag = true
+					break
+				end
+			end
+			if !flag
+				f5 << "#{temp["aspect"]} #{temp["opinion"]} \n"
+			end
 		elsif regexp3.match(l)
 			temp = regexp3.match(l)
-			f4 << "#{i} #{temp["opinion"]} #{temp["aspect"]}\n"
+			f5 << "#{temp["aspect"]} #{temp["opinion"]} \n"
 		end
 	end
 end
-f1.close
-f2.close
-f3.close
-f4.close
+f5.close
