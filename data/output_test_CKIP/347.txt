@@ -1,0 +1,2 @@
+　真(ADV)　算不上(Vt)　四星級(N)　酒店(N)　！(EXCLAMATIONCATEGORY)　不過(C)　在(P)　什(DET)　邡(b)　沒有(Vt)　什麼(DET)　像樣(Vi)　的(T)　酒店(N)　了(T)　，(COMMACATEGORY)
+　沒(Vt)　得(T)　選擇(N)　！(EXCLAMATIONCATEGORY)　鬱悶(Vi)　！(EXCLAMATIONCATEGORY)

@@ -1,0 +1,8 @@
+　對(P)　新月閣(N)　只有(ADV)　失望(Vi)　兩(DET)　個(M)　字(N)　,(COMMACATEGORY)
+　我(N)　敢(Vt)　說(Vt)　那些(DET)　評論(N)　都(ADV)　是(Vt)　他們(N)　自己(N)　寫(Vt)　的(T)　,(COMMACATEGORY)
+　在(P)　麗江(N)　太多(DET)　又(ADV)　便宜(Vi)　又(ADV)　好(Vi)　的(T)　客棧(N)　根本(ADV)　不用(ADV)　提前(Vi)　預定(Vt)　,(COMMACATEGORY)
+　新月閣(N)　的(T)　價錢(N)　可以(ADV)　住(Vt)　別的(DET)　更(ADV)　好(Vi)　的(T)　客棧(N)　好幾(DET)　天(M)　了(T)　,(COMMACATEGORY)
+　他(N)　的(T)　房間(N)　又(ADV)　小(Vi)　東西(N)　都(ADV)　沒(Vt)　地方(N)　放(Vt)　,(COMMACATEGORY)
+　建議(Vt)　大家(N)　去(ADV)　住(Vt)　萬古(N)　樓(N)　那(DET)　條(M)　路(N)　的(T)　客棧(N)　,(COMMACATEGORY)
+　又(ADV)　大(Vi)　景觀(N)　又(ADV)　好(Vi)　又(ADV)　便宜(Vi)　,(COMMACATEGORY)
+　大家(N)　把(P)　錢(N)　留(Vt)　著(ASP)　去(ADV)　玩(Vt)　吧(T)　!(EXCLAMATIONCATEGORY)

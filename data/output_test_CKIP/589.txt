@@ -1,0 +1,5 @@
+　房間(N)　設施(N)　比較(ADV)　舊(Vi)　，(COMMACATEGORY)
+　餐飲(N)　貴(Vi)　，(COMMACATEGORY)
+　服務(Vt)　不錯(Vi)　，(COMMACATEGORY)
+　沒有(Vt)　任何(DET)　景觀(N)　。(PERIODCATEGORY)
+　外觀(N)　比獅林(N)　好(Vi)　點(ADV)

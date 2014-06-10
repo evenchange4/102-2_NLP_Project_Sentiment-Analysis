@@ -1,0 +1,2 @@
+　第五(DET)　次(M)　為(Vt)　貴賓(N)　客戶(N)　入住(Vt)　，(COMMACATEGORY)
+　值得(Vi)　推薦(Vt)　！(EXCLAMATIONCATEGORY)　服務(Nv)　沒(ADV)　話說(ADV)　！(EXCLAMATIONCATEGORY)

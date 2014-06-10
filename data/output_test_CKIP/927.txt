@@ -1,0 +1,8 @@
+　酒店(N)　不錯(Vi)　，(COMMACATEGORY)
+　服務(Nv)　人員(N)　都(ADV)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　比較(ADV)　有(Vt)　禮貌(N)　。(PERIODCATEGORY)
+　乾淨(Vi)　，(COMMACATEGORY)
+　清靜(Vi)　，(COMMACATEGORY)
+　交通(N)　也(ADV)　算(Vt)　方便(Vi)　。(PERIODCATEGORY)
+　缺點(N)　是(Vt)　退房(Vi)　狂(Vi)　慢(Vi)　，(COMMACATEGORY)
+　花掉(Vt)　我(N)　半(DET)　個(M)　小時(N)　...(ETCCATEGORY)

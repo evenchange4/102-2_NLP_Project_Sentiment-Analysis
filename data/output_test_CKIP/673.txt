@@ -1,0 +1,7 @@
+　服務(Nv)　:(COLONCATEGORY)　整體(N)　勉強(Vi)　有(Vt)　4(DET)　星級(N)　水平(N)　問題(N)　:(COLONCATEGORY)　硬件(N)　水平(N)　偏低(Vi)　,(COMMACATEGORY)
+　房間(N)　隔音(A)　效果(N)　差(Vi)　,(COMMACATEGORY)
+　門(N)　薄(Vi)　牆薄(Vi)　,(COMMACATEGORY)
+　結賬(Vi)　時間(N)　偏長(N)　,(COMMACATEGORY)
+　早餐(N)　質量(N)　偏低(Vi)　,(COMMACATEGORY)
+　不過(C)　在(P)　該(DET)　地段(N)　,(COMMACATEGORY)
+　也(ADV)　沒有(ADV)　比(P)　這(DET)　家(M)　更(ADV)　好(Vi)　地(T)　賓館(N)　供(Vt)　選擇(Vt)　.(PERIODCATEGORY)

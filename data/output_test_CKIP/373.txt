@@ -1,0 +1,5 @@
+　這裡(N)　交通(N)　和(C)　飲食(N)　便利(Nv)　,(COMMACATEGORY)
+　服務(Nv)　態度(N)　好(Vi)　,(COMMACATEGORY)
+　性價(N)　比(P)　不錯(Vi)　,(COMMACATEGORY)
+　就是(C)　熱水(N)　不(ADV)　太(ADV)　熱(Vt)　,(COMMACATEGORY)
+　值得(Vi)　推薦(Vt)　.(PERIODCATEGORY)

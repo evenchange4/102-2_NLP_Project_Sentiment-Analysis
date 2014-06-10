@@ -1,0 +1,7 @@
+　我(N)　要(ADV)　強烈(Vi)　投訴(Vi)　，(COMMACATEGORY)
+　攜(Vt)　程(N)　的(T)　接線(Vi)　小姐(N)　電話(N)　裡(N)　說(Vt)　，(COMMACATEGORY)
+　這(DET)　間(M)　酒店(N)　客人(N)　反應(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　我們(N)　才(ADV)　入住(Vt)　。(PERIODCATEGORY)
+　誰(N)　知道(Vt)　入住(Vt)　，(COMMACATEGORY)
+　這裡(N)　的(T)　條件(N)　如此(ADV)　惡劣(Vi)　，(COMMACATEGORY)
+　建議(Vt)　大家(N)　不要(ADV)　入住(Vt)　這(DET)　家(M)　酒店(N)　。(PERIODCATEGORY)

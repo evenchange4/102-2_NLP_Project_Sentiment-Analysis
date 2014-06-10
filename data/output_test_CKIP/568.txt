@@ -1,0 +1,8 @@
+　於(P)　四月(N)　下旬(N)　入住(Vt)　行政(N)　樓(N)　套房(N)　三(DET)　天(M)　原則(N)　上(POST)　大致(ADV)　還(ADV)　算(Vt)　滿意(Vt)　，(COMMACATEGORY)
+　但(C)　仍(ADV)　有(Vt)　以下(N)　看法(N)　一(DET)　、(PAUSECATEGORY)　或許(ADV)　裝修(Vt)　較(ADV)　久(Vi)　走道(N)　與(C)　廚房(N)　有(Vt)　些許(DET)　霉味(N)　，(COMMACATEGORY)
+　廚房(N)　設備(N)　也(ADV)　較(ADV)　久(Vi)　有(Vt)　嚴重(Vi)　泛黃(Vi)　二(DET)　、(PAUSECATEGORY)　電梯(N)　與(C)　住戶(N)　共用(Vt)　僅(ADV)　兩(DET)　台(M)　有時(ADV)　要(ADV)　等(Vt)　較(ADV)　久(Vi)　時間(N)　三(DET)　、(PAUSECATEGORY)　從(P)　電梯(N)　到(Vt)　前台(N)　需(ADV)　經過(Vt)　一(DET)　個(M)　六(DET)　階(M)　左右(POST)　之(T)　小(Vi)　樓梯(N)　有(Vt)　些許(DET)　不(ADV)　方便(Vi)　四(DET)　、(PAUSECATEGORY)　居住(Vi)　上(POST)　是(Vt)　還(ADV)　算(Vt)　方便(Vi)　對面(N)　不(ADV)　遠(Vi)　就(ADV)　是(Vt)　吉之島(N)　五(DET)　、(PAUSECATEGORY)　如果(C)　能(ADV)　提供(Vt)　簡易(Vi)　鍋具(N)　，(COMMACATEGORY)
+　中(N)　我(N)　想(Vt)　更(ADV)　能(ADV)　符合(Vt)　套昂(N)　設備(N)　之(T)　定義(N)　賓館(N)　反饋(Vt)　2008年(N)　5月(N)　16日(N)　：(COLONCATEGORY)　感謝(Vt)　您(N)　選擇(Vt)　入住(Vt)　萬事(N)　達(Vt)　酒店(N)　及(C)　給予(Vt)　酒店(N)　寶貴(Vi)　的(T)　建議(N)　。(PERIODCATEGORY)
+　酒店(N)　現有(A)　簡易(Nv)　廚具(N)　提供(Vt)　，(COMMACATEGORY)
+　由於(C)　數量(N)　有限(Vi)　，(COMMACATEGORY)
+　一般(ADV)　在(P)　客人(N)　需要(Vt)　的(T)　情況(N)　下(POST)　免費(Vi)　提供(Vt)　鍋具(N)　、(PAUSECATEGORY)　餐具(N)　給(Vt)　客人(N)　使用(Vt)　。(PERIODCATEGORY)
+　希望(Vt)　您(N)　的(T)　再次(ADV)　選擇(Vt)　入住(Vt)　萬事(N)　達(Vt)　酒店(N)　。(PERIODCATEGORY)

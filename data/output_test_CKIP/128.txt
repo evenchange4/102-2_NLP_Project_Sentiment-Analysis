@@ -1,0 +1,4 @@
+　不錯(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　就是(C)　房間(N)　較(ADV)　小(Vi)　了(ASP)　一點(ADV)　，(COMMACATEGORY)
+　床(N)　較(ADV)　硬(Vi)　了(ASP)　點兒(ADV)　，(COMMACATEGORY)
+　其它(DET)　都(ADV)　還(ADV)　不錯(Vi)

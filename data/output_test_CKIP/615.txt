@@ -1,0 +1,6 @@
+　還(ADV)　不錯(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　雖然(C)　有(Vt)　些(M)　舊(Vi)　，(COMMACATEGORY)
+　日方(N)　也(ADV)　撤資(Vi)　了(ASP)　。(PERIODCATEGORY)
+　可能(ADV)　南京(N)　本來(ADV)　也(ADV)　不(ADV)　大(Vi)　的(T)　原因(N)　吧(T)　，(COMMACATEGORY)
+　從(P)　酒店(N)　去(ADV)　新(Vi)　街口(N)　等(POST)　地方(N)　都(ADV)　不(ADV)　遠(Vi)　。(PERIODCATEGORY)
+　服務(Nv)　也(ADV)　很(ADV)　好(Vi)　。(PERIODCATEGORY)

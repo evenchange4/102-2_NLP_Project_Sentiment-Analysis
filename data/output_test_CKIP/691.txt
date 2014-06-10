@@ -1,0 +1,6 @@
+　位置(N)　太(ADV)　難找(Vt)　了(ASP)　，(COMMACATEGORY)
+　房間(N)　設施(N)　少(Vi)　，(COMMACATEGORY)
+　功能(N)　單一(Vi)　，(COMMACATEGORY)
+　作為(Vt)　商務(N)　間(POST)　，(COMMACATEGORY)
+　沒有(ADV)　配備(Vt)　電腦(N)　，(COMMACATEGORY)
+　有點(ADV)　遺憾(Vt)　∼(FW)　！(EXCLAMATIONCATEGORY)

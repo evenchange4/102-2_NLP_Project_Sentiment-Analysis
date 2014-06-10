@@ -1,0 +1,4 @@
+　距(P)　拱(Vt)　北(N)　關口(N)　近(Vi)　，(COMMACATEGORY)
+　標準(N)　間(POST)　太(ADV)　小(Vi)　，(COMMACATEGORY)
+　豪華(Vi)　大(Vi)　床(N)　不錯(Vi)　，(COMMACATEGORY)
+　服務(Vt)　好(Vi)　早餐(N)　不好(Vt)　太(ADV)　草率(Vi)　了(ASP)　其他(DET)　還(ADV)　不錯(Vi)

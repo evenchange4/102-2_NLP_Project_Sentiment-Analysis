@@ -1,0 +1,6 @@
+　已經(ADV)　多(DET)　次(M)　選擇(N)　入住(Vt)　該(DET)　酒店(N)　了(T)　，(COMMACATEGORY)
+　總體(N)　來(ADV)　說(Vt)　還是(ADV)　不錯(Vi)　的(T)　。(PERIODCATEGORY)
+　這(DET)　回(M)　可能(ADV)　是(Vt)　因為(C)　酒店(N)　包(Vt)　了(ASP)　會議(N)　，(COMMACATEGORY)
+　房間(N)　有(Vt)　些(M)　緊張(Vi)　，(COMMACATEGORY)
+　後來(N)　給(P)　升級成(Vt)　了(ASP)　大(Vi)　床(N)　（(PARENTHESISCATEGORY)　水床(N)　）(PARENTHESISCATEGORY)　房(N)　。(PERIODCATEGORY)
+　酒店(N)　早餐(N)　沒(Vt)　什麼(DET)　新異(Vi)　與(C)　前(DET)　幾(DET)　次(M)　類似(Nv)　。(PERIODCATEGORY)

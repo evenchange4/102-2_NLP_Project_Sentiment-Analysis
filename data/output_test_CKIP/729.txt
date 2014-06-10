@@ -1,0 +1,6 @@
+　房子(N)　還好(Vi)　，(COMMACATEGORY)
+　地理(N)　位置(N)　也(ADV)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　但是(C)　不(ADV)　值得(Vi)　這樣(Vi)　的(T)　價位(N)　。(PERIODCATEGORY)
+　同樣(Vi)　的(T)　水平(N)　，(COMMACATEGORY)
+　徐匯區(N)　的(T)　華亭(N)　賓館(N)　才(ADV)　600多(DET)　元(M)　，(COMMACATEGORY)
+　這裡(N)　卻(ADV)　要(ADV)　1000(DET)　元(M)　。(PERIODCATEGORY)

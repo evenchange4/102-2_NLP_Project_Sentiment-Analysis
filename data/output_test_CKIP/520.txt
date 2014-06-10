@@ -1,0 +1,6 @@
+　這(DET)　個(M)　酒店(N)　如果(C)　不(ADV)　坐落(Vi)　在(P)　南(N)　湖(N)　邊(N)　上(N)　,(COMMACATEGORY)
+　那(ADV)　就是(C)　一(DET)　個(M)　招待所(N)　的(T)　級別(N)　.(PERIODCATEGORY)　我們(N)　訂(Vt)　了(ASP)　758(DET)　的(T)　標(N)　間(POST)　,(COMMACATEGORY)
+　卻(ADV)　只有(ADV)　一(DET)　張(M)　早餐(N)　券(N)　.(PERIODCATEGORY)　另外(ADV)　一(DET)　人(N)　要(ADV)　吃(Vt)　早餐(N)　,(COMMACATEGORY)
+　要(ADV)　68(DET)　元(M)　,(COMMACATEGORY)
+　且(C)　無論(C)　你(N)　是(Vt)　大人(N)　還是(C)　孩子(N)　!(EXCLAMATIONCATEGORY)　而且(C)　早餐(N)　平(Vi)　種(M)　很少(Vi)　.(PERIODCATEGORY)　我們(N)　住(Vt)　的(T)　房間(N)　牆紙(N)　也(ADV)　掉下來(Vi)　了(ASP)　.(PERIODCATEGORY)　去(Vt)　的(T)　時候(N)　正好(ADV)　下雨(Vi)　,(COMMACATEGORY)
+　走道(N)　上(POST)　還(ADV)　在(P)　漏水(Vi)　.(PERIODCATEGORY)　而且(C)　酒店(N)　沒有(Vt)　行李車(N)　幫(P)　客人(N)　搬(Vt)　行李(N)　.(PERIODCATEGORY)　真(ADV)　不(ADV)　知道(Vt)　它(N)　這(DET)　個(M)　五(DET)　星(N)　是(Vt)　怎麼(ADV)　評(Vt)　的(T)　.(PERIODCATEGORY)　也許(ADV)　是(Vt)　當地(N)　政府(N)　行為(N)　吧(T)　.(PERIODCATEGORY)　一(DET)　個(M)　性價(N)　比(P)　不值(Vi)　的(T)　酒店(N)　!(EXCLAMATIONCATEGORY)

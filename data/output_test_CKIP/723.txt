@@ -1,0 +1,5 @@
+　就是(C)　老(Vi)　了(ASP)　點(ADV)　，(COMMACATEGORY)
+　個別(A)　房間(N)　窗戶(N)　小(Vi)　，(COMMACATEGORY)
+　隔音(A)　差(Vi)　，(COMMACATEGORY)
+　其他(DET)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　畢竟(ADV)　是(Vt)　老牌(Vi)　三星級(N)　嗎(T)　！(EXCLAMATIONCATEGORY)

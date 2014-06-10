@@ -1,0 +1,5 @@
+　交通(N)　相當(ADV)　便利(Vt)　，(COMMACATEGORY)
+　既是(Vt)　優點(N)　也(ADV)　是(Vt)　缺點(N)　，(COMMACATEGORY)
+　住(Vt)　在(P)　十幾樓(N)　還是(ADV)　有點(ADV)　吵(Vi)　。(PERIODCATEGORY)
+　其它(DET)　的(T)　都(ADV)　還可以(Vi)　吧(T)　，(COMMACATEGORY)
+　四星級(N)　嘛(T)　。(PERIODCATEGORY)

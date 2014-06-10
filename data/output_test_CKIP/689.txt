@@ -1,0 +1,4 @@
+　設施(N)　很(ADV)　不錯(Vi)　；(SEMICOLONCATEGORY)　周邊(N)　環境(N)　不錯(Vi)　，(COMMACATEGORY)
+　緊鄰(Vt)　金(N)　沙灘(N)　；(SEMICOLONCATEGORY)　推薦(Vt)　海景房(N)　不足(Vi)　：(COLONCATEGORY)　比較(Vt)　偏(Vi)　；(SEMICOLONCATEGORY)　吃飯(Vi)　不(ADV)　放(Vt)　便(Nv)　；(SEMICOLONCATEGORY)　酒店(N)　自帶(N)　的(T)　餐廳(N)　性價(N)　比(P)　太(ADV)　差(Vi)　。(PERIODCATEGORY)
+　價格(N)　太(ADV)　貴(Vi)　，(COMMACATEGORY)
+　口味(N)　不(ADV)　好(Vi)　；(SEMICOLONCATEGORY)

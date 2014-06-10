@@ -1,0 +1,4 @@
+　選擇(Vt)　浩海(N)　的(T)　理由(N)　：(COLONCATEGORY)　無不(ADV)　選擇(Vt)　浩海(N)　的(T)　理由(N)　：(COLONCATEGORY)　房間(N)　隔音(A)　效果(N)　差(Vi)　；(SEMICOLONCATEGORY)　住(Vt)　了(ASP)　４(DET)　天(M)　，(COMMACATEGORY)
+　停(Vt)　了(ASP)　２(DET)　次(M)　電(N)　，(COMMACATEGORY)
+　反覆(ADV)　打電話(Vi)　，(COMMACATEGORY)
+　才(ADV)　要(ADV)　來(ADV)　了(ASP)　一(DET)　根(M)　蠟燭(N)　；(SEMICOLONCATEGORY)　浴缸(N)　是(Vt)　壞(Vt)

@@ -1,0 +1,5 @@
+　能(ADV)　在(P)　吉林市(N)　找到(Vt)　的(T)　最好(Vi)　的(T)　酒店(N)　了(T)　。(PERIODCATEGORY)
+　入住(Vt)　和(P)　退房(Vi)　的(T)　速度(N)　還(ADV)　可以(ADV)　。(PERIODCATEGORY)
+　房間(N)　狀況(N)　不錯(Vi)　，(COMMACATEGORY)
+　床(N)　不如(Vt)　長春(N)　的(T)　天天(ADV)　舒服(Vi)　，(COMMACATEGORY)
+　感覺(Vt)　比較(ADV)　硬(Vi)　。(PERIODCATEGORY)

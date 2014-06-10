@@ -1,0 +1,5 @@
+　設施(N)　是(Vt)　很(ADV)　一般(Vi)　，(COMMACATEGORY)
+　但是(C)　服務(Nv)　人員(N)　的(T)　態度(N)　不(ADV)　敢(Vt)　恭維(Vt)　的(T)　。(PERIODCATEGORY)
+　早飯(N)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　一(DET)　大(Vi)　群(M)　服務員(N)　亂哄哄(Vi)　圍(Vt)　在一起(Vi)　，(COMMACATEGORY)
+　就是(C)　沒有(Vt)　一(DET)　個(M)　人(N)　理(Vt)　你(N)

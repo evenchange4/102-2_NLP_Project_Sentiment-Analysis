@@ -1,0 +1,2 @@
+　1(DET)　．(PERIODCATEGORY)　前台(N)　很(ADV)　有(Vt)　禮貌(N)　,(COMMACATEGORY)
+　對(P)　客戶(N)　的(T)　合理(Vi)　要求(N)　能(ADV)　有(Vt)　很(ADV)　快(Vi)　的(T)　回應(Nv)　.(PERIODCATEGORY)　2(DET)　．(PERIODCATEGORY)　不錯(Vi)　的(T)　酒店(N)　.(PERIODCATEGORY)　3(DET)　．(PERIODCATEGORY)　會(ADV)　向(P)　朋友(N)　推薦(Nv)　.(PERIODCATEGORY)

@@ -1,0 +1,3 @@
+　這(DET)　是(Vt)　我(N)　第二(DET)　次(M)　住(Vt)　該(DET)　酒店(N)　，(COMMACATEGORY)
+　感覺(N)　明顯(Vi)　不如(Vt)　以前(N)　了(T)　，(COMMACATEGORY)
+　看來(ADV)　酒店(N)　的(T)　管理(N)　不(ADV)　夠(Vi)　。(PERIODCATEGORY)

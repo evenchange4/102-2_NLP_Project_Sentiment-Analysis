@@ -1,0 +1,6 @@
+　臨時(N)　決定(Vt)　到(Vt)　北京(N)　出差(Vi)　，(COMMACATEGORY)
+　很(ADV)　快(Vi)　就(ADV)　定好(Vt)　了(ASP)　，(COMMACATEGORY)
+　房間(N)　不錯(Vi)　，(COMMACATEGORY)
+　住(Vt)　了(ASP)　兩(DET)　個(M)　晚上(N)　，(COMMACATEGORY)
+　在(P)　這(DET)　附近(N)　這裡(N)　算是(Vt)　最(ADV)　經濟(Vi)　實惠(Vi)　的(T)　地方(N)　，(COMMACATEGORY)
+　而(C)　質量(N)　又(ADV)　是(Vt)　最好(Vi)　的(T)　了(T)　！(EXCLAMATIONCATEGORY)

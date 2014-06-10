@@ -1,0 +1,2 @@
+　老闆(N)　每(DET)　次(M)　出差(Vi)　到(Vt)　北京(N)　都(ADV)　要(ADV)　訂(Vt)　這(DET)　家(M)　酒店(N)　的(T)　，(COMMACATEGORY)
+　對(P)　它(N)　很(ADV)　滿意(Vt)　哦(T)

@@ -1,0 +1,5 @@
+　前台(N)　服務員(N)　很(ADV)　熱情(Vi)　,(COMMACATEGORY)
+　由於(C)　工作(N)　關係(N)　,(COMMACATEGORY)
+　本人(N)　清晨(N)　5(DET)　:(COLONCATEGORY)　00(DET)　離開(Vt)　酒店(N)　時(POST)　,(COMMACATEGORY)
+　酒店(N)　給(Vt)　客人(N)　準備(Vt)　了(ASP)　早(Vi)　點心(N)　,(COMMACATEGORY)
+　讓(Vt)　客人(N)　感到(Vt)　十分(ADV)　溫馨(Vi)　和(C)　體貼(Nv)　.(PERIODCATEGORY)

@@ -1,0 +1,4 @@
+　位置(N)　不錯(Vi)　，(COMMACATEGORY)
+　上海(N)　徐家匯(N)　中心(N)　地帶(N)　，(COMMACATEGORY)
+　性價(N)　比(Vt)　一般(POST)　，(COMMACATEGORY)
+　房間(N)　比較(ADV)　大(Vi)

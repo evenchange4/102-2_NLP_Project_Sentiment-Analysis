@@ -1,0 +1,8 @@
+　該(DET)　酒店(N)　雖然(C)　價格(N)　不(ADV)　高(Vi)　,(COMMACATEGORY)
+　但(C)　服務(Nv)　實在(ADV)　太(ADV)　差(Vi)　,(COMMACATEGORY)
+　房間(N)　例行(A)　送(Vt)　的(T)　水果(N)　和(C)　報紙(N)　要(ADV)　打電話(Vi)　問(Vt)　才(ADV)　送過來(Vt)　,(COMMACATEGORY)
+　早餐(N)　結束(Vt)　的(T)　時間(N)　被(P)　提前(Vi)　到(P)　9(DET)　點(M)　也(ADV)　沒有(Vt)　任何(DET)　通知(Vt)　,(COMMACATEGORY)
+　最(ADV)　可(ADV)　氣(Vt)　的(T)　是(Vt)　我(N)　投訴(Vi)　沒(Vt)　早餐(N)　時(POST)　,(COMMACATEGORY)
+　前台(N)　還(ADV)　不(ADV)　肯(Vt)　承認(Vt)　錯誤(N)　,(COMMACATEGORY)
+　騙(Vt)　我(N)　早餐(N)　在(P)　我(N)　下樓(Vi)　之前(POST)　剛(ADV)　結束(Vt)　,(COMMACATEGORY)
+　是(Vt)　我(N)　自己(N)　下樓(Vi)　晚(Vi)　了(T)　.(PERIODCATEGORY)　這(DET)　種(M)　服務(Nv)　的(T)　四星級(N)　酒店(N)　我(N)　還(ADV)　從來(ADV)　沒(ADV)　住(Vt)　過(ASP)　.(PERIODCATEGORY)

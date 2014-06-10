@@ -1,0 +1,2 @@
+　設施(N)　有點(ADV)　老化(Vt)　了(T)　，(COMMACATEGORY)
+　但(C)　畢竟(ADV)　是(Vt)　鬧中取靜(Vi)　的(T)　地方(N)　！(EXCLAMATIONCATEGORY)　洗漱(Vi)　用(Vt)　的(T)　東東(N)　配(Vt)　的(T)　挺(ADV)　齊全(Vi)　的(T)　！(EXCLAMATIONCATEGORY)

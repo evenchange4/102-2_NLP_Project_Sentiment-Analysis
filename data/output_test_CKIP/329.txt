@@ -1,0 +1,8 @@
+　其實(ADV)　就(ADV)　是(Vt)　桐城(N)　的(T)　會所(N)　，(COMMACATEGORY)
+　位置(N)　在(P)　桐城(N)　的(T)　最(ADV)　裡面(N)　，(COMMACATEGORY)
+　從(P)　北苑路(N)　走進去(Vi)　要(ADV)　將近(ADV)　十(DET)　分鐘(M)　，(COMMACATEGORY)
+　不(ADV)　好(Vi)　找(Vt)　，(COMMACATEGORY)
+　不(ADV)　好(Vi)　打(Vt)　車(N)　。(PERIODCATEGORY)
+　這樣(Vi)　的(T)　條件(N)　300多(DET)　元(M)　太(ADV)　貴(Vi)　了(T)　。(PERIODCATEGORY)
+　補充(Vt)　點評(N)　2007年(N)　4月(N)　14日(N)　：(COLONCATEGORY)　說明(N)　：(COLONCATEGORY)　不(ADV)　知道(Vt)　現在(N)　價格(N)　如何(Vi)　，(COMMACATEGORY)
+　我(N)　的(T)　客人(N)　是(Vt)　三月(N)　十一(DET)　號(M)　入住(Vt)　的(T)　。(PERIODCATEGORY)

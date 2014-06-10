@@ -1,0 +1,7 @@
+　酒店(N)　不(ADV)　算是(Vt)　最(ADV)　新(Vi)　的(T)　，(COMMACATEGORY)
+　但是(C)　房間(N)　和(C)　服務(Nv)　都(ADV)　很(ADV)　不錯(Vi)　。(PERIODCATEGORY)
+　因為(C)　地理(N)　位置(N)　原因(N)　，(COMMACATEGORY)
+　打(Vt)　的(T)　不如(Vt)　臨街(N)　的(T)　酒店(N)　那麼(ADV)　方便(Vi)　，(COMMACATEGORY)
+　酒店(N)　服務員(N)　和(C)　門童(N)　都(ADV)　很(ADV)　熱情(Vi)　、(PAUSECATEGORY)　細緻(Vi)　，(COMMACATEGORY)
+　周到(Vi)　地(T)　為(Vt)　客戶(N)　介紹(Vt)　最(ADV)　合適(Vi)　的(T)　出行(Vi)　方式(N)　和(C)　線路(N)　，(COMMACATEGORY)
+　感覺(Vt)　很(ADV)　好(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,2 @@
+　為什麼(ADV)　把(P)　一(DET)　個(M)　小(Vi)　房間(N)　留給(Vt)　攜程網(N)　預定(Vt)　的(T)　，(COMMACATEGORY)
+　服務員(N)　態度(N)　不(ADV)　怎麼樣(Vi)　。(PERIODCATEGORY)

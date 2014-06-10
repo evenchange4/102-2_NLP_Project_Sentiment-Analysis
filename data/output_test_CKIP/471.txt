@@ -1,0 +1,4 @@
+　酒店(N)　實在(ADV)　差(Vi)　，(COMMACATEGORY)
+　房間(N)　又(ADV)　小(Vi)　又(ADV)　髒(Vi)　，(COMMACATEGORY)
+　衛生間(N)　環境(N)　太(ADV)　差(Vi)　，(COMMACATEGORY)
+　整(DET)　個(M)　酒店(N)　有點(ADV)　像(Vt)　馬路(N)　邊(N)　上(N)　的(T)　招待所(N)　。(PERIODCATEGORY)

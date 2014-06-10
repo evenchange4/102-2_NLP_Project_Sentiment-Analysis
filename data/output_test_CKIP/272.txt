@@ -1,0 +1,2 @@
+　下(DET)　次(M)　如果(C)　我(N)　去(ADV)　到(Vt)　,(COMMACATEGORY)
+　情願(Vt)　睡(Vi)　橋(N)　底(POST)　也(ADV)　不(ADV)　住(Vt)　這(DET)　個(M)　酒店(N)　.(PERIODCATEGORY)

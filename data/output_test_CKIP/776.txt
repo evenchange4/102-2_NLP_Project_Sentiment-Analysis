@@ -1,0 +1,8 @@
+　除(P)　大堂(N)　像(Vt)　一(DET)　個(M)　掛牌(Nv)　五星級(N)　酒店(N)　外(N)　，(COMMACATEGORY)
+　其他(DET)　真的(ADV)　沒(ADV)　找到(Vt)　可以(ADV)　達(Vt)　標的(N)　。(PERIODCATEGORY)
+　設施(N)　陳舊(Vi)　，(COMMACATEGORY)
+　比如(P)　地毯(N)　差(Vi)　，(COMMACATEGORY)
+　而且(C)　髒(Vi)　！(EXCLAMATIONCATEGORY)　床(N)　和(C)　被子(N)　跟(P)　一般(A)　的(T)　小(Vi)　酒店(N)　差不多(Vi)　，(COMMACATEGORY)
+　衛生間(N)　也(ADV)　一般(Vi)　，(COMMACATEGORY)
+　總之(ADV)　在(P)　大堂(N)　感覺(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　到(Vt)　了(ASP)　房間(N)　就(ADV)　發現(Vt)　被(P)　大堂(N)　忽悠(Vi)　了(T)　！(EXCLAMATIONCATEGORY)

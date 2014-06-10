@@ -1,0 +1,2 @@
+　這(DET)　個(M)　酒店(N)　整體(N)　素質(N)　非常(ADV)　差(Vi)　,(COMMACATEGORY)
+　房間(N)　裡面(N)　有(Vt)　很(ADV)　濃(Vi)　的(T)　油煙(N)　味道(N)　.(PERIODCATEGORY)

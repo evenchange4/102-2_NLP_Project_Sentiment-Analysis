@@ -1,0 +1,6 @@
+　購物(Vi)　較(ADV)　方便(Vi)　，(COMMACATEGORY)
+　上(Vt)　外灘(N)　也(ADV)　近(Vi)　，(COMMACATEGORY)
+　但(C)　房間(N)　太(ADV)　小(Vi)　。(PERIODCATEGORY)
+　沒有(Vt)　早餐(N)　不(ADV)　方便(Vi)　，(COMMACATEGORY)
+　較為(ADV)　嘈雜(Vi)　，(COMMACATEGORY)
+　裝修(Vt)　較(ADV)　老(Vi)

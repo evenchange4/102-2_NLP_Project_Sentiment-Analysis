@@ -1,0 +1,4 @@
+　技術區(N)　裡(N)　唯一(A)　的(T)　四星級(N)　酒店(N)　,(COMMACATEGORY)
+　外觀(N)　不起眼(Vi)　,(COMMACATEGORY)
+　但(C)　服務(Nv)　感覺(N)　很(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　尤其(ADV)　?(QUESTIONCATEGORY)

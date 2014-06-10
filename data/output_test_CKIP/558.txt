@@ -1,0 +1,3 @@
+　距離(P)　北站(N)　和(C)　長途(A)　客運(N)　站(Vi)　都(ADV)　很(ADV)　近(Vi)　，(COMMACATEGORY)
+　房間(N)　也(ADV)　很(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　只是(ADV)　不(ADV)　含(Vt)　早餐(N)　的(T)　房價(N)　相對(Vi)　沒有(Vt)　競爭力(N)　。(PERIODCATEGORY)

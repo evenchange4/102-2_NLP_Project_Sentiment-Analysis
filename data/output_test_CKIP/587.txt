@@ -1,0 +1,8 @@
+　我們(N)　住(Vt)　的(T)　是(Vt)　13樓(N)　,(COMMACATEGORY)
+　不過(C)　因為(C)　是(Vt)　延(Vt)　馬路(N)　,(COMMACATEGORY)
+　所以(C)　到(Vt)　了(ASP)　晚上(N)　還是(ADV)　有(Vt)　很(ADV)　吵(Vi)　的(T)　聲音(N)　,(COMMACATEGORY)
+　隔音(A)　不(ADV)　太(ADV)　好(Vi)　,(COMMACATEGORY)
+　房間(N)　內(N)　的(T)　設施(N)　很(ADV)　舊(Vi)　,(COMMACATEGORY)
+　有(Vt)　可能(ADV)　是(Vt)　年代(N)　久遠(Vi)　的(T)　緣故(N)　,(COMMACATEGORY)
+　都(ADV)　不及(Vt)　如(P)　家(N)　,(COMMACATEGORY)
+　莫泰(N)　168(DET)　....(ETCCATEGORY)　性價(N)　比(P)　很(ADV)　差(Vi)　另外(C)　還(ADV)　有(Vt)　?(QUESTIONCATEGORY)

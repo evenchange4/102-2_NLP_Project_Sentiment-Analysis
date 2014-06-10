@@ -1,0 +1,6 @@
+　去年(N)　10月(N)　去(Vt)　九寨溝(N)　時(POST)　住(Vt)　過(ASP)　，(COMMACATEGORY)
+　感覺(Vt)　很(ADV)　好(Vi)　！(EXCLAMATIONCATEGORY)　今年(N)　再(ADV)　和(P)　同事(N)　去(T)　，(COMMACATEGORY)
+　覺得(Vt)　服務(Vt)　差(Vi)　了(T)　。(PERIODCATEGORY)
+　賓館(N)　反饋(Vt)　2008年(N)　5月(N)　27日(N)　：(COLONCATEGORY)　希望(N)　客人(N)　對(P)　我們(N)　的(T)　服務(Nv)　提出(Vt)　寶貴(Vi)　的(T)　意見(N)　和(C)　建議(N)　，(COMMACATEGORY)
+　做(Vt)　的(T)　不(ADV)　夠(ADV)　好(Vi)　的(T)　地方(N)　，(COMMACATEGORY)
+　我們(N)　很(ADV)　樂意(Vt)　接受(Vt)　客人(N)　的(T)　批評(N)

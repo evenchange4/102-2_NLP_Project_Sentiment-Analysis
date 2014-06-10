@@ -1,0 +1,4 @@
+　酒店(N)　就(ADV)　在(P)　人民(N)　大街(N)　上(POST)　，(COMMACATEGORY)
+　各(DET)　方面(N)　感覺(N)　還(ADV)　算(Vt)　滿意(Vt)　，(COMMACATEGORY)
+　不過(C)　長春(N)　同等(A)　價位(N)　應該(ADV)　還(ADV)　有(Vt)　更多(DET)　更(ADV)　好(Vi)　的(T)　選擇(N)　，(COMMACATEGORY)
+　酒店(N)　性價(N)　比(P)　不(ADV)　算(Vt)　高(Vi)　。(PERIODCATEGORY)

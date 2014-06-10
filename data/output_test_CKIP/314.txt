@@ -1,0 +1,8 @@
+　除了(P)　地理(N)　位置(N)　靠近(Vt)　王府井(N)　，(COMMACATEGORY)
+　其他(DET)　實在(ADV)　不(ADV)　敢(Vt)　恭維(Vt)　。(PERIODCATEGORY)
+　入住(Vt)　時(POST)　發現(Vt)　茶杯(N)　裡(N)　有(Vt)　半(DET)　杯(M)　水(N)　，(COMMACATEGORY)
+　通知(Vt)　服務員(N)　更換(Vt)　，(COMMACATEGORY)
+　驚愕(Vi)　的(T)　發現(Vt)　，(COMMACATEGORY)
+　服務員(N)　把(P)　杯子(N)　中(POST)　的(T)　水(N)　倒(ADV)　在(P)　衛生間(N)　後(POST)　用水(N)　洗洗(Vt)　就(ADV)　放回(Vt)　原處(N)　，(COMMACATEGORY)
+　問(Vt)　她(N)　杯子(N)　不(ADV)　消毒(Vt)　嗎(T)　，(COMMACATEGORY)
+　竟然(ADV)　毫無(Vt)　反應(N)　的(T)　離去(Vi)　。(PERIODCATEGORY)

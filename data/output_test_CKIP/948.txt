@@ -1,0 +1,2 @@
+　這(DET)　個(M)　酒店(N)　地理(N)　位置(N)　不錯(Vi)　，(COMMACATEGORY)
+　在(P)　無錫(N)　比較(Vt)　市中心區(N)　~(FW)　出行(Vi)　方便(Vi)

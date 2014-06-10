@@ -1,0 +1,7 @@
+　以前(N)　對(P)　和(P)　春(N)　有(Vt)　著(ASP)　很(ADV)　好(Vi)　的(T)　感覺(N)　，(COMMACATEGORY)
+　親自(ADV)　入住(Vt)　後(POST)　比較(ADV)　失望(Vi)　……(ETCCATEGORY)　房間(N)　很(ADV)　舊(Vi)　了(T)　，(COMMACATEGORY)
+　一切(DET)　都(ADV)　很(ADV)　舊(Vi)　而(C)　顯得(Vt)　有(Vt)　些(M)　髒(Vi)　，(COMMACATEGORY)
+　還(ADV)　有(Vt)　些(M)　味道(N)　兒(N)　，(COMMACATEGORY)
+　給(P)　攜程(N)　的(T)　價格(N)　也(ADV)　太(ADV)　貴(Vi)　了(T)　，(COMMACATEGORY)
+　不值(Vi)　！(EXCLAMATIONCATEGORY)　今後(N)　考慮(Vt)　新開(Vt)　的(T)　兩(DET)　家(M)　什麼(DET)　星河(N)　假日(N)　，(COMMACATEGORY)
+　還(ADV)　有(Vt)　百(DET)　匯(N)　或者(C)　新(Vi)　國際(N)　假日(N)　酒店(N)　。(PERIODCATEGORY)

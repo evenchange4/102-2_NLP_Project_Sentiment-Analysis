@@ -1,0 +1,4 @@
+　我(N)　喜歡(Vt)　這(DET)　個(M)　酒店(N)　，(COMMACATEGORY)
+　因為(C)　那裡(N)　有(Vt)　笑容(N)　！(EXCLAMATIONCATEGORY)　因為(C)　方便(Vi)　！(EXCLAMATIONCATEGORY)　因為(C)　價格(N)　合理(Vi)　！(EXCLAMATIONCATEGORY)　還(ADV)　有(Vt)　登州路(N)　56(DET)　號(M)　的(T)　青島(N)　啤酒(N)　！(EXCLAMATIONCATEGORY)　到(P)　蕪湖(N)　，(COMMACATEGORY)
+　經常(ADV)　因為(C)　倉促(Vi)　而(C)　訂(Vt)　不(ADV)　到(Vt)　國信(N)　。(PERIODCATEGORY)
+　一(DET)　大(Vi)　憾事(N)　！(EXCLAMATIONCATEGORY)

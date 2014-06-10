@@ -1,0 +1,2 @@
+　388(DET)　元(M)　的(T)　房間(N)　,(COMMACATEGORY)
+　也(ADV)　就(ADV)　值(Vt)　248(DET)　元(M)　.(PERIODCATEGORY)　上網(Nv)　居然(ADV)　收費(Vt)　且(C)　人工(N)　配製(Vt)　IP(FW)　.(PERIODCATEGORY)　打死(Vt)　也(ADV)　不再(ADV)　住(Vt)　.(PERIODCATEGORY)

@@ -1,0 +1,5 @@
+　外觀(N)　舊(Vi)　,(COMMACATEGORY)
+　停車場(N)　小(Vi)　,(COMMACATEGORY)
+　亂(Vi)　,(COMMACATEGORY)
+　還(ADV)　另外(ADV)　收錢(Vi)　,(COMMACATEGORY)
+　不過(C)　酒店(N)　還(ADV)　乾淨(Vi)　.(PERIODCATEGORY)

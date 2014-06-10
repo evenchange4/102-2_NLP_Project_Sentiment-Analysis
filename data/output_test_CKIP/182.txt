@@ -1,0 +1,5 @@
+　剛剛(ADV)　入住(Vt)　是(Vt)　發現(Vt)　房間(N)　的(T)　地毯(N)　和(C)　椅子(N)　都(ADV)　是(Vt)　濕(Vi)　的(T)　，(COMMACATEGORY)
+　打電話(Vi)　詢問(Vt)　時(POST)　前台(N)　只是(ADV)　說明(Vt)　了(ASP)　為什麼(ADV)　椅子(N)　和(C)　地毯(N)　會(ADV)　是(Vt)　濕(Vi)　的(T)　、(PAUSECATEGORY)　一點(DET)　歉意(N)　都(ADV)　沒(ADV)　感覺到(Vt)　。(PERIODCATEGORY)
+　結果(ADV)　只(ADV)　給(P)　換(Vt)　了(ASP)　兩(DET)　把(M)　椅子(N)　，(COMMACATEGORY)
+　實在(ADV)　有(Vt)　些(M)　讓(Vt)　人(N)　不(ADV)　爽(Vi)　。(PERIODCATEGORY)
+　離(P)　五星級(N)　服務(Nv)　還(ADV)　有(Vt)　距離(N)　。(PERIODCATEGORY)

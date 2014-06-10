@@ -1,0 +1,7 @@
+　蚊子(N)　一(DET)　大(Vi)　把(M)　,(COMMACATEGORY)
+　電話(N)　一(DET)　大(Vi)　堆(M)　,(COMMACATEGORY)
+　有(Vt)　洗腳(Vi)　的(T)　,(COMMACATEGORY)
+　有(Vt)　問(Vt)　小姐(N)　服務(Nv)　的(T)　,(COMMACATEGORY)
+　像(Vt)　個(M)　野(Vi)　雞窩(N)　,(COMMACATEGORY)
+　吵(Vt)　得(T)　你(N)　快(ADV)　瘋掉(Vt)　,(COMMACATEGORY)
+　真的(ADV)　要(ADV)　改進(Vt)

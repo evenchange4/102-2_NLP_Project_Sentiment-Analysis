@@ -1,0 +1,4 @@
+　服務(Vt)　差(Vi)　，(COMMACATEGORY)
+　怎麼(ADV)　會(ADV)　有(Vt)　一(DET)　間(M)　酒店(N)　沒(Vt)　熱水(N)　呢(T)　?(QUESTIONCATEGORY)　我(N)　之前(POST)　看到(Vt)　是(Vt)　一月(N)　的(T)　點評(N)　說(Vt)　沒(Vt)　熱方(N)　不(ADV)　到(Vt)　現(N)　去(ADV)　還是(ADV)　沒有(Vt)　，(COMMACATEGORY)
+　投訴(Vi)　說(Vt)　要(ADV)　換(Vt)　另(DET)　一(DET)　家(M)　他們(N)　居然(ADV)　說(Vt)　叫(Vt)　我(N)　可(ADV)　考(Vt)　蘆(b)　，(COMMACATEGORY)
+　我(N)　馬上(ADV)　搬去(Vt)　別(DET)　家(M)　。(PERIODCATEGORY)

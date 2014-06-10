@@ -1,0 +1,5 @@
+　酒店(N)　房間(N)　小(Vi)　，(COMMACATEGORY)
+　設施(N)　陳舊(Vi)　，(COMMACATEGORY)
+　酒店(N)　靠(P)　馬路(N)　，(COMMACATEGORY)
+　窗戶(N)　很(ADV)　不(ADV)　隔音(A)　，(COMMACATEGORY)
+　影響(N)　休息(Vi)

@@ -1,0 +1,6 @@
+　還(ADV)　成(Vt)　,(COMMACATEGORY)
+　不錯(Vi)　還(ADV)　成(Vt)　,(COMMACATEGORY)
+　不錯(Vi)　還(ADV)　成(Vt)　,(COMMACATEGORY)
+　不錯(Vi)　還(ADV)　成(Vt)　,(COMMACATEGORY)
+　不錯(Vi)　,(COMMACATEGORY)
+　物(N)　有所(Vt)　值(N)

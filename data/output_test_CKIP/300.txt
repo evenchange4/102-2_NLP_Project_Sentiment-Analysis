@@ -1,0 +1,6 @@
+　作為(Vt)　老(Vi)　的(T)　四星(N)　酒店(N)　，(COMMACATEGORY)
+　房間(N)　依然(ADV)　很(ADV)　整潔(Vi)　，(COMMACATEGORY)
+　相當(ADV)　不錯(Vi)　。(PERIODCATEGORY)
+　機場(N)　接機(Vi)　服務(Vt)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　可以(ADV)　在(P)　車(N)　上(N)　辦理(Vt)　入住(Vt)　手續(N)　，(COMMACATEGORY)
+　節省(Vt)　時間(N)　。(PERIODCATEGORY)

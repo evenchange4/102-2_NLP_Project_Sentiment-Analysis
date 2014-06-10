@@ -1,0 +1,6 @@
+　標準(N)　間(POST)　較(ADV)　大(Vi)　，(COMMACATEGORY)
+　接(Vt)　站(Vi)　服務(Vt)　不錯(Vi)　。(PERIODCATEGORY)
+　總台(N)　服務(Nv)　不(ADV)　太(ADV)　好(Vi)　，(COMMACATEGORY)
+　退房(Vi)　結帳(Vi)　後(POST)　，(COMMACATEGORY)
+　在(P)　總台(N)　打(Vt)　一(DET)　市話(N)　，(COMMACATEGORY)
+　告知(Vt)　：(COLONCATEGORY)　需(ADV)　2(DET)　角(M)　！(EXCLAMATIONCATEGORY)

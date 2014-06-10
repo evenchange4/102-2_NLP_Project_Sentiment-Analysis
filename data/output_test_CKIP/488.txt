@@ -1,0 +1,8 @@
+　酒店(N)　不管(C)　是(Vt)　外觀(N)　還是(C)　內部(N)　設施(N)　都(ADV)　已經(ADV)　落後(Vt)　了(ASP)　,(COMMACATEGORY)
+　提醒(Vt)　一下(N)　,(COMMACATEGORY)
+　酒店(N)　2007年(N)　裝修(Vt)　,(COMMACATEGORY)
+　那(DET)　只是(ADV)　10(DET)　-(DASHCATEGORY)　14(DET)　層(M)　,(COMMACATEGORY)
+　恐怕(ADV)　攜程(N)　的(T)　客人(N)　是(Vt)　無緣(Vi)　入住(Vt)　了(ASP)　.(PERIODCATEGORY)　其實(ADV)　地理(N)　位置(N)　也(ADV)　一般(Vi)　,(COMMACATEGORY)
+　雖然(C)　步行(Vi)　15(DET)　分鐘(M)　到(P)　步行街(N)　,(COMMACATEGORY)
+　但(C)　每(DET)　天(M)　的(T)　往返(Nv)　還(ADV)　不如(Vt)　住(Vt)　在(P)　附近(N)　.(PERIODCATEGORY)　總之(ADV)　,(COMMACATEGORY)
+　488(DET)　的(T)　價格(N)　太(ADV)　不值(Vi)　了(T)　.(PERIODCATEGORY)

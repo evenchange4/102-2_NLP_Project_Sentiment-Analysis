@@ -1,0 +1,5 @@
+　雖(C)　是(Vt)　觀(Vt)　景房(N)　,(COMMACATEGORY)
+　不過(C)　我(N)　住(Vt)　的(T)　樓層(N)　太(ADV)　低(Vi)　((PARENTHESISCATEGORY)　19樓(N)　)(PARENTHESISCATEGORY)　看(Vt)　不(ADV)　到(Vt)　江景(N)　,(COMMACATEGORY)
+　但(C)　地點(N)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　離(P)　輕(Vi)　軌臨江門站(N)　和(C)　較(P)　場(N)　口站(N)　((PARENTHESISCATEGORY)　起點(N)　)(PARENTHESISCATEGORY)　很(ADV)　近(Vi)　,(COMMACATEGORY)
+　解放(Vt)　碑(N)　就(ADV)　在(P)　附近(N)　((PARENTHESISCATEGORY)　大約(ADV)　100多(DET)　公尺(M)　吧(T)　)(PARENTHESISCATEGORY)　!(EXCLAMATIONCATEGORY)

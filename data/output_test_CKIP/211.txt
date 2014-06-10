@@ -1,0 +1,7 @@
+　房間(N)　太(ADV)　髒(Vi)　,(COMMACATEGORY)
+　竟然(ADV)　沒有(Vt)　熱水(N)　,(COMMACATEGORY)
+　本(DET)　樓(N)　服務員(N)　說(Vt)　鍋爐(N)　壞(Vt)　了(ASP)　修理(Vt)　不(ADV)　了(T)　,(COMMACATEGORY)
+　.(PERIODCATEGORY)　我(N)　要求(Vt)　換(Vt)　房間(N)　,(COMMACATEGORY)
+　既然(C)　回答(Vt)　說(Vt)　全部(DET)　三(DET)　個(M)　樓(N)　都(ADV)　沒有(Vt)　熱水(N)　,(COMMACATEGORY)
+　明顯(Vi)　騙人(Vi)　!(EXCLAMATIONCATEGORY)　還(ADV)　說(Vt)　沒有(ADV)　空(Vt)　房間(N)　了(T)　.(PERIODCATEGORY)　我(N)　說(Vt)　那(DET)　我(N)　搬走(Vt)　不(ADV)　住(Vt)　了(T)　,(COMMACATEGORY)
+　明確(Vi)　告訴(Vt)　那(DET)　兩(DET)　個(M)　自(P)　作(Vt)　聰(Vi)　?(QUESTIONCATEGORY)

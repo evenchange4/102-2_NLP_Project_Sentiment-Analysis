@@ -1,0 +1,2 @@
+　整體(N)　感覺(N)　比較(ADV)　好(Vi)　軟硬件(N)　都(ADV)　達到(Vt)　了(ASP)　4(DET)　星(N)　標準(N)　，(COMMACATEGORY)
+　就是(C)　房間(N)　裡(N)　有一點點(ADV)　的(T)　異味(N)　。(PERIODCATEGORY)

@@ -1,0 +1,7 @@
+　一(DET)　個(M)　人(N)　入住(Vt)　對於(P)　600(DET)　元(M)　的(T)　價格(N)　覺得(Vt)　有點(ADV)　奢侈(Vi)　，(COMMACATEGORY)
+　但是(C)　環境(N)　還(ADV)　可以(ADV)　，(COMMACATEGORY)
+　比(P)　預想(Vt)　的(T)　好(Vi)　，(COMMACATEGORY)
+　也(ADV)　比較(ADV)　乾淨(Vi)　。(PERIODCATEGORY)
+　水量(N)　很(ADV)　充足(Vi)　，(COMMACATEGORY)
+　床(N)　上(N)　用品(N)　據(P)　服務員(N)　講(Vt)　是(Vt)　每日(N)　更換(Vt)　，(COMMACATEGORY)
+　聽說(Vt)　山(N)　上(N)　的(T)　水(N)　48(DET)　元(M)

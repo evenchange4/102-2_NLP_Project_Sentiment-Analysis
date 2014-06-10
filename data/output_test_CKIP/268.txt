@@ -1,0 +1,3 @@
+　這(DET)　酒店(N)　的(T)　管理(N)　實在(ADV)　太(ADV)　有(Vt)　毛病(N)　了(T)　!(EXCLAMATIONCATEGORY)　10.22號(N)　通過(Vt)　攜程(N)　訂(Vt)　1(DET)　晚(M)　.(PERIODCATEGORY)　等(P)　要(Vt)　續房(N)　的(T)　時候(N)　說(Vt)　房間(N)　滿(DET)　?(QUESTIONCATEGORY)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　沒有(Vt)　任何(DET)　提前(Vi)　的(T)　告知(Vt)　,(COMMACATEGORY)
+　人(N)　還(ADV)　沒(ADV)　走(Vi)　就(ADV)　把(P)　房間(N)　租給(Vt)　別人(N)　？(QUESTIONCATEGORY)
+　!(EXCLAMATIONCATEGORY)

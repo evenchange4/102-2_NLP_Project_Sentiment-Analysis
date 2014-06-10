@@ -1,0 +1,8 @@
+　本(ADV)　想定(Vt)　晉祠(N)　賓館(N)　，(COMMACATEGORY)
+　沒(Vt)　房(N)　了(T)　，(COMMACATEGORY)
+　攜(Vt)　城(N)　推薦(Vt)　到(P)　這兒(N)　，(COMMACATEGORY)
+　其實(ADV)　離(P)　晉祠(N)　還(ADV)　很(ADV)　遠(Vi)　。(PERIODCATEGORY)
+　服務(Nv)　態度(N)　不(ADV)　大好(Vi)　。(PERIODCATEGORY)
+　根本(ADV)　就(ADV)　沒有(Vt)　出租車(N)　，(COMMACATEGORY)
+　有(Vt)　黑車(N)　，(COMMACATEGORY)
+　斬(Vt)　得(T)　厲害(Vi)　。(PERIODCATEGORY)

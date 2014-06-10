@@ -1,0 +1,6 @@
+　服務(Nv)　態度(N)　極(ADV)　差(Vi)　。(PERIODCATEGORY)
+　預定(Vt)　的(T)　房間(N)　告訴(Vt)　我(N)　沒有(Vt)　，(COMMACATEGORY)
+　說(Vt)　要(ADV)　加(Vt)　錢(N)　升級(Vi)　才(ADV)　有(Vt)　。(PERIODCATEGORY)
+　我(N)　說(Vt)　我(N)　已經(ADV)　用(P)　信用卡(N)　擔保(Vt)　，(COMMACATEGORY)
+　服務員(N)　很(ADV)　堅決(Vi)　地(T)　說(Vt)　沒有(ADV)　收到(Vt)　，(COMMACATEGORY)
+　沒(Vt)　錢(N)　可以(ADV)　走(Vi)　。(PERIODCATEGORY)

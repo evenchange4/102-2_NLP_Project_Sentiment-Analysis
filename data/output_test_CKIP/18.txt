@@ -1,0 +1,4 @@
+　房間(N)　雖(C)　小(Vi)　，(COMMACATEGORY)
+　但(C)　設施(N)　齊全(Vi)　。(PERIODCATEGORY)
+　服務(Vt)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　一直(ADV)　住(Vt)　這(DET)　個(M)　酒店(N)　。(PERIODCATEGORY)

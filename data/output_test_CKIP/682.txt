@@ -1,0 +1,2 @@
+　強烈(Vi)　不(ADV)　推薦(Vt)　靠(P)　馬路(N)　的(T)　房間(N)　特別(Vi)　是(Vt)　單(A)　人間(N)　,(COMMACATEGORY)
+　因為(C)　整(DET)　個(M)　房間(N)　除了(P)　凌晨(N)　1(DET)　點到(Vt)　5(DET)　點(M)　是(Vt)　稍(ADV)　安靜(Vi)　的(T)　以外(POST)　其他(DET)　時間(N)　都(ADV)　是(Vt)　在(P)　刺耳(Vi)　的(T)　噪音(N)　中(POST)　.(PERIODCATEGORY)　雖然(C)　掛(Vt)　5星(N)　卻(ADV)　有(Vt)　2(DET)　星(N)　的(T)　房間(N)　和(C)　最(ADV)　差(Vi)　的(T)　服務(Nv)　.(PERIODCATEGORY)　以後(N)　再(ADV)　不會(ADV)　入住(Vt)　.(PERIODCATEGORY)

@@ -1,0 +1,7 @@
+　不(ADV)　知道(Vt)　該(DET)　酒店(N)　如何(ADV)　區分(Vt)　大(Vi)　床(N)　與(C)　標(N)　間(N)　？(QUESTIONCATEGORY)
+　？(QUESTIONCATEGORY)
+　？(QUESTIONCATEGORY)
+　床(N)　和(C)　普通(Vi)　標(N)　間(POST)　的(T)　床(N)　差不多(Vi)　大小(N)　，(COMMACATEGORY)
+　說(Vt)　是(Vt)　商務(N)　房間(N)　結果(N)　安排(Vt)　在(P)　一樓(N)　，(COMMACATEGORY)
+　如何(ADV)　讓(Vt)　商務(N)　客人(N)　安心(Vi)　休息(Vi)　？(QUESTIONCATEGORY)
+　？(QUESTIONCATEGORY)

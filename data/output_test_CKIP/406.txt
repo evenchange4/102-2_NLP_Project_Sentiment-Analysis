@@ -1,0 +1,5 @@
+　我(N)　住(Vt)　的(T)　是(Vt)　單(A)　人間(N)　，(COMMACATEGORY)
+　房間(N)　有點(ADV)　小(Vi)　，(COMMACATEGORY)
+　不過(C)　設施(N)　還是(ADV)　很(ADV)　完備(Vi)　的(T)　。(PERIODCATEGORY)
+　酒店(N)　的(T)　地點(N)　比較(ADV)　滿意(Vt)　，(COMMACATEGORY)
+　服務(Nv)　水平(N)　也(ADV)　還(ADV)　算(Vt)　不錯(Vi)　。(PERIODCATEGORY)

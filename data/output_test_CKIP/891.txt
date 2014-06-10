@@ -1,0 +1,5 @@
+　就(ADV)　值(Vt)　5(DET)　元(M)　的(T)　浴鹽瓶(N)　要(ADV)　賠(Vt)　40(DET)　元(M)　,(COMMACATEGORY)
+　這(DET)　不(ADV)　是(Vt)　主要(A)　的(T)　,(COMMACATEGORY)
+　最(ADV)　主要(A)　的(T)　是(Vt)　質量(N)　差(Vi)　的(T)　東西(N)　能(ADV)　傷人(Vi)　,(COMMACATEGORY)
+　我(N)　打開(Vt)　沒用力(N)　就(ADV)　破(Vt)　,(COMMACATEGORY)
+　我(N)　可(ADV)　不(ADV)　是(Vt)　什麼(DET)　大力士(N)

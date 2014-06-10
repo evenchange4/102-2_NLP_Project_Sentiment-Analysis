@@ -1,0 +1,7 @@
+　1(DET)　.(PERIODCATEGORY)　老標(N)　間(N)　一(DET)　股(M)　怪(Vi)　味(N)　，(COMMACATEGORY)
+　換(Vt)　了(ASP)　個(M)　同(DET)　價位(N)　的(T)　單(N)　間(POST)　，(COMMACATEGORY)
+　新(Vi)　裝修(Vt)　的(T)　單(N)　間(POST)　感覺(Vt)　較(ADV)　差(Vi)　，(COMMACATEGORY)
+　衛生間(N)　漏水(Vi)　，(COMMACATEGORY)
+　屋頂(N)　漏水(Vi)　；(SEMICOLONCATEGORY)　2(DET)　.(PERIODCATEGORY)　去(Vt)　房間(N)　的(T)　走廊(N)　過(ADV)　長(Vi)　；(SEMICOLONCATEGORY)
+　3(DET)　.(PERIODCATEGORY)　結賬(Vi)　太(ADV)　慢(Vi)　，(COMMACATEGORY)
+　要(ADV)　等待(Vt)　。(PERIODCATEGORY)

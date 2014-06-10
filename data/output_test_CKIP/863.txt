@@ -1,0 +1,3 @@
+　很(ADV)　難(Vi)　相信(Vt)　通過(Vt)　攜程(N)　會(ADV)　訂到(Vt)　這麼(ADV)　污穢不堪(Vi)　的(T)　酒店(N)　,(COMMACATEGORY)
+　浴室(N)　的(T)　水龍頭(N)　和(C)　花灑(Vt)　已(ADV)　生(Vt)　?(QUESTIONCATEGORY)　,(COMMACATEGORY)
+　房間(N)　地毯(N)　是(Vt)　黑色(N)　的(T)　。(PERIODCATEGORY)

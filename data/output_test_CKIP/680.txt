@@ -1,0 +1,6 @@
+　酒店(N)　的(T)　硬件(N)　不錯(Vi)　，(COMMACATEGORY)
+　房間(N)　相當(ADV)　新(Vi)　，(COMMACATEGORY)
+　大堂(N)　有(Vt)　氣派(Vi)　，(COMMACATEGORY)
+　招待(Vt)　國外(N)　客人(N)　很(ADV)　合適(Vi)　，(COMMACATEGORY)
+　雖然(C)　位置(N)　離(P)　市中心(N)　遠(Vi)　了(ASP)　一點(ADV)　。(PERIODCATEGORY)
+　假如(C)　前台(N)　的(T)　服務(Nv)　態度(N)　多(Vi)　一點(ADV)　熱誠(N)　會(ADV)　更(ADV)　理想(Vi)　。(PERIODCATEGORY)

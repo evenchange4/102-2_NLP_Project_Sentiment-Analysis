@@ -1,0 +1,4 @@
+　最(ADV)　大(Vi)　的(T)　優勢(N)　是(Vt)　距(P)　火車站(N)　很(ADV)　近(Vi)　,(COMMACATEGORY)
+　坐(Vi)　公交(N)　去(Vt)　龍門(N)　石窟(N)　、(PAUSECATEGORY)　關林廟(N)　等(POST)　景點(N)　十分(ADV)　方便(Vi)　。(PERIODCATEGORY)
+　賓館(N)　設施(N)　太(ADV)　陳舊(Vi)　，(COMMACATEGORY)
+　電視(N)　效果(N)　差(Vi)　。(PERIODCATEGORY)

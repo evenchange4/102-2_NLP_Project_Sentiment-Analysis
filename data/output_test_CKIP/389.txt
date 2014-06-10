@@ -1,0 +1,4 @@
+　酒店(N)　感覺(N)　不錯(Vi)　，(COMMACATEGORY)
+　細節(N)　考慮(Vt)　比較(ADV)　周到(Vi)　，(COMMACATEGORY)
+　房價(N)　略(ADV)　顯貴(Vi)　了(ASP)　些(ADV)　，(COMMACATEGORY)
+　標準(N)　間(N)　兩(DET)　個(M)　人(N)　住(Vt)　有點(ADV)　小(Vi)　。(PERIODCATEGORY)

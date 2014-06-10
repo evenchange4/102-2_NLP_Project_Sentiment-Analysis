@@ -1,0 +1,1 @@
+　酒店(N)　位置(N)　離(P)　虹橋(N)　機場(N)　很(ADV)　近(Vi)　.(PERIODCATEGORY)　硬件(N)　也好(T)　.(PERIODCATEGORY)　自租餐(N)　服務(Nv)　尚(ADV)　待(P)　提高(Vt)　.(PERIODCATEGORY)

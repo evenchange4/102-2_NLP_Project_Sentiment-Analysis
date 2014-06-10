@@ -1,0 +1,4 @@
+　房間(N)　能(ADV)　觀景(N)　，(COMMACATEGORY)
+　很(ADV)　好(Vi)　~(FW)　~(FW)　主要(A)　是(Vt)　很(ADV)　方便(Vi)　。(PERIODCATEGORY)
+　出門(Vi)　就(ADV)　是(Vt)　太平洋(N)　廣場(N)　，(COMMACATEGORY)
+　很(ADV)　繁華(Vi)　的(T)　地段(N)

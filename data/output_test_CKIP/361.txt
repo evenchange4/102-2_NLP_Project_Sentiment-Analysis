@@ -1,0 +1,5 @@
+　一(DET)　個(M)　字(N)　--(DASHCATEGORY)　差(Vi)　.(PERIODCATEGORY)　4星(N)　收費(Nv)　,(COMMACATEGORY)
+　0(DET)　星(N)　service(FW)　....(ETCCATEGORY)　大堂(N)　前(N)　有(Vt)　小孩(N)　當(P)　埸(b)　小便(Vi)　--(DASHCATEGORY)　沒(ADV)　人(N)　管(Vt)　.(PERIODCATEGORY)　向(P)　前台(N)　要(Vt)　紙(N)　記(Vt)　號碼(N)　,(COMMACATEGORY)
+　頭(N)　也(ADV)　不(ADV)　看(Vt)　就(ADV)　說(Vt)　沒(T)　!(EXCLAMATIONCATEGORY)　電視(N)　不能(ADV)　看(Vt)　說(Vt)　是(Vt)　"(FW)　電視(N)　公司(N)　在(P)　修(Vt)　,(COMMACATEGORY)
+　不(ADV)　知(Vt)　當天(N)　會不會(ADV)　好(Vi)　"(FW)　.(PERIODCATEGORY)　早上(N)　吃(Vt)　早飯(N)　...(ETCCATEGORY)　9(DET)　am(FW)　去(ADV)　連坐(Vi)　的(T)　地方(N)　也(ADV)　沒有(ADV)　別(ADV)　說(Vt)　吃(Vt)　的(T)　了(T)　.(PERIODCATEGORY)　住(Vt)　了(ASP)　2(DET)　晚(M)　但(C)　酒店(N)　告訴(Vt)　Ctrip(FW)　我(N)　只(ADV)　住(Vt)　了(ASP)　一(DET)　晚(M)　((PARENTHESISCATEGORY)　該(ADV)　拿(Vt)　單(A)　的(T)　)(PARENTHESISCATEGORY)　....(ETCCATEGORY)　差(Vi)　差差(Vi)　....(ETCCATEGORY)
+　差(Vi)　差差(Vi)　....(ETCCATEGORY)

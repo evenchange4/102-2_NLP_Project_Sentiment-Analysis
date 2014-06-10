@@ -1,0 +1,4 @@
+　酒店(N)　服務(Nv)　人員(N)　態度(N)　不(ADV)　是(Vt)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　衛生(N)　一般(POST)　,(COMMACATEGORY)
+　也(ADV)　因為(C)　價格(N)　不(ADV)　貴(Vi)　,(COMMACATEGORY)
+　所以(C)　如果(C)　下(DET)　次(M)　有(Vt)　機會(N)　可能(ADV)　還(ADV)　會(ADV)　入住(Vt)　.(PERIODCATEGORY)

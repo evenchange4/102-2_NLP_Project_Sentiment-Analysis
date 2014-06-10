@@ -1,0 +1,7 @@
+　酒店(N)　外觀(N)　相對(Vi)　氣派(Vi)　,(COMMACATEGORY)
+　但(C)　房間(N)　確實(ADV)　很(ADV)　簡陋(Vi)　,(COMMACATEGORY)
+　設施(N)　陳舊(Vi)　,(COMMACATEGORY)
+　衛生(N)　一般(POST)　,(COMMACATEGORY)
+　最多(ADV)　就(ADV)　是(Vt)　個(M)　90年代(N)　未(ADV)　的(T)　水平(N)　。(PERIODCATEGORY)
+　不過(C)　大慶(N)　賓館(N)　較少(Vi)　，(COMMACATEGORY)
+　找(Vt)　了(ASP)　一遍(N)　發現(Vt)　也(ADV)　的確(ADV)　再(ADV)　沒有(Vt)　什麼(DET)　賓館(N)　了(T)　。(PERIODCATEGORY)

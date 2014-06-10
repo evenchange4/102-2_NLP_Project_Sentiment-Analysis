@@ -1,0 +1,4 @@
+　又(ADV)　一(DET)　次(M)　入住(Vt)　,(COMMACATEGORY)
+　服務(Nv)　一如(Vt)　既(C)　往(P)　,(COMMACATEGORY)
+　無可(ADV)　挑剔(Vt)　,(COMMACATEGORY)
+　但(C)　就是(C)　攜程(N)　的(T)　價格(N)　有點(ADV)　貴(Vi)　了(T)　~(FW)

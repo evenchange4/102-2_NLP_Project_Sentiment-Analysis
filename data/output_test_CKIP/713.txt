@@ -1,0 +1,8 @@
+　作為(Vt)　經濟型(N)　連鎖(A)　酒店(N)　，(COMMACATEGORY)
+　我(N)　覺得(Vt)　錦江(N)　之(T)　星(N)　要(ADV)　比如(P)　家(N)　、(PAUSECATEGORY)　莫泰(N)　等(POST)　高出(Vt)　一籌(N)　。(PERIODCATEGORY)
+　最(ADV)　明顯(Vi)　的(T)　就是(C)　房間(N)　本身(N)　夠(ADV)　寬敞(Vi)　，(COMMACATEGORY)
+　廁所(N)　也(ADV)　不(ADV)　侷促(Vi)　，(COMMACATEGORY)
+　馬桶(N)　還(ADV)　是(Vt)　加長型(N)　的(T)　呢(T)　。(PERIODCATEGORY)
+　10(DET)　元(M)　的(T)　早餐(N)　算(Vt)　豐富(Vt)　的(T)　。(PERIODCATEGORY)
+　整(DET)　個(M)　酒店(N)　的(T)　色澤(N)　和(C)　基調(N)　看(Vt)　著(ASP)　舒服(Vi)　，(COMMACATEGORY)
+　如(P)　家(N)　就(ADV)　土(Vi)　點(ADV)　。(PERIODCATEGORY)

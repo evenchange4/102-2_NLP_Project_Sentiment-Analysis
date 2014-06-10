@@ -1,0 +1,5 @@
+　衛生間(N)　特別(Vi)　小(Vi)　。(PERIODCATEGORY)
+　內部(N)　設施(N)　不(ADV)　人性化(Vt)　，(COMMACATEGORY)
+　尤其(ADV)　燒(Vt)　熱水(N)　的(T)　設施(N)　明顯(Vi)　接觸(Vt)　不良(Vi)　，(COMMACATEGORY)
+　且(C)　他(N)　後面(N)　的(T)　插線板(N)　在(P)　下面(N)　，(COMMACATEGORY)
+　不(ADV)　方便(Vi)　使用(Vt)　。(PERIODCATEGORY)

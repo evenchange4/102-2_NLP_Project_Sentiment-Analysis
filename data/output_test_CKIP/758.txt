@@ -1,0 +1,6 @@
+　酒店(N)　設施(N)　稍(ADV)　顯(Vt)　陳舊(Vi)　,(COMMACATEGORY)
+　但(C)　乾淨(Vi)　整潔(Vi)　,(COMMACATEGORY)
+　早餐(N)　六(DET)　點(M)　開始(Vi)　((PARENTHESISCATEGORY)　很好(Vi)　)(PARENTHESISCATEGORY)　,(COMMACATEGORY)
+　品種(N)　較(ADV)　多(Vi)　,(COMMACATEGORY)
+　但(C)　明檔(N)　的(T)　食品(N)　六(DET)　點(M)　去(ADV)　是(Vt)　吃(Vt)　不(ADV)　到(Vt)　的(T)　,(COMMACATEGORY)
+　略(ADV)　顯(Vt)　遺憾(Vt)　啊(T)

@@ -1,0 +1,5 @@
+　第一(DET)　次(M)　入住(Vt)　該(DET)　酒店(N)　，(COMMACATEGORY)
+　總體(N)　看(Vt)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　房間(N)　給(Vt)　升(Vt)　了(ASP)　級(N)　，(COMMACATEGORY)
+　房間(N)　感覺(N)　挺(ADV)　溫馨(Vi)　的(T)　，(COMMACATEGORY)
+　入住(Vt)　?(QUESTIONCATEGORY)

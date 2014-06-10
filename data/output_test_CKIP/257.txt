@@ -1,0 +1,6 @@
+　大(Vi)　床(N)　房(N)　非常(ADV)　好(Vi)　．(PERIODCATEGORY)　最(ADV)　值得(Vi)　推薦(Vt)　的(T)　是(Vt)　游泳池(N)　和(C)　免費(Vi)　長途(A)　電話(N)　，(COMMACATEGORY)
+　缺點(N)　是(Vt)　大堂(N)　太(ADV)　小(Vi)　以及(C)　門口(N)　的(T)　出租車(N)　，(COMMACATEGORY)
+　只要(C)　是(Vt)　去(Vt)　機場(N)　肯定(Vt)　多(ADV)　要(Vt)　錢(N)　，(COMMACATEGORY)
+　從(P)　機場(N)　來(Vi)　時(POST)　只(ADV)　７４(DET)　元(M)　，(COMMACATEGORY)
+　去(Vt)　機場(N)　要(ADV)　１００(DET)　元(M)　，(COMMACATEGORY)
+　沒(Vt)　時間(N)　和(C)　他(N)　理論(N)　．(PERIODCATEGORY)

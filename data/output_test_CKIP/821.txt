@@ -1,0 +1,6 @@
+　我(N)　住(Vt)　過(ASP)　南京(N)　所有(DET)　的(T)　五(DET)　星(N)　酒店(N)　,(COMMACATEGORY)
+　選來(Vt)　選去(Vt)　還是(C)　這(DET)　家(M)　((PARENTHESISCATEGORY)　曾經(ADV)　的(T)　香格里拉(N)　)(PARENTHESISCATEGORY)　.(PERIODCATEGORY)　無論(C)　是(Vt)　硬件(N)　設施(N)　還是(C)　服務(Nv)　,(COMMACATEGORY)
+　都(ADV)　很(ADV)　無可(ADV)　挑剔(Vt)　...(ETCCATEGORY)　如果說(C)　缺點(N)　,(COMMACATEGORY)
+　就是(C)　房價(N)　很(ADV)　貴(Vi)　了(T)　,(COMMACATEGORY)
+　呵呵(ADV)　,(COMMACATEGORY)
+　但願(Vt)　攜程(N)　能(ADV)　談(Vt)　下(POST)　更(ADV)　優惠(Vt)　的(T)　房價(N)　啊(T)　.(PERIODCATEGORY)

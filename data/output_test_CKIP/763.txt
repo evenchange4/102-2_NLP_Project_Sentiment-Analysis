@@ -1,0 +1,4 @@
+　設施(N)　不(ADV)　算(Vt)　新(Vi)　，(COMMACATEGORY)
+　但是(C)　挺(ADV)　溫馨(Vi)　的(T)　，(COMMACATEGORY)
+　位置(N)　很(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　衛生(N)　也好(T)

@@ -1,0 +1,4 @@
+　賓館(N)　本身(N)　還是(ADV)　很(ADV)　不錯(Vi)　的(T)　，(COMMACATEGORY)
+　餐廳(N)　的(T)　服務(Nv)　相當(ADV)　到位(Vi)　，(COMMACATEGORY)
+　就是(C)　賓館(N)　位置(N)　不(ADV)　太(ADV)　好(Vi)　，(COMMACATEGORY)
+　周圍(N)　不(ADV)　太(ADV)　好(Vi)

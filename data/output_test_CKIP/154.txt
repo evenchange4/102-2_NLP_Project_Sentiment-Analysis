@@ -1,0 +1,8 @@
+　雖然(C)　我(N)　住(Vt)　的(T)　是(Vt)　豪華房(N)　，(COMMACATEGORY)
+　但是(C)　房間(N)　的(T)　設施(N)　還是(ADV)　顯得(Vt)　有(Vt)　些(M)　陳舊(Vi)　。(PERIODCATEGORY)
+　早點(ADV)　並(ADV)　不(ADV)　是(Vt)　非常(ADV)　的(T)　豐富(Vt)　，(COMMACATEGORY)
+　不過(C)　我(N)　想(Vt)　對於(P)　在(P)　四星(N)　飯店(N)　裡(N)　的(T)　50(DET)　元(M)　錢(N)　的(T)　早點(N)　，(COMMACATEGORY)
+　可能(ADV)　是(Vt)　我(N)　要求(Vt)　過(ASP)　高(Vi)　了(T)　。(PERIODCATEGORY)
+　不過(C)　這(DET)　個(M)　酒店(N)　的(T)　門(N)　臉(N)　可(ADV)　這(DET)　是(Vt)　夠(ADV)　背(Vi)　的(T)　。(PERIODCATEGORY)
+　藏(Vt)　在(P)　了(ASP)　一(DET)　個(M)　小(Vi)　胡同(N)　裡面(N)　。(PERIODCATEGORY)
+　不過(C)　還好(Vi)　出租車(N)　司機(N)　都(ADV)　知道(Vt)　。(PERIODCATEGORY)

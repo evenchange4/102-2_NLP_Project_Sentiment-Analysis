@@ -1,0 +1,2 @@
+　客人(N)　已經(ADV)　住(Vt)　了(ASP)　好幾(DET)　次(M)　了(T)　.(PERIODCATEGORY)　覺得(Vt)　挺(ADV)　不錯(Vi)　的(T)　,(COMMACATEGORY)
+　希望(Vt)　繼續(Vt)　保持(Vt)　...(ETCCATEGORY)

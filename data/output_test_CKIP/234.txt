@@ -1,0 +1,8 @@
+　真的(ADV)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　就(ADV)　這(DET)　個(M)　價格(N)　來(ADV)　說(Vt)　完全(ADV)　可以(ADV)　在(P)　桂林(N)　住到(Vt)　更(ADV)　好(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　前台(N)　服務員(N)　態度(N)　一般(POST)　，(COMMACATEGORY)
+　入住(Vt)　之後(POST)　，(COMMACATEGORY)
+　空調(N)　有(Vt)　問題(N)　，(COMMACATEGORY)
+　房間(N)　衛生間(N)　沒有(ADV)　完全(ADV)　隔開(Vt)　，(COMMACATEGORY)
+　不(ADV)　方便(Vi)　！(EXCLAMATIONCATEGORY)　反正(ADV)　很(ADV)　不(ADV)　滿意(Vt)　，(COMMACATEGORY)
+　建議(Vt)　不要(ADV)　入住(Vt)

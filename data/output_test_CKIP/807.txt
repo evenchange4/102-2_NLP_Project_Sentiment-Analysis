@@ -1,0 +1,8 @@
+　總體(N)　感覺(N)　充其量(ADV)　四(DET)　星(N)　吧(T)　，(COMMACATEGORY)
+　根本(ADV)　達(Vt)　不(ADV)　到(Vt)　五(DET)　星(N)　。(PERIODCATEGORY)
+　尤其(ADV)　是(Vt)　二樓(N)　的(T)　西餐廳(N)　的(T)　飯菜(N)　實在(ADV)　做(Vt)　的(T)　不(ADV)　敢(Vt)　恭維(Vt)　，(COMMACATEGORY)
+　根本(ADV)　不(ADV)　像(Vt)　西餐(N)　，(COMMACATEGORY)
+　口味(N)　也(ADV)　有待(Vt)　提高(Vt)　，(COMMACATEGORY)
+　品種(N)　也(ADV)　少(Vi)　。(PERIODCATEGORY)
+　環境(N)　有點(ADV)　亂哄哄(Vi)　，(COMMACATEGORY)
+　唯一(A)　的(T)　優勢(N)　可能(ADV)　是(Vt)　便宜(Vi)　。(PERIODCATEGORY)

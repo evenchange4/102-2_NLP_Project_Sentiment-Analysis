@@ -1,0 +1,5 @@
+　裡面(N)　的(T)　裝修(Nv)　太(ADV)　舊(Vi)　了(T)　，(COMMACATEGORY)
+　洗手間(N)　和(C)　浴室(N)　覺得(Vt)　不(ADV)　太(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　我(N)　住(Vt)　的(T)　房間(N)　所有(DET)　的(T)　水龍頭(N)　都(ADV)　不(ADV)　太(ADV)　好(Vi)　使(Vt)　，(COMMACATEGORY)
+　晚上(N)　的(T)　電話(N)　多(Vi)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　比較(ADV)　一般(A)

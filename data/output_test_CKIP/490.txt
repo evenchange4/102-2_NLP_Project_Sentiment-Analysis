@@ -1,0 +1,8 @@
+　超級(A)　可怕(Vi)　的(T)　旅館(N)　,(COMMACATEGORY)
+　進(Vt)　門(N)　後(POST)　根本(ADV)　不(ADV)　是(Vt)　45(DET)　平方米(M)　的(T)　大(Vi)　房間(N)　,(COMMACATEGORY)
+　很(ADV)　小(Vi)　.(PERIODCATEGORY)　而且(C)　,(COMMACATEGORY)
+　很(ADV)　骯髒(Vi)　,(COMMACATEGORY)
+　真的(ADV)　很(ADV)　骯髒(Vi)　.(PERIODCATEGORY)　自己(N)　動手(Vi)　擦洗(Vt)　消毒(Vt)　了(ASP)　2(DET)　個(M)　小時(N)　.(PERIODCATEGORY)　剛(ADV)　洗完(Vt)　澡(N)　的(T)　時候(N)　,(COMMACATEGORY)
+　發現(Vt)　了(ASP)　很多(DET)　蟑螂(N)　,(COMMACATEGORY)
+　大小(N)　都(ADV)　有(Vt)　.(PERIODCATEGORY)　連(C)　梳頭(Vi)　的(T)　時候(N)　都(ADV)　從頭(ADV)　上梳出(Vt)　一(DET)　隻(M)　小(Vi)　蟑螂(N)　,(COMMACATEGORY)
+　太(ADV)　可怕(Vi)　了(T)　.(PERIODCATEGORY)　整(DET)　個(M)　晚上(N)　就(ADV)　在(P)　和(P)　蟑螂(N)　鬥爭(Nv)　.(PERIODCATEGORY)　早上(N)　連(C)　他們(N)　那(DET)　所謂(Vt)　的(T)　早餐(N)　也(ADV)　不(ADV)　想(Vt)　去(ADV)　吃(Vt)　了(ASP)　.(PERIODCATEGORY)　趕緊(ADV)　走人(Vi)　換到(Vt)　了(ASP)　陽光(N)　酒店(N)　.(PERIODCATEGORY)　還(ADV)　有(Vt)　剛(ADV)　開(Vt)　是(Vt)　服務員(N)　態度(N)　也(ADV)　很(ADV)　生硬(Vi)　.(PERIODCATEGORY)

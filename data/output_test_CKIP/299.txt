@@ -1,0 +1,6 @@
+　酒店(N)　位置(N)　稍(ADV)　偏(Vt)　,(COMMACATEGORY)
+　但(C)　不愧(ADV)　是(Vt)　從前(N)　的(T)　香格里拉(N)　,(COMMACATEGORY)
+　硬件(N)　和(C)　服務(Nv)　還(ADV)　是(Vt)　不錯(Vi)　的(T)　,(COMMACATEGORY)
+　提供(Vt)　的(T)　嬰兒(N)　床(N)　很(ADV)　棒(Vi)　,(COMMACATEGORY)
+　就是(C)　上網(Nv)　寬帶(N)　還(ADV)　要(ADV)　收費(Vt)　,(COMMACATEGORY)
+　不(ADV)　太(ADV)　符合(Vt)　國際(N)　潮流(N)

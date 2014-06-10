@@ -1,0 +1,5 @@
+　這(DET)　家(M)　酒店(N)　的(T)　網絡(N)　簡直(ADV)　太(ADV)　差(Vi)　了(T)　，(COMMACATEGORY)
+　耽誤(Vt)　了(ASP)　很多(DET)　工作(N)　，(COMMACATEGORY)
+　換(Vt)　了(ASP)　幾(DET)　個(M)　房間(N)　，(COMMACATEGORY)
+　永遠(ADV)　發不出(Vt)　郵件(N)　，(COMMACATEGORY)
+　打(Vt)　不(ADV)　開(Vt)　網頁(N)　。(PERIODCATEGORY)

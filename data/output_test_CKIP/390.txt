@@ -1,0 +1,3 @@
+　房間(N)　太(ADV)　陳舊(Vi)　,(COMMACATEGORY)
+　服務(Vt)　還可以(Vi)　,(COMMACATEGORY)
+　畢竟(ADV)　整(DET)　個(M)　長春(N)　的(T)　賓館業(N)　都(ADV)　不(ADV)　太(ADV)　先進(Vi)

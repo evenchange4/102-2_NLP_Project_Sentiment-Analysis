@@ -1,0 +1,7 @@
+　下(DET)　次(M)　絕(ADV)　對不住(Vt)　！(EXCLAMATIONCATEGORY)　設施(N)　簡陋(Vi)　，(COMMACATEGORY)
+　隔音(A)　差(Vi)　不(ADV)　說給(Vt)　了(ASP)　間(POST)　公共(A)　洗手間(N)　旁邊(N)　的(T)　房間(N)　，(COMMACATEGORY)
+　半夜(N)　飽受(Vt)　巨大(Vi)　的(T)　水管(N)　噪音(N)　折磨(Vt)　早上(N)　找(Vt)　他們(N)　干涉(Vt)　，(COMMACATEGORY)
+　個個(DET)　裝傻(Vi)　，(COMMACATEGORY)
+　推說(Vt)　值班(Vi)　經理(N)　不(ADV)　在(P)　，(COMMACATEGORY)
+　未果(Vi)　嚴重(Vi)　鄙視(Vt)　他們(N)　對(P)　客戶(N)　不(ADV)　負責任(Vi)　的(T)　行為(N)　！(EXCLAMATIONCATEGORY)　補充(Vt)　點評(N)　2008年(N)　1月(N)　2日(N)　：(COLONCATEGORY)　忘(Vt)　了(ASP)　說(Vt)　一下(N)　，(COMMACATEGORY)
+　住(Vt)　的(T)　是(Vt)　336(DET)　的(T)　酒店(N)　標準(N)　間(POST)

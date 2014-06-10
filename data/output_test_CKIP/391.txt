@@ -1,0 +1,2 @@
+　我(N)　是(Vt)　帶(Vt)　孩子(N)　去(T)　的(T)　.(PERIODCATEGORY)　電視(N)　畫面(N)　一(ADV)　打開(Vt)　就是(C)　不堪入目(Vi)　的(T)　鏡頭(N)　.(PERIODCATEGORY)　怕(Vt)　孩子(N)　亂摁(Vt)　,(COMMACATEGORY)
+　只(ADV)　有(Vt)　把(P)　遙控器(N)　藏(Vt)　起來(ASP)　.(PERIODCATEGORY)　作為(Vt)　五(DET)　星(N)　酒店(N)　怎麼(ADV)　可以(ADV)　像(P)　街頭(N)　旅館(N)　?(QUESTIONCATEGORY)　酒店(N)　應該(ADV)　反思(Vt)　一下(N)　.(PERIODCATEGORY)

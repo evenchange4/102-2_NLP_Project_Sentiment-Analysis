@@ -1,0 +1,5 @@
+　我(N)　住(Vt)　的(T)　是(Vt)　商務(N)　大(Vi)　床(N)　房(N)　,(COMMACATEGORY)
+　房間(N)　雖(C)　不(ADV)　是(Vt)　很(ADV)　大(Vi)　,(COMMACATEGORY)
+　但(C)　感覺(Vt)　蠻(ADV)　溫馨(Vi)　的(T)　,(COMMACATEGORY)
+　有(Vt)　免費(Vi)　上網(Vi)　的(T)　電腦(N)　.(PERIODCATEGORY)　就(ADV)　是(Vt)　中午(N)　退房(Vi)　時(POST)　總(A)　台(N)　只(ADV)　一(DET)　個(M)　服務員(N)　((PARENTHESISCATEGORY)　可能(ADV)　去(ADV)　吃飯(Vi)　了(ASP)　)(PARENTHESISCATEGORY)　,(COMMACATEGORY)
+　等(Vt)　了(ASP)　會(N)　時間(N)　.(PERIODCATEGORY)

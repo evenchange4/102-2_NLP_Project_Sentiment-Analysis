@@ -1,0 +1,6 @@
+　地理(N)　位置(N)　佳(Vi)　，(COMMACATEGORY)
+　在(P)　市中心(N)　。(PERIODCATEGORY)
+　酒店(N)　服務(Vt)　好(Vi)　、(PAUSECATEGORY)　早餐(N)　品種(N)　豐富(Vt)　。(PERIODCATEGORY)
+　我(N)　住(Vt)　的(T)　商務(N)　數碼房(N)　電腦(N)　寬帶(N)　速度(N)　滿意(Vt)　,(COMMACATEGORY)
+　房間(N)　還(ADV)　算(Vt)　乾淨(Vi)　，(COMMACATEGORY)
+　離(P)　湖南路(N)　小吃街(N)　近(Vi)　。(PERIODCATEGORY)

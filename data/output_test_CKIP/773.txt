@@ -1,0 +1,8 @@
+　服務(Nv)　態度(N)　很(ADV)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　除了(P)　免費(Vi)　的(T)　水(N)　，(COMMACATEGORY)
+　1(DET)　瓶(M)　衣雲收(N)　60(DET)　，(COMMACATEGORY)
+　太(ADV)　黑(Vi)　了(T)　，(COMMACATEGORY)
+　那(DET)　天(M)　去(ADV)　開(Vt)　什麼(DET)　外資(N)　企業(N)　洽談會(N)　，(COMMACATEGORY)
+　全(DET)　是(Vt)　些(M)　中國(N)　老表(N)　在(P)　哪裡(N)　混(Vt)　，(COMMACATEGORY)
+　有(Vt)　鬼(N)　的(T)　外資(N)　企業(N)　。(PERIODCATEGORY)
+　真(ADV)　煩(Vt)　！(EXCLAMATIONCATEGORY)

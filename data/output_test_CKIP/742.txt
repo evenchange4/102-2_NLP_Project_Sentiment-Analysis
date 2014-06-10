@@ -1,0 +1,3 @@
+　非常(ADV)　好(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　無論(C)　是(Vt)　服務(Nv)　、(PAUSECATEGORY)　設施(N)　還是(C)　交通(N)　、(PAUSECATEGORY)　位置(N)　等(POST)　都(ADV)　很(ADV)　方便(Vi)　，(COMMACATEGORY)
+　很多(DET)　客人(N)　都(ADV)　會(ADV)　指定(Vt)　來(ADV)　這(DET)　個(M)　酒店(N)

@@ -1,0 +1,5 @@
+　可以(ADV)　這樣(Vi)　評價(N)　是(Vt)　我們(N)　住(Vt)　過(ASP)　的(T)　最(ADV)　差(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　簡陋(Vi)　的(T)　大堂(N)　，(COMMACATEGORY)
+　骯髒(Vi)　的(T)　房間(N)　，(COMMACATEGORY)
+　可怕(Vi)　的(T)　衛生間(N)　，(COMMACATEGORY)
+　絕對(ADV)　是(Vt)　一(DET)　場(M)　惡夢(N)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)

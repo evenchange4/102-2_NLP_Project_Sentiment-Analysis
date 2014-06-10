@@ -1,0 +1,5 @@
+　在(P)　當地(N)　算是(Vt)　比較(ADV)　好(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　所以(C)　每(DET)　次(M)　去(Vt)　當地(N)　出差(Vi)　基本(N)　上(N)　都(ADV)　會(ADV)　住(Vt)　這(DET)　家(M)　酒店(N)　。(PERIODCATEGORY)
+　酒店(N)　服務(Nv)　一般(POST)　，(COMMACATEGORY)
+　設施(N)　不(ADV)　是(Vt)　很(ADV)　理想(Vi)　，(COMMACATEGORY)
+　如果(C)　能夠(ADV)　有(Vt)　針對性(N)　的(T)　進行(Nv)　改進(Nv)　會(ADV)　更(ADV)　好(Vi)　。(PERIODCATEGORY)

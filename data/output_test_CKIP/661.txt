@@ -1,0 +1,2 @@
+　各(DET)　方面(N)　都(ADV)　一般(Vi)　，(COMMACATEGORY)
+　只要(C)　期望值(N)　不(ADV)　太(ADV)　高就(Vi)　還(ADV)　可以(ADV)　。(PERIODCATEGORY)

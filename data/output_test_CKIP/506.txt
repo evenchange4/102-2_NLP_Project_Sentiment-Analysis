@@ -1,0 +1,5 @@
+　酒店(N)　住宿(Nv)　環境(N)　不錯(Vi)　，(COMMACATEGORY)
+　前台(N)　服務(Nv)　很(ADV)　熱情(Vi)　，(COMMACATEGORY)
+　房間(N)　可以(ADV)　看到(Vt)　長江(N)　和(C)　葛洲壩(N)　，(COMMACATEGORY)
+　就是(C)　衛生間(N)　的(T)　淋浴(Nv)　設施(N)　不(ADV)　太(ADV)　好用(Vi)　，(COMMACATEGORY)
+　總體(N)　而言(Vt)　還(ADV)　是(Vt)　不錯(Vi)　的(T)　地方(N)　！(EXCLAMATIONCATEGORY)

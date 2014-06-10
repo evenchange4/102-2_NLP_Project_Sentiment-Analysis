@@ -1,0 +1,5 @@
+　服務(Nv)　不(ADV)　則(ADV)　麼(T)　樣(POST)　，(COMMACATEGORY)
+　太(ADV)　舊(Vi)　，(COMMACATEGORY)
+　旋轉(Vt)　餐廳(N)　不(ADV)　轉(Vt)　的(T)　，(COMMACATEGORY)
+　早餐(N)　的(T)　服務員(N)　好像(ADV)　我(N)　欠(Vt)　了(ASP)　他們(N)　錢(N)　一樣(Vi)　，(COMMACATEGORY)
+　很(ADV)　差(Vi)

@@ -1,0 +1,8 @@
+　和(C)　山(N)　裡(N)　的(T)　農莊(N)　比(P)　算是(Vt)　好(Vi)　的(T)　了(T)　吧(T)　。(PERIODCATEGORY)
+　牆壁(N)　都(ADV)　開裂(Vi)　了(T)　，(COMMACATEGORY)
+　房間(N)　還(ADV)　算(Vt)　乾淨(Vi)　，(COMMACATEGORY)
+　離(P)　鎮(N)　上(N)　有(Vt)　1(DET)　公里(M)　吧(T)　，(COMMACATEGORY)
+　叫(Vt)　車(N)　只(ADV)　要(Vt)　2(DET)　元(M)　。(PERIODCATEGORY)
+　鎮(N)　上(N)　有(Vt)　上海(N)　華聯(N)　，(COMMACATEGORY)
+　還(ADV)　挺(ADV)　大(Vi)　的(T)　，(COMMACATEGORY)
+　買(Vt)　些(M)　吃(Vt)　的(T)　喝(Vt)　的(T)　用(Vt)　的(T)　都(ADV)　挺(ADV)　方便(Vi)　。(PERIODCATEGORY)

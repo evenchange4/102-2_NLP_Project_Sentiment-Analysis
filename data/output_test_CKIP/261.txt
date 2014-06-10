@@ -1,0 +1,6 @@
+　該(DET)　酒店(N)　很(ADV)　差(Vi)　,(COMMACATEGORY)
+　服務(Nv)　實在(ADV)　無法(ADV)　忍耐(Vt)　,(COMMACATEGORY)
+　屬於(Vt)　老土級(N)　酒店(N)　,(COMMACATEGORY)
+　四星級(N)　價格(N)　,(COMMACATEGORY)
+　比(P)　附近(N)　的(T)　安陽(N)　賓館(N)　和(C)　中原(N)　賓館(N)　差遠(N)　了(T)　.(PERIODCATEGORY)　價格(N)　還(ADV)　貴(Vi)　,(COMMACATEGORY)
+　下(DET)　次(M)　不會(ADV)　住(Vt)　.(PERIODCATEGORY)

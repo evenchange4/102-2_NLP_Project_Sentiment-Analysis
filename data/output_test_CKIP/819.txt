@@ -1,0 +1,7 @@
+　這(DET)　個(M)　酒店(N)　可(ADV)　真是(ADV)　太(ADV)　差(Vi)　了(T)　~(FW)　我(N)　住(Vt)　的(T)　還是(C)　行政(N)　房(N)　呢(T)　，(COMMACATEGORY)
+　空調(N)　漏水(Vi)　，(COMMACATEGORY)
+　聲音(N)　非常(ADV)　大(Vi)　，(COMMACATEGORY)
+　地毯(N)　很(ADV)　髒(Vi)　，(COMMACATEGORY)
+　傢俱(N)　很(ADV)　舊(Vi)　然後(ADV)　有(Vt)　蚊子(N)　，(COMMACATEGORY)
+　管(Vt)　客房部(N)　要(Vt)　蚊香(N)　，(COMMACATEGORY)
+　告知(Vt)　沒有(Vt)　~(FW)

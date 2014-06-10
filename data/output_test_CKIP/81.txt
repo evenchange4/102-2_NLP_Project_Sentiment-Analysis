@@ -1,0 +1,8 @@
+　上(DET)　週二(N)　又(ADV)　來(ADV)　住(Vt)　了(ASP)　。(PERIODCATEGORY)
+　這(DET)　次(M)　住(Vt)　的(T)　是(Vt)　大(Vi)　床(N)　房(N)　。(PERIODCATEGORY)
+　有(Vt)　個(M)　最(ADV)　大(Vi)　的(T)　問題(N)　，(COMMACATEGORY)
+　給(Vt)　了(ASP)　我(N)　一(DET)　間(M)　裝修(Nv)　味道(N)　很(ADV)　濃(Vi)　的(T)　房間(N)　，(COMMACATEGORY)
+　進去(Vi)　以後(N)　一下子(N)　鼻子(N)　很(ADV)　不(ADV)　舒服(Vi)　，(COMMACATEGORY)
+　開(Vt)　窗(N)　開(Vt)　了(ASP)　大概(ADV)　半(DET)　個(M)　多(POST)　小時(N)　後(POST)　才(ADV)　稍微(ADV)　好些(DET)　。(PERIODCATEGORY)
+　也(ADV)　沒(ADV)　和(P)　顧客(N)　說(Vt)　最近(N)　裝修(Vt)　啊(T)　，(COMMACATEGORY)
+　以後(N)　能不能(ADV)　不要(ADV)　給(Vt)　有(Vt)　裝修(Nv)　味道(N)　的(T)　房間(N)　？(QUESTIONCATEGORY)

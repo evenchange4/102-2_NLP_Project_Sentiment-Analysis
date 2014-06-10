@@ -1,0 +1,4 @@
+　環境(N)　不錯(Vi)　。(PERIODCATEGORY)
+　交通(N)　也(ADV)　便利(Vt)　。(PERIODCATEGORY)
+　服務(Vt)　不錯(Vi)　。(PERIODCATEGORY)
+　下(DET)　次(M)　還(ADV)　會(ADV)　考慮(Vt)　的(T)

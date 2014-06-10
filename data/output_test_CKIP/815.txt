@@ -1,0 +1,4 @@
+　門面(N)　太(ADV)　小(Vi)　,(COMMACATEGORY)
+　房間(N)　也(ADV)　小(Vi)　,(COMMACATEGORY)
+　連(C)　出租車(N)　司機(N)　都(ADV)　不(ADV)　熟悉(Vt)　,(COMMACATEGORY)
+　有待(Vt)　改進(Vt)　哦(T)

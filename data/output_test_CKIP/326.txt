@@ -1,0 +1,5 @@
+　房間(N)　很(ADV)　舊(Vi)　，(COMMACATEGORY)
+　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　後來(N)　我(N)　就(ADV)　換(Vt)　酒店(N)　了(T)　，(COMMACATEGORY)
+　不(ADV)　到(Vt)　3(DET)　星(N)　標準(N)　。(PERIODCATEGORY)
+　賓館(N)　反饋(Vt)　2008年(N)　7月(N)　22日(N)　：(COLONCATEGORY)　請(Vt)　您(N)　提出(Vt)　具體(Vi)　的(T)　方面(N)　！(EXCLAMATIONCATEGORY)　我們(N)　將(ADV)　盡力(Vi)　完善(Vi)　改正(Vt)　！(EXCLAMATIONCATEGORY)　謝謝(Vt)　！(EXCLAMATIONCATEGORY)

@@ -1,0 +1,2 @@
+　房間(N)　很(ADV)　小(Vi)　，(COMMACATEGORY)
+　有點(ADV)　像(Vt)　招待所(N)　......(ETCCATEGORY)　.......(ETCCATEGORY)　四星(N)　.(PERIODCATEGORY)　.......(ETCCATEGORY)　.......(ETCCATEGORY)

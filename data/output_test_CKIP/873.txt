@@ -1,0 +1,5 @@
+　房間(N)　狀況(N)　相當(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　和(P)　我(N)　在(P)　南京(N)　入住(Vt)　的(T)　5星(N)　酒店(N)　基本(A)　一致(Vi)　，(COMMACATEGORY)
+　服務(Nv)　態度(N)　和(C)　酒店(N)　環境(N)　都(ADV)　比較(ADV)　令(Vt)　人(N)　滿意(Vt)　，(COMMACATEGORY)
+　唯一(A)　的(T)　問題(N)　就(ADV)　是(Vt)　退房(Vi)　時(POST)　檢查(Vt)　房間(N)　用(Vt)　了(ASP)　近(DET)　40(DET)　分鐘(M)　，(COMMACATEGORY)
+　不(ADV)　知道(Vt)　他們(N)　查(Vt)　些(ADV)　什麼(DET)　花(Vt)　了(ASP)　那麼(ADV)　久(Vi)

@@ -1,0 +1,6 @@
+　所謂(Vt)　的(T)　攜程(N)　四星(N)　，(COMMACATEGORY)
+　電梯(N)　又(ADV)　小(Vi)　又(ADV)　髒(Vi)　，(COMMACATEGORY)
+　從(P)　電梯(N)　到(P)　樓道(N)　到(Vt)　房間(N)　充滿(Vt)　低檔(N)　招待所(N)　的(T)　味道(N)　，(COMMACATEGORY)
+　半夜(N)　2(DET)　點(M)　居然(ADV)　有(Vt)　自稱(Vt)　服務員(N)　（(PARENTHESISCATEGORY)　女(N)　）(PARENTHESISCATEGORY)　的(T)　人(N)　敲門(Vi)　，(COMMACATEGORY)
+　不會(ADV)　再(ADV)　住(Vt)　這(DET)　家(M)　酒店(N)　了(T)　，(COMMACATEGORY)
+　對(P)　攜程(N)　的(T)　推薦(Nv)　也(ADV)　表示(Vt)　懷疑(Vt)　！(EXCLAMATIONCATEGORY)

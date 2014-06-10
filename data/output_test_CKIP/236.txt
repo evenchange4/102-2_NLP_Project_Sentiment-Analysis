@@ -1,0 +1,6 @@
+　這(DET)　個(M)　價格(N)　來(ADV)　說(Vt)　酒店(N)　糟透了(Vi)　.(PERIODCATEGORY)　大堂(N)　很(ADV)　差(Vi)　很(ADV)　髒(Vi)　,(COMMACATEGORY)
+　我(N)　訂(Vt)　的(T)　是(Vt)　商務(N)　套房(N)　,(COMMACATEGORY)
+　客廳(N)　裡(N)　居然(ADV)　窗戶(N)　都(ADV)　沒有(Vt)　,(COMMACATEGORY)
+　燈光(N)　昏暗(Vi)　.(PERIODCATEGORY)　所有(DET)　的(T)　洗淑(N)　用品(N)　包括(Vt)　毛巾(N)　質量(N)　都(ADV)　很(ADV)　差(Vi)　.(PERIODCATEGORY)　房間(N)　有(Vt)　一(DET)　股(M)　味道(N)　.(PERIODCATEGORY)　用(P)　我(N)　的(T)　筆記本(N)　上網(Vi)　時好時壞(Vi)　,(COMMACATEGORY)
+　到(P)　後來(N)　索性(ADV)　就(ADV)　連(ADV)　不(ADV)　上(Vt)　了(ASP)　,(COMMACATEGORY)
+　我(N)　只好(ADV)　用(P)　自己(N)　的(T)　無線(A)　都(ADV)　比(P)　它(N)　的(T)　強(Vi)　.(PERIODCATEGORY)　反正(ADV)　以後(N)　不會(ADV)　再(ADV)　考慮(Vt)　這(DET)　家(M)　了(T)

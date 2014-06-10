@@ -1,0 +1,4 @@
+　從(P)　市內(N)　打車(N)　要(ADV)　15(DET)　元(M)　，(COMMACATEGORY)
+　偏遠(Vi)　了(ASP)　一點(ADV)　，(COMMACATEGORY)
+　不過(C)　到(Vt)　了(ASP)　以後(N)　才(ADV)　發現(Vt)　環境(N)　不錯(Vi)　，(COMMACATEGORY)
+　比較(ADV)　滿意(Vt)

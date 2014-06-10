@@ -1,0 +1,6 @@
+　差差(Vi)　差(Vi)　，(COMMACATEGORY)
+　房間(N)　大(Vi)　而(C)　傢俱(N)　太(ADV)　差(Vi)　，(COMMACATEGORY)
+　有(Vt)　早餐(N)　而(C)　早餐(N)　質量(N)　太(ADV)　差(Vi)　，(COMMACATEGORY)
+　有(Vt)　寬帶(N)　而(C)　網速(N)　極(ADV)　差(Vi)　，(COMMACATEGORY)
+　幾乎(ADV)　等於(Vt)　零(DET)　。(PERIODCATEGORY)
+　環境(N)　好(Vi)　而(C)　交通(N)　太(ADV)　差(Vi)　。(PERIODCATEGORY)

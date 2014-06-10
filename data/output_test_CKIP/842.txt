@@ -1,0 +1,2 @@
+　每(DET)　次(M)　都(ADV)　住(Vt)　這裡(N)　！(EXCLAMATIONCATEGORY)　尤其(ADV)　是(Vt)　餐廳(N)　，(COMMACATEGORY)
+　讓(Vt)　人(N)　流連忘返(Vi)　：(COLONCATEGORY)　）(PARENTHESISCATEGORY)

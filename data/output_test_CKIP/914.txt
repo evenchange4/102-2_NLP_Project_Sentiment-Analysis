@@ -1,0 +1,5 @@
+　服務(Vt)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　環境(N)　也(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　很(ADV)　舒服(Vi)　，(COMMACATEGORY)
+　餐廳(N)　也(ADV)　很(ADV)　舒服(Vi)　，(COMMACATEGORY)
+　很(ADV)　溫馨(Vi)　。(PERIODCATEGORY)

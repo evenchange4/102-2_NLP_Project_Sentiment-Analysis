@@ -1,0 +1,3 @@
+　在(P)　保定(N)　,(COMMACATEGORY)
+　應該(ADV)　說(Vt)　是(Vt)　最好(Vi)　的(T)　酒店(N)　了(T)　,(COMMACATEGORY)
+　那裡(N)　的(T)　餐廳(N)　給(Vt)　酒店(N)　加分(Vi)　不少(Vi)　.(PERIODCATEGORY)

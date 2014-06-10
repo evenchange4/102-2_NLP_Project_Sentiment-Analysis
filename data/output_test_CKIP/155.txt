@@ -1,0 +1,6 @@
+　酒店(N)　很(ADV)　舊(Vi)　，(COMMACATEGORY)
+　很(ADV)　小(Vi)　，(COMMACATEGORY)
+　樓道(N)　裡(N)　黑暗(Vi)　，(COMMACATEGORY)
+　其實(ADV)　就(ADV)　是(Vt)　個(M)　小(Vi)　旅館(N)　的(T)　設施(N)　。(PERIODCATEGORY)
+　建議(Vt)　不要(ADV)　去(Vt)　，(COMMACATEGORY)
+　吉林省(N)　賓館(N)　還(ADV)　不錯(Vi)　。(PERIODCATEGORY)

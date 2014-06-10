@@ -1,0 +1,3 @@
+　早餐(N)　不錯(Vi)　，(COMMACATEGORY)
+　房間(N)　太(ADV)　小(Vi)　，(COMMACATEGORY)
+　網(N)　上(N)　的(T)　地圖(N)　不(ADV)　清楚(Vi)　、(PAUSECATEGORY)　不(ADV)　仔細(Vi)　！(EXCLAMATIONCATEGORY)

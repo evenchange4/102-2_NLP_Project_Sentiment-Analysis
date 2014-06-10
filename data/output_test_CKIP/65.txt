@@ -1,0 +1,6 @@
+　該(DET)　酒店(N)　太(ADV)　差(Vi)　，(COMMACATEGORY)
+　衛生(N)　條件(N)　，(COMMACATEGORY)
+　服務(Nv)　均(ADV)　差(Vi)　。(PERIODCATEGORY)
+　我(N)　入住(Vt)　時(POST)　大堂(N)　內(N)　竟然(ADV)　散放(Vt)　著(ASP)　待(P)　洗(Vt)　的(T)　床單(N)　毛巾(N)　，(COMMACATEGORY)
+　亂七八糟(Vi)　，(COMMACATEGORY)
+　建議(Vt)　協程網(N)　取消(Vt)　其(DET)　加盟(Nv)　資格(N)

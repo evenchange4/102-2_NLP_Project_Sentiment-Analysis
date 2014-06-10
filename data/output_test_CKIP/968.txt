@@ -1,0 +1,4 @@
+　前台(N)　包括(Vt)　服務(Vt)　餐廳(N)　的(T)　前台(N)　都(ADV)　很(ADV)　不(ADV)　客氣(Vi)　，(COMMACATEGORY)
+　好像(ADV)　我們(N)　欠(Vt)　他們(N)　錢(N)　一樣(Vi)　，(COMMACATEGORY)
+　愛(Vt)　住(Vt)　不(ADV)　住(Vt)　的(T)　意思(N)　，(COMMACATEGORY)
+　沒有(Vt)　一點(DET)　受到(Vt)　尊敬(Vt)　的(T)　感覺(N)

@@ -1,0 +1,8 @@
+　目前(N)　是(Vt)　新昌(N)　最好(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　環境(N)　和(C)　服務(Nv)　質量(N)　都(ADV)　非常(ADV)　好(Vi)　，(COMMACATEGORY)
+　國內(N)　長度(N)　免費(Vi)　和(C)　免費(Vi)　寬帶(N)　還是(ADV)　蠻(ADV)　有(Vt)　吸引力(N)　的(T)　，(COMMACATEGORY)
+　離(P)　大(Vi)　佛寺(N)　僅(ADV)　咫尺(N)　之(T)　遙(Nv)　，(COMMACATEGORY)
+　太(ADV)　方便(Vi)　了(ASP)　補充(Vt)　點評(N)　2008年(N)　5月(N)　4日(N)　：(COLONCATEGORY)　酒店(N)　一樓(N)　中(N)　餐廳(N)　內(N)　的(T)　白斬雞(N)　和(C)　水庫(N)　剁(Vt)　椒魚(N)　頭(N)　是(Vt)　不能不(ADV)　嘗(Vt)　的(T)　？(QUESTIONCATEGORY)
+　住(Vt)　了(ASP)　兩(DET)　晚(M)　，(COMMACATEGORY)
+　吃(Vt)　了(ASP)　兩(DET)　餐(M)　。(PERIODCATEGORY)
+　特色(N)　的(T)　芋餃(N)　和(C)　面(N)　我(N)　看(Vt)　並(ADV)　不一定(ADV)　適合(Vi)　上海人(N)　的(T)　口味(N)　。(PERIODCATEGORY)

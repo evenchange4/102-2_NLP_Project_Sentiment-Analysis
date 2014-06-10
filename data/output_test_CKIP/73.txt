@@ -1,0 +1,6 @@
+　我(N)　在(P)　網(N)　站上(Vt)　預定(Vt)　的(T)　是(Vt)　一(DET)　間(M)　大(Vi)　床(N)　房(N)　,(COMMACATEGORY)
+　到(P)　CHECK(FW)　IN(FW)　的(T)　時候(N)　變成(Vt)　了(ASP)　雙人房(N)　,(COMMACATEGORY)
+　雖然(C)　後來(N)　給(Vt)　我(N)　調換(Vt)　了(ASP)　.(PERIODCATEGORY)　酒店(N)　地理(N)　位置(N)　不錯(Vi)　,(COMMACATEGORY)
+　門口(N)　時(POST)　高速(Vi)　和(C)　輕(Vi)　軌(N)　.(PERIODCATEGORY)　但(C)　酒店(N)　的(T)　房間(N)　整理(Vt)　裝修(Nv)　時(POST)　非常(ADV)　的(T)　差(Vi)　,(COMMACATEGORY)
+　非常(ADV)　的(T)　陳舊(Vi)　,(COMMACATEGORY)
+　完全(ADV)　對不住(Vt)　這(DET)　個(M)　房價(N)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　以後(POST)　也(ADV)　不會(ADV)　住(Vt)　這(DET)　個(M)　酒店(N)　了(T)　!(EXCLAMATIONCATEGORY)

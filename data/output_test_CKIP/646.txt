@@ -1,0 +1,1 @@
+　特價(N)　房間(N)　沒有(ADV)　對(P)　外(N)　的(T)　窗戶(N)　；(SEMICOLONCATEGORY)　房間(N)　與(C)　房間(N)　隔音(A)　效果(N)　太(ADV)　差(Vi)

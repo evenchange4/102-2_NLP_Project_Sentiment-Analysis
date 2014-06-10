@@ -1,0 +1,3 @@
+　價格(N)　太(ADV)　高(Vi)　，(COMMACATEGORY)
+　性價(N)　比(P)　不(ADV)　夠(ADV)　好(Vi)　。(PERIODCATEGORY)
+　我(N)　覺得(Vt)　今後(N)　還是(ADV)　去(Vt)　其他(DET)　酒店(N)　比較(ADV)　好(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,5 @@
+　標準(N)　間(POST)　的(T)　衛生間(N)　居然(ADV)　熱水(N)　都(ADV)　上(N)　不(ADV)　來(Vi)　，(COMMACATEGORY)
+　後來(N)　叫來(Vt)　了(ASP)　服務生(N)　和(C)　經理(N)　折騰(Vt)　了(ASP)　半(DET)　個(M)　小時(N)　才(ADV)　弄好(Vt)　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　第一(DET)　次(M)　住(Vt)　這麼(ADV)　差(Vi)　的(T)　房間(N)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)

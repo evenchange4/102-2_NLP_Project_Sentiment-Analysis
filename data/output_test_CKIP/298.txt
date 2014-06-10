@@ -1,0 +1,5 @@
+　入住(Vt)　的(T)　經濟(N)　客房(N)　,(COMMACATEGORY)
+　一(ADV)　開門(Vi)　進去(Vi)　濃厚(Vi)　的(T)　霉味(N)　,(COMMACATEGORY)
+　且(C)　無(Vt)　窗戶(N)　255(DET)　的(T)　房價(N)　是(Vt)　不值(Vi)　的(T)　,(COMMACATEGORY)
+　如果(C)　住(Vt)　別的(DET)　酒店(N)　的(T)　話(N)　,(COMMACATEGORY)
+　可能(ADV)　會(ADV)　更(ADV)　好(Vi)

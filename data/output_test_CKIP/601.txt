@@ -1,0 +1,8 @@
+　酒店(N)　員工(N)　態度(N)　超級(A)　惡劣(Vi)　。(PERIODCATEGORY)
+　特別(Vi)　是(Vt)　前台(N)　。(PERIODCATEGORY)
+　餐廳(N)　沒有(ADV)　接待(Vt)　客人(N)　就(ADV)　坐(Vi)　。(PERIODCATEGORY)
+　最(ADV)　氣憤(Vi)　的(T)　是(Vt)　話(N)　還(ADV)　沒(ADV)　說完(Vt)　就(ADV)　把(P)　電話(N)　掛(Vt)　了(ASP)　。(PERIODCATEGORY)
+　勸(Vt)　大家(N)　最好(ADV)　是(Vt)　不要(ADV)　去(Vt)　，(COMMACATEGORY)
+　不然(C)　會(ADV)　被(P)　氣死(Vt)　，(COMMACATEGORY)
+　交通(N)　又(ADV)　不(ADV)　方便(Vi)　，(COMMACATEGORY)
+　周圍(N)　環境(N)　複雜(Vi)　。(PERIODCATEGORY)

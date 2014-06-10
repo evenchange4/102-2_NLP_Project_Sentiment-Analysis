@@ -1,0 +1,6 @@
+　酒店(N)　前台(N)　服務(Vt)　差(Vi)　，(COMMACATEGORY)
+　對待(Vt)　客人(N)　不(ADV)　熱情(Vi)　。(PERIODCATEGORY)
+　號稱(Vt)　攜程(N)　沒有(ADV)　預定(Vt)　。(PERIODCATEGORY)
+　感覺(N)　是(Vt)　客人(N)　在(P)　求(Vt)　他們(N)　，(COMMACATEGORY)
+　我們(N)　一定(ADV)　得(ADV)　住(Vt)　。(PERIODCATEGORY)
+　這樣(Vi)　的(T)　賓館(N)　下(DET)　次(M)　不會(ADV)　入住(Vt)　！(EXCLAMATIONCATEGORY)

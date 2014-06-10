@@ -1,0 +1,4 @@
+　我(N)　再次(ADV)　重申(Vt)　:(COLONCATEGORY)　不能(ADV)　相信(Vt)　攜程(N)　接線員(N)　的(T)　推介(Nv)　,(COMMACATEGORY)
+　要(ADV)　大家(N)　看(Vt)　點評(N)　!(EXCLAMATIONCATEGORY)　接線員(N)　說(Vt)　這(DET)　是(Vt)　准(Vt)　四星(N)　,(COMMACATEGORY)
+　但(C)　只是(ADV)　准(Vt)　三星(N)　而已(T)　.(PERIODCATEGORY)　在(P)　張家界(N)　這(DET)　個(M)　旅遊(Nv)　熱點(N)　城市(N)　但(C)　管理(Vt)　橫亂(Vi)　的(T)　地方(N)　,(COMMACATEGORY)
+　湊合(Vt)　住(Vt)　了(ASP)　一(DET)　夜(N)　---(DASHCATEGORY)　因為(C)　咱(N)　隊(N)　其他(DET)　地方(N)　也(ADV)　是(Vt)　不(ADV)　熟(Vi)　.(PERIODCATEGORY)

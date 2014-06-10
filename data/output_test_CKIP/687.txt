@@ -1,0 +1,4 @@
+　單(A)　人間(N)　的(T)　價格(N)　物超所值(Vi)　.(PERIODCATEGORY)　早餐(N)　不錯(Vi)　.(PERIODCATEGORY)　服務(Vt)　也好(T)　,(COMMACATEGORY)
+　很(ADV)　人性化(Vt)　.(PERIODCATEGORY)　呵呵(ADV)　,(COMMACATEGORY)
+　第一(DET)　次(M)　碰到(Vt)　衛生間(N)　馬桶(N)　裡(N)　撒(Vt)　花瓣(N)　的(T)　賓館(N)　.(PERIODCATEGORY)　不過(C)　酒店(N)　的(T)　洗浴(Nv)　中心(N)　,(COMMACATEGORY)
+　美容(Vi)　美發(Vi)　都(ADV)　在(P)　裝修(Nv)　中(POST)　不能(ADV)　使用(Vt)　.(PERIODCATEGORY)　預定(Vt)　時(POST)　沒有(ADV)　提到(Vt)　.(PERIODCATEGORY)

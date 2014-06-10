@@ -1,0 +1,5 @@
+　非常(ADV)　差(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　還不如(C)　連鎖(A)　經濟(N)　酒店(N)　，(COMMACATEGORY)
+　要不是(C)　襄樊(N)　沒有(Vt)　其他(DET)　酒店(N)　靠近(Vt)　東風(N)　，(COMMACATEGORY)
+　肯定(Vt)　不會(ADV)　再(ADV)　選(Vt)　它(N)　。(PERIODCATEGORY)
+　差勁(Vi)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)

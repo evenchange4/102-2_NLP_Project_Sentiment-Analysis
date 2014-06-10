@@ -1,0 +1,8 @@
+　1(DET)　、(PAUSECATEGORY)　該(DET)　酒店(N)　房間(N)　小(Vi)　,(COMMACATEGORY)
+　我(N)　住(Vt)　的(T)　標準(N)　間(POST)　很(ADV)　小(Vi)　,(COMMACATEGORY)
+　很(ADV)　舒服(Vi)　;(SEMICOLONCATEGORY)　2(DET)　、(PAUSECATEGORY)　這(DET)　個(M)　酒店(N)　是(Vt)　三星級(N)　，(COMMACATEGORY)
+　我(N)　認為(Vt)　最多(ADV)　能夠(ADV)　上(Vt)　兩(DET)　顆(M)　星(N)　，(COMMACATEGORY)
+　屬於(Vt)　好(Vi)　一點(ADV)　的(T)　招待所(N)　；(SEMICOLONCATEGORY)　3(DET)　、(PAUSECATEGORY)　價錢(N)　貴(Vi)　，(COMMACATEGORY)
+　周遍(Vi)　環境(N)　不(ADV)　好(Vi)　；(SEMICOLONCATEGORY)　4(DET)　、(PAUSECATEGORY)　服務員(N)　服務(Nv)　質量(N)　極(ADV)　次(Vt)　，(COMMACATEGORY)
+　建議(Vt)　協程(N)　取締(Vt)　該(DET)　酒店(N)　的(T)　會員(N)　資格(N)　，(COMMACATEGORY)
+　我(N)　去(ADV)　有(Vt)　上當(Vi)　的(T)　感覺(N)　。(PERIODCATEGORY)

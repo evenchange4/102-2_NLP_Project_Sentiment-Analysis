@@ -1,0 +1,6 @@
+　鬧中取靜(Vi)　，(COMMACATEGORY)
+　交通(N)　方便(Vi)　，(COMMACATEGORY)
+　價格(N)　實惠(Vi)　，(COMMACATEGORY)
+　服務(Vt)　基本(A)　到位(Vi)　，(COMMACATEGORY)
+　房間(N)　設施(N)　雖(C)　稍(ADV)　顯(Vt)　簡陋(Vi)　，(COMMACATEGORY)
+　但(C)　值得(Vi)　推薦(Vt)　。(PERIODCATEGORY)

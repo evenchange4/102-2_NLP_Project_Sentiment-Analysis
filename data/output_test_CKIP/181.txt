@@ -1,0 +1,8 @@
+　2006年(N)　6月(N)　2日(N)　時(POST)　曾(ADV)　住(Vt)　過(ASP)　這(DET)　家(M)　酒店(N)　，(COMMACATEGORY)
+　晶(N)　麗(Vi)　的(T)　服務(Nv)　仍然(ADV)　很(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　結帳(Vi)　時(POST)　給(Vt)　客人(N)　的(T)　信任(Nv)　非常(ADV)　難得(Vi)　，(COMMACATEGORY)
+　不(ADV)　像(Vt)　絕大(A)　多數(DET)　酒店(N)　那樣(Vi)　問(Vt)　了(ASP)　是否(ADV)　使用(Vt)　過(ASP)　收費(Nv)　物品(N)　後(POST)　仍(ADV)　要(ADV)　派(Vt)　人(N)　檢查(Nv)　。(PERIODCATEGORY)
+　我(N)　看(Vt)　了(ASP)　之前(POST)　的(T)　點評(N)　中(N)　對門(N)　童(N)　大叔(N)　的(T)　描述(N)　，(COMMACATEGORY)
+　特例(N)　留意(Vt)　了(ASP)　一下(N)　，(COMMACATEGORY)
+　果然(ADV)　名不虛傳(Vi)　。(PERIODCATEGORY)
+　晶(N)　麗(Vi)　值得(Vi)　一(ADV)　住(Vt)　。(PERIODCATEGORY)

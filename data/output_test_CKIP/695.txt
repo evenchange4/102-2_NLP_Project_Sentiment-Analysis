@@ -1,0 +1,5 @@
+　沒有(ADV)　想像(Vt)　的(T)　離(P)　西湖(N)　近(Vi)　,(COMMACATEGORY)
+　年輕人(N)　走走(Vi)　也(ADV)　得(Vt)　10(DET)　-(DASHCATEGORY)　15(DET)　分鐘(M)　.(PERIODCATEGORY)　因為(C)　窗(N)　不(ADV)　是(Vt)　面對(Vt)　西湖(N)　的(T)　,(COMMACATEGORY)
+　所以(C)　景(N)　基本(N)　看(Vt)　不(ADV)　到(Vt)　西湖(N)　,(COMMACATEGORY)
+　要(ADV)　把(P)　頭(N)　探出去(Vt)　,(COMMACATEGORY)
+　勉強(Vi)　看到(Vt)　商業街(N)　遠處(N)　的(T)　盡頭(N)　是(Vt)　湖面(N)

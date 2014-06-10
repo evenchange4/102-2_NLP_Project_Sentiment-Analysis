@@ -1,0 +1,5 @@
+　第一(DET)　感覺(N)　就(ADV)　是(Vt)　門(N)　童(N)　服務(Vt)　很(ADV)　到位(Vi)　，(COMMACATEGORY)
+　前台(N)　服務(Nv)　也(ADV)　面帶微笑(Vi)　。(PERIODCATEGORY)
+　房間(N)　比較(ADV)　寬敞(Vi)　明亮(Vi)　，(COMMACATEGORY)
+　上網(Nv)　速度(N)　也(ADV)　很(ADV)　快(Vi)　。(PERIODCATEGORY)
+　很(ADV)　滿意(Vt)　的(T)　一(DET)　家(M)　酒店(N)　！(EXCLAMATIONCATEGORY)

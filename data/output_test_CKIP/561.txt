@@ -1,0 +1,3 @@
+　由於(C)　位置(N)　關係(N)　，(COMMACATEGORY)
+　一些(DET)　時間(N)　不(ADV)　太(ADV)　好(Vi)　打到(Vt)　車(N)　，(COMMACATEGORY)
+　當然(ADV)　這(DET)　不(ADV)　是(Vt)　酒店(N)　的(T)　錯(Vi)　。(PERIODCATEGORY)

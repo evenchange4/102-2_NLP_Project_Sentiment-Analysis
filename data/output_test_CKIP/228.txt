@@ -1,0 +1,3 @@
+　在(P)　洛陽(N)　的(T)　酒店(N)　中(N)　還是(ADV)　不錯(Vi)　的(T)　,(COMMACATEGORY)
+　餐廳(N)　也(ADV)　可以(ADV)　,(COMMACATEGORY)
+　服務(Nv)　也(ADV)　不錯(Vi)　.(PERIODCATEGORY)

@@ -1,0 +1,8 @@
+　酒店(N)　設施(N)　確實(ADV)　舊(Vi)　了(T)　，(COMMACATEGORY)
+　但(C)　地毯(N)　可以(ADV)　換(Vt)　啊(T)　，(COMMACATEGORY)
+　好(ADV)　破(Vt)　還好(Vi)　髒(Vi)　，(COMMACATEGORY)
+　服務(Nv)　態度(N)　不錯(Vi)　，(COMMACATEGORY)
+　每(DET)　到(P)　一(DET)　個(M)　客戶(N)　，(COMMACATEGORY)
+　都(ADV)　有(Vt)　服務生(N)　送(Vt)　你(N)　進(Vt)　客房(N)　，(COMMACATEGORY)
+　還(ADV)　有(Vt)　一(DET)　壺(M)　帶(Vt)　保溫(Vi)　設置(Vt)　的(T)　茶附(N)　送進(Vt)　房(N)　，(COMMACATEGORY)
+　很(ADV)　溫馨(Vi)　。(PERIODCATEGORY)

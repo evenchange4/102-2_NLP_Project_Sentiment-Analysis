@@ -1,0 +1,3 @@
+　早點(ADV)　還可以(Vi)　，(COMMACATEGORY)
+　酒店(N)　環境(N)　很(ADV)　好(Vi)　。(PERIODCATEGORY)
+　不過(C)　丁山樓(N)　還是(ADV)　和(P)　主樓(N)　有(Vt)　很(ADV)　大(Vi)　的(T)　差距(N)

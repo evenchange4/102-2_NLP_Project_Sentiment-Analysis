@@ -1,0 +1,8 @@
+　1(DET)　。(PERIODCATEGORY)
+　環境(N)　不錯(Vi)　，(COMMACATEGORY)
+　不(ADV)　遠(Vi)　就(ADV)　是(Vt)　三峽(N)　廣場(N)　，(COMMACATEGORY)
+　無聊(Vi)　可以(ADV)　去(ADV)　看看(Vt)　美女(N)　2(DET)　。(PERIODCATEGORY)
+　早餐(N)　，(COMMACATEGORY)
+　贊(Vt)　！(EXCLAMATIONCATEGORY)　3(DET)　。(PERIODCATEGORY)
+　結帳(Vi)　速度(N)　較(ADV)　慢(Vi)　總的來說(ADV)　，(COMMACATEGORY)
+　還是(ADV)　不錯(Vi)　的(T)

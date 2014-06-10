@@ -1,0 +1,7 @@
+　目前(N)　為止(POST)　，(COMMACATEGORY)
+　是(Vt)　我(N)　第一(DET)　家(M)　還(ADV)　想(Vt)　下(DET)　次(M)　去(Vt)　的(T)　酒店(N)　。(PERIODCATEGORY)
+　無論(C)　是(Vt)　環境(N)　還是(C)　服務(Nv)　，(COMMACATEGORY)
+　都(ADV)　能(ADV)　讓(Vt)　我(N)　感受到(Vt)　5星級(N)　的(T)　服務(Nv)　，(COMMACATEGORY)
+　儘管(C)　我(N)　去(Vt)　的(T)　時候(N)　是(Vt)　春節(N)　，(COMMACATEGORY)
+　一(DET)　部分(DET)　餐飲(N)　關閉(Vt)　，(COMMACATEGORY)
+　但是(C)　服務生(N)　快速(Vi)　的(T)　應答(Vi)　到位(Vi)　的(T)　服務(Nv)　還是(ADV)　讓(Vt)　人(N)　感到(Vt)　貼心(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,3 @@
+　房間(N)　還是(ADV)　比較(ADV)　舒適(Vi)　的(T)　,(COMMACATEGORY)
+　酒店(N)　服務(Vt)　良好(Vi)　,(COMMACATEGORY)
+　大廳(N)　明亮(Vi)　整潔(Vi)

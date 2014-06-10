@@ -1,0 +1,7 @@
+　我(N)　覺得(Vt)　酒店(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　而且(C)　包括(Vt)　一些(DET)　衛浴(N)　設施(N)　也(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　想(Vt)　的(T)　很(ADV)　周到(Vi)　。(PERIODCATEGORY)
+　是(Vt)　個(M)　不錯(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　價錢(N)　通過(Vt)　攜程(N)　也(ADV)　還可以(ADV)　接受(Vt)　，(COMMACATEGORY)
+　我(N)　會(ADV)　推薦(Vt)　朋友(N)　入住(Vt)　的(T)　。(PERIODCATEGORY)

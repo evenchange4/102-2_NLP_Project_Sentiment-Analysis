@@ -1,0 +1,4 @@
+　沒有(Vt)　早餐(N)　，(COMMACATEGORY)
+　酒店(N)　價格(N)　算是(Vt)　較(ADV)　貴(Vi)　的(T)　，(COMMACATEGORY)
+　房間(N)　設備(N)　比較(ADV)　陳舊(Vi)　。(PERIODCATEGORY)
+　不過(C)　有(Vt)　個(M)　游泳池(N)　還(ADV)　不錯(Vi)　！(EXCLAMATIONCATEGORY)　二樓(N)　的(T)　日式(A)　料理(N)　和(C)　巴西(N)　烤肉(N)　自助(Vi)　還(ADV)　不錯(Vi)　！(EXCLAMATIONCATEGORY)

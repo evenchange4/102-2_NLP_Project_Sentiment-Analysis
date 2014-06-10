@@ -1,0 +1,5 @@
+　我(N)　住(Vt)　的(T)　豪華房(N)　,(COMMACATEGORY)
+　被子(N)　太(ADV)　厚(Vi)　,(COMMACATEGORY)
+　晚上(N)　睡覺(Vi)　超熱(N)　,(COMMACATEGORY)
+　前台(N)　小姐(N)　服務(Nv)　態度(N)　一般(POST)　,(COMMACATEGORY)
+　沒(ADV)　見到(Vt)　笑臉(N)　.(PERIODCATEGORY)　賓館(N)　服務(Nv)　較(ADV)　好(Vi)　.(PERIODCATEGORY)

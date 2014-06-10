@@ -1,0 +1,4 @@
+　在(P)　老(Vi)　火車站(N)　旁(N)　，(COMMACATEGORY)
+　環境(N)　不(ADV)　好(Vi)　。(PERIODCATEGORY)
+　感覺(Vt)　房間(N)　也(ADV)　不怎麼(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　房間(N)　裡(N)　東西(N)　也(ADV)　貴(Vi)　。(PERIODCATEGORY)

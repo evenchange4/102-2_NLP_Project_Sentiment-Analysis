@@ -1,0 +1,4 @@
+　態度(N)　不錯(Vi)　，(COMMACATEGORY)
+　就是(C)　服務(Nv)　差點(N)　，(COMMACATEGORY)
+　其它(DET)　的(T)　沒(Vt)　什麼(DET)　了(T)　~(FW)　~(FW)　~(FW)　~(FW)　~(FW)　~(FW)　補充(Vt)　點評(N)　2008年(N)　4月(N)　4日(N)　：(COLONCATEGORY)　服務(Vt)　人員(N)　說話(Vi)　態度(N)　極其(ADV)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　說(Vt)　是(Vt)　攜程(N)　安排(Vt)　的(T)　問題(N)　和(C)　他們(N)　沒關係(Vi)　~(FW)

@@ -1,0 +1,6 @@
+　在(P)　長春(N)　這樣(Vi)　的(T)　房間(N)　還(ADV)　好(Vi)　,(COMMACATEGORY)
+　環境(N)　也(ADV)　還好(Vi)　,(COMMACATEGORY)
+　就是(C)　現在(N)　氣溫(N)　已經(ADV)　在(P)　零下(A)　啦(T)　,(COMMACATEGORY)
+　房間(N)　的(T)　空調(N)　還(ADV)　沒有(Vt)　暖風(N)　,(COMMACATEGORY)
+　晚上(N)　都(ADV)　凍(Vt)　醒(Vi)　了(ASP)　幾(DET)　次(M)　,(COMMACATEGORY)
+　感冒(Vi)　啦(T)　.(PERIODCATEGORY)

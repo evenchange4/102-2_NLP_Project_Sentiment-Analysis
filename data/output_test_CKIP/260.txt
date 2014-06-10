@@ -1,0 +1,8 @@
+　從小(ADV)　事(N)　看(Vt)　不(ADV)　像(Vt)　四星級(N)　酒店(N)　：(COLONCATEGORY)　車(N)　到(Vt)　門口(N)　，(COMMACATEGORY)
+　門(N)　童(N)　似(ADV)　看(Vt)　不(ADV)　見(Vt)　，(COMMACATEGORY)
+　自(P)　顧自(N)　聊天(Vi)　說話(Vi)　，(COMMACATEGORY)
+　連(C)　啦(T)　一下門(N)　也(ADV)　沒有(Vt)　，(COMMACATEGORY)
+　早餐(N)　品種(N)　很少(Vi)　，(COMMACATEGORY)
+　房間(N)　的(T)　設施(N)　不如(Vt)　三星(N)　。(PERIODCATEGORY)
+　但(C)　這(DET)　酒店(N)　在(P)　黟縣(N)　算是(Vt)　最好(Vi)　的(T)　了(T)　，(COMMACATEGORY)
+　想(Vt)　住(Vt)　的(T)　話(N)　只(ADV)　能(ADV)　將(ADV)　就(P)　了(T)

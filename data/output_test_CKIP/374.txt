@@ -1,0 +1,7 @@
+　天府(N)　陽光(N)　的(T)　價格(N)　比較(ADV)　合理(Vi)　。(PERIODCATEGORY)
+　硬件(N)　也(ADV)　不錯(Vi)　。(PERIODCATEGORY)
+　服務員(N)　態度(N)　都(ADV)　很(ADV)　好(Vi)　我(N)　入住(Vt)　的(T)　時候(N)　，(COMMACATEGORY)
+　大堂(N)　在(P)　裝修(Nv)　。(PERIODCATEGORY)
+　這(DET)　家(M)　飯店(N)　是(Vt)　涉外(Vi)　的(T)　，(COMMACATEGORY)
+　很多(DET)　外邊(N)　缺點(N)　在於(Vt)　：(COLONCATEGORY)　早餐(N)　比較(ADV)　簡陋(Vi)　，(COMMACATEGORY)
+　不(ADV)　是(Vt)　很(ADV)　好吃(Vi)

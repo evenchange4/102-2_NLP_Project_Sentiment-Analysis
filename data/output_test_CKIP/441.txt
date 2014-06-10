@@ -1,0 +1,4 @@
+　床(N)　發出(Vt)　吱(ADV)　嘎吱(A)　嘎(FW)　的(T)　聲音(N)　，(COMMACATEGORY)
+　房間(N)　隔音(A)　太(ADV)　差(Vi)　，(COMMACATEGORY)
+　贈送(Vt)　的(T)　早餐(N)　非常(ADV)　好吃(Vi)　。(PERIODCATEGORY)
+　補充(Vt)　點評(N)　2008年(N)　7月(N)　22日(N)　：(COLONCATEGORY)　我們(N)　住(Vt)　的(T)　是(Vt)　度假村(N)　的(T)　標準(N)　間(POST)　。(PERIODCATEGORY)

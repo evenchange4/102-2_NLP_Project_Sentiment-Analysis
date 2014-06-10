@@ -1,0 +1,6 @@
+　挺(ADV)　不錯(Vi)　的(T)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　敞亮(Vi)　，(COMMACATEGORY)
+　沒有(Vt)　壓抑感(N)　，(COMMACATEGORY)
+　看上去(ADV)　很(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　只是(ADV)　洗澡(Vi)　的(T)　地方(N)　有點(ADV)　小(Vi)　，(COMMACATEGORY)
+　不過(C)　水(N)　很(ADV)　大(Vi)　。(PERIODCATEGORY)

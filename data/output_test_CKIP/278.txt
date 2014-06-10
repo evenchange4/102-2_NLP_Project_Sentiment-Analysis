@@ -1,0 +1,4 @@
+　位置(N)　尚可(Vi)　，(COMMACATEGORY)
+　但(C)　距離(P)　海邊(N)　的(T)　位置(N)　比(P)　預期(N)　的(T)　要(ADV)　差(Vi)　的(T)　多(Vi)　，(COMMACATEGORY)
+　只(ADV)　能(ADV)　遠遠(Vi)　看(Vt)　大海(N)　，(COMMACATEGORY)
+　沒有(Vt)　停車場(N)

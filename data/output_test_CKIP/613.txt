@@ -1,0 +1,5 @@
+　該(DET)　酒店(N)　住宿(Nv)　環境(N)　一般(POST)　,(COMMACATEGORY)
+　房間(N)　裝修(Nv)　一般(POST)　,(COMMACATEGORY)
+　交通(N)　應該(ADV)　還是(ADV)　很(ADV)　方便(Vi)　吧(T)　賓館(N)　反饋(Vt)　2008年(N)　1月(N)　2日(N)　：(COLONCATEGORY)　感謝(Vt)　您(N)　的(T)　入住(Vt)　及(C)　點評(N)　！(EXCLAMATIONCATEGORY)　我們(N)　還(ADV)　有(Vt)　06(DET)　年(M)　新裝(N)　的(T)　特色(N)　標準(N)　間(POST)　，(COMMACATEGORY)
+　房間(N)　狀態(N)　基本(N)　為(Vt)　四星級(N)　標準(N)　，(COMMACATEGORY)
+　歡迎(Vt)　您(N)　再次(ADV)　試(Vt)　住(Vt)　！(EXCLAMATIONCATEGORY)

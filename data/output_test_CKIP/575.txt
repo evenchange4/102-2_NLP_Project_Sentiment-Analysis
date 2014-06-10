@@ -1,0 +1,7 @@
+　酒店(N)　房間(N)　算(Vt)　不錯(Vi)　，(COMMACATEGORY)
+　大(Vi)　床(N)　很(ADV)　舒適(Vi)　。(PERIODCATEGORY)
+　晚上(N)　睡(Vi)　的(T)　很(ADV)　香(Vi)　，(COMMACATEGORY)
+　酒店(N)　環境(N)　不(ADV)　到(Vt)　四星(N)　標準(N)　，(COMMACATEGORY)
+　但(C)　又(ADV)　比(P)　三星(N)　高(Vi)　。(PERIODCATEGORY)
+　地點(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　價錢(N)　適中(Vi)　。(PERIODCATEGORY)

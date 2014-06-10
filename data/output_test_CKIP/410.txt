@@ -1,0 +1,4 @@
+　各(DET)　方面(N)　條件(N)　都(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　只(ADV)　是(Vt)　房間(N)　、(PAUSECATEGORY)　衛生間(N)　較(ADV)　小(Vi)　。(PERIODCATEGORY)
+　乾淨(Vi)　整潔(Vi)　，(COMMACATEGORY)
+　隔音(A)　效果(N)　好(Vi)　。(PERIODCATEGORY)

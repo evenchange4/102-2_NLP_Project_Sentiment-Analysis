@@ -1,0 +1,2 @@
+　按(P)　常理(N)　贛州(N)　飯店(N)　應該(ADV)　是(Vt)　贛州(N)　最好(Vi)　的(T)　賓館(N)　,(COMMACATEGORY)
+　但(C)　我(N)　錯(Vi)　了(T)　!(EXCLAMATIONCATEGORY)　它(N)　是(Vt)　我(N)　住(Vt)　過(ASP)　的(T)　最(ADV)　差(Vi)　的(T)　賓館(N)

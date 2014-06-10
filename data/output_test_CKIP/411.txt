@@ -1,0 +1,2 @@
+　硬件(N)　和(C)　軟件(N)　都(ADV)　一般(Vi)　.(PERIODCATEGORY)　打出(Vt)　請(Vt)　勿(ADV)　打擾(Vt)　的(T)　提示(N)　,(COMMACATEGORY)
+　還(ADV)　有(Vt)　服務員(N)　早晨(N)　來(ADV)　敲門(Vi)　.(PERIODCATEGORY)　枕頭(N)　和(C)　床(N)　都(ADV)　不(ADV)　舒服(Vi)　.(PERIODCATEGORY)　下(DET)　次(M)　不會(ADV)　再(ADV)　訂(Vt)

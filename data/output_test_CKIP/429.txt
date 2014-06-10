@@ -1,0 +1,4 @@
+　一切(DET)　還(ADV)　行(Vi)　，(COMMACATEGORY)
+　就是(C)　對(P)　通過(Vt)　網絡(N)　預訂(Vt)　的(T)　房間(N)　為什麼(ADV)　就(ADV)　不能(ADV)　靈活(Vi)　一點(ADV)　，(COMMACATEGORY)
+　半(DET)　天房(N)　都(ADV)　是(Vt)　合情合理(Vi)　的(T)　啊(T)　，(COMMACATEGORY)
+　尤其(ADV)　是(Vt)　換住(Vt)　連鎖(A)　酒店(N)　更(ADV)　應該(ADV)　提供(Vt)　方便(Vi)　。(PERIODCATEGORY)

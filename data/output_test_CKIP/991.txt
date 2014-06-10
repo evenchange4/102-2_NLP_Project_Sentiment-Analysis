@@ -1,0 +1,5 @@
+　我(N)　住(Vt)　的(T)　是(Vt)　酒店(N)　標準(N)　間(POST)　（(PARENTHESISCATEGORY)　203(DET)　房間(N)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　裡面(N)　設施(N)　撐死(Vt)　2(DET)　星級(N)　的(T)　標準(N)　，(COMMACATEGORY)
+　而且(C)　由於(C)　二樓(N)　有(Vt)　餐廳(N)　，(COMMACATEGORY)
+　房間(N)　裡(N)　一(DET)　股(M)　廚房(N)　未(ADV)　，(COMMACATEGORY)
+　相當(ADV)　噁心(Vi)

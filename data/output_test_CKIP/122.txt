@@ -1,0 +1,3 @@
+　上網(Nv)　收費(Nv)　太(ADV)　貴(Vi)　,(COMMACATEGORY)
+　每(DET)　天(M)　40(DET)　元(M)　.(PERIODCATEGORY)　交通(N)　還是(ADV)　很(ADV)　便利(Vt)　,(COMMACATEGORY)
+　離(P)　地鐵站(N)　很(ADV)　近(Vi)　.(PERIODCATEGORY)

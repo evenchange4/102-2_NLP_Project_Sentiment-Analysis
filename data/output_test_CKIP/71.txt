@@ -1,0 +1,6 @@
+　服務(Nv)　態度(N)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　極(ADV)　差(Vi)　，(COMMACATEGORY)
+　前台(N)　態度(N)　惡劣(Vi)　，(COMMACATEGORY)
+　房間(N)　衛生(N)　不(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　誣陷(Vt)　客人(N)　照(P)　成(Vi)　，(COMMACATEGORY)
+　要求(Vt)　客人(N)　賠償(Vt)

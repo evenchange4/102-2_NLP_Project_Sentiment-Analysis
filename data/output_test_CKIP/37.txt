@@ -1,0 +1,4 @@
+　呵呵(ADV)　,(COMMACATEGORY)
+　畢竟(ADV)　是(Vt)　當地(N)　最好(Vi)　的(T)　酒店(N)　,(COMMACATEGORY)
+　所以(C)　,(COMMACATEGORY)
+　除了(P)　設施(N)　有(Vt)

@@ -1,0 +1,4 @@
+　飯店(N)　較(ADV)　新(Vi)　,(COMMACATEGORY)
+　服務(Vt)　不錯(Vi)　,(COMMACATEGORY)
+　旁邊(N)　有(Vt)　小(Vi)　便利店(N)　,(COMMACATEGORY)
+　就是(C)　房價(N)　偏(ADV)　貴(Vi)　..(ETCCATEGORY)

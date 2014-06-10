@@ -1,0 +1,7 @@
+　大堂(N)　不(ADV)　怎麼樣(Vi)　，(COMMACATEGORY)
+　可(ADV)　房間(N)　住(Vt)　得(T)　很(ADV)　舒服(Vi)　。(PERIODCATEGORY)
+　最(ADV)　滿意(Vt)　的(T)　地方(N)　是(Vt)　酒店(N)　的(T)　大堂(N)　副理(N)　和(C)　客服(N)　人員(N)　，(COMMACATEGORY)
+　對(P)　顧客(N)　的(T)　要求(N)　可以(ADV)　及時(ADV)　，(COMMACATEGORY)
+　盡心(Vi)　盡力(Vi)　的(T)　去(ADV)　完成(Vt)　。(PERIODCATEGORY)
+　讓(Vt)　人(N)　有(Vt)　家(M)　的(T)　感覺(N)　。(PERIODCATEGORY)
+　借(Vt)　此(DET)　感謝(Vt)　一下(N)　他們(N)　。(PERIODCATEGORY)

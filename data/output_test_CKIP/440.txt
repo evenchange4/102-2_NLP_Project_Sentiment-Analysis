@@ -1,0 +1,3 @@
+　位置(N)　挺(ADV)　好(Vi)　，(COMMACATEGORY)
+　可(ADV)　服務(Vt)　態度(N)　不行(Vi)　。(PERIODCATEGORY)
+　裝修(Vt)　的(T)　也(ADV)　挺(ADV)　一般(A)　的(T)

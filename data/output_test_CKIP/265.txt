@@ -1,0 +1,5 @@
+　酒店(N)　比較(ADV)　一般(Vi)　，(COMMACATEGORY)
+　隔音(A)　不(ADV)　是(Vt)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　比較(ADV)　令(Vt)　人(N)　不滿(Vt)　的(T)　是(Vt)　早餐(N)　，(COMMACATEGORY)
+　口味(N)　及(C)　品種(N)　皆(ADV)　不(ADV)　理想(Vi)　，(COMMACATEGORY)
+　希望(Vt)　能夠(ADV)　改進(Vt)　。(PERIODCATEGORY)

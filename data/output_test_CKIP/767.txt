@@ -1,0 +1,7 @@
+　這(DET)　次(M)　的(T)　價格(N)　比(P)　以前(N)　貴(Vi)　一點(ADV)　，(COMMACATEGORY)
+　但是(C)　還是(ADV)　客戶(N)　來(ADV)　住(Vt)　的(T)　首選(N)　。(PERIODCATEGORY)
+　環境(N)　非常(ADV)　好(Vi)　的(T)　，(COMMACATEGORY)
+　服務(Vt)　也好(T)　。(PERIODCATEGORY)
+　出(Vt)　了(ASP)　門口(N)　的(T)　服務生(N)　呆呆(Vi)　的(T)　，(COMMACATEGORY)
+　其他(DET)　都(ADV)　贊(Vt)　。(PERIODCATEGORY)
+　客人(N)　還是(ADV)　比較(ADV)　滿意(Vt)　~(FW)　~(FW)

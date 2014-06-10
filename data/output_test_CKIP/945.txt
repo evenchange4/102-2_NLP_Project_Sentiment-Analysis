@@ -1,0 +1,7 @@
+　他們(N)　家(N)　的(T)　床(N)　太(ADV)　硬(Vi)　了(T)　,(COMMACATEGORY)
+　睡(Vi)　得(T)　腰算背(N)　痛(Vi)　!(EXCLAMATIONCATEGORY)　房間(N)　有(Vt)　些(M)　陳舊(Vi)　,(COMMACATEGORY)
+　隔音(A)　也(ADV)　不(ADV)　是(Vt)　太(ADV)　好(Vi)　,(COMMACATEGORY)
+　半夜(N)　正好(ADV)　有(Vt)　幾(DET)　個(M)　人(N)　入住(Vt)　相隔(Vi)　的(T)　房間(N)　,(COMMACATEGORY)
+　那(DET)　個(M)　聲音(N)　啊(T)　,(COMMACATEGORY)
+　反正(ADV)　是(Vt)　吵到(Vt)　了(ASP)　((PARENTHESISCATEGORY)　不過(C)　這(DET)　和(P)　入住(Vt)　人(N)　的(T)　素質(N)　更(ADV)　有(Vt)　關係(N)　)(PARENTHESISCATEGORY)　!(EXCLAMATIONCATEGORY)　房間(N)　內(N)　沒有(Vt)　電熱(A)　水壺(N)　,(COMMACATEGORY)
+　只(ADV)　有(Vt)　一(DET)　壺(M)　?(QUESTIONCATEGORY)

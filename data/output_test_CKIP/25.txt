@@ -1,0 +1,4 @@
+　設施(N)　陳舊(Vi)　，(COMMACATEGORY)
+　看上去(ADV)　不(ADV)　乾淨(Vi)　。(PERIODCATEGORY)
+　在(P)　攜程(N)　訂(Vt)　的(T)　酒店(N)　中(POST)　，(COMMACATEGORY)
+　這(DET)　間(M)　的(T)　感覺(N)　最(ADV)　不(ADV)　好(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,5 @@
+　離(P)　火車站(N)　、(PAUSECATEGORY)　長途(A)　汽車站(N)　很(ADV)　近(Vi)　，(COMMACATEGORY)
+　打(Vt)　車(N)　起價(Vt)　就(ADV)　到(P)　（(PARENTHESISCATEGORY)　五(DET)　分鐘(M)　內(POST)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　樓下(N)　有(Vt)　24(DET)　小時(M)　營業(Vi)　的(T)　麥當勞(N)　（(PARENTHESISCATEGORY)　點餐(N)　可(ADV)　免費(Vi)　送至(Vt)　房間(N)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　出(Vt)　大門(N)　往(P)　左(N)　便(ADV)　是(Vt)　平原(N)　商場(N)　，(COMMACATEGORY)
+　其(DET)　對面(N)　是(Vt)　影劇院(N)　。(PERIODCATEGORY)

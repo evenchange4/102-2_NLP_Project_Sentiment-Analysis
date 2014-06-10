@@ -1,0 +1,5 @@
+　打開(Vt)　電視(N)　後(POST)　有(Vt)　對(Vi)　入住(Vt)　客人(N)　的(T)　歡迎詞(N)　在(P)　屏幕(N)　滾動(Vi)　，(COMMACATEGORY)
+　感到(Vt)　比較(ADV)　溫馨(Vi)　。(PERIODCATEGORY)
+　房間(N)　比較(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　衛生間(N)　設施(N)　較(ADV)　完備(Vi)　，(COMMACATEGORY)
+　酒店(N)　附近(N)　交通(N)　比較(ADV)　方便(Vi)　。(PERIODCATEGORY)

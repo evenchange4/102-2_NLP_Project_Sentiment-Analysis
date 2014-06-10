@@ -1,0 +1,7 @@
+　就算(C)　是(Vt)　在(P)　上海(N)　也(ADV)　是(Vt)　非常(ADV)　好(Vi)　的(T)　酒店(N)　哦(T)　，(COMMACATEGORY)
+　雖然(C)　價格(N)　高(Vi)　，(COMMACATEGORY)
+　不過(C)　個(M)　人(N)　感覺(Vt)　對得起(Vt)　這(DET)　個(M)　價格(N)　，(COMMACATEGORY)
+　這(DET)　次(M)　非常(ADV)　遺憾(Vt)　，(COMMACATEGORY)
+　來(Vi)　黃山(N)　什麼(DET)　都(ADV)　沒有(ADV)　看到(Vt)　，(COMMACATEGORY)
+　下(DET)　次(M)　肯定(Vt)　會(ADV)　再(ADV)　來(ADV)　，(COMMACATEGORY)
+　而且(C)　下(DET)　次(M)　肯定(Vt)　也(ADV)　是(Vt)　住(Vt)　北海(N)　啦(T)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)

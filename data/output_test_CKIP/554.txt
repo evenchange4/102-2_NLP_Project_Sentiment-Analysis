@@ -1,0 +1,3 @@
+　飯店(N)　的(T)　前台(N)　非常(ADV)　服務(Vt)　周到(Vi)　、(PAUSECATEGORY)　快速(Vi)　有(Vt)　效率(N)　，(COMMACATEGORY)
+　服務(Nv)　態度(N)　也好(T)　，(COMMACATEGORY)
+　有(Vt)　五星級(N)　水準(N)　！(EXCLAMATIONCATEGORY)　在(P)　這(DET)　要(ADV)　表揚(Vt)　一下(N)　！(EXCLAMATIONCATEGORY)

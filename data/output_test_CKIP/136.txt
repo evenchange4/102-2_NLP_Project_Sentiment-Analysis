@@ -1,0 +1,7 @@
+　中銀(N)　大廈(N)　的(T)　前台(N)　服務(Nv)　態度(N)　非常(ADV)　好(Vi)　。(PERIODCATEGORY)
+　及時(ADV)　幫(P)　我(N)　解決(Vt)　了(ASP)　預定(Vt)　問題(N)　。(PERIODCATEGORY)
+　我(N)　很(ADV)　滿意(Vt)　保定(N)　市區(N)　最好(Vi)　的(T)　飯店(N)　就(ADV)　是(Vt)　中銀(N)　了(T)　，(COMMACATEGORY)
+　四(DET)　星(N)　標準(N)　。(PERIODCATEGORY)
+　到(P)　保定(N)　，(COMMACATEGORY)
+　就(ADV)　住(Vt)　中銀(N)　大廈(N)　把(P)　，(COMMACATEGORY)
+　也(ADV)　沒有(Vt)　其他(DET)　選擇(Vt)　了(ASP)

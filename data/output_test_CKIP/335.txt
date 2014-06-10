@@ -1,0 +1,6 @@
+　基本(A)　設施(N)　可以(ADV)　，(COMMACATEGORY)
+　服務(Nv)　熱情(N)　。(PERIODCATEGORY)
+　早餐(N)　一般(POST)　，(COMMACATEGORY)
+　但(C)　有(Vt)　江西(N)　特色(N)　。(PERIODCATEGORY)
+　我(N)　感到(Vt)　的(T)　問題(N)　在(P)　牆壁(N)　和(C)　門(N)　的(T)　隔音(A)　效果(N)　，(COMMACATEGORY)
+　不(ADV)　太(ADV)　好(Vi)　。(PERIODCATEGORY)

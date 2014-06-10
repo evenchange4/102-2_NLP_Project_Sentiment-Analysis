@@ -1,0 +1,8 @@
+　五月(N)　底(POST)　入住(Vt)　的(T)　該(DET)　賓館(N)　，(COMMACATEGORY)
+　對於(P)　三星(N)　來(ADV)　說(Vt)　還是(ADV)　可以(ADV)　的(T)　，(COMMACATEGORY)
+　價錢(N)　不(ADV)　貴(Vi)　，(COMMACATEGORY)
+　可能(ADV)　它(N)　的(T)　位置(N)　不(ADV)　是(Vt)　繁華(Vi)　地(T)　吧(T)　。(PERIODCATEGORY)
+　就是(C)　前台(N)　的(T)　收款(Nv)　的(T)　服務員(N)　態度(N)　挺(ADV)　差(Vi)　的(T)　，(COMMACATEGORY)
+　房間(N)　不錯(Vi)　，(COMMACATEGORY)
+　可能(ADV)　是(Vt)　從(P)　攜程(N)　訂(Vt)　的(T)　原因(N)　，(COMMACATEGORY)
+　一般(ADV)　安排(Vt)　的(T)　房間(N)　位置(N)　都(ADV)　還是(ADV)　不錯(Vi)　的(T)　。(PERIODCATEGORY)

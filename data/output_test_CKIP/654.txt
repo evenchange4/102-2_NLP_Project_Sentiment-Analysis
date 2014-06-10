@@ -1,0 +1,5 @@
+　初五(N)　住(Vt)　的(T)　，(COMMACATEGORY)
+　這麼(ADV)　冷(Vi)　的(T)　天(N)　沒有(Vt)　暖氣(N)　，(COMMACATEGORY)
+　沒有(Vt)　熱水(N)　。(PERIODCATEGORY)
+　攜(Vt)　程(N)　預定(Vt)　前台(N)　說(Vt)　沒有(ADV)　收到(Vt)　。(PERIODCATEGORY)
+　總之(ADV)　感覺(N)　很(ADV)　業餘(A)　。(PERIODCATEGORY)

@@ -1,0 +1,6 @@
+　湖(N)　景房(N)　的(T)　景色(N)　很(ADV)　不錯(Vi)　！(EXCLAMATIONCATEGORY)　酒店(N)　裡面(N)　也(ADV)　收拾(Vt)　的(T)　很(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　就是(C)　設施(N)　稍(ADV)　舊(Vi)　了(ASP)　一些(DET)　。(PERIODCATEGORY)
+　交通(N)　很(ADV)　方便(Vi)　！(EXCLAMATIONCATEGORY)　廈門市(N)　的(T)　出租車(N)　太(ADV)　貴(Vi)　，(COMMACATEGORY)
+　從(P)　酒店(N)　到(P)　各(DET)　景點(N)　坐(Vi)　公交車(N)　都(ADV)　很(ADV)　方便(Vi)　。(PERIODCATEGORY)
+　不過(C)　飯店(N)　的(T)　早餐(N)　很(ADV)　一般(Vi)　，(COMMACATEGORY)
+　選擇(Vt)　比較(ADV)　少(Vi)　而且(C)　幾乎(ADV)　每(DET)　天(M)　都(ADV)　是(Vt)　重複(Vt)　的(T)　。(PERIODCATEGORY)

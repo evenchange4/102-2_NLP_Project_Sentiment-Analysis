@@ -1,0 +1,5 @@
+　價格(N)　在(P)　這(DET)　個(M)　地段(N)　屬於(Vt)　適中(Vi)　,(COMMACATEGORY)
+　附近(N)　有(Vt)　早餐店(N)　,(COMMACATEGORY)
+　小(Vi)　飯店(N)　,(COMMACATEGORY)
+　比較(ADV)　方便(Vi)　,(COMMACATEGORY)
+　無(Vt)　早(ADV)　也(ADV)　無(Vt)　所(ADV)

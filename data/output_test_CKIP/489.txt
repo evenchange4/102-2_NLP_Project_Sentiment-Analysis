@@ -1,0 +1,5 @@
+　房間(N)　裡(N)　有(Vt)　電腦(N)　，(COMMACATEGORY)
+　雖然(C)　房間(N)　的(T)　條件(N)　略顯(Vi)　簡陋(Vi)　，(COMMACATEGORY)
+　但(C)　環境(N)　、(PAUSECATEGORY)　服務(Nv)　還(ADV)　有(Vt)　飯菜(N)　都(ADV)　還是(ADV)　很(ADV)　不錯(Vi)　的(T)　。(PERIODCATEGORY)
+　如果(C)　下(DET)　次(M)　去(Vt)　無錫(N)　，(COMMACATEGORY)
+　我(N)　還是(ADV)　會(ADV)　選擇(Vt)　這裡(N)　的(T)　。(PERIODCATEGORY)

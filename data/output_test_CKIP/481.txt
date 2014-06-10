@@ -1,0 +1,7 @@
+　價格(N)　不(ADV)　低(Vi)　，(COMMACATEGORY)
+　檔次(N)　不(ADV)　高(Vi)　，(COMMACATEGORY)
+　環境(N)　糟糕(Vi)　，(COMMACATEGORY)
+　大廳(N)　很(ADV)　小(Vi)　，(COMMACATEGORY)
+　房間(N)　一般(POST)　，(COMMACATEGORY)
+　早餐(N)　難吃(Vi)　，(COMMACATEGORY)
+　感覺(N)　一般(Vi)　！(EXCLAMATIONCATEGORY)

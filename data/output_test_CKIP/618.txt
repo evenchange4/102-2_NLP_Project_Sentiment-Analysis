@@ -1,0 +1,6 @@
+　優點(N)　：(COLONCATEGORY)　房間(N)　條件(N)　簡潔(Vi)　、(PAUSECATEGORY)　氣氛(N)　溫馨(Vi)　，(COMMACATEGORY)
+　住宿(Nv)　環境(N)　比較(ADV)　安靜(Vi)　，(COMMACATEGORY)
+　價格(N)　比較(ADV)　合理(Vi)　，(COMMACATEGORY)
+　服務(Nv)　態度(N)　好(Vi)　；(SEMICOLONCATEGORY)　不足(Vi)　：(COLONCATEGORY)　窗戶(N)　幾乎(ADV)　與(P)　後面(N)　的(T)　房頂(N)　等(POST)　高(Vi)　，(COMMACATEGORY)
+　加上(C)　沒有(Vt)　防盜(Vi)　窗(N)　（(PARENTHESISCATEGORY)　網(N)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　安全感(N)　不(ADV)　高(Vi)　。(PERIODCATEGORY)

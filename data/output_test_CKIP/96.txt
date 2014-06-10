@@ -1,0 +1,6 @@
+　房間(N)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　暖氣(N)　非常(ADV)　不(ADV)　阻(Vt)　，(COMMACATEGORY)
+　被子(N)　又(ADV)　薄(Vi)　，(COMMACATEGORY)
+　居然(ADV)　連(Vt)　個(M)　電話(N)　都(ADV)　沒有(Vt)　，(COMMACATEGORY)
+　還是(C)　豪華房(N)　。(PERIODCATEGORY)
+　下(DET)　次(M)　千萬(DET)　不要(ADV)　住(Vt)　。(PERIODCATEGORY)

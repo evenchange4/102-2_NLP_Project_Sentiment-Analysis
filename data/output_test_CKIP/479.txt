@@ -1,0 +1,7 @@
+　酒店(N)　是(Vt)　比較(ADV)　老(Vi)　的(T)　四星(N)　，(COMMACATEGORY)
+　設施(N)　都(ADV)　比較(ADV)　陳舊(Vi)　，(COMMACATEGORY)
+　房間(N)　也(ADV)　很(ADV)　小(Vi)　，(COMMACATEGORY)
+　健康(Vi)　秤(N)　還是(ADV)　壞(Vt)　的(T)　，(COMMACATEGORY)
+　總體(N)　感覺(N)　一般(POST)　，(COMMACATEGORY)
+　但(C)　價格(N)　還是(ADV)　按照(P)　新(Vi)　四星(N)　來(Vi)　的(T)　，(COMMACATEGORY)
+　所以(C)　感覺(N)　不(ADV)　是(Vt)　很(ADV)　值(Vi)　。(PERIODCATEGORY)

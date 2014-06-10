@@ -1,0 +1,7 @@
+　總的來說(ADV)　很(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　環境(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　特別(Vi)　是(Vt)　早餐(N)　，(COMMACATEGORY)
+　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　很(ADV)　有(Vt)　競爭力(N)　。(PERIODCATEGORY)
+　我(N)　過年(Vi)　這幾天(N)　綜合(A)　比較(Vt)　幾(DET)　個(M)　四星級(N)　酒店(N)　的(T)　早餐(N)　，(COMMACATEGORY)
+　還是(ADV)　他(N)　家(N)　的(T)　最好(Vi)　。(PERIODCATEGORY)

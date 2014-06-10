@@ -1,0 +1,3 @@
+　總體(N)　來(ADV)　說(Vt)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　就是(C)　衛生間(N)　設施(N)　差(Vi)　了(ASP)　點(ADV)　,(COMMACATEGORY)
+　要(ADV)　什麼(DET)　沒(Vt)　什麼(DET)　.(PERIODCATEGORY)　還(ADV)　有(Vt)　就是(C)　辦理(Vt)　會員卡(N)　好像(ADV)　要價(Vt)　太(ADV)　貴(Vi)　了(T)　.(PERIODCATEGORY)　至少(ADV)　我(N)　所(ADV)　知(Vt)　的(T)　格林豪泰(N)　是(Vt)　免費(Vi)　辦理(Vt)　的(T)　.(PERIODCATEGORY)

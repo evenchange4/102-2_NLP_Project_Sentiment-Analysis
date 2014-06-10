@@ -1,0 +1,4 @@
+　還可以(Vi)　,(COMMACATEGORY)
+　促銷(Vt)　399(DET)　,(COMMACATEGORY)
+　價錢(N)　不錯(Vi)　.(PERIODCATEGORY)　不過(C)　酒店(N)　躲(Vt)　在(P)　新(Vi)　工房(N)　後面(N)　,(COMMACATEGORY)
+　確實(ADV)　是(Vt)　一(DET)　個(M)　瘡疤(N)

@@ -1,0 +1,4 @@
+　房間(N)　還(ADV)　算(Vt)　可以(Vi)　，(COMMACATEGORY)
+　就是(C)　舊(Vi)　了(ASP)　些(ADV)　。(PERIODCATEGORY)
+　早餐(N)　沒有(Vt)　酸奶(N)　，(COMMACATEGORY)
+　有(Vt)　些(M)　美中不足(Vi)　。(PERIODCATEGORY)

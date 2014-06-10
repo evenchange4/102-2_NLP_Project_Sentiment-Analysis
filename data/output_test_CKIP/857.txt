@@ -1,0 +1,3 @@
+　朋友(N)　前(POST)　一(DET)　階段(N)　入住(Vt)　的(T)　。(PERIODCATEGORY)
+　感覺(Vt)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　對(P)　這(DET)　個(M)　城市(N)　的(T)　環境(N)　也(ADV)　有(Vt)　很(ADV)　高(Vi)　的(T)　評價(N)　。(PERIODCATEGORY)

@@ -1,0 +1,5 @@
+　飯店(N)　地理(N)　位置(N)　是(Vt)　非常(ADV)　適合(Vi)　夏天(N)　度假(Vi)　的(T)　地方(N)　,(COMMACATEGORY)
+　硬件(N)　設施(N)　差(Vi)　於(P)　5(DET)　星(N)　,(COMMACATEGORY)
+　服務(Vt)　達標(N)　,(COMMACATEGORY)
+　早餐(N)　自助餐(N)　比較(ADV)　簡單(Vi)　,(COMMACATEGORY)
+　打(Vt)　的(T)　比較(ADV)　困難(Vi)　.(PERIODCATEGORY)

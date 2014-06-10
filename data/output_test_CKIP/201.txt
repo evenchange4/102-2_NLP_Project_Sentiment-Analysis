@@ -1,0 +1,7 @@
+　之前(N)　還可以(Vi)　,(COMMACATEGORY)
+　這(DET)　次(M)　去(T)　,(COMMACATEGORY)
+　房間(N)　地毯(N)　都(ADV)　是(Vt)　黑(Vi)　的(T)　,(COMMACATEGORY)
+　很(ADV)　贓(N)　,(COMMACATEGORY)
+　自助餐(N)　有夠(ADV)　難吃(Vi)　,(COMMACATEGORY)
+　服務員(N)　比(P)　經理(N)　人數(N)　還(ADV)　少(Vi)　,(COMMACATEGORY)
+　整(DET)　個(M)　酒店(N)　好像(ADV)　有點(ADV)　要(ADV)　關門大吉(Vi)　的(T)　感覺(N)　.(PERIODCATEGORY)

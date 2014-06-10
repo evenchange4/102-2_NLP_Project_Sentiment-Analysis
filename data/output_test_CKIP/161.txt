@@ -1,0 +1,2 @@
+　房間(N)　有(Vt)　免費(Vi)　寬帶(N)　,(COMMACATEGORY)
+　速度(N)　很(ADV)　快(Vi)　.(PERIODCATEGORY)　酒店(N)　離(P)　將軍(N)　行署(N)　很(ADV)　近(Vi)　.(PERIODCATEGORY)　想(Vt)　去(ADV)　參觀(Vt)　時間(N)　又(ADV)　短(Vi)　的(T)　人(N)　可以(ADV)　選擇(Vt)　這裡(N)　.(PERIODCATEGORY)

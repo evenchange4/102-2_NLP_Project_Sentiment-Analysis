@@ -1,0 +1,5 @@
+　號稱(Vt)　四星(N)　的(T)　酒店(N)　，(COMMACATEGORY)
+　可是(C)　房間(N)　之(T)　小(Vi)　，(COMMACATEGORY)
+　內部(N)　設施(N)　最多(ADV)　也(ADV)　就(ADV)　相當於(Vt)　Motel(FW)　168(DET)　，(COMMACATEGORY)
+　錦(N)　江(N)　之(T)　星等(N)　簡易(Vi)　旅館(N)　，(COMMACATEGORY)
+　真的(ADV)　讓(Vt)　人(N)　大失所望(Vi)　...(ETCCATEGORY)　下(DET)　次(M)　一定(ADV)　不會(ADV)　再(ADV)　住(Vt)　了(ASP)

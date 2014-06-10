@@ -1,0 +1,3 @@
+　交通(N)　不(ADV)　方便(Vi)　不(ADV)　是(Vt)　自己(N)　車(N)　的(T)　話(N)　，(COMMACATEGORY)
+　很(ADV)　不(ADV)　方便(Vi)　的(T)　。(PERIODCATEGORY)
+　尤其(ADV)　是(Vt)　在(P)　早上(N)　叫(Vt)　車(N)　他們(N)　沒有(Vt)　時間(N)　觀念(N)　！(EXCLAMATIONCATEGORY)　客房(N)　服務員(N)　愛(Vt)　騙人(Vi)　！(EXCLAMATIONCATEGORY)　前台(N)　的(T)　還(ADV)　可以(ADV)　！(EXCLAMATIONCATEGORY)　房間(N)　裡(N)　有(Vt)　螞蟻(N)　和(C)　不(ADV)　名(Vt)　小(Vi)　蟲(N)　！(EXCLAMATIONCATEGORY)　我(N)　以後(N)　絕對(ADV)　不會(ADV)　在(P)　住(Vt)　那裡(N)　了(T)　！(EXCLAMATIONCATEGORY)　同樣(Vi)　的(T)　錢(N)　我(N)　寧願(Vt)　去(Vt)　開元(N)　的(T)　！(EXCLAMATIONCATEGORY)　總體(N)　來(ADV)　說(Vt)　就(ADV)　可以(ADV)　用(P)　一(DET)　個(M)　字(N)　概括(Vt)　就(ADV)　是(Vt)　「(PARENTHESISCATEGORY)　差(Vi)　」(PARENTHESISCATEGORY)

@@ -1,0 +1,4 @@
+　房間(N)　很(ADV)　舒適(Vi)　也(ADV)　很(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　周圍(N)　雖然(C)　不(ADV)　熱鬧(Vi)　但(C)　很(ADV)　安靜(Vi)　，(COMMACATEGORY)
+　離(P)　虹橋(N)　機場(N)　很(ADV)　靜(Vi)　，(COMMACATEGORY)
+　平時(N)　價格(N)　很(ADV)　貴(Vi)　但(C)　因為(C)　入住(Vt)　時(POST)　正(ADV)　逢(P)　春節(N)　假期(N)　所以(C)　價格(N)　超值(Vi)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)

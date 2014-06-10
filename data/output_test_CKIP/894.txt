@@ -1,0 +1,4 @@
+　酒店(N)　的(T)　裝修(Nv)　比較(ADV)　陳舊(Vi)　，(COMMACATEGORY)
+　房間(N)　的(T)　隔音(A)　，(COMMACATEGORY)
+　主要(ADV)　是(Vt)　衛生間(N)　的(T)　隔音(A)　非常(ADV)　差(Vi)　，(COMMACATEGORY)
+　只(ADV)　能(ADV)　算是(Vt)　一般(A)　的(T)

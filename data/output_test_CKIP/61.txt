@@ -1,0 +1,5 @@
+　照片(N)　與(C)　事實(N)　不符(Vt)　，(COMMACATEGORY)
+　房間(N)　太(ADV)　小(Vi)　，(COMMACATEGORY)
+　昆山(N)　實際(Vi)　上(POST)　有(Vt)　很多(DET)　酒店(N)　比(P)　這(DET)　個(M)　好(Vi)　，(COMMACATEGORY)
+　價格(N)　也(ADV)　更(ADV)　便宜(Vi)　，(COMMACATEGORY)
+　攜(Vt)　程(N)　的(T)　價格(N)　在(P)　該(DET)　酒店(N)　無(Vt)　優勢(N)　。(PERIODCATEGORY)

@@ -1,0 +1,4 @@
+　該(DET)　酒店(N)　地段(N)　不(ADV)　方便(Vi)　，(COMMACATEGORY)
+　超(Vt)　難打車(N)　，(COMMACATEGORY)
+　服務(Nv)　不(ADV)　到位(Vi)　，(COMMACATEGORY)
+　酒店(N)　設備(N)　有點(ADV)　舊(Vi)

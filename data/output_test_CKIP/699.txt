@@ -1,0 +1,6 @@
+　傳說(N)　中(N)　當地(N)　最好(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　主觀(Vi)　上(POST)　的(T)　不(ADV)　說(Vt)　了(ASP)　，(COMMACATEGORY)
+　各(DET)　人(N)　要求(Vt)　不同(Vi)　。(PERIODCATEGORY)
+　三(DET)　點(N)　非常(ADV)　不能(ADV)　讓(Vt)　人(N)　接受(Vt)　！(EXCLAMATIONCATEGORY)　1(DET)　、(PAUSECATEGORY)　正對面(N)　就(ADV)　是(Vt)　火車頭(N)　維修(Vt)　站(Vi)　（(PARENTHESISCATEGORY)　機務(N)　段(N)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　一整晚(N)　在(P)　嗚嗚(ADV)　嗚(Vi)　……(ETCCATEGORY)　2(DET)　、(PAUSECATEGORY)　一(DET)　晚(M)　來(Vi)　三(DET)　個性(N)　騷擾(Nv)　電話(N)　！(EXCLAMATIONCATEGORY)　有(Vt)　個(M)　居然(ADV)　是(Vt)　三(DET)　點(N)　，(COMMACATEGORY)
+　分別(ADV)　不同人(N)　打來(Vt)　的(T)　！(EXCLAMATIONCATEGORY)　3(DET)　、(PAUSECATEGORY)　酒店(N)　桑拿(N)　中心(N)　！(EXCLAMATIONCATEGORY)　根本(ADV)　就是(C)　那(DET)　個(M)　……(ETCCATEGORY)　不(ADV)　說(Vt)　了(T)　！(EXCLAMATIONCATEGORY)　以後(N)　去(Vt)　內江(N)　！(EXCLAMATIONCATEGORY)　我(N)　寧願(Vt)　坐車(Vi)　回自貢住(Vt)　！(EXCLAMATIONCATEGORY)

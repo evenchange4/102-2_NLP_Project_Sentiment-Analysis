@@ -1,0 +1,3 @@
+　服務(Nv)　人員(N)　的(T)　服務(Nv)　態度(N)　很(ADV)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　不(ADV)　按照(P)　酒店(N)　規定(N)　收取(Vt)　房費(N)　，(COMMACATEGORY)
+　並且(C)　亂(Vi)　收費(Nv)　，(COMMACATEGORY)

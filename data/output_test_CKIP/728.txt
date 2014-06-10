@@ -1,0 +1,4 @@
+　房間(N)　裝飾(N)　不錯(Vi)　也(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　環境(N)　也好(T)　，(COMMACATEGORY)
+　泳池水(N)　比較(ADV)　清潔(Vi)　，(COMMACATEGORY)
+　適合(Vi)　度假(Vi)　。(PERIODCATEGORY)

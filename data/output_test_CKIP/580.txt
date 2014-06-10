@@ -1,0 +1,5 @@
+　比較(ADV)　不錯(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　設施(N)　比較(ADV)　新(Vi)　，(COMMACATEGORY)
+　交通(N)　還是(ADV)　比較(ADV)　方便(Vi)　，(COMMACATEGORY)
+　但是(C)　離(P)　市中心(N)　有(Vt)　一點(DET)　距離(N)　，(COMMACATEGORY)
+　去(Vt)　機場(N)　方便(Vi)　。(PERIODCATEGORY)

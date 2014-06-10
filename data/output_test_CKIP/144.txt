@@ -1,0 +1,3 @@
+　衛浴(N)　設備(N)　簡陋(Vi)　,(COMMACATEGORY)
+　沒有(Vt)　熱水(N)　可(ADV)　洗澡(Vi)　,(COMMACATEGORY)
+　或(C)　熱水(N)　不(ADV)　熱(Vt)

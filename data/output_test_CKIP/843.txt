@@ -1,0 +1,8 @@
+　同樣(Vi)　價格(N)　的(T)　行政(N)　樓層(N)　房間(N)　有(Vt)　大(Vi)　有(Vt)　小(Vi)　，(COMMACATEGORY)
+　需要(Vt)　注意(Vt)　。(PERIODCATEGORY)
+　洗手間(N)　裝修(Nv)　佈置(Nv)　的(T)　很(ADV)　舒適(Vi)　漂亮(Vi)　，(COMMACATEGORY)
+　有(Vt)　淋浴(Nv)　和(C)　浴缸(N)　，(COMMACATEGORY)
+　還(ADV)　有(Vt)　透光(Vi)　窗子(N)　。(PERIODCATEGORY)
+　房間(N)　內部(N)　還(ADV)　算(Vt)　比較(ADV)　大(Vi)　，(COMMACATEGORY)
+　服務(Vt)　比較(ADV)　好(Vi)　！(EXCLAMATIONCATEGORY)　總體(N)　感覺(N)　還(ADV)　是(Vt)　不錯(Vi)　的(T)　。(PERIODCATEGORY)
+　在(P)　這裡(N)　住宿(Vi)　的(T)　老外(N)　很多(Vi)　。(PERIODCATEGORY)

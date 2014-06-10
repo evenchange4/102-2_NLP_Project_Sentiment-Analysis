@@ -1,0 +1,6 @@
+　酒店(N)　太(ADV)　舊(Vi)　了(T)　,(COMMACATEGORY)
+　中午(N)　進房(N)　的(T)　時候(N)　嚇(Vt)　了(ASP)　一(DET)　跳(N)　,(COMMACATEGORY)
+　晚上(N)　進(Vt)　屋(N)　就(ADV)　好多(DET)　了(T)　.(PERIODCATEGORY)　因為(C)　燈光(N)　昏暗(Vi)　的(T)　關係(N)　.(PERIODCATEGORY)　第一(DET)　次(M)　住(Vt)　經濟型(N)　酒店(N)　,(COMMACATEGORY)
+　搞(Vt)　得(T)　感覺(N)　很(ADV)　不(ADV)　好(Vi)　.(PERIODCATEGORY)　不過(C)　床(N)　還是(ADV)　蠻(ADV)　乾淨(Vi)　的(T)　,(COMMACATEGORY)
+　淋浴(Vi)　的(T)　水(N)　也(ADV)　很(ADV)　大(Vi)　,(COMMACATEGORY)
+　這(DET)　個(M)　價錢(N)　在(P)　北京(N)　也(ADV)　只(ADV)　能(ADV)　住(Vt)　這(DET)　酒店(N)　了(T)　!(EXCLAMATIONCATEGORY)

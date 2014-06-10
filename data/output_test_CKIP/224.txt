@@ -1,0 +1,3 @@
+　服務(Vt)　太(ADV)　不(ADV)　好了(T)　，(COMMACATEGORY)
+　晚上(N)　房間(N)　的(T)　蚊子(N)　太多(Vi)　了(T)　，(COMMACATEGORY)
+　人性(N)　的(T)　關懷(Nv)　不(ADV)　好(Vi)

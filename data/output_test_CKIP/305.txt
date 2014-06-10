@@ -1,0 +1,3 @@
+　1(DET)　號(M)　剛(ADV)　去(Vt)　過(ASP)　.(PERIODCATEGORY)　酒店(N)　很(ADV)　舊(Vi)　海景(N)　別墅(N)　是(Vt)　木板地(N)　很(ADV)　響(Vi)　,(COMMACATEGORY)
+　白天(N)　房間(N)　很(ADV)　曬(Vt)　空調(N)　又(ADV)　不(ADV)　太(ADV)　製冷(Vi)　.(PERIODCATEGORY)　到處(ADV)　是(Vt)　蚊子(N)　.(PERIODCATEGORY)　餐廳(N)　好(ADV)　難吃(Vi)　.(PERIODCATEGORY)　服務員(N)　太(ADV)　度(Vt)　很(ADV)　好(Vi)　.(PERIODCATEGORY)　看(Vt)　海(N)　很(ADV)　美(Vi)　,(COMMACATEGORY)
+　離(P)　海(N)　很(ADV)　進(Vt)　就(ADV)　是(Vt)　沙灘(N)　很(ADV)　不(ADV)　好(Vi)　太(ADV)　髒(Vi)　比(P)　三亞(N)　差(Vi)　太多(Vi)

@@ -1,0 +1,5 @@
+　在(P)　中山陵(N)　裡(N)　，(COMMACATEGORY)
+　很(ADV)　安靜(Vi)　，(COMMACATEGORY)
+　晚上(N)　睡覺(Vi)　的(T)　時候(N)　一點(DET)　聲音(N)　都(ADV)　沒有(Vt)　，(COMMACATEGORY)
+　早餐(N)　還可以(Vi)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　還可以(ADV)

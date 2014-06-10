@@ -1,0 +1,4 @@
+　垃圾(N)　,(COMMACATEGORY)
+　服務生(N)　愛理不理(Vi)　.(PERIODCATEGORY)　房間(N)　殘舊(N)　不堪(Vt)　,(COMMACATEGORY)
+　還(ADV)　有(Vt)　異味(N)　.(PERIODCATEGORY)　酒店(N)　最少(ADV)　有(Vt)　20(DET)　年(M)　歷史(N)　,(COMMACATEGORY)
+　資料(N)　打(Vt)　是(Vt)　開業(Vi)　兩(DET)　年(M)　?(QUESTIONCATEGORY)

@@ -1,0 +1,7 @@
+　雖然(C)　換(Vt)　了(ASP)　招牌(N)　，(COMMACATEGORY)
+　基本(N)　屬於(Vt)　換(Vt)　湯不(N)　換(Vt)　藥(N)　．(PERIODCATEGORY)　下(DET)　次(M)　應該(ADV)　不會(ADV)　再(ADV)　住(Vt)　了(ASP)　，(COMMACATEGORY)
+　性價(N)　比(P)　一般(A)　般(POST)　啦(T)　賓館(N)　反饋(Vt)　2008年(N)　8月(N)　8日(N)　：(COLONCATEGORY)　感謝(Vt)　您(N)　對(P)　本(DET)　酒店(N)　的(T)　支持(Nv)　！(EXCLAMATIONCATEGORY)　最近(N)　酒店(N)　有(Vt)　新(Vi)　的(T)　客房(N)　週末(N)　促銷(Vt)　推出(Vt)　，(COMMACATEGORY)
+　我們(N)　將(ADV)　一如(Vt)　既(C)　往(P)　地(N)　保持(Vt)　5星級(N)　的(T)　服務(Nv)　標準(N)　，(COMMACATEGORY)
+　歡迎(Vt)　您(N)　再次(ADV)　下榻(Vt)　，(COMMACATEGORY)
+　衷心(ADV)　祝(Vt)　您(N)　身體(N)　健康(Vi)　，(COMMACATEGORY)
+　工作(N)　順利(Vi)　!(EXCLAMATIONCATEGORY)

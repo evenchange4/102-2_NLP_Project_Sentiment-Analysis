@@ -1,0 +1,3 @@
+　房間(N)　設備(N)　太(ADV)　差(Vi)　,(COMMACATEGORY)
+　連(C)　空調(N)　都(ADV)　沒(ADV)　安裝(Vt)　,(COMMACATEGORY)
+　下(DET)　次(M)　如(P)　有(Vt)　機會(N)　再(ADV)　去(ADV)　不會(ADV)　再(ADV)　選(Vt)　此(DET)　酒店(N)　.(PERIODCATEGORY)

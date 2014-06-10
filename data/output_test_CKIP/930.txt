@@ -1,0 +1,8 @@
+　酒店(N)　很(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　性價(N)　比(P)　很(ADV)　好(Vi)　的(T)　。(PERIODCATEGORY)
+　雖然(C)　在(P)　洛陽(N)　繁華(Vi)　的(T)　路段(N)　，(COMMACATEGORY)
+　但(C)　晚上(N)　休息(Vi)　非常(ADV)　安靜(Vi)　，(COMMACATEGORY)
+　睡(Vi)　的(T)　很(ADV)　飽(Vi)　。(PERIODCATEGORY)
+　同時(N)　去(Vt)　龍門(N)　也(ADV)　比較(ADV)　方便(Vi)　，(COMMACATEGORY)
+　有(Vt)　公交車(N)　，(COMMACATEGORY)
+　乘坐(Vt)　出租車(N)　去(Vt)　龍門(N)　24(DET)　元(M)　左右(POST)　就(ADV)　可以(ADV)　到達(Vt)　的(T)　。(PERIODCATEGORY)

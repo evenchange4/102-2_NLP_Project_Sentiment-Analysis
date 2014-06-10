@@ -1,0 +1,8 @@
+　服務(Nv)　一般(POST)　,(COMMACATEGORY)
+　房間(N)　太(ADV)　差(Vi)　了(ASP)　點(ADV)　,(COMMACATEGORY)
+　裡面(N)　東西(N)　太(ADV)　舊(Vi)　了(T)　,(COMMACATEGORY)
+　媽媽(N)　的(T)　,(COMMACATEGORY)
+　還要(ADV)　這麼(ADV)　貴(Vi)　,(COMMACATEGORY)
+　四(DET)　星(N)　根本(ADV)　達(Vt)　不(ADV)　到(Vt)　嘛(T)　,(COMMACATEGORY)
+　第二(DET)　天(M)　終於(ADV)　忍不住(Vt)　,(COMMACATEGORY)
+　換(Vt)　了(ASP)　個(M)　酒店(N)　.(PERIODCATEGORY)

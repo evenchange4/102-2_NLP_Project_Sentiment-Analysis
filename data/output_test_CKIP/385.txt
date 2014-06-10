@@ -1,0 +1,4 @@
+　周邊(N)　環境(N)　較(ADV)　差(Vi)　，(COMMACATEGORY)
+　服務(Vt)　的(T)　速度(N)　慢(Vi)　，(COMMACATEGORY)
+　態度(N)　還可以(Vi)　，(COMMACATEGORY)
+　價格(N)　太(ADV)　高(Vi)　。(PERIODCATEGORY)

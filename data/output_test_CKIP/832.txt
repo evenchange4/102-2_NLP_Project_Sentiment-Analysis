@@ -1,0 +1,4 @@
+　裝修(Vt)　後(POST)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　房間(N)　很(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　大(Vi)　床(N)　房(N)　很(ADV)　舒適(Vi)　。(PERIODCATEGORY)
+　打印(Vt)　很(ADV)　貴(Vi)

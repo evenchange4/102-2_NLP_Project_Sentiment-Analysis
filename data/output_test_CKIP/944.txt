@@ -1,0 +1,8 @@
+　地點(N)　很(ADV)　方便(Vi)　，(COMMACATEGORY)
+　就(ADV)　在(P)　火車站(N)　附近(N)　走路(Vi)　3(DET)　分鐘(M)　，(COMMACATEGORY)
+　但是(C)　因為(C)　第一(DET)　次(M)　去(ADV)　竟然(ADV)　打(Vt)　了(ASP)　車(N)　被(P)　司機(N)　宰(Vt)　了(ASP)　個(M)　起步價(N)　，(COMMACATEGORY)
+　唯一(A)　的(T)　不足(Nv)　也(ADV)　是(Vt)　離(P)　火車站(N)　太(ADV)　近(Vi)　了(T)　，(COMMACATEGORY)
+　火車(N)　的(T)　聲音(N)　比較(ADV)　麻煩(Vt)　，(COMMACATEGORY)
+　誰(N)　讓(Vt)　徐州(N)　自古(ADV)　就(ADV)　是(Vt)　交通(N)　要道(N)　呢(T)　，(COMMACATEGORY)
+　呵呵(ADV)　。(PERIODCATEGORY)
+　如果(C)　有(Vt)　可能(ADV)　下(DET)　次(M)　還(ADV)　要(ADV)　入住(Vt)　。(PERIODCATEGORY)

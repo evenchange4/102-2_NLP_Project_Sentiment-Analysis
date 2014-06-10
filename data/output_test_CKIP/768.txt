@@ -1,0 +1,6 @@
+　本來(ADV)　不(ADV)　想(Vt)　評價(N)　了(T)　,(COMMACATEGORY)
+　但(C)　為了(P)　攜程(N)　的(T)　攜粉們(N)　,(COMMACATEGORY)
+　還是(ADV)　說(Vt)　一下(N)　,(COMMACATEGORY)
+　這(DET)　稱不上(Vt)　是(Vt)　酒店(N)　,(COMMACATEGORY)
+　細說(Vt)　就(ADV)　真(ADV)　沒(ADV)　必要(Vi)　了(T)　,(COMMACATEGORY)
+　就(ADV)　一(DET)　個(M)　字(N)　:(COLONCATEGORY)　差(N)

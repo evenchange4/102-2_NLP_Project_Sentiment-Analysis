@@ -1,0 +1,8 @@
+　典型(Vi)　的(T)　國營(Vi)　酒店(N)　，(COMMACATEGORY)
+　管理(Vt)　層(M)　缺乏(Vt)　責任心(N)　，(COMMACATEGORY)
+　管理(Vt)　混亂(Vi)　。(PERIODCATEGORY)
+　房間(N)　裡(N)　的(T)　大(Vi)　燈(N)　鏡燈(N)　檯燈(N)　都(ADV)　是(Vt)　壞(Vt)　的(T)　，(COMMACATEGORY)
+　只(ADV)　有(Vt)　一(DET)　盞(M)　床頭燈(N)　可(ADV)　用(Vt)　，(COMMACATEGORY)
+　不(ADV)　知道(Vt)　酒店(N)　是(Vt)　怎麼(ADV)　維護(Vt)　的(T)　。(PERIODCATEGORY)
+　最(ADV)　可(ADV)　氣(Vt)　的(T)　是(Vt)　結帳(Vi)　時(POST)　竟然(ADV)　要求(Vt)　客人(N)　賠償(Vt)　房間(N)　裡(N)　已(ADV)　損壞(Vt)　很(ADV)　久(Vi)　的(T)　鞋盒(N)　，(COMMACATEGORY)
+　簡直(ADV)　是(Vt)　訛詐(Vt)　。(PERIODCATEGORY)

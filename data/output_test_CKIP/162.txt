@@ -1,0 +1,4 @@
+　房間(N)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　夠(ADV)　大(Vi)　，(COMMACATEGORY)
+　不過(C)　床頭(N)　有(Vt)　部分(DET)　發霉(Vi)　的(T)　跡象(N)　，(COMMACATEGORY)
+　218(DET)　元(M)　的(T)　價格(N)　還是(ADV)　太(ADV)　貴(Vi)

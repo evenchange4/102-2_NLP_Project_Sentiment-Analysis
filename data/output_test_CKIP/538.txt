@@ -1,0 +1,8 @@
+　1(DET)　.(PERIODCATEGORY)　房間(N)　內(N)　見(Vt)　縫插針(Vt)　幾乎(ADV)　放滿(Vt)　了(ASP)　各種各樣(A)　的(T)　收費(Nv)　小(Vi)　商品(N)　，(COMMACATEGORY)
+　從(P)　茶葉(N)　到(P)　泡泡(N)　浴(Vi)　到(P)　塑料(N)　套(Vt)　2(DET)　.(PERIODCATEGORY)　床鋪(N)　很(ADV)　舒服(Vi)　，(COMMACATEGORY)
+　但(C)　我(N)　的(T)　房間(N)　（(PARENTHESISCATEGORY)　809(DET)　）(PARENTHESISCATEGORY)　不(ADV)　乾淨(Vi)　，(COMMACATEGORY)
+　晚上(N)　做(Vt)　了(ASP)　很(ADV)　可怕(Vi)　的(T)　惡夢(N)　3(DET)　.(PERIODCATEGORY)　衛生間(N)　浴缸(N)　四周(N)　填滿(Vt)　了(ASP)　黑色(N)　污垢(N)　，(COMMACATEGORY)
+　亟待(Vt)　改進(Vt)　4(DET)　.(PERIODCATEGORY)　大堂(N)　寬敞(Vi)　高雅(Vi)　，(COMMACATEGORY)
+　前台(N)　有(Vt)　寬敞(Vi)　的(T)　椅子(N)　坐(Vi)　，(COMMACATEGORY)
+　所以(C)　可以(ADV)　半(DET)　躺(Vi)　在(P)　椅子(N)　上(N)　辦(Vt)　入住(Vt)　和(P)　退房(Vi)　手續(N)　，(COMMACATEGORY)
+　其它(DET)　酒店(N)　是(Vt)　很(ADV)　少見(Vi)　的(T)

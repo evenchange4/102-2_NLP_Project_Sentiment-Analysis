@@ -1,0 +1,5 @@
+　該(DET)　酒店(N)　嚴重(Vi)　名不副實(Vi)　，(COMMACATEGORY)
+　所謂(Vt)　的(T)　商務(N)　間(POST)　豪華(Vi)　間(POST)　就(ADV)　是(Vt)　一般(A)　的(T)　標準(N)　間(POST)　，(COMMACATEGORY)
+　套(Vt)　間(POST)　就(ADV)　是(Vt)　標準(N)　間(POST)　多出(Vt)　一(DET)　塊(M)　，(COMMACATEGORY)
+　設施(N)　陳舊(Vi)　，(COMMACATEGORY)
+　嚴重(Vi)　上當(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,1 @@
+　洗澡(Vi)　竟然(ADV)　沒有(Vt)　熱水(N)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　太(ADV)　鬱悶(Vi)　了(T)　~(FW)　~(FW)　第二(DET)　天(M)　還(ADV)　要(ADV)　爬山(Vi)　啊(T)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　不過(C)　網速(N)　還(ADV)　可以(ADV)　~(FW)

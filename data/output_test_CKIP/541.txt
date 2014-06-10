@@ -1,0 +1,5 @@
+　五星級(N)　的(T)　酒店(N)　，(COMMACATEGORY)
+　三星級(N)　的(T)　房間(N)　，(COMMACATEGORY)
+　兩(DET)　星級(N)　的(T)　服務(Nv)　，(COMMACATEGORY)
+　零星級(N)　的(T)　環境(N)　。(PERIODCATEGORY)
+　以後(N)　再(ADV)　也(ADV)　不會(ADV)　來(ADV)　這(DET)　家(M)　酒店(N)　了(T)　。(PERIODCATEGORY)

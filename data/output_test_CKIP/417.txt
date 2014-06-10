@@ -1,0 +1,6 @@
+　總的來說(ADV)　是(Vt)　不錯(Vi)　的(T)　酒店(N)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　但(C)　還(ADV)　有(Vt)　一些(DET)　小(Vi)　細節(N)　要(ADV)　注意(Vt)　，(COMMACATEGORY)
+　電腦(N)　寬帶(N)　接線處(N)　的(T)　板(N)　已(ADV)　壞(Vt)　，(COMMACATEGORY)
+　早餐(N)　送(Vt)　房(N)　後(POST)　在(P)　蛋餅(N)　裡(N)　發現(Vt)　鍋(N)　底(POST)　灰(Vi)　。(PERIODCATEGORY)
+　。(PERIODCATEGORY)
+　經(P)　交涉(Vt)　後(POST)　店方(N)　馬上(ADV)　來電(Vi)　致歉(Vi)　（(PARENTHESISCATEGORY)　這(DET)　點(M)　非常(ADV)　滿意(Vt)　，(COMMACATEGORY)
+　但(C)　希望(Vt)　在(P)　下(DET)　次(M)　入住(Vt)　不要(ADV)　再(ADV)　發生(Vt)　此(DET)　類(M)　事件(N)　）(PARENTHESISCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　下(DET)　次(M)　去(Vt)　成都(N)　還(ADV)　會(ADV)　繼續(Vt)　入住(Vt)　喜來登(N)

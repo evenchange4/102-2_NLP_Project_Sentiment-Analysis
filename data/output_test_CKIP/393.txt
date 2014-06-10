@@ -1,0 +1,6 @@
+　新(Vi)　的(T)　風格(N)　還是(ADV)　蠻(ADV)　精緻(Vi)　的(T)　，(COMMACATEGORY)
+　掩蓋(Vt)　了(ASP)　房間(N)　狹小(Vi)　的(T)　天生(Vi)　不足(Vi)　，(COMMACATEGORY)
+　但是(C)　有(Vt)　些(M)　細節(N)　尚(ADV)　不(ADV)　周到(Vi)　，(COMMACATEGORY)
+　比如(P)　那(DET)　個(M)　燒水(Vi)　的(T)　電壺(N)　，(COMMACATEGORY)
+　塑料(N)　味道(N)　很(ADV)　重(Vi)　，(COMMACATEGORY)
+　恐怕(ADV)　是(Vt)　不(ADV)　合格(Vi)　產品(N)　.(PERIODCATEGORY)

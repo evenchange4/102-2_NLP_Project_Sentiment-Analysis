@@ -1,0 +1,3 @@
+　酒店(N)　服務(Vt)　不錯(Vi)　，(COMMACATEGORY)
+　環境(N)　也(ADV)　還(ADV)　比較(ADV)　好(Vi)　！(EXCLAMATIONCATEGORY)　特別(Vi)　是(Vt)　好像(ADV)　是(Vt)　48樓(N)　那(DET)　個(M)　旋轉(Nv)　餐廳(N)　滿(ADV)　有(Vt)　特色(N)　，(COMMACATEGORY)
+　至少(ADV)　我(N)　覺得(Vt)　住(Vt)　這(DET)　個(M)　酒店(N)　還(ADV)　滿(ADV)　滿意(Vt)　！(EXCLAMATIONCATEGORY)

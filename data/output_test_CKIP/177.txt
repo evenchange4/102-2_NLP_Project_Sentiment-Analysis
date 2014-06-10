@@ -1,0 +1,5 @@
+　很(ADV)　不錯(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　我(N)　住(Vt)　的(T)　是(Vt)　商務(N)　間(POST)　，(COMMACATEGORY)
+　上網(Nv)　速度(N)　非常(ADV)　快(Vi)　，(COMMACATEGORY)
+　下載(Vt)　達到(Vt)　2(DET)　M/s(FW)　，(COMMACATEGORY)
+　非常(ADV)　爽(Vi)　！(EXCLAMATIONCATEGORY)　還(ADV)　在(P)　酒店(N)　碰到(Vt)　老朋友(N)　...(ETCCATEGORY)　世界(N)　真(Vi)　是(Vt)　小(Vi)　！(EXCLAMATIONCATEGORY)

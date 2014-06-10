@@ -1,0 +1,5 @@
+　地理(N)　位置(N)　很(ADV)　方便(Vi)　,(COMMACATEGORY)
+　就是(C)　緊挨(Vt)　著(ASP)　火車站(N)　,(COMMACATEGORY)
+　有點(ADV)　鬧心(N)　.(PERIODCATEGORY)　房間(N)　的(T)　配置(Nv)　還(ADV)　看(Vt)　的(T)　過去(N)　,(COMMACATEGORY)
+　比(P)　四(DET)　星(N)　差點(N)　,(COMMACATEGORY)
+　比(P)　三星(N)　強點(N)　.(PERIODCATEGORY)　亮點(N)　是(Vt)　衛生間(N)　有(Vt)　可以(ADV)　直接(Vi)　飲用(Vt)　的(T)　水龍頭(N)　.(PERIODCATEGORY)

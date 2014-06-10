@@ -1,0 +1,6 @@
+　這(DET)　是(Vt)　物(N)　有所(Vt)　值(N)　的(T)　三星級(N)　酒店(N)　,(COMMACATEGORY)
+　設施(N)　齊全(Vi)　包括(Vt)　洗浴(Nv)　間(POST)　小(Vi)　毛巾(N)　/(FW)　吹風機(N)　等(POST)　,(COMMACATEGORY)
+　房屋(N)　裝修(Vt)　新(Vi)　.(PERIODCATEGORY)　服務(Nv)　態度(N)　好(Vi)　如(P)　前台(N)　微笑(N)　服務(Vt)　好(Vi)　.(PERIODCATEGORY)　位於(Vt)　市中心(N)　但是(C)　臨(P)　街道(N)　而(C)　喧鬧(Vi)　,(COMMACATEGORY)
+　房間(N)　隔音(A)　效果(N)　不(ADV)　好(Vi)　.(PERIODCATEGORY)　早餐(N)　一般(POST)　.(PERIODCATEGORY)　補充(Vt)　點評(N)　2007年(N)　9月(N)　4日(N)　：(COLONCATEGORY)　房屋(N)　價格(N)　適中(Vi)　,(COMMACATEGORY)
+　但是(C)　協程(N)　預定(Vt)　沒有(Vt)　價格(N)　優勢(N)　,(COMMACATEGORY)
+　該(DET)　酒店(N)　前台(N)　價格(N)　與(C)　協程(N)　一樣(Vi)　.(PERIODCATEGORY)

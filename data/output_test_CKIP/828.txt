@@ -1,0 +1,2 @@
+　在(P)　該(DET)　區(N)　是(Vt)　最好(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　但(C)　離(P)　市區(N)　的(T)　酒店(N)　有(Vt)　一些(DET)　差距(N)　。(PERIODCATEGORY)

@@ -1,0 +1,1 @@
+　1(DET)　.(PERIODCATEGORY)　酒店(N)　設施(N)　比較(ADV)　舊(Vi)　2(DET)　.(PERIODCATEGORY)　早餐(N)　還是(ADV)　秉持(Vt)　較(ADV)　高(Vi)　的(T)　水平(N)　3(DET)　.(PERIODCATEGORY)　臨近(P)　醫院(N)　4(DET)　.(PERIODCATEGORY)　如果(C)　有(Vt)　條件(N)　可以(ADV)　入住(Vt)　同(DET)　一(DET)　個(M)　集團(N)　下(POST)　的(T)　就(ADV)　在(P)　旁邊(N)　的(T)　洲際(N)　酒店(N)

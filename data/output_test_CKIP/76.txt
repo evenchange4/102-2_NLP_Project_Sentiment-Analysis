@@ -1,0 +1,6 @@
+　服務(Vt)　很(ADV)　差(Vi)　,(COMMACATEGORY)
+　房間(N)　供(Vt)　暖(Vi)　不足(Vi)　。(PERIODCATEGORY)
+　換(Vt)　啦(T)　兩(DET)　次(M)　房間(N)　才(ADV)　行(Vi)　。(PERIODCATEGORY)
+　態度(N)　惡劣(Vi)　。(PERIODCATEGORY)
+　新(Vi)　房間(N)　床(N)　上(N)　有(Vt)　別人(N)　的(T)　毛髮(N)　。(PERIODCATEGORY)
+　叫(Vt)　服務員(N)　換(Vt)　還(ADV)　很(ADV)　不(ADV)　高興(Vt)　。(PERIODCATEGORY)

@@ -1,0 +1,7 @@
+　可能(ADV)　是(Vt)　住(Vt)　的(T)　時間(N)　很(ADV)　長(Vi)　，(COMMACATEGORY)
+　有(Vt)　一(DET)　個(M)　月(N)　，(COMMACATEGORY)
+　所以(C)　服務(Nv)　還是(ADV)　很(ADV)　不錯(Vi)　的(T)　，(COMMACATEGORY)
+　住(Vt)　在(P)　15樓(N)　，(COMMACATEGORY)
+　晚上(N)　還是(ADV)　比較(ADV)　安靜(Vi)　的(T)　，(COMMACATEGORY)
+　雖然(C)　是(Vt)　臨街(N)　的(T)　房間(N)　，(COMMACATEGORY)
+　早餐(N)　沒有(ADV)　太(ADV)　大(Vi)　的(T)　變化(N)　。(PERIODCATEGORY)

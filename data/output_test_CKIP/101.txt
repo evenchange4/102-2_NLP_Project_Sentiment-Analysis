@@ -1,0 +1,6 @@
+　房間(N)　設施(N)　陳舊(Vi)　，(COMMACATEGORY)
+　沙發(N)　大概(ADV)　是(Vt)　50年代(N)　的(T)　，(COMMACATEGORY)
+　衛生間(N)　很(ADV)　小(Vi)　。(PERIODCATEGORY)
+　早餐(N)　種類(N)　挺(ADV)　多(Vi)　，(COMMACATEGORY)
+　旋轉(Vt)　餐廳(N)　不錯(Vi)　，(COMMACATEGORY)
+　交通(N)　方便(Vi)　。(PERIODCATEGORY)

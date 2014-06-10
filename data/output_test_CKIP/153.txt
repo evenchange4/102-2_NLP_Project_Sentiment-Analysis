@@ -1,0 +1,4 @@
+　來到(Vt)　拉薩(N)　才(ADV)　發覺(Vt)　這(DET)　家(M)　飯店(N)　的(T)　價格(N)　的確(ADV)　是(Vt)　偏(ADV)　高(Vi)　，(COMMACATEGORY)
+　同樣(Vi)　水準(N)　的(T)　飯店(N)　在(P)　北京路(N)　上(POST)　都(ADV)　只(ADV)　需(Vt)　200(DET)　元(M)　以下(POST)　。(PERIODCATEGORY)
+　最(ADV)　大(Vi)　的(T)　問題(N)　是(Vt)　環境(N)　雜吵(N)　，(COMMACATEGORY)
+　睡(Vi)　不(ADV)　好(Vi)　。(PERIODCATEGORY)

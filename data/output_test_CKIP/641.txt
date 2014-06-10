@@ -1,0 +1,4 @@
+　酒店(N)　房間(N)　寬敞(Vi)　整潔(Vi)　,(COMMACATEGORY)
+　燈光(N)　柔和(Vi)　,(COMMACATEGORY)
+　總體(N)　來(ADV)　說(Vt)　還是(ADV)　不錯(Vi)　的(T)　.(PERIODCATEGORY)　前台(N)　服務生(N)　的(T)　態度(N)　也(ADV)　很(ADV)　好(Vi)　.(PERIODCATEGORY)　只是(C)　寬帶(N)　還(ADV)　需要(Vt)　收費(Nv)　,(COMMACATEGORY)
+　這(DET)　點(M)　是否(ADV)　應該(ADV)　改進(Vt)　.(PERIODCATEGORY)

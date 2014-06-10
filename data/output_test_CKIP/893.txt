@@ -1,0 +1,2 @@
+　在(P)　沙區(N)　算是(Vt)　很(ADV)　好(Vi)　的(T)　了(T)　.(PERIODCATEGORY)　因為(C)　在(P)　沙區(N)　辦事(Vi)　,(COMMACATEGORY)
+　所以(C)　只好(ADV)　選(Vt)　這(DET)　了(T)　.(PERIODCATEGORY)

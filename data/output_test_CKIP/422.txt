@@ -1,0 +1,5 @@
+　房間(N)　只(ADV)　能(ADV)　算(Vt)　很(ADV)　一般(Vi)　.(PERIODCATEGORY)　設施(N)　已經(ADV)　相當(ADV)　陳舊(Vi)　.(PERIODCATEGORY)　前台(N)　的(T)　服務(Nv)　水準(N)　有(Vt)　很(ADV)　大(Vi)　的(T)　問題(N)　.(PERIODCATEGORY)　沒有(ADV)　預(ADV)　授權(Vt)　,(COMMACATEGORY)
+　2(DET)　天(M)　的(T)　房租(N)　需要(Vt)　先(ADV)　結算(Vt)　,(COMMACATEGORY)
+　還(ADV)　要(ADV)　支付(Vt)　押金(N)　.(PERIODCATEGORY)　住(Vt)　遍(DET)　中國(N)　及(C)　國外(N)　那麼多(DET)　酒店(N)　,(COMMACATEGORY)
+　沒有(ADV)　遇到(Vt)　這樣(Vi)　的(T)　事情(N)　.(PERIODCATEGORY)　地理(N)　位置(N)　還可以(Vi)　!(EXCLAMATIONCATEGORY)　只是(C)　這(DET)　個(M)　價位(N)　,(COMMACATEGORY)
+　在(P)　深圳(N)　別的(DET)　選擇(N)　多(Vi)　的(T)　是(Vt)　.(PERIODCATEGORY)　以後(N)　不會(ADV)　再(ADV)　安排(Vt)　客戶(N)　住(Vt)　去(Vt)　那裡(N)　.(PERIODCATEGORY)

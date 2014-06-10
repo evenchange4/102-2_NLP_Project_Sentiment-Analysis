@@ -1,0 +1,7 @@
+　裝修(Vt)　前衛(Vi)　，(COMMACATEGORY)
+　但是(C)　絕對(ADV)　不(ADV)　夠(ADV)　精緻(Vi)　，(COMMACATEGORY)
+　甚至(ADV)　有(Vt)　低俗(Vi)　在(P)　裡面(N)　，(COMMACATEGORY)
+　不(ADV)　耐看(Vi)　！(EXCLAMATIONCATEGORY)　包括(Vt)　大堂(N)　和(C)　房間(N)　，(COMMACATEGORY)
+　咋(b)　不(T)　注意(Nv)　，(COMMACATEGORY)
+　還(ADV)　以為(Vt)　進(Vt)　了(ASP)　裝修(Vt)　檔次(N)　不(ADV)　夠(Vi)　的(T)　KTV(FW)　。(PERIODCATEGORY)
+　房間(N)　感覺(N)　髒兮兮(Vi)　的(T)　！(EXCLAMATIONCATEGORY)　性價(N)　比低(Vi)　！(EXCLAMATIONCATEGORY)

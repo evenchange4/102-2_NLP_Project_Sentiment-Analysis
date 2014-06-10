@@ -1,0 +1,7 @@
+　賓館(N)　背面(N)　就(ADV)　是(Vt)　省道(N)　,(COMMACATEGORY)
+　交通(N)　是(Vt)　方便(Vi)　的(T)　,(COMMACATEGORY)
+　停車場(N)　很(ADV)　大(Vi)　也(ADV)　很(ADV)　方便(Vi)　,(COMMACATEGORY)
+　但(C)　晚上(N)　尤其(ADV)　半夜(N)　路過(Vt)　的(T)　汽車(N)　聲音(N)　很(ADV)　響(Vi)　,(COMMACATEGORY)
+　拖拉機(N)　的(T)　聲音(N)　平均(Vi)　15(DET)　分鐘(M)　出現(Vi)　一(DET)　次(M)　,(COMMACATEGORY)
+　影響(N)　休息(Vi)　.(PERIODCATEGORY)　建議(N)　要(ADV)　入住(Vt)　此(DET)　賓館(N)　的(T)　朋友(N)　一定(ADV)　要(ADV)　選(Vt)　南面(N)　的(T)　房間(N)　,(COMMACATEGORY)
+　這樣(Vi)　可以(Vi)　遠離點(N)　噪音(N)　.(PERIODCATEGORY)

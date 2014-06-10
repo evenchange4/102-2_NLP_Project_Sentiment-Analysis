@@ -1,0 +1,5 @@
+　好(Vi)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　當時(N)　看到(Vt)　有(Vt)　人(N)　評價(N)　說(Vt)　什麼(DET)　騷擾(Nv)　電話(N)　多(Vi)　，(COMMACATEGORY)
+　我(N)　還(ADV)　心有餘悸(Vi)　呢(T)　，(COMMACATEGORY)
+　結果(ADV)　好(Vi)　的(T)　不得了(Vi)　嗎(T)　哪裡(ADV)　有(Vt)　電話(N)　？(QUESTIONCATEGORY)
+　我們(N)　自己人(N)　打電話(Vi)　，(COMMACATEGORY)
+　總(A)　台(N)　還(ADV)　會(ADV)　仔細(Vi)　核對(Vt)　身份(N)　呢(T)　而且(C)　房間(N)　也好(T)　服務(Vt)　也(ADV)　非常(ADV)　的(T)　好(Vi)　真的(ADV)　是(Vt)　徐州(N)　最(ADV)　號(Vt)　的(T)　酒店(N)　！(EXCLAMATIONCATEGORY)

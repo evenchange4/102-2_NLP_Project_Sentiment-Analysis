@@ -1,0 +1,5 @@
+　該(DET)　酒店(N)　是(Vt)　攜程(N)　所(ADV)　介紹(Vt)　的(T)　最(ADV)　差(Vi)　的(T)　，(COMMACATEGORY)
+　早飯(N)　很(ADV)　差(Vi)　，(COMMACATEGORY)
+　一(DET)　大(Vi)　群(M)　服務員(N)　坐(Vi)　在(P)　一(DET)　旁(N)　的(T)　挖鼻屎(N)　、(PAUSECATEGORY)　化妝(Nv)　、(PAUSECATEGORY)　大聲(Vi)　說話(Vi)　，(COMMACATEGORY)
+　噁心(Vi)　！(EXCLAMATIONCATEGORY)　補充(Vt)　點評(N)　2006年(N)　11月(N)　6日(N)　：(COLONCATEGORY)　大(A)　房間(N)　裡(N)　沒有(Vt)　小(Vi)　床(N)　，(COMMACATEGORY)
+　設施(N)　簡單(Vi)　。(PERIODCATEGORY)

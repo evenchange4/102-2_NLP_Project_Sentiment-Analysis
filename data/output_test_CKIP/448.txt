@@ -1,0 +1,6 @@
+　除了(P)　地理(N)　位置(N)　很(ADV)　好(Vi)　之外(POST)　，(COMMACATEGORY)
+　服務(Vt)　差(Vi)　，(COMMACATEGORY)
+　房間(N)　味道(N)　大(Vi)　，(COMMACATEGORY)
+　隔音(A)　效果(N)　差(Vi)　，(COMMACATEGORY)
+　早餐(N)　簡直(ADV)　無法(ADV)　下箸(Vi)　另外(C)　，(COMMACATEGORY)
+　服務員(N)　經常(ADV)　拒絕(Vt)　客人(N)　使用(Vt)　信用卡(N)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)

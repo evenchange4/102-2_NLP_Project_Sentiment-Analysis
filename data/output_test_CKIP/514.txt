@@ -1,0 +1,2 @@
+　地理(N)　位置(N)　對(P)　出差(Vi)　的(T)　人士(N)　來(ADV)　說(Vt)　還是(ADV)　很(ADV)　方便(Vi)　的(T)　，(COMMACATEGORY)
+　好(Vi)　找(Vt)　啊(T)　.(PERIODCATEGORY)

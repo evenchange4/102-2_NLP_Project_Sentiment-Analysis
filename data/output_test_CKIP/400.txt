@@ -1,0 +1,5 @@
+　環境(N)　和(C)　各(DET)　方面(N)　的(T)　設施(N)　都(ADV)　很(ADV)　老舊(Vi)　，(COMMACATEGORY)
+　房間(N)　小(Vi)　，(COMMACATEGORY)
+　次(DET)　所(M)　小(Vi)　得(T)　離譜(Vi)　，(COMMACATEGORY)
+　服務(Nv)　態度(N)　也(ADV)　一般(Vi)　。(PERIODCATEGORY)
+　實在(ADV)　連(Vt)　3星級(N)　都(ADV)　算不上(Vt)

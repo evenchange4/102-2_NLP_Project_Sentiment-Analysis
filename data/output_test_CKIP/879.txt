@@ -1,0 +1,8 @@
+　在(P)　攜程(N)　預定(Vt)　酒店(N)　這麼多(DET)　次(M)　，(COMMACATEGORY)
+　遇到(Vt)　的(T)　最(ADV)　爛(Vi)　的(T)　酒店(N)　。(PERIODCATEGORY)
+　住(Vt)　在(P)　行政(N)　豪華房(N)　，(COMMACATEGORY)
+　早上(N)　7(DET)　點(M)　半(DET)　起來(Vi)　連(C)　洗澡(Vi)　的(T)　熱水(N)　也(ADV)　沒有(Vt)　。(PERIODCATEGORY)
+　開發(Vt)　票(N)　時(POST)　說(Vt)　沒有(Vt)　發票(N)　，(COMMACATEGORY)
+　請(Vt)　攜程(N)　幫幫忙(Vi)　，(COMMACATEGORY)
+　不要(ADV)　把(P)　這(DET)　種(M)　酒店(N)　放(Vt)　在(P)　你們(N)　網(N)　上(N)　害人(N)　。(PERIODCATEGORY)
+　謝謝(Vt)　！(EXCLAMATIONCATEGORY)

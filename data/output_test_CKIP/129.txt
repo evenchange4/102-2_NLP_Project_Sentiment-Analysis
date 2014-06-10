@@ -1,0 +1,7 @@
+　中(N)　餐廳(N)　絕對(ADV)　不(ADV)　是(Vt)　五(DET)　星(N)　：(COLONCATEGORY)　晚(N)　8(DET)　點(M)　多(DET)　時(M)　去(Vt)　的(T)　2樓(N)　中(N)　餐廳(N)　，(COMMACATEGORY)
+　沒(Vt)　什麼(DET)　人(N)　用餐(Vi)　，(COMMACATEGORY)
+　餐廳(N)　環境(N)　猶如(Vt)　一般(A)　小店(N)　，(COMMACATEGORY)
+　餐具(N)　也(ADV)　很(ADV)　一般(Vi)　，(COMMACATEGORY)
+　桌(N)　上(N)　沒有(Vt)　餐巾紙(N)　，(COMMACATEGORY)
+　沒有(Vt)　牙籤(N)　。(PERIODCATEGORY)
+　上菜(Vi)　也(ADV)　慢(Vi)　。(PERIODCATEGORY)

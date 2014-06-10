@@ -1,0 +1,4 @@
+　中(N)　歸(Vi)　中(POST)　舉(Vt)　的(T)　酒店(N)　，(COMMACATEGORY)
+　但(C)　地理(N)　位置(N)　特別(Vi)　好(Vi)　，(COMMACATEGORY)
+　價格(N)　也(ADV)　還(ADV)　能(ADV)　接受(Vt)　，(COMMACATEGORY)
+　下(DET)　次(M)　來(ADV)　應該(ADV)　還(ADV)　會(ADV)　在(P)　住(Vt)　這裡(N)

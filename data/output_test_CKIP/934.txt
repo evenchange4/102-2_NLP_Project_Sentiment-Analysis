@@ -1,0 +1,3 @@
+　還不如(C)　直接(Vi)　到(Vt)　那裡(N)　找(Vt)　個(M)　導遊(N)　去(ADV)　訂(Vt)　都(ADV)　比(P)　攜程(N)　訂(Vt)　的(T)　便宜(Vi)　,(COMMACATEGORY)
+　導遊(N)　說(Vt)　十一(DET)　他們(N)　能(ADV)　拿到(Vt)　300(DET)　元(M)　的(T)　價格(N)　,(COMMACATEGORY)
+　攜程(N)　給(Vt)　我(N)　的(T)　價格(N)　太(ADV)　高(Vi)　了(T)

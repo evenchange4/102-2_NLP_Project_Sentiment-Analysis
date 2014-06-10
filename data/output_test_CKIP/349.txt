@@ -1,0 +1,6 @@
+　房間(N)　不(ADV)　是(Vt)　很(ADV)　大(Vi)　，(COMMACATEGORY)
+　但是(C)　衛生間(N)　裝(Vt)　的(T)　很(ADV)　有(Vt)　創意(N)　。(PERIODCATEGORY)
+　早餐(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　品種(N)　多(Vi)　，(COMMACATEGORY)
+　而且(C)　味道(N)　不錯(Vi)　，(COMMACATEGORY)
+　服務(Nv)　人員(N)　的(T)　態度(N)　也(ADV)　很(ADV)　好(Vi)　。(PERIODCATEGORY)

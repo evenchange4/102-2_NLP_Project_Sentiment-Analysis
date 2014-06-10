@@ -1,0 +1,3 @@
+　酒店(N)　不錯(Vi)　，(COMMACATEGORY)
+　只(ADV)　是(Vt)　電視機(N)　小(Vi)　了(ASP)　一點(ADV)　，(COMMACATEGORY)
+　下(DET)　次(M)　還(ADV)　會(ADV)　入住(Vt)　。(PERIODCATEGORY)

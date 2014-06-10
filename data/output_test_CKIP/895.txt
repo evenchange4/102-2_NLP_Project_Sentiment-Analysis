@@ -1,0 +1,4 @@
+　如(C)　要(ADV)　入住(Vt)　請(Vt)　記住(Vt)　以下(N)　幾(DET)　點(M)　,(COMMACATEGORY)
+　我(N)　提議(Vt)　最好(ADV)　不要(ADV)　入住(Vt)　,(COMMACATEGORY)
+　通過(Vt)　攜程還(Vt)　有(Vt)　很多(DET)　選擇(N)　.(PERIODCATEGORY)　1(DET)　.(PERIODCATEGORY)　電視機(N)　要(ADV)　投訴(Vi)　金苑(N)　酒店(N)　1(DET)　.(PERIODCATEGORY)　我(N)　是(Vt)　預定(Vt)　12(DET)　/(FW)　26(DET)　-(DASHCATEGORY)　12(DET)　/(FW)　28(DET)　共(ADV)　二(DET)　晚(M)　金苑(N)　酒店(N)　.(PERIODCATEGORY)　預定(Vt)　要求(Vt)　三(DET)　個(M)　房間(N)　在(P)　同一(N)　樓層(N)　.(PERIODCATEGORY)　可是(C)　有(Vt)　一(DET)　個(M)　房間(N)
+　在(P)　A(FW)　座(M)　((PARENTHESISCATEGORY)　$(FW)　450(DET)　)(PARENTHESISCATEGORY)　.(PERIODCATEGORY)　另外(ADV)　兩(DET)　個(M)　在(P)　((PARENTHESISCATEGORY)　$(FW)　330(DET)　)(PARENTHESISCATEGORY)　在(P)　B(FW)　座(M)　.(PERIODCATEGORY)　我(N)　聽到(Vt)　前台(N)　的(T)　工作(N)　?(QUESTIONCATEGORY)

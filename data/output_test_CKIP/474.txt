@@ -1,0 +1,7 @@
+　很(ADV)　不錯(Vi)　的(T)　酒店(N)　：(COLONCATEGORY)　服務員(N)　彬彬有禮(Vi)　，(COMMACATEGORY)
+　大方(Vi)　親切(Vi)　。(PERIODCATEGORY)
+　機場(N)　接機路(N)　上(POST)　就(ADV)　辦好(Vt)　了(ASP)　入住(Vt)　手續(N)　；(SEMICOLONCATEGORY)　再次(ADV)　入住(Vt)　時(POST)　提前(Vi)　做好(Vt)　了(ASP)　夜床(N)　，(COMMACATEGORY)
+　調(Vt)　熱(Vt)　了(ASP)　室溫(N)　，(COMMACATEGORY)
+　號稱(Vt)　預(N)　前(POST)　服務(Vt)　。(PERIODCATEGORY)
+　餐飲(N)　的(T)　質量(N)　也(ADV)　算好(Vt)　。(PERIODCATEGORY)
+　向(P)　會員(N)　推薦(Vt)　！(EXCLAMATIONCATEGORY)

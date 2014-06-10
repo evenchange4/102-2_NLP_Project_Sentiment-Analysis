@@ -1,0 +1,3 @@
+　地段(N)　不錯(Vi)　,(COMMACATEGORY)
+　房間(N)　雖(C)　小(Vi)　但(C)　乾淨(Vi)　,(COMMACATEGORY)
+　適合(Vi)　商務(N)　活動(N)　.(PERIODCATEGORY)

@@ -1,0 +1,6 @@
+　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　就是(C)　比較(ADV)　難找(Vt)　，(COMMACATEGORY)
+　因為(C)　長寧(N)　路(N)　太(ADV)　長(Vi)　了(T)　。(PERIODCATEGORY)
+　打(Vt)　車(N)　的(T)　話(N)　，(COMMACATEGORY)
+　司機(N)　一般(ADV)　也(ADV)　找(Vt)　不(ADV)　到(Vt)　，(COMMACATEGORY)
+　浪費(Vt)　了(ASP)　很多(DET)　時間(N)　。(PERIODCATEGORY)

@@ -1,0 +1,6 @@
+　酒店(N)　位置(N)　不錯(Vi)　，(COMMACATEGORY)
+　房間(N)　質量(N)　也(ADV)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　就是(C)　停車位(N)　少(Vi)　了(ASP)　一點(ADV)　，(COMMACATEGORY)
+　停車(Vi)　有點(ADV)　緊張(Vi)　。(PERIODCATEGORY)
+　不過(C)　也(ADV)　可以(ADV)　理解(Vt)　，(COMMACATEGORY)
+　因為(C)　處於(Vt)　南京市(N)　市中心(N)　。(PERIODCATEGORY)

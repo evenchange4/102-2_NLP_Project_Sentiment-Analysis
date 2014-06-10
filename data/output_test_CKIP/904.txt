@@ -1,0 +1,7 @@
+　不錯(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　早餐(N)　也好(T)　，(COMMACATEGORY)
+　客房(N)　比較(ADV)　舒適(Vi)　，(COMMACATEGORY)
+　還是(ADV)　比較(ADV)　滿意(Vt)　的(T)　一(DET)　次(M)　預訂(Vt)　賓館(N)　反饋(Vt)　2008年(N)　8月(N)　8日(N)　：(COLONCATEGORY)　感謝(Vt)　您(N)　對(P)　本(DET)　酒店(N)　的(T)　支持(Nv)　！(EXCLAMATIONCATEGORY)　我們(N)　將(ADV)　一如(Vt)　既(C)　往(P)　地(N)　保持(Vt)　5星級(N)　的(T)　餐飲(N)　和(C)　服務(Nv)　標準(N)　，(COMMACATEGORY)
+　歡迎(Vt)　您(N)　再次(ADV)　下榻(Vt)　，(COMMACATEGORY)
+　衷心(ADV)　祝(Vt)　您(N)　身體(N)　健康(Vi)　，(COMMACATEGORY)
+　工作(N)　順利(Vi)　!(EXCLAMATIONCATEGORY)

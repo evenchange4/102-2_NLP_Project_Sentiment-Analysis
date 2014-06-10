@@ -1,0 +1,8 @@
+　環境(N)　很(ADV)　不(ADV)　好(Vi)　,(COMMACATEGORY)
+　在(P)　老(Vi)　火車站(N)　旁邊(N)　,(COMMACATEGORY)
+　很(ADV)　舊(Vi)　很(ADV)　吵鬧(Vi)　,(COMMACATEGORY)
+　像(P)　大多數(DET)　網友(N)　說(Vt)　的(T)　,(COMMACATEGORY)
+　攜(Vt)　程定房(N)　雖然(C)　便宜(Vi)　點(ADV)　,(COMMACATEGORY)
+　可(ADV)　房間(N)　是(Vt)　酒店(N)　有(Vt)　差(Vi)　級(N)　的(T)　話(N)　,(COMMACATEGORY)
+　給(Vt)　我(N)　的(T)　是(Vt)　角落(N)　上(N)　的(T)　房間(N)　902(DET)　,(COMMACATEGORY)
+　房間(N)　空間(N)　是(Vt)　同(DET)　層(M)　中(POST)　最(ADV)　小(Vi)　的(T)　.(PERIODCATEGORY)　不過(C)　整(DET)　個(M)　上饒市(N)　都(ADV)　很(ADV)　破舊(Vi)　也(ADV)　在(P)　情理(N)　之中(POST)　吧(T)

@@ -1,0 +1,7 @@
+　服務(Vt)　好(Vi)　，(COMMACATEGORY)
+　結賬(Vi)　快(Vi)　，(COMMACATEGORY)
+　門口(N)　有(Vt)　好(Vi)　出租車(N)　。(PERIODCATEGORY)
+　最(ADV)　重要(Vi)　的(T)　，(COMMACATEGORY)
+　早餐(N)　真(ADV)　好(Vi)　。(PERIODCATEGORY)
+　單(A)　人間(N)　價格(N)　合理(Vi)　，(COMMACATEGORY)
+　但(C)　標間(N)　一(DET)　個(M)　人(N)　住(Vt)　不(ADV)　太(ADV)　合適(Vi)　。(PERIODCATEGORY)

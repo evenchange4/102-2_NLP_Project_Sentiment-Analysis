@@ -1,0 +1,5 @@
+　在(P)　預定(Vt)　時間(N)　到(Vt)　前台(N)　進行(Vt)　登記(Nv)　時(POST)　，(COMMACATEGORY)
+　服務(Nv)　人員(N)　告訴(Vt)　我們(N)　：(COLONCATEGORY)　XC(FW)　沒有(ADV)　進行(Vt)　預定(Vt)　，(COMMACATEGORY)
+　後來(N)　通過(Vt)　多(DET)　次(M)　電話(N)　......(ETCCATEGORY)　，(COMMACATEGORY)
+　另外(C)　，(COMMACATEGORY)
+　預定(Vt)　價格(N)　和(C)　門市(N)　價格(N)　只(ADV)　有(Vt)　4(DET)　元(M)　價差(N)　......(ETCCATEGORY)

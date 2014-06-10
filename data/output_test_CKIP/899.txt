@@ -1,0 +1,7 @@
+　很(ADV)　不錯(Vi)　的(T)　司星(N)　酒店(N)　，(COMMACATEGORY)
+　已經(ADV)　是(Vt)　為(P)　我們(N)　的(T)　貴賓(N)　客戶(N)　第四(DET)　次(M)　預訂(Vt)　了(ASP)　，(COMMACATEGORY)
+　預定(Vt)　的(T)　行政(N)　豪華房(N)　，(COMMACATEGORY)
+　非常(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　只(ADV)　是(Vt)　房間(N)　略(ADV)　顯(Vt)　小(Vi)　了(ASP)　些(ADV)　，(COMMACATEGORY)
+　但(C)　總體(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　服務業(N)　很(ADV)　好(Vi)　！(EXCLAMATIONCATEGORY)　值得(Vi)　推薦(Vt)　！(EXCLAMATIONCATEGORY)

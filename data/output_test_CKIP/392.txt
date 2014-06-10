@@ -1,0 +1,5 @@
+　房價(N)　非常(ADV)　貴(Vi)　,(COMMACATEGORY)
+　幾乎(ADV)　沒有(Vt)　房間(N)　可以(ADV)　看到(Vt)　對岸(N)　的(T)　象鼻山(N)　.(PERIODCATEGORY)　送(Vt)　的(T)　水果(N)　餅乾(N)　又(ADV)　少(ADV)　又(ADV)　不(ADV)　好吃(Vi)　.(PERIODCATEGORY)　裝修(Vt)　很(ADV)　低檔(N)　的(T)　,(COMMACATEGORY)
+　離(P)　市區(N)　很(ADV)　遠(Vi)　,(COMMACATEGORY)
+　附近(N)　沒有(ADV)　吃(Vt)　的(T)　地方(N)　,(COMMACATEGORY)
+　吃(Vt)　個(M)　米粉(N)　都(ADV)　要(ADV)　打(Vt)　的(T)　去(Vt)　市區(N)　!(EXCLAMATIONCATEGORY)　((PARENTHESISCATEGORY)　附帶(Vt)　的(T)　說(Vt)　超難打(Vt)　)(PARENTHESISCATEGORY)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　!(EXCLAMATIONCATEGORY)　誰(N)　想(Vt)　燒(Vt)　錢(N)　誰(N)　去(ADV)　住(Vt)　這(DET)　個(M)　號稱(Vt)　桂林(N)　第一(DET)　第二(DET)　老舊(Vi)　的(T)　酒店(N)

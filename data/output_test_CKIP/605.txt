@@ -1,0 +1,6 @@
+　酒店(N)　很(ADV)　清靜(Vi)　，(COMMACATEGORY)
+　是(Vt)　典型(Vi)　的(T)　商務(N)　住宿(Nv)　選擇(N)　，(COMMACATEGORY)
+　早餐(N)　不(ADV)　是(Vt)　自助(Vi)　而是(C)　套餐(N)　也(ADV)　很(ADV)　有(Vt)　特色(N)　，(COMMACATEGORY)
+　主要(ADV)　在(P)　天津(N)　幹道(N)　邊(N)　交通(N)　還(ADV)　算(Vt)　方便(Vi)　。(PERIODCATEGORY)
+　沒有(Vt)　娛樂(N)　設施(N)　，(COMMACATEGORY)
+　喜歡(Vt)　熱鬧(Vi)　的(T)　不應該(ADV)　住(Vt)　在(P)　這裡(N)　。(PERIODCATEGORY)

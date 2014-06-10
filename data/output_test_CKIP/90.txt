@@ -1,0 +1,4 @@
+　價格(N)　適中(Vi)　，(COMMACATEGORY)
+　裝修(Vt)　還可以(Vi)　。(PERIODCATEGORY)
+　早餐(N)　尚可(Vi)　。(PERIODCATEGORY)
+　物(N)　有所(Vt)　值(N)

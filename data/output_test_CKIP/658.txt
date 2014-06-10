@@ -1,0 +1,5 @@
+　太(ADV)　爛(Vi)　了(T)　，(COMMACATEGORY)
+　房間(N)　小(Vi)　，(COMMACATEGORY)
+　門口(N)　停車(Vi)　還(ADV)　要(ADV)　收費(Vt)　，(COMMACATEGORY)
+　屋(N)　裡(N)　霉味(N)　很(ADV)　重(Vi)　，(COMMACATEGORY)
+　不(ADV)　知道(Vt)　那些(DET)　說(Vt)　好(Vi)　的(T)　人(N)　是(Vt)　怎麼(ADV)　體驗(Vt)　的(T)　。(PERIODCATEGORY)

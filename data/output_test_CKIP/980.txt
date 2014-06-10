@@ -1,0 +1,8 @@
+　酒店(N)　設施(N)　非常(ADV)　一般(Vi)　，(COMMACATEGORY)
+　連(C)　三星(N)　都(ADV)　不如(Vt)　，(COMMACATEGORY)
+　甚至(C)　連(C)　一些(DET)　新(Vi)　開(Vt)　的(T)　無星級(N)　的(T)　商務(N)　酒店(N)　都(ADV)　不如(Vt)　。(PERIODCATEGORY)
+　房間(N)　也(ADV)　很(ADV)　小(Vi)　，(COMMACATEGORY)
+　服務(Nv)　也(ADV)　很(ADV)　一般(Vi)　。(PERIODCATEGORY)
+　價格(N)　非常(ADV)　不值(Vi)　，(COMMACATEGORY)
+　性價(N)　比(P)　太(ADV)　差(Vi)　。(PERIODCATEGORY)
+　以後(N)　不會(ADV)　再(ADV)　入住(Vt)　。(PERIODCATEGORY)

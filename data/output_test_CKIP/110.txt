@@ -1,0 +1,4 @@
+　標準(N)　間(N)　環境(N)　不怎麼(ADV)　的(T)　，(COMMACATEGORY)
+　樓層(N)　低(Vi)　、(PAUSECATEGORY)　有(Vt)　蚊子(N)　。(PERIODCATEGORY)
+　商務(N)　間(POST)　還(ADV)　可以(ADV)　，(COMMACATEGORY)
+　大(Vi)　床(N)　房1(N)

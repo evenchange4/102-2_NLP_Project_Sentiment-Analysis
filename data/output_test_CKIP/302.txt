@@ -1,0 +1,3 @@
+　海興(N)　慕名(Vi)　而(C)　去(T)　！(EXCLAMATIONCATEGORY)　我(N)　的(T)　評價(N)　：(COLONCATEGORY)　地段(N)　差(Vi)　，(COMMACATEGORY)
+　服務(Vt)　一般(A)　般(POST)　，(COMMACATEGORY)
+　硬件(N)　還可以(Vi)　！(EXCLAMATIONCATEGORY)

@@ -1,0 +1,6 @@
+　房間(N)　太(ADV)　差(Vi)　,(COMMACATEGORY)
+　電梯(N)　愛壞(Vt)　,(COMMACATEGORY)
+　差點(ADV)　被(P)　鎖(Vt)　在(P)　電梯(N)　裡(N)　出(Vt)　不(ADV)　來(Vi)　,(COMMACATEGORY)
+　爬到(Vt)　六樓(N)　快(ADV)　累死(Vt)　了(T)　,(COMMACATEGORY)
+　再(ADV)　也(ADV)　不會(ADV)　住(Vt)　.(PERIODCATEGORY)　強烈(Vi)　建議(Vt)　大家(N)　考慮(Vt)　其他(DET)　經濟型(N)　酒店(N)　,(COMMACATEGORY)
+　如(P)　家(N)　越來越(ADV)　差(Vi)　了(T)　.(PERIODCATEGORY)

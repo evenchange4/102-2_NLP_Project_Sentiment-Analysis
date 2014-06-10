@@ -1,0 +1,2 @@
+　同意(Vt)　樓上(N)　點評(N)　。(PERIODCATEGORY)
+　每(DET)　房(M)　在(P)　標價(N)　外(N)　另(DET)　加收(Vt)　城建費(N)　8(DET)　元(M)　。(PERIODCATEGORY)

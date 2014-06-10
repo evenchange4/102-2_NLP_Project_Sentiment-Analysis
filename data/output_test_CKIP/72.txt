@@ -1,0 +1,1 @@
+　很(ADV)　一般(A)　的(T)　四星級(N)　酒店(N)　.(PERIODCATEGORY)　環境(N)　不錯(Vi)　.(PERIODCATEGORY)　房間(N)　實在(ADV)　不(ADV)　怎麼樣(Vi)　.(PERIODCATEGORY)　服務(Nv)　還(ADV)　行(Vi)　.(PERIODCATEGORY)

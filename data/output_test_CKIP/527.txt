@@ -1,0 +1,2 @@
+　硬件(N)　設施(N)　太(ADV)　舊(Vi)　挨(Vt)　著(ASP)　大街(N)　，(COMMACATEGORY)
+　環境(N)　很(ADV)　吵(Vi)　價格(N)　偏(ADV)　高(Vi)　不符(Vt)　4星(N)

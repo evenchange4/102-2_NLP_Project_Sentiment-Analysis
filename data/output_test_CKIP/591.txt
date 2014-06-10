@@ -1,0 +1,4 @@
+　房間(N)　比較(ADV)　寬敞(Vi)　，(COMMACATEGORY)
+　大堂(N)　和(C)　5星級(N)　的(T)　差距(N)　較(ADV)　大(Vi)　。(PERIODCATEGORY)
+　電梯(N)　的(T)　速度(N)　快(Vi)　，(COMMACATEGORY)
+　尤其(ADV)　到(P)　高層(N)　。(PERIODCATEGORY)

@@ -1,0 +1,2 @@
+　酒店(N)　噪音(N)　太(ADV)　利害(N)　,(COMMACATEGORY)
+　幾乎(ADV)　沒有(Vt)　隔音(A)　設施(N)　不(ADV)　符合(Vt)　環保(N)　要求(N)　.(PERIODCATEGORY)　且(C)　酒店(N)　的(T)　負責人(N)　態度(N)　惡劣(Vi)　不(ADV)　以(P)　客人(N)　利益(N)　考慮(Vt)　.(PERIODCATEGORY)　一(DET)　方(M)　地頭蛇架(N)　不符(Vt)　星級(N)　標準(N)　.(PERIODCATEGORY)

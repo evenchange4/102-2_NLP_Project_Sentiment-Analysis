@@ -1,0 +1,6 @@
+　雨(N)　夜(N)　凌晨(N)　住進(Vt)　這(DET)　家(M)　店(N)　,(COMMACATEGORY)
+　感覺(N)　上(POST)　很(ADV)　難找(Vt)　,(COMMACATEGORY)
+　住(Vt)　的(T)　公寓(N)　樓(N)　也(ADV)　較(P)　難找(Vt)　,(COMMACATEGORY)
+　房間(N)　雖(C)　擁擠(Vi)　但(C)　功能(N)　也(ADV)　算(Vt)　完備(Vi)　,(COMMACATEGORY)
+　感覺(Vt)　酒店(N)　的(T)　機場(N)　接送(Vt)　服務(Nv)　很(ADV)　好(Vi)　,(COMMACATEGORY)
+　雖然(C)　一路(ADV)　上(Vt)　被(P)　數(DET)　次(M)　顛醒(Vt)　!(EXCLAMATIONCATEGORY)　呵呵(ADV)

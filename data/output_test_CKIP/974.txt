@@ -1,0 +1,4 @@
+　晚上(N)　沒完沒了(Vi)　的(T)　騷擾(Nv)　電話(N)　，(COMMACATEGORY)
+　讓(Vt)　人(N)　真的(ADV)　不(ADV)　敢(Vt)　恭維(Vt)　補充(Vt)　點評(N)　2007年(N)　12月(N)　14日(N)　：(COLONCATEGORY)　我(N)　打(Vt)　的(T)　都(ADV)　是(Vt)　1(DET)　分(M)　，(COMMACATEGORY)
+　怎麼(ADV)　平均(Vi)　出來(Vi)　是(Vt)　2(DET)　分(M)　？(QUESTIONCATEGORY)
+　莫名其妙(Vi)

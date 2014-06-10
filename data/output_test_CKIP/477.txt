@@ -1,0 +1,7 @@
+　入住(Vt)　前(N)　詢問(Vt)　態度(N)　還(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　但是(C)　朋友(N)　說(Vt)　房間(N)　蓮蓬頭水(N)　很(ADV)　小(Vi)　,(COMMACATEGORY)
+　還(ADV)　漏水(Vi)　,(COMMACATEGORY)
+　吵(Vt)　的(T)　睡(Vi)　不(ADV)　著(Vt)　,(COMMACATEGORY)
+　隔(P)　天(N)　要求(Vt)　退房(Vi)　,(COMMACATEGORY)
+　也許(ADV)　是(Vt)　不同(Vi)　服務(Nv)　人員(N)　,(COMMACATEGORY)
+　態度(N)　很(ADV)　差(Vi)

@@ -1,0 +1,8 @@
+　幫(P)　一(DET)　位(M)　老外(N)　客戶(N)　訂(Vt)　的(T)　，(COMMACATEGORY)
+　環境(N)　不錯(Vi)　，(COMMACATEGORY)
+　值得(Vi)　推薦(Vt)　，(COMMACATEGORY)
+　住(Vt)　的(T)　是(Vt)　豪華房(N)　，(COMMACATEGORY)
+　只(ADV)　是(Vt)　價格(N)　太(ADV)　高(Vi)　，(COMMACATEGORY)
+　希望(Vt)　攜程(N)　能(ADV)　與(P)　酒店(N)　再(ADV)　談(Vt)　下(DET)　價(N)　，(COMMACATEGORY)
+　更(ADV)　再(ADV)　便宜(Vi)　就(ADV)　好了(T)　，(COMMACATEGORY)
+　客戶(N)　說(Vt)　下(DET)　次(M)　還(ADV)　會(ADV)　來(ADV)　住(Vt)　！(EXCLAMATIONCATEGORY)

@@ -1,0 +1,4 @@
+　酒店(N)　非常(ADV)　一般(Vi)　，(COMMACATEGORY)
+　設施(N)　很(ADV)　老(Vi)　，(COMMACATEGORY)
+　位置(N)　也(ADV)　比較(ADV)　偏(Vi)　，(COMMACATEGORY)
+　嚴重(Vi)　不復(ADV)　合(Vt)　這(DET)　個(M)　價位(N)

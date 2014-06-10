@@ -1,0 +1,4 @@
+　感覺(N)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　雖然(C)　不(ADV)　算(Vt)　新(Vi)　也(ADV)　不(ADV)　算(Vt)　豪華(Vi)　。(PERIODCATEGORY)
+　地(N)　下(N)　一(DET)　層(M)　的(T)　桑(N)　那(DET)　按摩(Nv)　（(PARENTHESISCATEGORY)　當然(ADV)　應該(ADV)　是(Vt)　獨立(Vi)　經營(Vt)　的(T)　）(PARENTHESISCATEGORY)　騙錢(Vi)　，(COMMACATEGORY)
+　故意(Vt)　不(ADV)　說(Vt)　要(ADV)　加(Vt)　房間(N)　錢(N)　。(PERIODCATEGORY)

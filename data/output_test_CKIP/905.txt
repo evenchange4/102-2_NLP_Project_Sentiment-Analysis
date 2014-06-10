@@ -1,0 +1,6 @@
+　交通(N)　很(ADV)　方便(Vi)　，(COMMACATEGORY)
+　房間(N)　小(Vi)　了(ASP)　一點(ADV)　，(COMMACATEGORY)
+　但是(C)　乾淨(Vi)　整潔(Vi)　，(COMMACATEGORY)
+　很(ADV)　有(Vt)　香港(N)　的(T)　特色(N)　，(COMMACATEGORY)
+　性價(N)　比較(ADV)　高(Vi)　，(COMMACATEGORY)
+　推薦(Vt)　一下(N)　哦(T)

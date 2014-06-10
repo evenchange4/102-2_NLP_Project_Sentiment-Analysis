@@ -1,0 +1,4 @@
+　交通(N)　方便(Vi)　，(COMMACATEGORY)
+　周邊(N)　也(ADV)　熱鬧(Vi)　，(COMMACATEGORY)
+　房間(N)　小(Vi)　在(P)　香港(N)　那(DET)　是(Vt)　自然(Vi)　的(T)　了(T)　，(COMMACATEGORY)
+　總的說來(ADV)　是(Vt)　物(N)　有所(Vt)　值(Vt)　了(ASP)　。(PERIODCATEGORY)

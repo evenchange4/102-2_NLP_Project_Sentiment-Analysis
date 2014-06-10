@@ -1,0 +1,6 @@
+　服務(Vt)　很(ADV)　熱情(Vi)　，(COMMACATEGORY)
+　房間(N)　溫度(N)　正好(Vi)　，(COMMACATEGORY)
+　隔音(A)　效果(N)　好(Vi)　，(COMMACATEGORY)
+　地理(N)　位置(N)　優越(Vi)　，(COMMACATEGORY)
+　性價(N)　比(P)　高(Vi)　，(COMMACATEGORY)
+　下(DET)　次(M)　來(ADV)　還(ADV)　住(Vt)　這裡(N)　！(EXCLAMATIONCATEGORY)

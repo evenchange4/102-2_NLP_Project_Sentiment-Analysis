@@ -1,0 +1,4 @@
+　因為(C)　客戶(N)　就(ADV)　在(P)　旁邊(N)　一(DET)　棟(M)　樓(N)　，(COMMACATEGORY)
+　所以(C)　就近(ADV)　住(Vt)　了(ASP)　，(COMMACATEGORY)
+　不過(C)　這(DET)　個(M)　地方(N)　好像(ADV)　也(ADV)　就(ADV)　只要(C)　這麼(ADV)　一(DET)　個(M)　大(Vi)　點(ADV)　的(T)　賓館(N)　吧(T)　，(COMMACATEGORY)
+　同事(N)　說(Vt)　好像(ADV)　是(Vt)　日本人(N)　開(Vt)　的(T)

@@ -1,0 +1,6 @@
+　服務(Vt)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　按(P)　服務(Nv)　中心(N)　按鈕(Vi)　，(COMMACATEGORY)
+　提出(Vt)　自己(N)　的(T)　需求(N)　，(COMMACATEGORY)
+　很(ADV)　快(Vi)　就(ADV)　有(Vt)　人(N)　對應(Nv)　。(PERIODCATEGORY)
+　不足(Vi)　是(Vt)　：(COLONCATEGORY)　房間(N)　有(Vt)　些(M)　小(Vi)　，(COMMACATEGORY)
+　房子(N)　有(Vt)　些(M)　舊(Vi)

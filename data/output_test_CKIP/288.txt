@@ -1,0 +1,5 @@
+　酒店(N)　的(T)　性價(N)　比(P)　很(ADV)　高(Vi)　.(PERIODCATEGORY)　我(N)　特別(Vi)　要(ADV)　感謝(Vt)　早(Vi)　餐廳(N)　的(T)　服務員(N)　,(COMMACATEGORY)
+　8月(N)　2日(N)　早晨(N)　我(N)　吃完(Vt)　早餐(N)　將(ADV)　小(Vi)　包(Vt)　留在(Vt)　椅子(N)　上(POST)　,(COMMACATEGORY)
+　很(ADV)　快(Vi)　服務員(N)　將(ADV)　包(Vt)　送到(Vt)　總(A)　台(N)　.(PERIODCATEGORY)　很(ADV)　感謝(Vt)　!(EXCLAMATIONCATEGORY)　要(ADV)　表揚(Vt)　.(PERIODCATEGORY)　在(P)　走廊(N)　上(N)　遇到(Vt)　服務員(N)　,(COMMACATEGORY)
+　他們(N)　總(ADV)　微笑(Vi)　地(T)　與(P)　你(N)　打招呼(Vi)　.(PERIODCATEGORY)　總之(ADV)　,(COMMACATEGORY)
+　對(P)　大(Vi)　世界(N)　酒店(N)　的(T)　服務(Nv)　很(ADV)　滿意(Vt)　!(EXCLAMATIONCATEGORY)

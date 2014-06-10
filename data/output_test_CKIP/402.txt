@@ -1,0 +1,2 @@
+　酒店(N)　的(T)　感覺(N)　比較(ADV)　舊(Vi)　，(COMMACATEGORY)
+　應該(ADV)　是(Vt)　裝修(Vt)　的(T)　時間(N)　比較(ADV)　長(Vi)　了(T)　吧(T)

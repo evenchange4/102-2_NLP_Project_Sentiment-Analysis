@@ -1,0 +1,6 @@
+　房間(N)　設施(N)　有(Vt)　些(M)　陳舊(Vi)　了(T)　。(PERIODCATEGORY)
+　值得(Vi)　欣慰(Vt)　的(T)　是(Vt)　，(COMMACATEGORY)
+　寬帶(N)　速度(N)　還(ADV)　可以(ADV)　。(PERIODCATEGORY)
+　賓館(N)　反饋(Vt)　2008年(N)　1月(N)　14日(N)　：(COLONCATEGORY)　感謝(Vt)　您(N)　對(P)　我們(N)　寬帶(N)　的(T)　認可(Nv)　,(COMMACATEGORY)
+　其他(DET)　方面(N)　我們(N)　也(ADV)　會(ADV)　努力(Vi)　,(COMMACATEGORY)
+　歡迎(Vt)　您(N)　再次(ADV)　光臨(Vt)　惠顧(Vt)　!(EXCLAMATIONCATEGORY)

@@ -1,0 +1,5 @@
+　酒店(N)　房間(N)　還(ADV)　算(Vt)　可以(Vi)　，(COMMACATEGORY)
+　對得起(Vt)　五星級(N)　的(T)　稱號(N)　。(PERIODCATEGORY)
+　早餐(N)　品種(N)　也(ADV)　算是(Vt)　豐富(Vt)　。(PERIODCATEGORY)
+　不足(Vi)　之(T)　處(N)　酒店(N)　近(Vt)　著(ASP)　大(Vi)　馬路(N)　，(COMMACATEGORY)
+　樓層(N)　太(ADV)　低(Vi)　晚上(N)　睡覺(Vi)　有點(ADV)　吵(Vi)　。(PERIODCATEGORY)

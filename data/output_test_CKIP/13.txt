@@ -1,0 +1,6 @@
+　建議(Vt)　不要(ADV)　入住(Vt)　！(EXCLAMATIONCATEGORY)　簡直(ADV)　就是(Vt)　2(DET)　星級(N)　以下(N)　的(T)　賓館(N)　。(PERIODCATEGORY)
+　根本(ADV)　體會(Vt)　不(ADV)　到(Vt)　啥(DET)　服務(Nv)　。(PERIODCATEGORY)
+　只有(ADV)　嘈雜(Vi)　的(T)　人聲(N)　。(PERIODCATEGORY)
+　整(DET)　個(M)　就是(C)　接待(Vt)　旅遊(Nv)　會議(N)　團隊(N)　的(T)　只(ADV)　顧(Vt)　賺錢(Vi)　的(T)　賓館(N)　。(PERIODCATEGORY)
+　早上(N)　吃飯(Vi)　更(ADV)　是(Vt)　亂(Vi)　。(PERIODCATEGORY)
+　吃(Vt)　個(M)　飯(N)　都(ADV)　不(ADV)　安寧(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,3 @@
+　KTV(FW)　在(P)　25樓(N)　,(COMMACATEGORY)
+　整(DET)　個(M)　晚上(N)　房間(N)　都(ADV)　在(P)　震(Vt)　根本(ADV)　就(ADV)　休息(Vi)　不(ADV)　好(Vi)　,(COMMACATEGORY)
+　上網(Vi)　居然(ADV)　還(ADV)　要(ADV)　接(Vt)　電話線(N)　撥號(Nv)　.(PERIODCATEGORY)　這(DET)　個(M)　酒店(N)　實在(ADV)　太(ADV)　差(Vi)　了(T)

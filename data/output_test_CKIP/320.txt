@@ -1,0 +1,6 @@
+　該(DET)　酒店(N)　蠻(ADV)　有(Vt)　經濟(N)　頭腦(N)　滴(Vt)　，(COMMACATEGORY)
+　接機(Vi)　這(DET)　一(DET)　窩心(Vi)　服務(Nv)　讓(Vt)　人(N)　毫不(ADV)　設防(Vi)　地(T)　扎進(Vt)　租車(N)　旅遊(Nv)　隊伍(N)　中(POST)　。(PERIODCATEGORY)
+　後來(N)　的(T)　各(DET)　位(M)　驢友(N)　可要(ADV)　吸取(Vt)　經驗(N)　，(COMMACATEGORY)
+　該(ADV)　殺價(Vi)　時(POST)　就(ADV)　殺價(Vi)　，(COMMACATEGORY)
+　決不(ADV)　能(ADV)　心軟(Vi)　，(COMMACATEGORY)
+　否則(C)　將來(N)　就(ADV)　換(Vt)　您(N)　心疼(Vt)　銀子(N)　啦(T)　！(EXCLAMATIONCATEGORY)

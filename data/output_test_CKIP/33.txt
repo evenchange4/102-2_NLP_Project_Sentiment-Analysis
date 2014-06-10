@@ -1,0 +1,3 @@
+　比較(ADV)　老(Vi)　的(T)　飯店(N)　，(COMMACATEGORY)
+　房間(N)　等(POST)　設施(N)　也(ADV)　比較(ADV)　老(Vi)　，(COMMACATEGORY)
+　服務(Nv)　還(ADV)　是(Vt)　可以(Vi)　的(T)

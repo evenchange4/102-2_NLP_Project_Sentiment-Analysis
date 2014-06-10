@@ -1,0 +1,5 @@
+　入住(Vt)　退房(Vi)　慢(Vi)　,(COMMACATEGORY)
+　電梯(N)　慢(Vi)　,(COMMACATEGORY)
+　超市(N)　破(Vt)　,(COMMACATEGORY)
+　房間(N)　舊(Vi)　,(COMMACATEGORY)
+　服務(Nv)　態度(N)　差(Vi)　!(EXCLAMATIONCATEGORY)

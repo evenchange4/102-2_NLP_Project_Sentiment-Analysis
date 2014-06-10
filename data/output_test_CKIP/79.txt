@@ -1,0 +1,6 @@
+　房間(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　位置(N)　離(P)　地鐵站(N)　很(ADV)　近(Vi)　。(PERIODCATEGORY)
+　服務(Nv)　也(ADV)　很(ADV)　好(Vi)　。(PERIODCATEGORY)
+　價錢(N)　公道(N)　。(PERIODCATEGORY)
+　大廳(N)　經理(N)　，(COMMACATEGORY)
+　副理(N)　都(ADV)　很(ADV)　好(Vi)　。(PERIODCATEGORY)

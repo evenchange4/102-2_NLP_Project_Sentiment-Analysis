@@ -1,0 +1,7 @@
+　性價(N)　比(P)　高(Vi)　，(COMMACATEGORY)
+　服務(Vt)　挺(ADV)　好(Vi)　，(COMMACATEGORY)
+　有(Vt)　房(N)　可(ADV)　延遲(Vt)　退房(Vi)　，(COMMACATEGORY)
+　對於(P)　坐(Vi)　晚班(N)　飛機(N)　離(P)　港(N)　的(T)　遊客(N)　是(Vt)　非常(ADV)　有利(Vt)　的(T)　．(PERIODCATEGORY)　只是(ADV)　希望(Vt)　早餐(N)　收費(Nv)　可以(ADV)　和(P)　CTRIP(FW)　一樣(Vi)　，(COMMACATEGORY)
+　80(DET)　元(M)　的(T)　自助餐(N)　還是(ADV)　有(Vt)　吸引力(N)　的(T)　．(PERIODCATEGORY)　另(DET)　，(COMMACATEGORY)
+　打(Vt)　的(T)　到(P)　廣九東鐵(N)　太(ADV)　貴(Vi)　，(COMMACATEGORY)
+　建議(Vt)　打到(Vt)　金鐘(N)　坐(Vi)　地鐵(N)　．(PERIODCATEGORY)

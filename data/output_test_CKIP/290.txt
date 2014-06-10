@@ -1,0 +1,7 @@
+　雖然(C)　預定(Vt)　比較(ADV)　方便(Vi)　，(COMMACATEGORY)
+　但是(C)　賓館(N)　的(T)　對(P)　顧客(N)　的(T)　關懷(Nv)　不足(Nv)　，(COMMACATEGORY)
+　房間(N)　冷(Vi)　得(T)　讓(Vt)　人(N)　睡不著覺(Vi)　服務(Nv)　人員(N)　還(ADV)　說(Vt)　暖和(Vi)　的(T)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　賓館(N)　反饋(Vt)　2008年(N)　5月(N)　4日(N)　：(COLONCATEGORY)　首先(ADV)　感謝(Vt)　您(N)　入住(Vt)　匯賓樓(N)　,(COMMACATEGORY)
+　並(C)　給(Vt)　我們(N)　提出(Vt)　問題(N)　.(PERIODCATEGORY)　由於(C)　五台山(N)　的(T)　海拔(N)　高(Vi)　,(COMMACATEGORY)
+　氣候(N)　潮濕(Vi)　溫差(N)　較(ADV)　大(Vi)　,(COMMACATEGORY)
+　酒店(N)　由於(C)　冬天(N)　停業(Vi)　,(COMMACATEGORY)
+　開業(Vi)　後(POST)　房間(N)　的(T)　溫度(N)　夜間(N)　可能(ADV)　會(ADV)　有點(ADV)　涼(Vi)　.(PERIODCATEGORY)　給(Vt)　您(N)　帶來(Vt)　的(T)　不便(Nv)　酒店(N)　深感(Vt)　歉意(N)　.(PERIODCATEGORY)

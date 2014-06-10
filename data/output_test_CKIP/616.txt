@@ -1,0 +1,7 @@
+　總的來說(ADV)　，(COMMACATEGORY)
+　印象(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　房間(N)　乾淨(Vi)　整潔(Vi)　時尚(N)　，(COMMACATEGORY)
+　網絡(N)　速度(N)　很(ADV)　快(Vi)　。(PERIODCATEGORY)
+　對(P)　有(Vt)　些(M)　要求(N)　較(ADV)　高(Vi)　的(T)　客戶(N)　，(COMMACATEGORY)
+　需要(Vt)　注意(Vt)　的(T)　是(Vt)　：(COLONCATEGORY)　洗浴(Nv)　用(Vt)　的(T)　花灑(Vt)　是(Vt)　固定(Vt)　的(T)　，(COMMACATEGORY)
+　不(ADV)　像(Vt)　一般(A)　淋浴(Nv)　頭(N)　可以(ADV)　拿(Vt)　在(P)　手(N)　上(N)　沖洗(Vt)　。(PERIODCATEGORY)

@@ -1,0 +1,7 @@
+　10月(N)　2(DET)　號(M)　入住(Vt)　12樓(N)　大(Vi)　床(N)　房(N)　,(COMMACATEGORY)
+　房間(N)　太(ADV)　小(Vi)　,(COMMACATEGORY)
+　隔音(A)　差(Vi)　,(COMMACATEGORY)
+　3(DET)　號(M)　換(Vt)　11樓(N)　雙人(N)　間(POST)　,(COMMACATEGORY)
+　淋浴(Vi)　間(POST)　下(DET)　水管(N)　堵塞(Vt)　,(COMMACATEGORY)
+　水(N)　漫(Vi)　金山(N)　啊(T)　.(PERIODCATEGORY)　工程(N)　人員(N)　半夜(N)　來(ADV)　處理(Vt)　((PARENTHESISCATEGORY)　辛苦(Vt)　了(T)　!(EXCLAMATIONCATEGORY)　)(PARENTHESISCATEGORY)　.(PERIODCATEGORY)　另(DET)　早餐(N)　餐桌(N)　布菜漬(N)　很多(Vi)　.(PERIODCATEGORY)　還好(Vi)　床(N)　上(N)　用品(N)　夠(ADV)　乾淨(Vi)　,(COMMACATEGORY)
+　否則(C)　我(N)　很(ADV)　懷疑(Vt)　這(DET)　是(Vt)　四星級(N)　酒店(N)

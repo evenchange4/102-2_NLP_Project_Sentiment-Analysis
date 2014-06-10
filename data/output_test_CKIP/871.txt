@@ -1,0 +1,3 @@
+　總體(N)　來(ADV)　說(Vt)　還(ADV)　可(ADV)　,(COMMACATEGORY)
+　主要(ADV)　是(Vt)　正好(ADV)　去(ADV)　辦(Vt)　事情(N)　，(COMMACATEGORY)
+　方便(Vi)　.(PERIODCATEGORY)　以後(N)　基本(N)　還(ADV)　是(Vt)　住(Vt)　這(DET)

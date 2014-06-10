@@ -1,0 +1,4 @@
+　服務(Vt)　尚可(Vi)　,(COMMACATEGORY)
+　房間(N)　大小(N)　適中(Vi)　,(COMMACATEGORY)
+　但(C)　被服(N)　及(C)　設施(N)　頗為(ADV)　陳舊(Vi)　.(PERIODCATEGORY)　賓館(N)　反饋(Vt)　2008年(N)　1月(N)　14日(N)　：(COLONCATEGORY)　感謝(Vt)　您(N)　對(P)　我們(N)　服務(Vt)　的(T)　認可(Nv)　,(COMMACATEGORY)
+　其他(DET)　方面(N)　我們(N)　也(ADV)　會(ADV)　努力(Vi)　.(PERIODCATEGORY)　歡迎(Vt)　您(N)　再次(ADV)　光臨(Vt)　!(EXCLAMATIONCATEGORY)

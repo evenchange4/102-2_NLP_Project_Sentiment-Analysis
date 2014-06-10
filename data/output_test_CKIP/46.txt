@@ -1,0 +1,4 @@
+　就是(C)　隔音(A)　比較(ADV)　差(Vi)　，(COMMACATEGORY)
+　房間(N)　外人(N)　說話(Vi)　一清二楚(Vi)　。(PERIODCATEGORY)
+　其他(DET)　都(ADV)　可以(ADV)　，(COMMACATEGORY)
+　在(P)　贛州(N)　都(ADV)　敢(Vt)　有(Vt)　什麼(DET)　奢求(Vt)　了(ASP)

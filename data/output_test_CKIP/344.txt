@@ -1,0 +1,3 @@
+　地理(N)　位置(N)　優越(Vi)　，(COMMACATEGORY)
+　服務員(N)　態度(N)　也(ADV)　相當(ADV)　不錯(Vi)　。(PERIODCATEGORY)
+　值得(Vi)　推薦(Vt)　。(PERIODCATEGORY)

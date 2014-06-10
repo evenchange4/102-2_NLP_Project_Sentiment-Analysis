@@ -1,0 +1,3 @@
+　這(DET)　也(ADV)　能(ADV)　叫(Vt)　四星(N)　酒店(N)　？(QUESTIONCATEGORY)
+　不值(Vi)　。(PERIODCATEGORY)
+　只(ADV)　是(Vt)　地理(N)　位置(N)　還(ADV)　算(Vt)　方便(Vi)　吧(T)　。(PERIODCATEGORY)

@@ -1,0 +1,3 @@
+　酒店(N)　位置(N)　、(PAUSECATEGORY)　房間(N)　都(ADV)　很(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　價格(N)　也(ADV)　比較(ADV)　合適(Vi)　，(COMMACATEGORY)
+　推薦(Vt)　大家(N)　去(ADV)　住(Vt)

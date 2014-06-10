@@ -1,0 +1,8 @@
+　超(Vt)　差(Vi)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　建議(Vt)　所有人(N)　不要(ADV)　來(ADV)　住(Vt)　！(EXCLAMATIONCATEGORY)　大門(N)　開(Vt)　在(P)　胡同(N)　裡(POST)　，(COMMACATEGORY)
+　找不著(Vt)　。(PERIODCATEGORY)
+　每天(N)　早上(N)　你(N)　會(ADV)　被(P)　服務員(N)　聊天(Vi)　吵醒(Vt)　，(COMMACATEGORY)
+　都(ADV)　不用(ADV)　鬧鐘(N)　的(T)　！(EXCLAMATIONCATEGORY)　該(ADV)　提供(Vt)　的(T)　服務(Nv)　長話(N)　網絡(N)　你(N)　在(P)　前台(N)　不(ADV)　聲明(Vt)　，(COMMACATEGORY)
+　是(Vt)　全(DET)　都(ADV)　不能(ADV)　用(Vt)　的(T)　，(COMMACATEGORY)
+　投訴(Vi)　無用(Vi)　，(COMMACATEGORY)
+　態度(N)　夠(Vi)　你(N)　喝(Vt)　一(DET)　壺(M)　的(T)　。(PERIODCATEGORY)
+　哈爾濱(N)　的(T)　形象(N)　就(ADV)　這樣(Vi)　破壞(Vt)　的(T)　。(PERIODCATEGORY)

@@ -1,0 +1,3 @@
+　比較(ADV)　老(Vi)　的(T)　飯店(N)　了(T)　,(COMMACATEGORY)
+　房間(N)　只(ADV)　能(ADV)　用(Vt)　還(ADV)　比較(ADV)　乾淨(Vi)　整潔(Vi)　來(ADV)　形容(Vt)　,(COMMACATEGORY)
+　但(C)　離(P)　五(DET)　星(N)　有點(ADV)　差距(N)　.(PERIODCATEGORY)　衛生間(N)　也(ADV)　很(ADV)　小(Vi)　.(PERIODCATEGORY)　東西(N)　比較(ADV)　舊(Vi)　.(PERIODCATEGORY)

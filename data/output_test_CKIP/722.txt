@@ -1,0 +1,2 @@
+　很(ADV)　久(Vi)　了(T)　,(COMMACATEGORY)
+　想起(Vt)　基本(N)　上(POST)　還是(ADV)　產生不了(Vt)　?(QUESTIONCATEGORY)

@@ -1,0 +1,7 @@
+　住(Vt)　了(ASP)　幾(DET)　次(M)　，(COMMACATEGORY)
+　這(DET)　次(M)　還(ADV)　特意(ADV)　帶(Vt)　了(ASP)　朋友(N)　一起(ADV)　去(ADV)　入住(Vt)　，(COMMACATEGORY)
+　結果(ADV)　，(COMMACATEGORY)
+　酒店(N)　的(T)　早餐(N)　讓(Vt)　我們(N)　太(ADV)　失望(Vi)　了(T)　，(COMMACATEGORY)
+　越來越(ADV)　差(Vi)　啊(T)　，(COMMACATEGORY)
+　九(DET)　點(M)　去(Vt)　的(T)　時候(N)　吃(Vt)　的(T)　東西(N)　都(ADV)　沒有(Vt)　什麼(DET)　了(T)　，(COMMACATEGORY)
+　以後(N)　我(N)　是(Vt)　不會(ADV)　再(ADV)　來(ADV)　了(T)　。(PERIODCATEGORY)

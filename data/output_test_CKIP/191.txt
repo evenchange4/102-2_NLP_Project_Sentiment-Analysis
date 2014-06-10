@@ -1,0 +1,3 @@
+　早餐(N)　不錯(Vi)　,(COMMACATEGORY)
+　衛生間(N)　不錯(Vi)　.(PERIODCATEGORY)　房間(N)　還(ADV)　算(Vt)　大(Vi)　的(T)　,(COMMACATEGORY)
+　位置(N)　嗎(T)　離雨(N)　花台(N)　22(DET)　元(M)　出(Vt)　租車費(N)　.(PERIODCATEGORY)

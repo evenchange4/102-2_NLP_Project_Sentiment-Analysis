@@ -1,0 +1,3 @@
+　普通(Vi)　的(T)　公寓房(N)　，(COMMACATEGORY)
+　服務(Nv)　水平(N)　差(Vi)　，(COMMACATEGORY)
+　不(ADV)　適合(Vi)　商旅(N)　人事(N)　入住(Vt)　。(PERIODCATEGORY)

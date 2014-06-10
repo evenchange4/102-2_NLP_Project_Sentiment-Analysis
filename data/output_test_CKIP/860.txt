@@ -1,0 +1,8 @@
+　這(DET)　是(Vt)　我(N)　有生以來(ADV)　住(Vt)　過(ASP)　的(T)　最(ADV)　差(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　竟然(ADV)　早上(N)　六(DET)　點(M)　多(POST)　會(ADV)　有(Vt)　個(M)　瘋(Vi)　女人(N)　來(ADV)　砸(Vt)　門(N)　，(COMMACATEGORY)
+　而(C)　酒店(N)　的(T)　保安(N)　無動於衷(Vi)　，(COMMACATEGORY)
+　我(N)　去(ADV)　投訴(Vi)　竟然(ADV)　說(Vt)　是(Vt)　敲錯(Vt)　了(ASP)　門(N)　。(PERIODCATEGORY)
+　酒店(N)　的(T)　監控(Nv)　形同虛設(Vi)　，(COMMACATEGORY)
+　以後(N)　絕不(ADV)　會(ADV)　再(ADV)　住(Vt)　了(ASP)　。(PERIODCATEGORY)
+　服務(Nv)　質量(N)　絕對(ADV)　需要(Vt)　提高(Vt)　，(COMMACATEGORY)
+　不(ADV)　配掛(Vt)　准四星(N)　的(T)　牌(N)　。(PERIODCATEGORY)

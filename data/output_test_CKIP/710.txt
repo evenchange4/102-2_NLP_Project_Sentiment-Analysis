@@ -1,0 +1,4 @@
+　地理(N)　位置(N)　佳(Vi)　.(PERIODCATEGORY)　只(ADV)　是(Vt)　,(COMMACATEGORY)
+　所(ADV)　訂(Vt)　的(T)　附樓(N)　與(C)　白鷺(N)　洲大(N)　酒店(N)　主樓(N)　是(Vt)　兩(DET)　碼(M)　事(N)　.(PERIODCATEGORY)　原來(ADV)　好像(ADV)　叫(Vt)　礦業(N)　大廈(N)　.(PERIODCATEGORY)　現在(N)　與(C)　白鷺(N)　洲(N)　酒店(N)　合營(Vt)　吧(T)　.(PERIODCATEGORY)　房間(N)　比較(ADV)　大(Vi)　,(COMMACATEGORY)
+　只是(ADV)　裝修(Vt)　等(POST)　相對(Vi)　比較(ADV)　舊(Vi)　了(T)　.(PERIODCATEGORY)　剛(ADV)　開(Vt)　房間門(N)　有一點點(ADV)　霉味(N)　.(PERIODCATEGORY)　好在(ADV)　只(ADV)　是(Vt)　在(P)　那裡(N)　睡(Vi)　了(ASP)　5,　6(DET)　個(M)　小時(N)　而已(T)　.(PERIODCATEGORY)　唯一(A)　的(T)　優點(N)　:(COLONCATEGORY)　靠近(Vt)　沅(b)　當(Vt)　湖(N)　,(COMMACATEGORY)
+　早晨(N)　起來(Vi)　空氣(N)　清新(Vi)　.(PERIODCATEGORY)

@@ -1,0 +1,4 @@
+　同(DET)　標準(N)　的(T)　酒店(N)　,(COMMACATEGORY)
+　價格(N)　上(POST)　稍微(ADV)　一(ADV)　點(Vt)　貴(Vi)　!(EXCLAMATIONCATEGORY)　整體(N)　感覺(N)　還(ADV)　可以(ADV)　,(COMMACATEGORY)
+　位置(N)　很(ADV)　方便(Vi)　,(COMMACATEGORY)
+　我們(N)　公司(N)　的(T)　人(N)　每(DET)　次(M)　去(ADV)　都(ADV)　住(Vt)　那(DET)　!(EXCLAMATIONCATEGORY)　自助餐(N)　是(Vt)　不錯(Vi)　滴(Vt)　!(EXCLAMATIONCATEGORY)　旁邊(N)　的(T)　小吃(N)　廣場(N)　...(ETCCATEGORY)　可以(ADV)　過過(Vt)　讒(N)　!(EXCLAMATIONCATEGORY)

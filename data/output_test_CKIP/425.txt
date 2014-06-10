@@ -1,0 +1,2 @@
+　房間(N)　的(T)　隔音(A)　太(ADV)　差(Vi)　!(EXCLAMATIONCATEGORY)　我(N)　定(Vt)　的(T)　房(N)　朝(P)　內(N)　街(N)　,(COMMACATEGORY)
+　對講機聲(N)　和(C)　空調聲(N)　極(ADV)　大(Vi)　!(EXCLAMATIONCATEGORY)　建議(Vt)　加裝(Vt)　雙層(A)　玻璃窗(N)　!(EXCLAMATIONCATEGORY)

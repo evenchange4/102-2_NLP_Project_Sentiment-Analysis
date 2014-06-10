@@ -1,0 +1,8 @@
+　我(N)　住(Vt)　的(T)　是(Vt)　複試(Vi)　海景(N)　套房(N)　，(COMMACATEGORY)
+　陽台(N)　就(ADV)　可以(ADV)　看見(Vt)　大海(N)　，(COMMACATEGORY)
+　晚上(N)　躺(Vi)　在(P)　床(N)　上(N)　耳(N)　邊(N)　就(ADV)　有(Vt)　海(N)　浪聲(N)　，(COMMACATEGORY)
+　感覺(N)　不錯(Vi)　，(COMMACATEGORY)
+　服務員(N)　態度(N)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　缺點(N)　就(ADV)　是(Vt)　這裡(N)　交通(N)　不(ADV)　方便(Vi)　，(COMMACATEGORY)
+　出門(Vi)　的(T)　話(N)　需要(Vt)　前台(N)　叫(Vt)　車(N)　，(COMMACATEGORY)
+　酒店(N)　設施(N)　就(ADV)　一般(Vi)　了(T)

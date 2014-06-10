@@ -1,0 +1,2 @@
+　很(ADV)　一般(A)　的(T)　酒店(N)　，(COMMACATEGORY)
+　因為(C)　定(Vt)　不(ADV)　到(Vt)　贛電(N)　了(T)　勉強(Vi)　入住(Vt)　下(N)　吧(T)

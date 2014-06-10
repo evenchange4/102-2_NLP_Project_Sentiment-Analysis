@@ -1,0 +1,3 @@
+　房間(N)　有點(ADV)　舊(Vi)　,(COMMACATEGORY)
+　應該(ADV)　要(ADV)　重新(ADV)　裝修(Vt)　,(COMMACATEGORY)
+　不然(C)　將(ADV)　會(ADV)　走下坡(Vi)

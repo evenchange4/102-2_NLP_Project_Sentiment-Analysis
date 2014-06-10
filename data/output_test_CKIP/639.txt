@@ -1,0 +1,7 @@
+　我(N)　入住(Vt)　的(T)　是(Vt)　B(FW)　棟(M)　的(T)　房間(N)　，(COMMACATEGORY)
+　也(ADV)　就是(C)　他們(N)　所(ADV)　說(Vt)　的(T)　「(PARENTHESISCATEGORY)　高級房(N)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　那些(DET)　房(N)　跟(P)　外面(N)　的(T)　招待所(N)　是(Vt)　一樣(Vi)　的(T)　，(COMMACATEGORY)
+　房間(N)　有(Vt)　一(DET)　種(M)　令(Vt)　人(N)　想(Vt)　吐(Vt)　的(T)　氣味(N)　（(PARENTHESISCATEGORY)　就(ADV)　像(Vt)　地(N)　拖拖(Vi)　完(Vi)　地(T)　以後(N)　沒有(ADV)　洗(Vt)　的(T)　那(DET)　種(M)　氣味(N)　）(PARENTHESISCATEGORY)　；(SEMICOLONCATEGORY)　而且(C)　雙人房(N)　的(T)　床(N)　太(ADV)　小(Vi)　了(T)　，(COMMACATEGORY)
+　大(Vi)　床(N)　房(N)　還好(Vi)　一點(ADV)　。(PERIODCATEGORY)
+　真的(ADV)　，(COMMACATEGORY)
+　我(N)　以後(N)　絕對(ADV)　不再(ADV)　入住(Vt)　該(DET)　酒店(N)　。(PERIODCATEGORY)

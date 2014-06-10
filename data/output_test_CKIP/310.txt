@@ -1,0 +1,5 @@
+　非常(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　服務(Vt)　很(ADV)　好(Vi)　，(COMMACATEGORY)
+　位於(Vt)　市中心區(N)　，(COMMACATEGORY)
+　交通(N)　方便(Vi)　，(COMMACATEGORY)
+　不過(C)　價格(N)　也(ADV)　高(Vi)　！(EXCLAMATIONCATEGORY)

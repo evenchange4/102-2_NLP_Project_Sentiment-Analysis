@@ -1,0 +1,6 @@
+　熱水(N)　系統(N)　及(C)　浴室(N)　排水(Nv)　系統(N)　比較(ADV)　糟糕(Vi)　,(COMMACATEGORY)
+　水(N)　冷(Vi)　熱(Vt)　很(ADV)　難(Vi)　調節(Vt)　,(COMMACATEGORY)
+　不(ADV)　是(Vt)　太(ADV)　冷(Vi)　就(ADV)　是(Vt)　過(ADV)　燙(Vi)　,(COMMACATEGORY)
+　洗完(Vt)　澡(N)　浴室(N)　就(ADV)　是(Vt)　一(DET)　地(N)　的(T)　水(N)　.(PERIODCATEGORY)　其他(DET)　還(ADV)　可以(ADV)　,(COMMACATEGORY)
+　地理(N)　位置(N)　很(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　相對(Vi)　房價(N)　比較(ADV)　吸引人(Vi)

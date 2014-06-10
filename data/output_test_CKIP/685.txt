@@ -1,0 +1,6 @@
+　幫(P)　朋友(N)　預定(Vt)　了(ASP)　2(DET)　個(M)　晚上(N)　的(T)　房間(N)　，(COMMACATEGORY)
+　第二天(N)　早上(N)　服務員(N)　竟然(ADV)　說(Vt)　沒有(ADV)　定(Vt)　2(DET)　個(M)　晚上(N)　，(COMMACATEGORY)
+　要求(Vt)　退房(Vi)　，(COMMACATEGORY)
+　而且(C)　態度(N)　極其(ADV)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　還(ADV)　我(N)　朋友(N)　擔心(Vt)　，(COMMACATEGORY)
+　跟(P)　我(N)　電話(N)　聯繫(Vt)　很多(DET)　次(M)　。(PERIODCATEGORY)

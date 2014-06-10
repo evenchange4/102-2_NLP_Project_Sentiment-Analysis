@@ -1,0 +1,8 @@
+　此(DET)　酒店(N)　環境(N)　太(ADV)　差(Vi)　,(COMMACATEGORY)
+　服務(Nv)　一般(POST)　,(COMMACATEGORY)
+　衛生間(N)　洗澡(Vi)　起來(ASP)　像(Vt)　漲(Vi)　水災(N)　一樣(Vi)　,(COMMACATEGORY)
+　酒店(N)　也(ADV)　未(ADV)　評星級(N)　,(COMMACATEGORY)
+　更(ADV)　可(ADV)　氣(Vt)　的(T)　是(Vt)　一樓(N)　的(T)　歌廳(N)　,(COMMACATEGORY)
+　晚上(N)　吵(Vt)　得(T)　簡直(ADV)　沒法(ADV)　睡(Vi)　,(COMMACATEGORY)
+　大家(N)　要(ADV)　知道(Vt)　在(P)　高原(N)　地區(N)　沒(ADV)　睡好(Vi)　覺(Vt)　是(Vt)　多麼(ADV)　難受(Vi)　的(T)　,(COMMACATEGORY)
+　而且(C)　通過(Vt)　攜程(N)　所(ADV)　訂(Vt)　的(T)　房間(N)　酒店(N)　會(ADV)　安排(Vt)　最(ADV)　差(Vi)　的(T)　房間(N)　給(Vt)　您(N)　.(PERIODCATEGORY)　我(N)　希望(Vt)　攜程(N)　以後(POST)　對(P)　會員(N)　酒店(N)　應該(ADV)　更(ADV)　嚴格(Vi)　審查(Nv)　.(PERIODCATEGORY)

@@ -1,0 +1,4 @@
+　以前(N)　在(P)　學校(N)　讀書(Vi)　的(T)　時候(N)　老闆(N)　曾經(ADV)　帶(Vt)　我們(N)　去(ADV)　過(Vt)　這裡(N)　打保齡(N)　和(C)　吃飯(Vi)　等等(POST)　，(COMMACATEGORY)
+　環境(N)　不錯(Vi)　，(COMMACATEGORY)
+　房間(N)　也(ADV)　挺(ADV)　舒服(Vi)　，(COMMACATEGORY)
+　是(Vt)　閔行區(N)　比較(ADV)　高檔(A)　的(T)　酒店(N)

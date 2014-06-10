@@ -1,0 +1,3 @@
+　不錯(Vi)　的(T)　酒店(N)　，(COMMACATEGORY)
+　本人(N)　經常(ADV)　入住(Vt)　，(COMMACATEGORY)
+　對(P)　周邊(N)　及(C)　酒店(N)　環境(N)　都(ADV)　很(ADV)　熟悉(Vt)　。(PERIODCATEGORY)

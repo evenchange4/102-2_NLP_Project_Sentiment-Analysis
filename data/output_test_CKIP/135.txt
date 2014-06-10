@@ -1,0 +1,1 @@
+　辦理(Vt)　住房(N)　登記(Nv)　要(ADV)　半(DET)　小時(N)　.(PERIODCATEGORY)　整(DET)　個(M)　大堂(N)　像(P)　市場(N)　亂哄哄(Vi)　!(EXCLAMATIONCATEGORY)　房間(N)　佈置(Vt)　其(DET)　差(Vi)　無比(Vi)　!(EXCLAMATIONCATEGORY)

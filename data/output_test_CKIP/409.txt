@@ -1,0 +1,8 @@
+　單人(N)　間(POST)　有(Vt)　一點點(DET)　小(Vi)　，(COMMACATEGORY)
+　但(C)　基本(A)　夠(Vi)　用(Vt)　。(PERIODCATEGORY)
+　已經(ADV)　有(Vt)　寬帶(N)　上網(Vi)　了(ASP)　，(COMMACATEGORY)
+　但(C)　網速偏(Vi)　慢(Vi)　。(PERIODCATEGORY)
+　南面(N)　靠(P)　裡(N)　的(T)　房間(N)　比較(ADV)　安靜(Vi)　，(COMMACATEGORY)
+　西(N)　頭(N)　北面(N)　的(T)　晚上(N)　會(ADV)　有(Vt)　車輛(N)　經過(Vt)　的(T)　聲音(N)　傳過來(Vi)　。(PERIODCATEGORY)
+　早上(N)　6(DET)　點(M)　多(ADV)　有(Vt)　"(FW)　按摩(Nv)　"(FW)　電話(N)　過來(Vi)　，(COMMACATEGORY)
+　^(FW)　_(FW)　^(FW)　；(SEMICOLONCATEGORY)　不(ADV)　想(Vt)　被(P)　打擾(Vt)　的(T)　話(N)　拔掉(Vt)　電話(N)　插頭(N)　吧(T)　補充(Vt)　點評(N)　2007年(N)　7月(N)　31日(N)　：(COLONCATEGORY)　信用卡(N)　都(ADV)　可以(ADV)　用(Vt)　了(ASP)

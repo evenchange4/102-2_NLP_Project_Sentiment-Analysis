@@ -1,0 +1,3 @@
+　55555555(DET)　，(COMMACATEGORY)
+　我(N)　住(Vt)　過(ASP)　最(ADV)　差(Vi)　的(T)　酒店(N)　之(T)　一(DET)　，(COMMACATEGORY)
+　奉勸(Vt)　大家(N)　還是(ADV)　跑遠(Vi)　一點(ADV)　吧(T)　。(PERIODCATEGORY)

@@ -1,0 +1,4 @@
+　酒店(N)　環境(N)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　裝修(Vt)　也(ADV)　很(ADV)　好(Vi)　。(PERIODCATEGORY)
+　早餐(N)　不(ADV)　怎麼樣(Vi)　，(COMMACATEGORY)
+　價格(N)　偏(ADV)　高(Vi)　。(PERIODCATEGORY)

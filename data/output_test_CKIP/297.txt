@@ -1,0 +1,3 @@
+　交通(N)　方便(Vi)　，(COMMACATEGORY)
+　房間(N)　比較(ADV)　干(Vt)　靜(Vi)　寬敞(Vi)　，(COMMACATEGORY)
+　總體(N)　來(ADV)　講(Vt)　還(ADV)　說得過去(Vi)　。(PERIODCATEGORY)

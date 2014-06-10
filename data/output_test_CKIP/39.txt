@@ -1,0 +1,4 @@
+　早餐(N)　有時(ADV)　8(DET)　點(M)　結束(Vt)　，(COMMACATEGORY)
+　刷卡(Vi)　不(ADV)　方便(Vi)　，(COMMACATEGORY)
+　還(ADV)　要(ADV)　壓(Vt)　現金(N)　，(COMMACATEGORY)
+　房間(N)　打掃(Vt)　不(ADV)　及時(ADV)

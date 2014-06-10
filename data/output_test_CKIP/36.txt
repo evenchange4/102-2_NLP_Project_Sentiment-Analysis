@@ -1,0 +1,8 @@
+　太(ADV)　一般(Vi)　了(T)　，(COMMACATEGORY)
+　比(P)　他(N)　原來(ADV)　辦(Vt)　的(T)　如(P)　家(N)　要略(N)　差些(ADV)　！(EXCLAMATIONCATEGORY)　另外(C)　，(COMMACATEGORY)
+　一樓(N)　手機(N)　是(Vt)　沒有(Vt)　信號(N)　的(T)　，(COMMACATEGORY)
+　不(ADV)　知道(Vt)　其它(DET)　樓層(N)　怎麼樣(Vi)　？(QUESTIONCATEGORY)
+　對(P)　不(ADV)　熟悉(Vt)　成都(N)　的(T)　人(N)　來(ADV)　說對(Vi)　會(ADV)　，(COMMACATEGORY)
+　不過(C)　後來(N)　得知(Vt)　成都(N)　有(Vt)　許多(DET)　產權式(N)　公寓(N)　酒店(N)　，(COMMACATEGORY)
+　才(ADV)　138(DET)　,(COMMACATEGORY)
+　比(P)　它(N)　強(Vi)　多(Vi)　了(T)　！(EXCLAMATIONCATEGORY)

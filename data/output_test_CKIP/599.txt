@@ -1,0 +1,3 @@
+　彭年(N)　酒店(N)　太(ADV)　處於(Vt)　鬧市(N)　停車(Vi)　不(ADV)　方便(Vi)　，(COMMACATEGORY)
+　房間(N)　有(Vt)　異味(N)　，(COMMACATEGORY)
+　尤其(ADV)　脫離(Vt)　希爾頓(N)　後(POST)　感覺(Vt)　差(Vi)　很多(DET)　。(PERIODCATEGORY)

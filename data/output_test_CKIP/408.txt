@@ -1,0 +1,4 @@
+　總體(N)　感覺(N)　很(ADV)　不(ADV)　好(Vi)　.(PERIODCATEGORY)　酒店(N)　實際(Vi)　就(ADV)　是(Vt)　一(DET)　個(M)　公寓(N)　短租房(N)　形式(N)　的(T)　.(PERIODCATEGORY)　藏(Vt)　在(P)　一(DET)　個(M)　公寓(N)　裡(N)　的(T)　一(DET)　層(M)　.(PERIODCATEGORY)　不(ADV)　是(Vt)　很(ADV)　好(Vi)　找(Vt)　.(PERIODCATEGORY)　房間(N)　的(T)　味道(N)　很(ADV)　重(Vi)　,(COMMACATEGORY)
+　感覺(N)　髒(Vi)　西西(M)　的(T)　。(PERIODCATEGORY)
+　估計(Vt)　是(Vt)　衛生(N)　人員(N)　不(ADV)　勤於(Vt)　打掃(Vt)　.(PERIODCATEGORY)　看(Vt)　的(T)　出來(Vi)　，(COMMACATEGORY)
+　酒店(N)　想(Vt)　模仿(Vt)　些(M)　情人(N)　酒店(N)　的(T)　感覺(N)　和(C)　商務(N)　酒店(N)　的(T)　簡單(Vi)　.(PERIODCATEGORY)　不過(C)　兩(DET)　個(M)　都(ADV)　學(Vt)　的(T)　不(ADV)　像(Vt)　.(PERIODCATEGORY)　細節(N)　做(Vt)　的(T)　太(ADV)　差(Vi)　了(T)

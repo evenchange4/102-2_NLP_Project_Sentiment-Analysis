@@ -1,0 +1,3 @@
+　性價(N)　比(Vt)　一般(POST)　，(COMMACATEGORY)
+　主要(ADV)　體現(Vt)　在(P)　早餐(N)　難以(ADV)　令(Vt)　人(N)　滿意(Vt)　，(COMMACATEGORY)
+　希望(Vt)　增加(Vt)　花色(N)　品種(N)　。(PERIODCATEGORY)

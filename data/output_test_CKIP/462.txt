@@ -1,0 +1,3 @@
+　非常(ADV)　不(ADV)　好(Vi)　，(COMMACATEGORY)
+　我們(N)　渡過(Vt)　了(ASP)　一(DET)　個(M)　讓(Vt)　人(N)　難以(ADV)　忍受(Vt)　的(T)　紀念日(N)　.(PERIODCATEGORY)　com/thread-1368750-1-2.html(FW)　補充(Vt)　點評(N)　2008年(N)　1月(N)　30日(N)　：(COLONCATEGORY)　.(PERIODCATEGORY)　com/thread(FW)　-(DASHCATEGORY)　13687(DET)
+　50(DET)　-(DASHCATEGORY)　1(DET)　-(DASHCATEGORY)　2(DET)　.(PERIODCATEGORY)　html(FW)

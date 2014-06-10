@@ -1,0 +1,4 @@
+　瑞吉(N)　紅塔(N)　是(Vt)　公司(N)　幾(DET)　個(M)　老(Vi)　客戶(N)　的(T)　首選(N)　，(COMMACATEGORY)
+　房間(N)　設施(N)　是(Vt)　附近(N)　幾(DET)　家(M)　五(DET)　星(N)　裡(N)　最好(Vi)　的(T)　，(COMMACATEGORY)
+　辦公(Nv)　傢俱(N)　非常(ADV)　舒服(Vi)　，(COMMACATEGORY)
+　衛生間(N)　裝修(Nv)　佈置(Nv)　也(ADV)　很(ADV)　講究(Vt)　。(PERIODCATEGORY)

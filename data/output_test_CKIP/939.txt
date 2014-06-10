@@ -1,0 +1,6 @@
+　在(P)　臨沂(N)　，(COMMACATEGORY)
+　這(DET)　個(M)　酒店(N)　算是(Vt)　比較(ADV)　有(Vt)　檔次(N)　的(T)　了(T)　，(COMMACATEGORY)
+　給(P)　外國(N)　客人(N)　的(T)　服務(Nv)　也(ADV)　比較(ADV)　合格(Vi)　。(PERIODCATEGORY)
+　可惜(Vi)　電視(N)　內容(N)　比較(ADV)　單調(Vi)　，(COMMACATEGORY)
+　國外(N)　的(T)　頻道(N)　很少(Vi)　。(PERIODCATEGORY)
+　服務(Nv)　態度(N)　不錯(Vi)　。(PERIODCATEGORY)

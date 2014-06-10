@@ -1,0 +1,6 @@
+　酒店(N)　房間(N)　很(ADV)　小(Vi)　，(COMMACATEGORY)
+　成(Vt)　三角形(N)　－－(DET)　衛生間(N)　設施(N)　陳舊(Vi)　低檔(N)　服務(Nv)　態度(N)　差(Vi)　：(COLONCATEGORY)　服務員(N)　敲門(Vi)　象(N)　高利貸(N)　索帳(N)　，(COMMACATEGORY)
+　當(P)　我(N)　向(P)　酒店(N)　要(ADV)　一(DET)　床(M)　厚(Vi)　被(P)　時(POST)　，(COMMACATEGORY)
+　拿來(Vt)　的(T)　竟然(ADV)　是(Vt)　沒有(ADV)　被(P)　罩(Vt)　，(COMMACATEGORY)
+　且(C)　粘滿(N)　頭髮(N)　，(COMMACATEGORY)
+　令(Vt)　人(N)　作嘔(Vi)　！(EXCLAMATIONCATEGORY)　後(N)　想起(Vt)　索要(Vt)　酒店(N)　袋子(N)　裝(Vt)　東西(N)　－－(DET)　竟然(ADV)　沒有(Vt)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　！(EXCLAMATIONCATEGORY)　後來(N)　拿(Vt)　了(ASP)　一(DET)　個(M)　用(Vt)　過(ASP)　的(T)　塑料袋(N)　！(EXCLAMATIONCATEGORY)　房間(N)　鄰街(N)　而且(C)　很(ADV)　冷(Vi)　！(EXCLAMATIONCATEGORY)　向(P)　其(DET)　服務員(N)　說明(N)　後(POST)　－－(DET)　他(N)　竟然(ADV)　慢慢(Vi)　的(T)　說(Vt)　：(COLONCATEGORY)　〞(FW)　這(DET)　不(ADV)　是(Vt)　便宜(Vi)　嘛(T)　∼(FW)　〞(FW)　說(Vt)　的(T)　那麼(ADV)　自然(Vi)　！(EXCLAMATIONCATEGORY)　１１０(DET)　一(DET)　個(M)　房間(N)　還(ADV)　便宜(Vi)　！(EXCLAMATIONCATEGORY)　房價(N)　能(ADV)　打折(Vi)　但是(C)　服務(Nv)　一定(ADV)　不能(ADV)　打折(Vi)　！(EXCLAMATIONCATEGORY)　－－(DET)　下(DET)　次(M)　去(Vt)　鄭州(N)　一定(ADV)　不會(ADV)　入住(Vt)　該(DET)　酒店(N)　－－(DET)　以上(N)　言論(N)　僅(ADV)　代表(Vt)　個(M)　人(N)　觀點(N)　不(ADV)　針對(P)　第三(DET)　方(M)　我(N)　對(P)　攜程網(N)　的(T)　服務(Nv)　還是(ADV)　比較(ADV)　滿意(Vt)　的(T)

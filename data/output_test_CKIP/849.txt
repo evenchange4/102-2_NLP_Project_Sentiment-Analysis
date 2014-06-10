@@ -1,0 +1,4 @@
+　非常(ADV)　感謝(Vt)　攜程(N)　工號(N)　84392(DET)　的(T)　客服(N)　人員(N)　,(COMMACATEGORY)
+　幫助(Vt)　妥善(Vi)　解決(Vt)　了(ASP)　由(P)　客人(N)　自己(N)　信用卡(N)　擔保(Vt)　的(T)　失誤(N)　,(COMMACATEGORY)
+　沒有(ADV)　及時(ADV)　告知(Vt)　的(T)　事件(N)　.(PERIODCATEGORY)　下(DET)　次(M)　有機(A)　會會(Vt)　再次(ADV)　光臨(Vt)　本(DET)　賓館(N)　,(COMMACATEGORY)
+　支持(Vt)　攜程(N)

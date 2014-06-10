@@ -1,0 +1,6 @@
+　房間(N)　佈置(Nv)　是(Vt)　簡約型(N)　的(T)　那(DET)　種(M)　,(COMMACATEGORY)
+　床(N)　和(C)　被子(N)　都(ADV)　是(Vt)　廉價(Vi)　的(T)　感覺(N)　,(COMMACATEGORY)
+　空調(N)　極(ADV)　冷(Vi)　而且(C)　溫度(N)　調節(Nv)　不(ADV)　靈(Vi)　,(COMMACATEGORY)
+　只(ADV)　能(ADV)　睡(Vi)　前(POST)　關掉(Vt)　,(COMMACATEGORY)
+　但(C)　還是(ADV)　因此(C)　感冒(Vi)　,(COMMACATEGORY)
+　早餐(N)　質量(N)　非常(ADV)　一般(Vi)　.(PERIODCATEGORY)　以後(N)　不會(ADV)　再(ADV)　去(Vt)　了(ASP)　.(PERIODCATEGORY)

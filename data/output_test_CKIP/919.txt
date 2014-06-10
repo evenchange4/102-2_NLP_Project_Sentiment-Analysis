@@ -1,0 +1,3 @@
+　一般(A)　一般(POST)　,(COMMACATEGORY)
+　以後(N)　肯定(Vt)　不會(ADV)　再(ADV)　住(Vt)　這裡(N)　了(T)　，(COMMACATEGORY)
+　服務(Vt)　一般(A)

@@ -1,0 +1,6 @@
+　房間(N)　小(Vi)　，(COMMACATEGORY)
+　地點(N)　差(Vi)　，(COMMACATEGORY)
+　交通(N)　不便(Vi)　，(COMMACATEGORY)
+　最(ADV)　可惡(Vi)　的(T)　是(Vt)　變相(ADV)　惡意(ADV)　宰(Vt)　客(N)　。(PERIODCATEGORY)
+　建議(Vt)　到(Vt)　連雲港(N)　千萬(DET)　不要(ADV)　入住(Vt)　該(DET)　處(N)　。(PERIODCATEGORY)
+　否則(C)　後果(N)　很(ADV)　嚴重(Vi)　。(PERIODCATEGORY)

@@ -1,0 +1,5 @@
+　經過(Vt)　幾(DET)　次(M)　在(P)　保定(N)　的(T)　住宿(Nv)　和(C)　其他(DET)　酒店(N)　的(T)　比較(Nv)　，(COMMACATEGORY)
+　發現(Vt)　中銀(N)　大廈(N)　應該(ADV)　是(Vt)　保定(N)　最好(Vi)　的(T)　酒店(N)　了(T)　。(PERIODCATEGORY)
+　反正(ADV)　對(P)　我(N)　來(ADV)　說(Vt)　只要(C)　去(Vt)　保定(N)　，(COMMACATEGORY)
+　現在(N)　這裡(N)　就(ADV)　是(Vt)　我(N)　的(T)　根據地(N)　了(T)　。(PERIODCATEGORY)
+　比(P)　所謂(Vt)　的(T)　五(DET)　星(N)　酒店(N)　秀蘭(N)　飯店(N)　要(ADV)　好(Vi)　。(PERIODCATEGORY)
