@@ -3,7 +3,7 @@ viewed = false
 (1..1500).each do |i|
 	File.open("../data/output1/#{i}.txt").each do |l|
 		l.split(/[[:space:]]/).each do |t|
-			if /(ADV)/.match(t)
+			if /(Vi)/.match(t)
 				term = t.split("(")[0]
 				# TF
 				if opinion.has_key?(term)
@@ -19,7 +19,7 @@ end
 (2001..3500).each do |i|
 	File.open("../data/output1/#{i}.txt").each do |l|
 		l.split(/[[:space:]]/).each do |t|
-			if /(ADV)/.match(t)
+			if /(Vi)/.match(t)
 				term = t.split("(")[0]
 				# TF
 				if opinion.has_key?(term)
@@ -33,7 +33,7 @@ end
 end
 opinion = opinion.sort_by {|k, v| v["P"] + v["N"]}.reverse
 
-f = File.open("../data/opinion_ADV.txt","w")
+f = File.open("../data/04_opinion_Vi.txt","w")
 opinion.each do |k,v|
 	f << "#{k} #{v["P"]} #{v["N"]}\n"
 end
