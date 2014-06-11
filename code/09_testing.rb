@@ -27,8 +27,8 @@ def load_opinion_dict(path)
 	return hash
 end
 
-synonymy_dict = load_synonymy_dict("../data/dict/synonymy.dict.txt")
-opinion2_dict = load_opinion_dict("../data/dict/opinion2.dict.txt")
+synonymy_dict = load_synonymy_dict("../data/dict/synonymy.dict.renew2.txt")
+opinion2_dict = load_opinion_dict("../data/dict/opinion2.dict.renew2.txt")
 
 fresult = File.open("../data/hotel_test_21.out", "w")
 
@@ -48,13 +48,15 @@ fresult = File.open("../data/hotel_test_21.out", "w")
 
 			synonymys.each do |synonymy|
 				next if !ckips.include?("#{synonymy}(N)")
-
+				
 				opinion2_dict["P"].each do |opinion|
+					# puts "P #{synonymy}(#{aspect})___#{opinion}" if /#{synonymy}(.*)#{opinion}/.match(comment)
 					value += 1 if /#{synonymy}(.*)#{opinion}/.match(comment)
 					value += 1 if /#{opinion}(.*)#{synonymy}/.match(comment)
 				end
 				opinion2_dict["N"].each do |opinion|
-					# puts "#{synonymy}(.*)#{opinion}" if /#{opinion}(.*)#{synonymy}/.match(comment)
+					# puts "N #{synonymy}___#{opinion}" if /#{opinion}(.*)#{synonymy}/.match(comment)
+					# puts "N #{synonymy}___#{opinion}" if /#{synonymy}(.*)#{opinion}/.match(comment)
 					value -=1 if /#{synonymy}(.*)#{opinion}/.match(comment)
 					value -=1 if /#{opinion}(.*)#{synonymy}/.match(comment)
 				end				
@@ -67,7 +69,7 @@ fresult = File.open("../data/hotel_test_21.out", "w")
 			end
 		end
 	end
-	# p aspect_result
+	# p "aspect_result = #{aspect_result}"
 	# # output result
 	po = aspect_result.select{|h,v| v > 0 }
 	ne = aspect_result.select{|h,v| v < 0 }
